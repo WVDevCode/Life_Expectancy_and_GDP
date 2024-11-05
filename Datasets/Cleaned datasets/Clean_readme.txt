@@ -77,5 +77,7 @@ country_data.csv:
 
     5.  Visualization Projects: Perfect for creating compelling visualizations that illustrate relationships between different metrics, aiding in public understanding and engagement.
 
-    By leveraging this dataset, users can uncover insights into how different factors influence a country's development, making it a valuable resource for diverse applications across 
-    various fields.
+    6.  By leveraging this dataset, users can uncover insights into how different factors influence a country's development, making it a valuable resource for diverse applications across 
+        various fields.
+
+    The author of this dataset is Arslaan Siddiqui.

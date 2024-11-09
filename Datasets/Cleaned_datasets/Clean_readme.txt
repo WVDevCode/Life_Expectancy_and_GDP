@@ -24,6 +24,32 @@ Life_Expectancy_Data.csv:
     The final merged file(final dataset) consists of 22 Columns and 2938 rows which meant 20 predicting variables. All predicting variables was then divided into several broad 
     categories:​Immunization related factors, Mortality factors, Economical factors and Social factors.
 
+    Key Features:
+
+    1.  Country - Country of interest
+    2.  Year - Recorded year
+    3.  Status - Developed or developing status
+    4.  Life expectancy - Life expectancy in age
+    5.  Adult Mortality - Adult Mortality Rates of both sexes (probability of dying between 15 and 60 years per 1000 population)
+    6.  Infant deaths - Number of Infant Deaths per 1000 population
+    7.  Alcohol - Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)
+    8.  percentage expenditure - Expenditure on health as a percentage of Gross Domestic Product per capita(%)
+    9.  Hepatitis B - Hepatitis B (HepB) immunization coverage among 1-year-olds (%)
+    10. Measles - Measles - number of reported cases per 1000 population
+    11. BMI - Average Body Mass Index of entire population
+    12. under five deaths - Number of under-five deaths per 1000 population
+    13. Polio - Polio (Pol3) immunization coverage among 1-year-olds (%)
+    14. Total expenditure - General government expenditure on health as a percentage of total government expenditure (%)
+    15. Diphtheria - Diphtheria tetanus toxoid and pertussis (DTP3) immunization coverage among 1-year-olds (%)
+    16. HIV/AIDS - Deaths per 1 000 live births HIV/AIDS (0-4 years)
+    17. GDP - Gross Domestic Product per capita (in USD)
+    18. Population - Population of the country
+    19. thinness 1-19 years - Prevalence of thinness among children and adolescents for Age 10 to 19 (% )
+    20. thinness 5-9 years - Prevalence of thinness among children for Age 5 to 9(%)
+    21. Income composition of resources - Human Development Index in terms of income composition of resources (index ranging from 0 to 1)
+    22. Schooling - Number of years of Schooling(years)
+
+
     Acknowledgements:
 
     The data was collected from WHO and United Nations website with the help of Deeksha Russell and Duan Wang.
@@ -67,17 +93,14 @@ country_data.csv:
 
     1.  Research and Analysis: Ideal for researchers studying the correlation between economic performance and social indicators. This dataset can help identify trends and 
         patterns relevant to global development.
-
     2.  Policy Development: Policymakers can utilize this data to inform decisions on education, healthcare, and environmental policies, aiming to improve national outcomes.
-
     3.  Machine Learning and Data Science: Data scientists can apply machine learning techniques to predict economic trends, analyze social impacts, or classify countries based on 
         various indicators.
-
     4.  Educational Purposes: Suitable for students and educators in fields like economics, sociology, and environmental science for practical data analysis exercises.
-
     5.  Visualization Projects: Perfect for creating compelling visualizations that illustrate relationships between different metrics, aiding in public understanding and engagement.
-
     6.  By leveraging this dataset, users can uncover insights into how different factors influence a country's development, making it a valuable resource for diverse applications across 
         various fields.
+
+    Acknowledgements:
 
     The author of this dataset is Arslaan Siddiqui.

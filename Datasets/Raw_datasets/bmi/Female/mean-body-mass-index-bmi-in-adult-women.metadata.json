@@ -1,0 +1,31 @@
+{
+  "chart": {
+    "title": "Mean body mass index (BMI) in women",
+    "subtitle": "Body mass index (BMI) is measured as a person's weight in kilograms (kg) divided by her height (in meters), squared. The WHO define a BMI <=18.5 as 'underweight'; 18.5 to <25 as 'normal/healthy'; 25.0 to <30 as 'overweight'; and >30.0 as 'obese'.",
+    "citation": "NCD Risk Factor Collaboration (NCD-RisC)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/mean-body-mass-index-bmi-in-adult-women?tab=table&time=2000..2015&v=1&csvType=filtered&useColumnShortNames=false",
+    "selection": [
+      "Ghana",
+      "United States",
+      "China",
+      "Canada",
+      "Ecuador",
+      "Mexico",
+      "India"
+    ]
+  },
+  "columns": {
+    "Mean BMI (female)": {
+      "titleShort": "Mean BMI in women",
+      "titleLong": "Mean BMI in women",
+      "unit": "",
+      "timespan": "",
+      "type": "Numeric",
+      "owidVariableId": 105712,
+      "citationShort": " – processed by Our World in Data",
+      "citationLong": " – processed by Our World in Data. “Mean BMI in women” [dataset]. NCD RisC (2017) [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/105712.metadata.json"
+    }
+  },
+  "dateDownloaded": "2024-11-15"
+}

@@ -1,0 +1,30 @@
+{
+  "chart": {
+    "title": "Mean body mass index (BMI) in men",
+    "subtitle": "Body mass index (BMI) is measured as a person's weight in kilograms (kg) divided by his height (in meters), squared. The WHO define a BMI <=18.5 as 'underweight'; 18.5 to <25 as 'normal/healthy'; 25.0 to <30as 'overweight'; and >30.0 as 'obese'.",
+    "citation": "NCD Risk Factor Collaboration (NCD-RisC)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/mean-body-mass-index-bmi-in-adult-males?tab=table&time=2000..2015&v=1&csvType=filtered&useColumnShortNames=false",
+    "selection": [
+      "United Kingdom",
+      "United States",
+      "India",
+      "China",
+      "Brazil",
+      "Chad"
+    ]
+  },
+  "columns": {
+    "Mean BMI (male)": {
+      "titleShort": "Mean BMI in men",
+      "titleLong": "Mean BMI in men",
+      "unit": "",
+      "timespan": "",
+      "type": "Numeric",
+      "owidVariableId": 105711,
+      "citationShort": " – processed by Our World in Data",
+      "citationLong": " – processed by Our World in Data. “Mean BMI in men” [dataset]. NCD RisC (2017) [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/105711.metadata.json"
+    }
+  },
+  "dateDownloaded": "2024-11-15"
+}

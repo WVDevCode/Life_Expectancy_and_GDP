@@ -1,17 +1,17 @@
-,year,mean,max,max_country,minimum,min_country,median
-0,2000,52.21,63.26,Tajikistan,44.52,Malawi,50.54
-1,2001,52.9,64.06,Tajikistan,45.39,Central African Republic,51.06
-2,2002,53.59,64.85,Tajikistan,45.41,Central African Republic,51.4
-3,2003,54.33,65.55,Tajikistan,45.76,Central African Republic,52.71
-4,2004,55.21,66.03,Tajikistan,46.04,Central African Republic,53.39
-5,2005,55.94,66.51,Tajikistan,46.43,Central African Republic,54.0
-6,2006,56.68,67.01,Tajikistan,46.85,Central African Republic,54.88
-7,2007,57.35,67.22,Tajikistan,47.43,Central African Republic,55.99
-8,2008,57.68,67.69,Tajikistan,48.02,Central African Republic,56.51
-9,2009,58.65,68.04,Tajikistan,48.65,Central African Republic,58.1
-10,2010,59.13,67.74,Tajikistan,49.26,Central African Republic,58.9
-11,2011,59.78,68.42,Cambodia,49.95,Central African Republic,59.3
-12,2012,60.34,68.92,Cambodia,50.54,Chad,59.78
-13,2013,60.84,69.3,Cambodia,50.78,Chad,60.09
-14,2014,61.19,69.74,Cambodia,50.57,Central African Republic,60.84
-15,2015,61.61,69.87,Cambodia,51.59,Chad,61.24
+,year,mean,max,minimum,min_country,median
+0,2000,52.21,63.26,44.52,Malawi,50.54
+1,2001,52.9,64.06,45.39,Central African Republic,51.06
+2,2002,53.59,64.85,45.41,Central African Republic,51.4
+3,2003,54.33,65.55,45.76,Central African Republic,52.71
+4,2004,55.21,66.03,46.04,Central African Republic,53.39
+5,2005,55.94,66.51,46.43,Central African Republic,54.0
+6,2006,56.68,67.01,46.85,Central African Republic,54.88
+7,2007,57.35,67.22,47.43,Central African Republic,55.99
+8,2008,57.68,67.69,48.02,Central African Republic,56.51
+9,2009,58.65,68.04,48.65,Central African Republic,58.1
+10,2010,59.13,67.74,49.26,Central African Republic,58.9
+11,2011,59.78,68.42,49.95,Central African Republic,59.3
+12,2012,60.34,68.92,50.54,Chad,59.78
+13,2013,60.84,69.3,50.78,Chad,60.09
+14,2014,61.19,69.74,50.57,Central African Republic,60.84
+15,2015,61.61,69.87,51.59,Chad,61.24

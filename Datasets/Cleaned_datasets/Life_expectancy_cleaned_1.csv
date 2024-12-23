@@ -13,8 +13,8 @@
 11,Afghanistan,2004,57.94,345.7,56.1,50.8,21.71,22.7,9.81,3.6,7.91,23553551,221.83,Asian region,South Asia
 12,Afghanistan,2003,57.34,353.4,57.4,52.4,21.63,22.57,8.94,5.46,7.92,22645130,199.64,Asian region,South Asia
 13,Afghanistan,2002,56.45,367.5,58.6,60.3,21.54,22.44,9.44,1.21,7.94,21000256,182.17,Asian region,South Asia
-14,Afghanistan,2001,55.8,380.3,59.7,68.7,21.46,22.3,,,7.96,19688632,142.9,Asian region,South Asia
-15,Afghanistan,2000,55.3,378.2,60.8,66.4,21.37,22.17,,,7.96,19542982,180.19,Asian region,South Asia
+14,Afghanistan,2001,55.8,380.3,59.7,68.7,21.46,22.3,9.89,,7.96,19688632,142.9,Asian region,South Asia
+15,Afghanistan,2000,55.3,378.2,60.8,66.4,21.37,22.17,9.88,,7.96,19542982,180.19,Asian region,South Asia
 16,Albania,2015,78.64,71.25,5.8,3.4,27.06,26.43,6.46,8.8,17.19,2880703,3952.8,European region,Southern Europe
 17,Albania,2014,78.41,75.88,5.8,4.1,26.95,26.35,6.43,8.17,18.06,2889104,4578.63,European region,Southern Europe
 18,Albania,2013,78.12,77.48,5.7,4.5,26.84,26.27,6.28,8.83,15.87,2895092,4413.06,European region,Southern Europe
@@ -1196,9 +1196,9 @@
 1194,Iraq,2005,64.84,203.3,22.8,17.0,26.69,28.63,3.02,3.2,8.6,28698684,1744.51,Asian region,Western Asia (Middle East)
 1195,Iraq,2004,65.03,194.7,23.2,17.9,26.6,28.53,3.9,2.98,8.74,27858948,1314.97,Asian region,Western Asia (Middle East)
 1196,Iraq,2003,65.64,195.8,23.5,17.8,26.51,28.43,3.0,3.13,8.96,27068823,809.85,Asian region,Western Asia (Middle East)
-1197,Iraq,2002,67.08,174.8,23.7,18.8,26.42,28.33,,,8.64,26255343,1254.16,Asian region,Western Asia (Middle East)
-1198,Iraq,2001,67.03,177.6,24.0,19.2,26.33,28.22,,,8.29,25425663,1422.83,Asian region,Western Asia (Middle East)
-1199,Iraq,2000,66.82,182.0,24.4,19.7,26.24,28.12,,,8.1,24628858,1963.72,Asian region,Western Asia (Middle East)
+1197,Iraq,2002,67.08,174.8,23.7,18.8,26.42,28.33,3.08,,8.64,26255343,1254.16,Asian region,Western Asia (Middle East)
+1198,Iraq,2001,67.03,177.6,24.0,19.2,26.33,28.22,3.08,,8.29,25425663,1422.83,Asian region,Western Asia (Middle East)
+1199,Iraq,2000,66.82,182.0,24.4,19.7,26.24,28.12,3.07,,8.1,24628858,1963.72,Asian region,Western Asia (Middle East)
 1200,Ireland,2015,81.45,61.09,2.3,1.3,28.04,27.15,7.34,18.12,9.91,4701957,62179.26,European region,Northern Europe
 1201,Ireland,2014,81.35,62.94,2.2,1.5,27.99,27.09,9.51,18.02,11.86,4657740,55752.76,European region,Northern Europe
 1202,Ireland,2013,80.95,64.81,2.3,1.4,27.94,27.03,10.28,17.92,13.74,4623816,51496.96,European region,Northern Europe
@@ -1668,17 +1668,17 @@
 1666,Montenegro,2013,76.49,105.2,3.3,1.9,26.88,26.12,8.47,10.69,19.58,621207,7188.86,European region,Southern Europe
 1667,Montenegro,2012,76.2,107.7,3.6,1.9,26.79,26.06,8.3,11.61,19.81,620601,6586.4,European region,Southern Europe
 1668,Montenegro,2011,75.98,110.3,4.0,2.2,26.7,26.0,7.97,10.73,19.76,620079,7328.79,European region,Southern Europe
-1669,Montenegro,2010,75.99,113.5,4.4,2.3,26.61,25.94,,,19.65,619428,6688.4,European region,Southern Europe
-1670,Montenegro,2009,75.14,116.8,4.9,2.7,26.51,25.88,,,19.09,618294,6727.11,European region,Southern Europe
-1671,Montenegro,2008,75.14,120.2,5.4,3.0,26.42,25.82,,,17.15,616969,7367.75,European region,Southern Europe
-1672,Montenegro,2007,74.34,123.6,5.9,3.1,26.32,25.75,,,19.4,615875,5976.39,European region,Southern Europe
-1673,Montenegro,2006,73.84,127.4,6.3,3.2,26.22,25.68,,,24.84,615025,4425.68,European region,Southern Europe
-1674,Montenegro,2005,73.98,130.6,6.9,3.8,26.12,25.61,,,30.31,614261,3674.62,European region,Southern Europe
-1675,Montenegro,2004,74.56,133.2,7.4,4.0,26.01,25.53,,,30.32,613353,3380.17,European region,Southern Europe
-1676,Montenegro,2003,73.93,134.3,7.8,4.3,25.91,25.45,,,30.32,612267,2789.16,European region,Southern Europe
-1677,Montenegro,2002,73.91,135.8,8.1,4.7,25.8,25.38,,,30.28,609828,2106.64,European region,Southern Europe
-1678,Montenegro,2001,74.07,136.7,8.7,4.9,25.7,25.3,,,30.31,607389,1909.6,European region,Southern Europe
-1679,Montenegro,2000,73.82,138.0,9.0,5.5,25.59,25.22,,,30.25,604950,1627.07,European region,Southern Europe
+1669,Montenegro,2010,75.99,113.5,4.4,2.3,26.61,25.94,7.98,,19.65,619428,6688.4,European region,Southern Europe
+1670,Montenegro,2009,75.14,116.8,4.9,2.7,26.51,25.88,7.83,,19.09,618294,6727.11,European region,Southern Europe
+1671,Montenegro,2008,75.14,120.2,5.4,3.0,26.42,25.82,7.67,,17.15,616969,7367.75,European region,Southern Europe
+1672,Montenegro,2007,74.34,123.6,5.9,3.1,26.32,25.75,7.52,,19.4,615875,5976.39,European region,Southern Europe
+1673,Montenegro,2006,73.84,127.4,6.3,3.2,26.22,25.68,7.35,,24.84,615025,4425.68,European region,Southern Europe
+1674,Montenegro,2005,73.98,130.6,6.9,3.8,26.12,25.61,7.2,,30.31,614261,3674.62,European region,Southern Europe
+1675,Montenegro,2004,74.56,133.2,7.4,4.0,26.01,25.53,7.09,,30.32,613353,3380.17,European region,Southern Europe
+1676,Montenegro,2003,73.93,134.3,7.8,4.3,25.91,25.45,7.03,,30.32,612267,2789.16,European region,Southern Europe
+1677,Montenegro,2002,73.91,135.8,8.1,4.7,25.8,25.38,6.97,,30.28,609828,2106.64,European region,Southern Europe
+1678,Montenegro,2001,74.07,136.7,8.7,4.9,25.7,25.3,6.92,,30.31,607389,1909.6,European region,Southern Europe
+1679,Montenegro,2000,73.82,138.0,9.0,5.5,25.59,25.22,6.86,,30.25,604950,1627.07,European region,Southern Europe
 1680,Morocco,2015,72.92,123.6,15.7,9.5,25.46,26.61,5.1,6.98,9.46,34680458,3139.23,African region,Northern Africa
 1681,Morocco,2014,72.54,125.3,16.6,10.0,25.36,26.53,5.42,6.84,9.7,34248603,3430.53,African region,Northern Africa
 1682,Morocco,2013,72.12,127.0,17.5,10.5,25.25,26.44,5.26,7.65,9.23,33803527,3377.64,African region,Northern Africa
@@ -2508,9 +2508,9 @@
 2506,Timor-Leste,2005,62.33,171.3,29.1,50.8,20.31,20.28,5.28,3.63,3.45,969313,476.9,Asian region,Southeast Asia
 2507,Timor-Leste,2004,61.63,176.5,30.5,55.0,20.24,20.2,4.26,2.25,3.5,945989,465.94,Asian region,Southeast Asia
 2508,Timor-Leste,2003,60.87,178.2,31.8,59.0,20.16,20.12,2.84,1.62,3.41,926721,529.22,Asian region,Southeast Asia
-2509,Timor-Leste,2002,60.15,180.9,33.5,63.2,20.09,20.04,,,3.33,909639,516.09,Asian region,Southeast Asia
-2510,Timor-Leste,2001,59.36,182.1,35.2,67.2,20.02,19.96,,,3.48,893001,534.65,Asian region,Southeast Asia
-2511,Timor-Leste,2000,58.57,184.2,36.7,70.8,19.95,19.89,,,3.6,878360,417.74,Asian region,Southeast Asia
+2509,Timor-Leste,2002,60.15,180.9,33.5,63.2,20.09,20.04,2.83,,3.33,909639,516.09,Asian region,Southeast Asia
+2510,Timor-Leste,2001,59.36,182.1,35.2,67.2,20.02,19.96,2.31,,3.48,893001,534.65,Asian region,Southeast Asia
+2511,Timor-Leste,2000,58.57,184.2,36.7,70.8,19.95,19.89,1.69,,3.6,878360,417.74,Asian region,Southeast Asia
 2512,Togo,2015,59.4,285.6,26.2,49.8,22.55,24.52,4.96,4.04,2.2,7473229,770.14,African region,West Africa
 2513,Togo,2014,58.85,290.3,26.7,51.6,22.51,24.4,5.08,4.56,2.14,7288383,877.19,African region,West Africa
 2514,Togo,2013,58.68,293.6,27.3,54.3,22.48,24.28,4.94,4.69,2.08,7106229,847.39,African region,West Africa
@@ -2805,13 +2805,13 @@
 2803,Zimbabwe,2012,55.63,468.3,27.6,44.2,22.18,25.28,6.92,9.8,5.06,13265331,1290.19,African region,East Africa
 2804,Zimbabwe,2011,53.35,500.1,29.0,50.2,22.15,25.25,8.08,9.12,5.37,13025785,1082.62,African region,East Africa
 2805,Zimbabwe,2010,50.65,543.9,30.0,54.8,22.13,25.22,10.48,15.22,5.46,12839771,937.84,African region,East Africa
-2806,Zimbabwe,2009,48.06,585.7,30.4,58.8,22.1,25.18,,,5.47,12679810,762.3,African region,East Africa
-2807,Zimbabwe,2008,46.72,618.2,30.6,62.2,22.07,25.15,,,5.37,12550347,351.84,African region,East Africa
-2808,Zimbabwe,2007,45.61,644.4,30.5,64.6,22.03,25.11,,,5.0,12450568,425.04,African region,East Africa
-2809,Zimbabwe,2006,45.36,671.1,30.1,66.7,22.0,25.08,,,4.76,12330490,441.5,African region,East Africa
-2810,Zimbabwe,2005,44.77,692.4,29.4,66.2,21.96,25.04,,,4.63,12224753,470.78,African region,East Africa
-2811,Zimbabwe,2004,44.5,707.1,29.1,66.5,21.92,25.01,,,4.39,12160881,477.4,African region,East Africa
-2812,Zimbabwe,2003,43.39,709.9,28.6,66.7,21.88,24.97,,,4.74,12075828,474.3,African region,East Africa
-2813,Zimbabwe,2002,44.56,704.8,28.2,68.7,21.84,24.93,,,5.01,11984644,529.19,African region,East Africa
-2814,Zimbabwe,2001,41.96,693.9,28.0,69.5,21.81,24.9,,,5.31,11910978,569.0,African region,East Africa
-2815,Zimbabwe,2000,44.69,682.6,27.9,70.2,21.77,24.86,,,5.68,11834676,565.28,African region,East Africa
+2806,Zimbabwe,2009,48.06,585.7,30.4,58.8,22.1,25.18,8.76,,5.47,12679810,762.3,African region,East Africa
+2807,Zimbabwe,2008,46.72,618.2,30.6,62.2,22.07,25.15,8.8,,5.37,12550347,351.84,African region,East Africa
+2808,Zimbabwe,2007,45.61,644.4,30.5,64.6,22.03,25.11,8.78,,5.0,12450568,425.04,African region,East Africa
+2809,Zimbabwe,2006,45.36,671.1,30.1,66.7,22.0,25.08,8.69,,4.76,12330490,441.5,African region,East Africa
+2810,Zimbabwe,2005,44.77,692.4,29.4,66.2,21.96,25.04,8.54,,4.63,12224753,470.78,African region,East Africa
+2811,Zimbabwe,2004,44.5,707.1,29.1,66.5,21.92,25.01,8.48,,4.39,12160881,477.4,African region,East Africa
+2812,Zimbabwe,2003,43.39,709.9,28.6,66.7,21.88,24.97,8.37,,4.74,12075828,474.3,African region,East Africa
+2813,Zimbabwe,2002,44.56,704.8,28.2,68.7,21.84,24.93,8.28,,5.01,11984644,529.19,African region,East Africa
+2814,Zimbabwe,2001,41.96,693.9,28.0,69.5,21.81,24.9,8.24,,5.31,11910978,569.0,African region,East Africa
+2815,Zimbabwe,2000,44.69,682.6,27.9,70.2,21.77,24.86,8.22,,5.68,11834676,565.28,African region,East Africa

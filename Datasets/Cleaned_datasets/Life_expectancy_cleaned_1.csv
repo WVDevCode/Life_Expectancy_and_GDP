@@ -1439,10 +1439,10 @@
 1437,Liberia,2002,53.79,317.9,40.4,111.0,23.02,23.44,2.28,4.25,2.21,3060599,302.88,African region,West Africa
 1438,Liberia,2001,52.75,297.3,42.5,138.5,22.97,23.32,2.28,4.25,2.12,2981648,303.86,African region,West Africa
 1439,Liberia,2000,51.36,297.1,44.7,151.7,22.93,23.2,2.88,4.25,2.04,2895224,301.88,African region,West Africa
-1440,Libya,2015,71.7,163.5,7.1,6.4,26.98,29.49,,,19.65,6192235,7867.51,African region,Northern Africa
-1441,Libya,2014,71.51,161.5,7.2,6.6,26.9,29.41,,,19.3,6097764,9408.75,African region,Northern Africa
-1442,Libya,2013,72.34,132.9,7.7,6.7,26.83,29.33,,,19.32,5985221,12589.53,African region,Northern Africa
-1443,Libya,2012,72.25,136.2,7.9,7.0,26.75,29.26,,,19.03,5869870,15765.42,African region,Northern Africa
+1440,Libya,2015,71.7,163.5,7.1,6.4,26.98,29.49,2.71,,19.65,6192235,7867.51,African region,Northern Africa
+1441,Libya,2014,71.51,161.5,7.2,6.6,26.9,29.41,2.77,,19.3,6097764,9408.75,African region,Northern Africa
+1442,Libya,2013,72.34,132.9,7.7,6.7,26.83,29.33,2.84,,19.32,5985221,12589.53,African region,Northern Africa
+1443,Libya,2012,72.25,136.2,7.9,7.0,26.75,29.26,2.9,,19.03,5869870,15765.42,African region,Northern Africa
 1444,Libya,2011,70.07,168.1,8.4,8.9,26.68,29.18,4.02,6.42,19.43,6188132,7784.14,African region,Northern Africa
 1445,Libya,2010,72.37,129.4,8.8,7.5,26.61,29.11,3.28,4.33,19.21,6491988,11611.36,African region,Northern Africa
 1446,Libya,2009,72.36,130.0,9.3,8.2,26.54,29.04,3.58,4.09,19.18,6360191,9560.81,African region,Northern Africa
@@ -2431,9 +2431,9 @@
 2429,Switzerland,2002,80.39,71.54,3.3,2.0,26.0,24.03,9.88,8.84,2.92,7284753,42458.74,European region,Western Europe
 2430,Switzerland,2001,80.18,73.35,3.4,2.2,25.93,24.03,9.46,8.7,2.49,7229854,39638.79,European region,Western Europe
 2431,Switzerland,2000,79.68,76.41,3.5,2.3,25.87,24.03,9.13,7.84,2.66,7184250,38865.02,European region,Western Europe
-2432,Syrian Arab Republic,2015,65.12,310.4,8.8,9.1,27.47,29.39,,,14.29,19205178,857.42,Asian region,Western Asia (Middle East)
-2433,Syrian Arab Republic,2014,63.15,302.9,8.9,9.5,27.37,29.3,,,14.77,20072232,1071.23,Asian region,Western Asia (Middle East)
-2434,Syrian Arab Republic,2013,63.83,218.8,8.8,9.4,27.28,29.21,,,14.48,21495821,993.74,Asian region,Western Asia (Middle East)
+2432,Syrian Arab Republic,2015,65.12,310.4,8.8,9.1,27.47,29.39,2.27,,14.29,19205178,857.42,Asian region,Western Asia (Middle East)
+2433,Syrian Arab Republic,2014,63.15,302.9,8.9,9.5,27.37,29.3,2.45,,14.77,20072232,1071.23,Asian region,Western Asia (Middle East)
+2434,Syrian Arab Republic,2013,63.83,218.8,8.8,9.4,27.28,29.21,2.64,,14.48,21495821,993.74,Asian region,Western Asia (Middle East)
 2435,Syrian Arab Republic,2012,66.77,223.3,8.8,9.5,27.19,29.12,3.05,4.47,13.8,22605577,1910.6,Asian region,Western Asia (Middle East)
 2436,Syrian Arab Republic,2011,73.31,133.4,8.7,7.8,27.09,29.03,2.53,3.74,8.61,22730733,2971.28,Asian region,Western Asia (Middle East)
 2437,Syrian Arab Republic,2010,73.88,108.9,8.7,7.5,27.0,28.94,3.28,5.12,8.61,22337563,2748.32,Asian region,Western Asia (Middle East)

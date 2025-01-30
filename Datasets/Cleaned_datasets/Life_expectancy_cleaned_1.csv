@@ -13,8 +13,8 @@
 11,Afghanistan,2004,57.94,345.7,56.1,50.8,21.71,22.7,9.81,3.6,7.91,23553551,221.83,Asian region,South Asia
 12,Afghanistan,2003,57.34,353.4,57.4,52.4,21.63,22.57,8.94,5.46,7.92,22645130,199.64,Asian region,South Asia
 13,Afghanistan,2002,56.45,367.5,58.6,60.3,21.54,22.44,9.44,1.21,7.94,21000256,182.17,Asian region,South Asia
-14,Afghanistan,2001,55.8,380.3,59.7,68.7,21.46,22.3,9.89,,7.96,19688632,142.9,Asian region,South Asia
-15,Afghanistan,2000,55.3,378.2,60.8,66.4,21.37,22.17,9.88,,7.96,19542982,180.19,Asian region,South Asia
+14,Afghanistan,2001,55.8,380.3,59.7,68.7,21.46,22.3,10.11,2.01,7.96,19688632,142.9,Asian region,South Asia
+15,Afghanistan,2000,55.3,378.2,60.8,66.4,21.37,22.17,10.11,2.01,7.96,19542982,180.19,Asian region,South Asia
 16,Albania,2015,78.64,71.25,5.8,3.4,27.06,26.43,6.46,8.8,17.19,2880703,3952.8,European region,Southern Europe
 17,Albania,2014,78.41,75.88,5.8,4.1,26.95,26.35,6.43,8.17,18.06,2889104,4578.63,European region,Southern Europe
 18,Albania,2013,78.12,77.48,5.7,4.5,26.84,26.27,6.28,8.83,15.87,2895092,4413.06,European region,Southern Europe
@@ -1196,9 +1196,9 @@
 1194,Iraq,2005,64.84,203.3,22.8,17.0,26.69,28.63,3.02,3.2,8.6,28698684,1744.51,Asian region,Western Asia (Middle East)
 1195,Iraq,2004,65.03,194.7,23.2,17.9,26.6,28.53,3.9,2.98,8.74,27858948,1314.97,Asian region,Western Asia (Middle East)
 1196,Iraq,2003,65.64,195.8,23.5,17.8,26.51,28.43,3.0,3.13,8.96,27068823,809.85,Asian region,Western Asia (Middle East)
-1197,Iraq,2002,67.08,174.8,23.7,18.8,26.42,28.33,3.08,,8.64,26255343,1254.16,Asian region,Western Asia (Middle East)
-1198,Iraq,2001,67.03,177.6,24.0,19.2,26.33,28.22,3.08,,8.29,25425663,1422.83,Asian region,Western Asia (Middle East)
-1199,Iraq,2000,66.82,182.0,24.4,19.7,26.24,28.12,3.07,,8.1,24628858,1963.72,Asian region,Western Asia (Middle East)
+1197,Iraq,2002,67.08,174.8,23.7,18.8,26.42,28.33,3.16,2.82,8.64,26255343,1254.16,Asian region,Western Asia (Middle East)
+1198,Iraq,2001,67.03,177.6,24.0,19.2,26.33,28.22,3.16,2.82,8.29,25425663,1422.83,Asian region,Western Asia (Middle East)
+1199,Iraq,2000,66.82,182.0,24.4,19.7,26.24,28.12,3.16,2.82,8.1,24628858,1963.72,Asian region,Western Asia (Middle East)
 1200,Ireland,2015,81.45,61.09,2.3,1.3,28.04,27.15,7.34,18.12,9.91,4701957,62179.26,European region,Northern Europe
 1201,Ireland,2014,81.35,62.94,2.2,1.5,27.99,27.09,9.51,18.02,11.86,4657740,55752.76,European region,Northern Europe
 1202,Ireland,2013,80.95,64.81,2.3,1.4,27.94,27.03,10.28,17.92,13.74,4623816,51496.96,European region,Northern Europe
@@ -1439,10 +1439,10 @@
 1437,Liberia,2002,53.79,317.9,40.4,111.0,23.02,23.44,2.28,4.25,2.21,3060599,302.88,African region,West Africa
 1438,Liberia,2001,52.75,297.3,42.5,138.5,22.97,23.32,2.28,4.25,2.12,2981648,303.86,African region,West Africa
 1439,Liberia,2000,51.36,297.1,44.7,151.7,22.93,23.2,2.88,4.25,2.04,2895224,301.88,African region,West Africa
-1440,Libya,2015,71.7,163.5,7.1,6.4,26.98,29.49,2.71,,19.65,6192235,7867.51,African region,Northern Africa
-1441,Libya,2014,71.51,161.5,7.2,6.6,26.9,29.41,2.77,,19.3,6097764,9408.75,African region,Northern Africa
-1442,Libya,2013,72.34,132.9,7.7,6.7,26.83,29.33,2.84,,19.32,5985221,12589.53,African region,Northern Africa
-1443,Libya,2012,72.25,136.2,7.9,7.0,26.75,29.26,2.9,,19.03,5869870,15765.42,African region,Northern Africa
+1440,Libya,2015,71.7,163.5,7.1,6.4,26.98,29.49,2.71,5.7,19.65,6192235,7867.51,African region,Northern Africa
+1441,Libya,2014,71.51,161.5,7.2,6.6,26.9,29.41,2.77,5.44,19.3,6097764,9408.75,African region,Northern Africa
+1442,Libya,2013,72.34,132.9,7.7,6.7,26.83,29.33,2.84,5.23,19.32,5985221,12589.53,African region,Northern Africa
+1443,Libya,2012,72.25,136.2,7.9,7.0,26.75,29.26,2.9,5.07,19.03,5869870,15765.42,African region,Northern Africa
 1444,Libya,2011,70.07,168.1,8.4,8.9,26.68,29.18,4.02,6.42,19.43,6188132,7784.14,African region,Northern Africa
 1445,Libya,2010,72.37,129.4,8.8,7.5,26.61,29.11,3.28,4.33,19.21,6491988,11611.36,African region,Northern Africa
 1446,Libya,2009,72.36,130.0,9.3,8.2,26.54,29.04,3.58,4.09,19.18,6360191,9560.81,African region,Northern Africa
@@ -1668,17 +1668,17 @@
 1666,Montenegro,2013,76.49,105.2,3.3,1.9,26.88,26.12,8.47,10.69,19.58,621207,7188.86,European region,Southern Europe
 1667,Montenegro,2012,76.2,107.7,3.6,1.9,26.79,26.06,8.3,11.61,19.81,620601,6586.4,European region,Southern Europe
 1668,Montenegro,2011,75.98,110.3,4.0,2.2,26.7,26.0,7.97,10.73,19.76,620079,7328.79,European region,Southern Europe
-1669,Montenegro,2010,75.99,113.5,4.4,2.3,26.61,25.94,7.98,,19.65,619428,6688.4,European region,Southern Europe
-1670,Montenegro,2009,75.14,116.8,4.9,2.7,26.51,25.88,7.83,,19.09,618294,6727.11,European region,Southern Europe
-1671,Montenegro,2008,75.14,120.2,5.4,3.0,26.42,25.82,7.67,,17.15,616969,7367.75,European region,Southern Europe
-1672,Montenegro,2007,74.34,123.6,5.9,3.1,26.32,25.75,7.52,,19.4,615875,5976.39,European region,Southern Europe
-1673,Montenegro,2006,73.84,127.4,6.3,3.2,26.22,25.68,7.35,,24.84,615025,4425.68,European region,Southern Europe
-1674,Montenegro,2005,73.98,130.6,6.9,3.8,26.12,25.61,7.2,,30.31,614261,3674.62,European region,Southern Europe
-1675,Montenegro,2004,74.56,133.2,7.4,4.0,26.01,25.53,7.09,,30.32,613353,3380.17,European region,Southern Europe
-1676,Montenegro,2003,73.93,134.3,7.8,4.3,25.91,25.45,7.03,,30.32,612267,2789.16,European region,Southern Europe
-1677,Montenegro,2002,73.91,135.8,8.1,4.7,25.8,25.38,6.97,,30.28,609828,2106.64,European region,Southern Europe
-1678,Montenegro,2001,74.07,136.7,8.7,4.9,25.7,25.3,6.92,,30.31,607389,1909.6,European region,Southern Europe
-1679,Montenegro,2000,73.82,138.0,9.0,5.5,25.59,25.22,6.86,,30.25,604950,1627.07,European region,Southern Europe
+1669,Montenegro,2010,75.99,113.5,4.4,2.3,26.61,25.94,10.2,10.96,19.65,619428,6688.4,European region,Southern Europe
+1670,Montenegro,2009,75.14,116.8,4.9,2.7,26.51,25.88,10.2,10.96,19.09,618294,6727.11,European region,Southern Europe
+1671,Montenegro,2008,75.14,120.2,5.4,3.0,26.42,25.82,10.2,10.96,17.15,616969,7367.75,European region,Southern Europe
+1672,Montenegro,2007,74.34,123.6,5.9,3.1,26.32,25.75,10.2,10.96,19.4,615875,5976.39,European region,Southern Europe
+1673,Montenegro,2006,73.84,127.4,6.3,3.2,26.22,25.68,10.2,10.96,24.84,615025,4425.68,European region,Southern Europe
+1674,Montenegro,2005,73.98,130.6,6.9,3.8,26.12,25.61,10.2,10.96,30.31,614261,3674.62,European region,Southern Europe
+1675,Montenegro,2004,74.56,133.2,7.4,4.0,26.01,25.53,10.2,10.96,30.32,613353,3380.17,European region,Southern Europe
+1676,Montenegro,2003,73.93,134.3,7.8,4.3,25.91,25.45,10.2,10.96,30.32,612267,2789.16,European region,Southern Europe
+1677,Montenegro,2002,73.91,135.8,8.1,4.7,25.8,25.38,10.2,10.96,30.28,609828,2106.64,European region,Southern Europe
+1678,Montenegro,2001,74.07,136.7,8.7,4.9,25.7,25.3,10.2,10.96,30.31,607389,1909.6,European region,Southern Europe
+1679,Montenegro,2000,73.82,138.0,9.0,5.5,25.59,25.22,10.2,10.96,30.25,604950,1627.07,European region,Southern Europe
 1680,Morocco,2015,72.92,123.6,15.7,9.5,25.46,26.61,5.1,6.98,9.46,34680458,3139.23,African region,Northern Africa
 1681,Morocco,2014,72.54,125.3,16.6,10.0,25.36,26.53,5.42,6.84,9.7,34248603,3430.53,African region,Northern Africa
 1682,Morocco,2013,72.12,127.0,17.5,10.5,25.25,26.44,5.26,7.65,9.23,33803527,3377.64,African region,Northern Africa
@@ -2303,515 +2303,499 @@
 2301,Solomon Islands,2002,67.52,314.2,12.4,16.6,24.55,25.83,10.1,32.32,2.64,450760,768.49,Oceania region,Melanesia
 2302,Solomon Islands,2001,67.36,314.1,12.6,16.6,24.48,25.72,6.61,25.83,2.58,440395,929.87,Oceania region,Melanesia
 2303,Solomon Islands,2000,67.22,314.9,12.9,17.0,24.41,25.61,4.83,21.78,2.4,429978,976.43,Oceania region,Melanesia
-2304,Somalia,2015,54.86,367.0,40.0,108.1,22.5,23.89,,,18.44,13763906,507.48,African region,East Africa
-2305,Somalia,2014,54.28,370.7,40.7,122.0,22.45,23.81,,,18.85,13309235,491.19,African region,East Africa
-2306,Somalia,2013,53.84,375.3,41.3,94.7,22.4,23.73,,,19.0,12852485,454.08,African region,East Africa
-2307,Somalia,2012,53.16,424.0,41.9,108.9,22.35,23.65,,,19.08,12440326,324.89,African region,East Africa
-2308,Somalia,2011,51.3,652.0,42.8,129.5,22.3,23.57,,,19.02,12216837,237.87,African region,East Africa
-2309,Somalia,2010,50.56,422.5,43.4,93.8,22.25,23.49,,,18.97,12026649,223.49,African region,East Africa
-2310,Somalia,2009,51.85,393.4,44.1,100.1,22.2,23.41,,,18.93,11730037,251.37,African region,East Africa
-2311,Somalia,2008,51.12,396.4,44.9,102.5,22.15,23.33,,,18.88,11444870,516.7,African region,East Africa
-2312,Somalia,2007,50.52,400.4,45.2,105.7,22.1,23.25,,,18.83,11118092,488.46,African region,East Africa
-2313,Somalia,2006,50.6,402.9,45.4,103.9,22.04,23.16,,,18.9,10784973,466.09,African region,East Africa
-2314,Somalia,2005,50.66,405.3,45.5,124.2,21.98,23.08,,,18.87,10467292,447.42,African region,East Africa
-2315,Somalia,2004,50.54,415.0,45.2,138.4,21.92,23.0,,,18.85,10117354,381.48,African region,East Africa
-2316,Somalia,2003,50.61,415.0,45.4,151.0,21.86,22.91,,,18.91,9758281,290.7,African region,East Africa
-2317,Somalia,2002,50.73,418.6,45.1,132.6,21.8,22.82,,,18.89,9411103,232.99,African region,East Africa
-2318,Somalia,2001,50.74,421.2,44.8,124.8,21.73,22.73,,,18.88,9070747,248.36,African region,East Africa
-2319,Somalia,2000,50.66,423.2,44.3,128.1,21.66,22.63,,,18.78,8721465,391.31,African region,East Africa
-2320,South Africa,2015,63.95,337.2,11.2,28.8,25.07,29.51,8.05,15.24,22.87,55876504,6204.93,African region,Southern Africa
-2321,South Africa,2014,63.38,347.1,11.5,29.3,25.03,29.43,7.87,14.92,22.61,54729551,6965.14,African region,Southern Africa
-2322,South Africa,2013,62.53,361.4,11.7,31.9,25.0,29.35,8.1,14.34,22.04,53873616,7441.23,African region,Southern Africa
-2323,South Africa,2012,61.85,387.0,12.1,35.0,24.96,29.27,8.0,14.47,21.79,53145033,8173.87,African region,Southern Africa
-2324,South Africa,2011,60.65,420.5,12.6,38.9,24.92,29.18,7.94,14.68,21.42,52443325,8737.04,African region,Southern Africa
-2325,South Africa,2010,58.9,459.0,13.1,46.8,24.88,29.1,7.79,14.14,23.18,51784921,8059.56,African region,Southern Africa
-2326,South Africa,2009,57.45,491.3,13.6,48.1,24.84,29.01,7.65,13.37,20.51,51170779,6444.19,African region,Southern Africa
-2327,South Africa,2008,56.02,513.3,14.3,53.9,24.79,28.92,7.15,13.01,19.51,50565812,6251.88,African region,Southern Africa
-2328,South Africa,2007,54.99,528.2,14.7,59.6,24.73,28.83,6.91,13.51,19.39,49996094,6662.06,African region,Southern Africa
-2329,South Africa,2006,54.28,541.0,15.1,64.9,24.66,28.73,6.88,13.1,19.42,49491756,6139.58,African region,Southern Africa
-2330,South Africa,2005,53.98,541.8,15.6,66.9,24.58,28.63,6.86,10.92,19.56,49017147,5893.19,African region,Southern Africa
-2331,South Africa,2004,54.04,536.7,16.3,67.5,24.51,28.53,6.94,12.03,19.63,48556071,5268.28,African region,Southern Africa
-2332,South Africa,2003,54.33,519.5,16.5,66.8,24.43,28.44,7.04,12.34,19.73,48104048,4095.68,African region,Southern Africa
-2333,South Africa,2002,55.67,487.2,17.0,65.0,24.35,28.34,6.68,10.38,19.66,47661514,2708.42,African region,Southern Africa
-2334,South Africa,2001,57.26,453.7,17.3,62.4,24.28,28.24,7.12,10.62,19.73,47229714,2867.47,African region,Southern Africa
-2335,South Africa,2000,58.47,428.0,17.9,59.6,24.21,28.15,7.34,11.86,19.84,46813266,3241.66,African region,Southern Africa
-2336,Spain,2015,82.83,58.74,1.9,1.5,27.17,25.02,9.12,14.77,22.06,46444832,25754.36,European region,Southern Europe
-2337,Spain,2014,83.23,58.84,1.9,1.4,27.18,25.1,9.08,14.08,24.44,46480882,29513.65,European region,Southern Europe
-2338,Spain,2013,83.08,60.24,2.1,1.4,27.19,25.19,9.06,13.87,26.09,46620045,29077.18,European region,Southern Europe
-2339,Spain,2012,82.43,62.14,2.1,1.5,27.19,25.27,9.15,13.34,24.79,46773055,28322.95,European region,Southern Europe
-2340,Spain,2011,82.48,65.43,2.0,1.7,27.2,25.35,9.17,14.6,21.39,46742697,31677.9,European region,Southern Europe
-2341,Spain,2010,81.63,66.68,2.1,1.8,27.19,25.43,9.12,14.75,19.86,46576897,30532.48,European region,Southern Europe
-2342,Spain,2009,81.48,68.63,2.0,2.0,27.18,25.5,9.11,14.79,17.86,46362946,32169.5,European region,Southern Europe
-2343,Spain,2008,81.18,72.04,2.1,2.2,27.16,25.56,8.38,14.82,11.26,45954106,35510.72,European region,Southern Europe
-2344,Spain,2007,80.87,74.04,2.2,2.0,27.13,25.61,7.92,14.59,8.23,45226803,32591.35,European region,Southern Europe
-2345,Spain,2006,80.82,75.17,2.4,2.1,27.08,25.66,7.83,14.69,8.45,44397319,28389.08,European region,Southern Europe
-2346,Spain,2005,80.17,77.86,2.5,2.3,27.03,25.7,7.73,14.38,9.15,43653155,26429.15,European region,Southern Europe
-2347,Spain,2004,79.87,79.86,2.5,2.2,26.97,25.74,7.66,14.07,11.09,42921895,24907.0,European region,Southern Europe
-2348,Spain,2003,79.62,83.08,2.6,2.1,26.9,25.77,7.56,14.01,11.28,42187645,21510.84,European region,Southern Europe
-2349,Spain,2002,79.57,82.9,2.6,2.4,26.83,25.79,6.8,12.67,11.15,41431558,17106.69,European region,Southern Europe
-2350,Spain,2001,79.37,84.27,2.6,2.4,26.75,25.8,6.77,12.68,10.35,40850412,15369.0,European region,Southern Europe
-2351,Spain,2000,78.97,86.13,2.7,2.5,26.67,25.81,6.8,12.57,13.78,40567864,14749.69,European region,Southern Europe
-2352,Sri Lanka,2015,74.93,103.8,6.3,3.5,22.53,23.71,3.68,8.4,4.52,21336697,3990.35,Asian region,South Asia
-2353,Sri Lanka,2014,74.65,106.1,6.6,3.7,22.42,23.59,3.47,9.03,4.16,21239457,3885.62,Asian region,South Asia
-2354,Sri Lanka,2013,74.24,110.7,6.6,4.1,22.31,23.47,3.69,10.1,4.19,21131756,3643.83,Asian region,South Asia
-2355,Sri Lanka,2012,73.91,114.0,6.4,4.4,22.21,23.35,3.31,8.06,3.88,21017147,3351.89,Asian region,South Asia
-2356,Sri Lanka,2011,73.38,123.5,6.3,5.1,22.11,23.23,3.58,7.97,4.12,20859743,3248.04,Asian region,South Asia
-2357,Sri Lanka,2010,73.22,136.7,6.4,5.2,22.0,23.11,3.74,7.83,4.78,20668557,2836.97,Asian region,South Asia
-2358,Sri Lanka,2009,69.19,146.7,6.9,5.1,21.91,23.0,4.06,7.84,5.85,20482477,2053.77,Asian region,South Asia
-2359,Sri Lanka,2008,71.73,149.8,7.2,5.2,21.81,22.89,3.85,8.73,5.22,20285643,2007.03,Asian region,South Asia
-2360,Sri Lanka,2007,72.05,138.3,7.1,5.7,21.72,22.78,3.82,9.33,5.97,20078655,1611.18,Asian region,South Asia
-2361,Sri Lanka,2006,71.97,145.2,7.0,6.4,21.63,22.68,3.85,9.56,6.5,19870706,1423.19,Asian region,South Asia
-2362,Sri Lanka,2005,72.12,146.0,6.6,7.4,21.53,22.58,3.88,10.14,7.67,19673866,1240.52,Asian region,South Asia
-2363,Sri Lanka,2004,67.09,178.5,6.5,22.2,21.44,22.48,4.04,11.05,8.38,19490431,1060.14,Asian region,South Asia
-2364,Sri Lanka,2003,71.37,147.3,6.6,8.6,21.36,22.38,3.65,10.38,8.22,19303180,978.17,Asian region,South Asia
-2365,Sri Lanka,2002,71.12,149.1,7.2,8.2,21.27,22.28,4.04,10.37,8.76,19110707,865.3,Asian region,South Asia
-2366,Sri Lanka,2001,70.79,160.6,8.3,7.5,21.19,22.19,4.06,9.52,7.9,18920275,832.43,Asian region,South Asia
-2367,Sri Lanka,2000,70.36,177.0,9.5,6.7,21.11,22.09,4.11,10.14,7.74,18776371,869.75,Asian region,South Asia
-2368,Sudan,2015,64.66,162.2,30.5,35.3,23.24,26.03,5.81,6.66,14.51,38171178,1355.13,African region,Northern Africa
-2369,Sudan,2014,64.27,163.8,31.1,35.9,23.2,25.94,5.68,10.62,15.56,37003245,1338.17,African region,Northern Africa
-2370,Sudan,2013,63.68,167.0,31.7,39.5,23.15,25.85,6.96,7.52,16.41,35990704,1195.42,African region,Northern Africa
-2371,Sudan,2012,63.79,167.1,32.1,40.5,23.11,25.76,5.69,9.06,17.07,35159792,1070.34,African region,Northern Africa
-2372,Sudan,2011,63.25,173.7,32.4,41.1,23.07,25.67,5.62,7.04,17.44,34419624,1391.43,African region,Northern Africa
-2373,Sudan,2010,63.02,172.7,32.7,42.3,23.02,25.59,5.06,9.49,15.16,33739933,1356.89,African region,Northern Africa
-2374,Sudan,2009,62.64,179.0,33.0,43.6,22.98,25.5,6.39,14.02,13.0,32948155,1223.9,African region,Northern Africa
-2375,Sudan,2008,61.21,179.5,33.2,45.5,22.94,25.41,5.42,8.79,14.8,32065241,1585.58,African region,Northern Africa
-2376,Sudan,2007,61.26,183.9,33.5,47.3,22.89,25.33,5.66,10.47,14.77,31191163,1500.67,African region,Northern Africa
-2377,Sudan,2006,60.28,188.4,33.8,49.4,22.84,25.24,4.89,9.44,14.78,30332968,1179.9,African region,Northern Africa
-2378,Sudan,2005,57.28,191.6,34.2,51.4,22.79,25.15,4.09,8.1,14.79,29540577,945.69,African region,Northern Africa
-2379,Sudan,2004,56.77,209.1,34.7,55.0,22.73,25.06,4.16,9.53,14.79,28831550,737.12,African region,Northern Africa
-2380,Sudan,2003,58.2,204.3,35.4,60.4,22.67,24.96,3.89,10.07,14.77,28188977,607.01,African region,Northern Africa
-2381,Sudan,2002,58.98,207.5,35.8,62.7,22.61,24.87,3.3,10.71,14.77,27570318,529.45,African region,Northern Africa
-2382,Sudan,2001,58.56,206.5,36.6,64.6,22.54,24.77,3.36,11.37,14.82,26947253,471.37,African region,Northern Africa
-2383,Sudan,2000,58.32,210.2,37.1,65.6,22.48,24.66,3.61,11.77,14.87,26298773,378.16,African region,Northern Africa
-2384,Suriname,2015,70.8,170.6,11.0,9.8,25.44,27.84,5.81,10.86,7.22,575475,8907.84,American region,South America
-2385,Suriname,2014,69.78,166.5,11.3,10.2,25.38,27.76,4.52,6.9,6.94,569682,9199.18,American region,South America
-2386,Suriname,2013,69.68,163.9,11.7,10.4,25.32,27.68,4.49,7.03,6.6,563947,9124.54,American region,South America
-2387,Suriname,2012,69.76,163.9,12.0,10.9,25.26,27.6,4.28,6.59,8.1,558111,8922.96,American region,South America
-2388,Suriname,2011,69.91,166.3,12.5,11.2,25.2,27.52,4.41,8.51,7.54,552146,8009.25,American region,South America
-2389,Suriname,2010,69.89,169.9,12.9,11.9,25.14,27.44,4.7,9.47,7.15,546080,7999.51,American region,South America
-2390,Suriname,2009,69.5,170.0,13.3,12.1,25.08,27.36,4.98,9.52,8.72,539987,7176.86,American region,South America
-2391,Suriname,2008,68.82,175.6,13.8,12.5,25.02,27.29,4.75,10.23,8.83,533938,6616.82,American region,South America
-2392,Suriname,2007,68.2,176.3,14.2,13.0,24.95,27.21,5.22,11.44,9.01,527946,5562.33,American region,South America
-2393,Suriname,2006,67.57,178.2,14.7,13.2,24.89,27.13,5.86,12.23,9.1,522023,5031.16,American region,South America
-2394,Suriname,2005,67.0,182.2,15.3,13.9,24.82,27.06,5.24,10.64,9.26,516220,3474.12,American region,South America
-2395,Suriname,2004,66.42,188.4,15.8,14.4,24.75,26.98,5.46,11.68,9.49,510572,2906.73,American region,South America
-2396,Suriname,2003,65.6,192.6,16.3,14.7,24.68,26.89,4.89,11.15,10.35,503780,2529.26,American region,South America
-2397,Suriname,2002,65.53,194.1,16.9,15.3,24.61,26.81,5.33,11.07,11.23,495666,2206.27,American region,South America
-2398,Suriname,2001,65.48,193.8,17.6,15.7,24.54,26.73,3.82,8.52,12.14,487394,1711.71,American region,South America
-2399,Suriname,2000,65.51,192.4,18.3,16.4,24.46,26.64,5.87,11.65,12.98,478998,1978.45,American region,South America
-2400,Sweden,2015,82.2,54.42,1.6,1.2,26.82,25.42,10.8,18.39,7.43,9799186,51545.48,European region,Northern Europe
-2401,Sweden,2014,82.25,54.88,1.7,1.2,26.77,25.38,10.95,18.14,7.95,9696110,60020.36,European region,Northern Europe
-2402,Sweden,2013,81.96,55.87,1.5,1.2,26.73,25.34,10.9,17.74,8.05,9600379,61126.94,European region,Northern Europe
-2403,Sweden,2012,81.7,56.17,1.5,1.4,26.68,25.3,10.74,17.73,7.98,9519374,58037.82,European region,Northern Europe
-2404,Sweden,2011,81.8,57.46,1.6,1.3,26.63,25.26,10.42,17.67,7.8,9449213,60755.76,European region,Northern Europe
-2405,Sweden,2010,81.45,57.75,1.5,1.4,26.58,25.22,8.32,13.6,8.61,9378126,52869.04,European region,Northern Europe
-2406,Sweden,2009,81.35,61.1,1.5,1.5,26.52,25.17,8.77,13.81,8.35,9298515,46946.96,European region,Northern Europe
-2407,Sweden,2008,81.1,62.15,1.5,1.4,26.45,25.13,8.21,13.54,6.24,9219637,56152.55,European region,Northern Europe
-2408,Sweden,2007,80.9,63.13,1.7,1.6,26.38,25.08,8.0,13.38,6.16,9148092,53700.01,European region,Northern Europe
-2409,Sweden,2006,80.75,64.15,1.8,1.4,26.31,25.03,8.05,12.98,7.07,9080505,46593.6,European region,Northern Europe
-2410,Sweden,2005,80.55,65.86,2.0,1.6,26.23,24.98,8.15,12.83,7.49,9029572,43437.06,European region,Northern Europe
-2411,Sweden,2004,80.5,66.63,2.0,1.6,26.15,24.93,8.13,12.81,6.69,8993531,42821.67,European region,Northern Europe
-2412,Sweden,2003,80.1,67.65,2.2,1.6,26.06,24.88,8.32,12.85,5.56,8958229,37321.8,European region,Northern Europe
-2413,Sweden,2002,79.85,69.35,2.1,1.6,25.97,24.83,8.21,12.64,4.96,8924958,29899.2,European region,Northern Europe
-2414,Sweden,2001,79.8,71.65,2.3,1.7,25.87,24.77,7.9,12.36,4.73,8895960,27247.86,European region,Northern Europe
-2415,Sweden,2000,79.64,71.94,2.3,1.8,25.77,24.71,7.33,11.67,5.47,8872109,29624.91,European region,Northern Europe
-2416,Switzerland,2015,82.9,49.46,3.0,1.2,26.79,23.84,10.78,10.73,4.8,8282396,83806.45,European region,Western Europe
-2417,Switzerland,2014,83.2,50.05,3.0,1.2,26.74,23.86,10.43,10.65,4.83,8188649,88724.99,European region,Western Europe
-2418,Switzerland,2013,82.8,52.78,3.0,1.1,26.69,23.88,10.38,10.44,4.75,8089346,87304.33,European region,Western Europe
-2419,Switzerland,2012,82.7,53.51,3.0,1.3,26.65,23.9,10.14,11.0,4.49,7996861,85836.21,European region,Western Europe
-2420,Switzerland,2011,82.7,54.21,3.0,1.3,26.6,23.92,10.05,10.73,4.41,7912398,90476.76,European region,Western Europe
-2421,Switzerland,2010,82.25,56.75,3.1,1.3,26.54,23.93,9.93,10.39,4.81,7824909,76531.37,European region,Western Europe
-2422,Switzerland,2009,82.04,59.09,3.1,1.4,26.48,23.95,10.14,9.97,4.11,7743831,71568.31,European region,Western Europe
-2423,Switzerland,2008,81.99,59.2,3.1,1.5,26.42,23.97,9.53,9.78,3.35,7647675,74175.19,European region,Western Europe
-2424,Switzerland,2007,81.74,61.97,3.2,1.5,26.35,23.98,9.42,9.56,3.64,7551117,64989.16,European region,Western Europe
-2425,Switzerland,2006,81.49,63.65,3.1,1.6,26.28,23.99,9.58,9.34,4.0,7483934,59011.03,European region,Western Europe
-2426,Switzerland,2005,81.24,64.61,3.1,1.8,26.21,24.0,10.06,9.39,4.44,7437115,56242.89,European region,Western Europe
-2427,Switzerland,2004,81.09,67.11,3.2,1.8,26.14,24.01,10.23,9.31,4.32,7389625,54659.46,European region,Western Europe
-2428,Switzerland,2003,80.54,70.37,3.2,2.0,26.07,24.02,10.14,9.31,4.12,7339001,49335.75,European region,Western Europe
-2429,Switzerland,2002,80.39,71.54,3.3,2.0,26.0,24.03,9.88,8.84,2.92,7284753,42458.74,European region,Western Europe
-2430,Switzerland,2001,80.18,73.35,3.4,2.2,25.93,24.03,9.46,8.7,2.49,7229854,39638.79,European region,Western Europe
-2431,Switzerland,2000,79.68,76.41,3.5,2.3,25.87,24.03,9.13,7.84,2.66,7184250,38865.02,European region,Western Europe
-2432,Syrian Arab Republic,2015,65.12,310.4,8.8,9.1,27.47,29.39,2.27,,14.29,19205178,857.42,Asian region,Western Asia (Middle East)
-2433,Syrian Arab Republic,2014,63.15,302.9,8.9,9.5,27.37,29.3,2.45,,14.77,20072232,1071.23,Asian region,Western Asia (Middle East)
-2434,Syrian Arab Republic,2013,63.83,218.8,8.8,9.4,27.28,29.21,2.64,,14.48,21495821,993.74,Asian region,Western Asia (Middle East)
-2435,Syrian Arab Republic,2012,66.77,223.3,8.8,9.5,27.19,29.12,3.05,4.47,13.8,22605577,1910.6,Asian region,Western Asia (Middle East)
-2436,Syrian Arab Republic,2011,73.31,133.4,8.7,7.8,27.09,29.03,2.53,3.74,8.61,22730733,2971.28,Asian region,Western Asia (Middle East)
-2437,Syrian Arab Republic,2010,73.88,108.9,8.7,7.5,27.0,28.94,3.28,5.12,8.61,22337563,2748.32,Asian region,Western Asia (Middle East)
-2438,Syrian Arab Republic,2009,73.85,110.2,8.7,7.5,26.91,28.85,3.55,5.95,8.14,21827220,2479.09,Asian region,Western Asia (Middle East)
-2439,Syrian Arab Republic,2008,73.55,113.5,9.0,7.6,26.82,28.76,3.4,6.84,10.94,21474059,2447.51,Asian region,Western Asia (Middle East)
-2440,Syrian Arab Republic,2007,73.71,114.4,9.5,7.7,26.74,28.67,3.72,6.85,8.42,20703005,1954.56,Asian region,Western Asia (Middle East)
-2441,Syrian Arab Republic,2006,73.35,119.2,9.8,8.0,26.65,28.59,3.78,6.74,8.17,19432009,1736.92,Asian region,Western Asia (Middle East)
-2442,Syrian Arab Republic,2005,72.77,120.8,10.2,8.3,26.57,28.5,4.11,7.34,8.82,18583557,1552.93,Asian region,Western Asia (Middle East)
-2443,Syrian Arab Republic,2004,72.47,125.2,10.6,8.7,26.49,28.41,4.48,6.82,9.52,18084007,1387.25,Asian region,Western Asia (Middle East)
-2444,Syrian Arab Republic,2003,72.41,125.7,11.0,9.3,26.41,28.32,5.12,7.51,10.28,17611356,1239.44,Asian region,Western Asia (Middle East)
-2445,Syrian Arab Republic,2002,71.94,131.9,11.5,9.7,26.33,28.23,4.95,7.21,10.94,17164021,1204.23,Asian region,Western Asia (Middle East)
-2446,Syrian Arab Republic,2001,71.64,134.5,11.9,10.3,26.24,28.13,4.7,6.65,11.63,16727948,1209.77,Asian region,Western Asia (Middle East)
-2447,Syrian Arab Republic,2000,70.76,143.7,12.2,10.5,26.15,28.03,4.55,5.65,9.59,16307654,1161.24,Asian region,Western Asia (Middle East)
-2448,Tajikistan,2015,69.31,121.3,15.9,19.6,25.89,26.33,6.91,6.41,7.55,8524063,970.36,Asian region,Central Asia
-2449,Tajikistan,2014,69.07,124.1,16.5,19.7,25.77,26.16,6.67,7.54,8.21,8326348,1094.43,Asian region,Central Asia
-2450,Tajikistan,2013,68.89,125.9,17.2,20.1,25.65,25.99,6.53,6.83,8.86,8136610,1038.32,Asian region,Central Asia
-2451,Tajikistan,2012,68.48,130.4,17.9,20.5,25.53,25.82,5.98,6.55,9.52,7956382,959.36,Asian region,Central Asia
-2452,Tajikistan,2011,68.15,134.5,18.9,21.2,25.42,25.66,5.86,5.43,10.19,7784819,837.88,Asian region,Central Asia
-2453,Tajikistan,2010,67.74,138.4,19.9,21.8,25.3,25.5,5.74,4.52,10.84,7621779,740.28,Asian region,Central Asia
-2454,Tajikistan,2009,68.04,141.2,20.3,22.9,25.19,25.34,5.86,4.57,11.5,7468596,666.72,Asian region,Central Asia
-2455,Tajikistan,2008,67.69,144.0,21.1,24.6,25.08,25.19,5.91,6.74,11.87,7324627,704.65,Asian region,Central Asia
-2456,Tajikistan,2007,67.22,148.0,21.8,26.9,24.97,25.04,5.54,5.33,12.25,7188391,517.43,Asian region,Central Asia
-2457,Tajikistan,2006,67.01,151.1,22.5,29.5,24.87,24.89,5.03,4.27,12.63,7057417,401.03,Asian region,Central Asia
-2458,Tajikistan,2005,66.51,154.1,23.2,32.9,24.77,24.75,5.21,4.3,13.0,6929145,333.71,Asian region,Central Asia
-2459,Tajikistan,2004,66.03,153.5,24.1,37.2,24.68,24.62,4.8,4.41,13.36,6801204,305.27,Asian region,Central Asia
-2460,Tajikistan,2003,65.55,157.2,25.1,41.9,24.59,24.48,4.7,4.03,13.75,6672492,233.09,Asian region,Central Asia
-2461,Tajikistan,2002,64.85,163.9,26.2,47.4,24.5,24.36,4.44,4.21,14.15,6541755,186.66,Asian region,Central Asia
-2462,Tajikistan,2001,64.06,170.4,27.3,53.2,24.43,24.23,4.58,4.76,14.57,6408810,168.64,Asian region,Central Asia
-2463,Tajikistan,2000,63.26,176.1,28.2,59.2,24.35,24.11,4.26,4.62,14.97,6272998,137.18,Asian region,Central Asia
-2464,Thailand,2015,77.72,141.4,5.8,4.8,23.89,25.01,3.85,12.53,0.6,70294397,5708.79,Asian region,Southeast Asia
-2465,Thailand,2014,77.42,142.3,6.1,4.9,23.77,24.91,3.68,12.66,0.58,69960943,5822.38,Asian region,Southeast Asia
-2466,Thailand,2013,77.08,142.7,6.3,5.2,23.66,24.81,3.45,12.16,0.25,69578602,6041.13,Asian region,Southeast Asia
-2467,Thailand,2012,76.77,144.6,6.7,5.5,23.54,24.71,3.52,12.64,0.58,69157023,5748.63,Asian region,Southeast Asia
-2468,Thailand,2011,76.42,146.7,7.0,5.7,23.43,24.6,3.57,12.84,0.66,68712846,5396.64,Asian region,Southeast Asia
-2469,Thailand,2010,76.13,149.1,7.4,5.8,23.32,24.5,3.39,11.56,0.62,68270489,4996.37,Asian region,Southeast Asia
-2470,Thailand,2009,75.84,150.8,7.8,6.2,23.21,24.39,3.62,12.46,1.49,67813654,4154.19,Asian region,Southeast Asia
-2471,Thailand,2008,75.49,157.4,8.1,6.6,23.1,24.29,3.46,13.5,1.18,67328239,4327.8,Asian region,Southeast Asia
-2472,Thailand,2007,75.19,163.8,8.5,6.9,22.99,24.19,3.19,12.38,1.18,66826754,3934.69,Asian region,Southeast Asia
-2473,Thailand,2006,74.94,170.2,9.0,7.5,22.89,24.09,3.1,12.12,1.22,66319525,3343.79,Asian region,Southeast Asia
-2474,Thailand,2005,73.82,177.8,9.5,7.9,22.79,24.0,3.16,10.5,1.35,65821360,2876.25,Asian region,Southeast Asia
-2475,Thailand,2004,73.08,188.8,9.8,8.4,22.69,23.91,3.14,10.71,1.51,65311166,2647.26,Asian region,Southeast Asia
-2476,Thailand,2003,73.16,191.3,10.3,8.7,22.6,23.82,3.24,11.46,1.54,64776956,2350.85,Asian region,Southeast Asia
-2477,Thailand,2002,72.93,195.9,10.8,9.0,22.5,23.73,3.33,8.72,1.82,64222580,2091.18,Asian region,Southeast Asia
-2478,Thailand,2001,72.61,195.3,11.5,9.7,22.42,23.65,3.03,8.38,2.6,63649892,1889.97,Asian region,Southeast Asia
-2479,Thailand,2000,72.32,203.9,12.0,10.3,22.33,23.57,3.1,9.25,2.39,63066603,2004.11,Asian region,Southeast Asia
-2480,The former Yugoslav republic of Macedonia,2015,75.4,96.12,9.1,3.0,27.37,26.34,6.34,12.78,26.4,1912430,5262.69,European region,Southern Europe
-2481,The former Yugoslav republic of Macedonia,2014,75.45,97.57,8.2,3.1,27.27,26.28,6.29,12.67,28.22,1917557,5925.39,European region,Southern Europe
-2482,The former Yugoslav republic of Macedonia,2013,75.4,98.06,7.5,3.3,27.17,26.21,6.72,13.93,29.02,1922716,5626.26,European region,Southern Europe
-2483,The former Yugoslav republic of Macedonia,2012,74.9,101.9,7.0,3.3,27.07,26.15,6.61,12.43,31.1,1929821,5049.83,European region,Southern Europe
-2484,The former Yugoslav republic of Macedonia,2011,75.1,101.7,6.9,3.4,26.98,26.09,6.52,12.74,31.5,1937398,5416.87,European region,Southern Europe
-2485,The former Yugoslav republic of Macedonia,2010,75.0,106.0,6.9,3.5,26.89,26.04,6.71,12.51,33.14,1946298,4833.37,European region,Southern Europe
-2486,The former Yugoslav republic of Macedonia,2009,74.45,108.7,7.2,3.7,26.8,25.98,6.53,12.19,32.35,1958782,4799.79,European region,Southern Europe
-2487,The former Yugoslav republic of Macedonia,2008,74.4,108.3,7.6,3.8,26.71,25.92,6.55,12.54,33.93,1971493,5026.42,European region,Southern Europe
-2488,The former Yugoslav republic of Macedonia,2007,73.8,116.2,8.3,4.1,26.62,25.87,6.57,12.85,35.23,1982933,4204.11,European region,Southern Europe
-2489,The former Yugoslav republic of Macedonia,2006,73.9,117.4,8.7,4.6,26.53,25.81,7.38,13.4,36.39,1994287,3440.44,European region,Southern Europe
-2490,The former Yugoslav republic of Macedonia,2005,73.7,115.5,8.9,5.1,26.45,25.76,7.68,13.47,37.32,2005330,3120.98,European region,Southern Europe
-2491,The former Yugoslav republic of Macedonia,2004,73.6,116.4,8.9,5.3,26.36,25.72,8.47,13.83,37.16,2016186,2818.58,European region,Southern Europe
-2492,The former Yugoslav republic of Macedonia,2003,73.24,123.1,8.5,6.0,26.28,25.67,9.01,13.76,36.69,2022725,2445.36,European region,Southern Europe
-2493,The former Yugoslav republic of Macedonia,2002,73.04,125.9,8.4,6.3,26.2,25.63,8.98,12.39,31.94,2020157,1989.14,European region,Southern Europe
-2494,The former Yugoslav republic of Macedonia,2001,73.44,125.6,8.7,6.7,26.12,25.59,8.38,12.2,30.52,2034882,1823.02,European region,Southern Europe
-2495,The former Yugoslav republic of Macedonia,2000,72.95,121.9,9.2,7.1,26.04,25.55,8.87,14.71,32.2,2026350,1861.9,European region,Southern Europe
-2496,Timor-Leste,2015,67.14,164.1,21.6,28.7,21.25,21.27,7.67,4.51,4.45,1205813,1322.93,Asian region,Southeast Asia
-2497,Timor-Leste,2014,66.79,164.9,22.2,30.2,21.15,21.16,7.6,3.72,4.23,1184830,1221.72,Asian region,Southeast Asia
-2498,Timor-Leste,2013,66.44,164.6,22.7,31.7,21.04,21.05,8.53,4.62,4.01,1161555,1201.6,Asian region,Southeast Asia
-2499,Timor-Leste,2012,66.08,164.1,23.1,33.2,20.94,20.95,6.99,3.21,3.77,1137676,1020.11,Asian region,Southeast Asia
-2500,Timor-Leste,2011,65.7,164.6,23.8,34.7,20.84,20.84,6.87,2.68,3.53,1112976,936.71,Asian region,Southeast Asia
-2501,Timor-Leste,2010,65.3,165.2,24.4,36.3,20.74,20.74,6.47,2.71,3.3,1088486,810.22,Asian region,Southeast Asia
-2502,Timor-Leste,2009,64.85,167.7,25.3,38.4,20.65,20.64,7.31,2.66,3.3,1065540,682.22,Asian region,Southeast Asia
-2503,Timor-Leste,2008,64.33,167.3,25.9,40.9,20.56,20.54,6.97,2.78,3.37,1043076,621.74,Asian region,Southeast Asia
-2504,Timor-Leste,2007,63.72,169.3,26.8,43.5,20.48,20.45,5.65,1.27,3.41,1019362,532.49,Asian region,Southeast Asia
-2505,Timor-Leste,2006,63.07,171.5,27.9,46.9,20.39,20.37,6.0,4.0,3.46,994564,456.27,Asian region,Southeast Asia
-2506,Timor-Leste,2005,62.33,171.3,29.1,50.8,20.31,20.28,5.28,3.63,3.45,969313,476.9,Asian region,Southeast Asia
-2507,Timor-Leste,2004,61.63,176.5,30.5,55.0,20.24,20.2,4.26,2.25,3.5,945989,465.94,Asian region,Southeast Asia
-2508,Timor-Leste,2003,60.87,178.2,31.8,59.0,20.16,20.12,2.84,1.62,3.41,926721,529.22,Asian region,Southeast Asia
-2509,Timor-Leste,2002,60.15,180.9,33.5,63.2,20.09,20.04,2.83,,3.33,909639,516.09,Asian region,Southeast Asia
-2510,Timor-Leste,2001,59.36,182.1,35.2,67.2,20.02,19.96,2.31,,3.48,893001,534.65,Asian region,Southeast Asia
-2511,Timor-Leste,2000,58.57,184.2,36.7,70.8,19.95,19.89,1.69,,3.6,878360,417.74,Asian region,Southeast Asia
-2512,Togo,2015,59.4,285.6,26.2,49.8,22.55,24.52,4.96,4.04,2.2,7473229,770.14,African region,West Africa
-2513,Togo,2014,58.85,290.3,26.7,51.6,22.51,24.4,5.08,4.56,2.14,7288383,877.19,African region,West Africa
-2514,Togo,2013,58.68,293.6,27.3,54.3,22.48,24.28,4.94,4.69,2.08,7106229,847.39,African region,West Africa
-2515,Togo,2012,58.07,298.3,27.6,55.7,22.44,24.15,4.81,6.11,2.03,6926635,781.55,African region,West Africa
-2516,Togo,2011,57.92,306.0,28.1,57.0,22.4,24.03,4.55,5.67,1.98,6748672,803.48,African region,West Africa
-2517,Togo,2010,57.3,317.8,28.7,59.0,22.35,23.9,4.45,7.45,2.38,6571855,722.23,African region,West Africa
-2518,Togo,2009,57.01,330.0,29.5,60.5,22.31,23.77,4.08,4.78,2.85,6398624,737.95,African region,West Africa
-2519,Togo,2008,56.7,338.4,30.4,62.5,22.25,23.63,3.84,4.84,3.29,6222482,735.86,African region,West Africa
-2520,Togo,2007,56.51,339.8,31.2,63.5,22.19,23.5,3.87,4.34,3.82,6047537,621.73,African region,West Africa
-2521,Togo,2006,56.22,339.0,32.0,64.9,22.12,23.35,3.45,3.83,4.23,5874240,565.33,African region,West Africa
-2522,Togo,2005,55.96,347.3,32.6,66.3,22.05,23.21,3.3,3.8,4.15,5711597,564.1,African region,West Africa
-2523,Togo,2004,55.57,348.8,33.3,68.8,21.97,23.06,3.09,4.21,4.0,5565218,573.48,African region,West Africa
-2524,Togo,2003,55.64,352.9,34.0,70.5,21.89,22.9,2.94,4.24,3.96,5421001,551.19,African region,West Africa
-2525,Togo,2002,55.31,349.0,34.8,71.5,21.8,22.74,2.9,4.05,4.08,5281538,456.34,African region,West Africa
-2526,Togo,2001,54.86,344.4,35.5,81.6,21.72,22.58,2.89,2.99,4.1,5145426,406.87,African region,West Africa
-2527,Togo,2000,54.74,338.6,36.1,87.7,21.63,22.42,2.79,2.44,4.15,5008035,420.69,African region,West Africa
-2528,Tonga,2015,70.61,168.9,6.9,10.0,30.68,33.93,4.47,7.38,2.03,106122,4117.93,Oceania region,Polynesia
-2529,Tonga,2014,70.54,170.0,7.2,10.1,30.64,33.86,5.01,9.18,1.92,106626,4125.43,Oceania region,Polynesia
-2530,Tonga,2013,70.5,170.7,7.0,10.4,30.6,33.78,3.98,8.11,1.76,107089,4208.19,Oceania region,Polynesia
-2531,Tonga,2012,70.44,171.4,7.4,10.2,30.56,33.7,4.8,8.69,1.65,107502,4378.57,Oceania region,Polynesia
-2532,Tonga,2011,70.38,172.1,7.2,10.5,30.52,33.63,3.82,8.4,1.61,107611,3852.14,Oceania region,Polynesia
-2533,Tonga,2010,70.32,172.8,7.5,10.1,30.48,33.55,4.82,10.07,1.52,107383,3416.11,Oceania region,Polynesia
-2534,Tonga,2009,70.01,211.8,7.4,9.9,30.45,33.48,3.93,12.72,1.41,107144,2915.49,Oceania region,Polynesia
-2535,Tonga,2008,70.16,173.0,7.4,9.8,30.41,33.4,6.06,12.08,1.25,106932,3221.08,Oceania region,Polynesia
-2536,Tonga,2007,70.05,173.3,6.9,9.7,30.38,33.32,4.73,13.68,1.18,106638,2799.37,Oceania region,Polynesia
-2537,Tonga,2006,69.89,173.4,6.9,9.8,30.35,33.25,5.47,11.16,1.09,106190,2751.96,Oceania region,Polynesia
-2538,Tonga,2005,69.77,174.8,6.9,9.3,30.32,33.17,4.39,13.11,2.57,105633,2478.43,Oceania region,Polynesia
-2539,Tonga,2004,69.67,176.2,6.9,9.6,30.3,33.08,4.51,12.74,3.94,105036,2195.99,Oceania region,Polynesia
-2540,Tonga,2003,69.5,177.2,7.0,9.6,30.27,33.0,3.44,12.09,5.18,104410,1937.04,Oceania region,Polynesia
-2541,Tonga,2002,69.33,178.4,7.6,9.3,30.24,32.9,3.59,12.14,4.84,103804,1760.67,Oceania region,Polynesia
-2542,Tonga,2001,69.13,179.5,7.6,9.5,30.21,32.81,3.43,12.74,4.48,103210,1754.84,Oceania region,Polynesia
-2543,Tonga,2000,68.98,180.6,7.6,9.8,30.18,32.7,2.9,11.41,4.12,102603,1996.52,Oceania region,Polynesia
-2544,Trinidad and Tobago,2015,74.5,152.9,17.6,10.2,26.69,28.75,5.65,8.31,2.43,1460177,18508.77,American region,Caribbean
-2545,Trinidad and Tobago,2014,74.22,152.2,18.2,10.4,26.6,28.62,4.87,7.47,2.48,1450661,20473.4,American region,Caribbean
-2546,Trinidad and Tobago,2013,73.96,150.5,18.6,10.6,26.51,28.49,4.8,7.89,2.68,1440729,19927.4,American region,Caribbean
-2547,Trinidad and Tobago,2012,73.72,146.5,19.1,11.0,26.42,28.36,4.63,7.66,3.72,1430377,19110.05,American region,Caribbean
-2548,Trinidad and Tobago,2011,73.28,152.6,19.6,10.8,26.34,28.24,4.72,8.01,3.42,1420020,17910.32,American region,Caribbean
-2549,Trinidad and Tobago,2010,72.72,159.1,20.1,11.1,26.25,28.11,5.08,8.04,4.03,1410296,15711.56,American region,Caribbean
-2550,Trinidad and Tobago,2009,73.13,165.6,20.5,11.1,26.16,27.99,5.49,7.05,5.28,1401191,13682.76,American region,Caribbean
-2551,Trinidad and Tobago,2008,71.47,174.8,20.8,11.4,26.07,27.86,3.66,6.55,4.63,1392803,20011.15,American region,Caribbean
-2552,Trinidad and Tobago,2007,71.65,168.6,21.0,11.5,25.98,27.74,4.15,7.45,5.54,1384861,15627.29,American region,Caribbean
-2553,Trinidad and Tobago,2006,71.26,169.6,20.9,11.3,25.9,27.62,4.15,5.9,6.27,1376919,13340.92,American region,Caribbean
-2554,Trinidad and Tobago,2005,71.31,175.9,21.1,11.3,25.81,27.49,4.43,8.03,7.95,1369075,11673.78,American region,Caribbean
-2555,Trinidad and Tobago,2004,71.08,179.3,21.0,11.3,25.72,27.37,4.31,8.27,8.33,1361172,9756.5,American region,Caribbean
-2556,Trinidad and Tobago,2003,69.73,184.3,21.0,11.4,25.62,27.24,4.19,8.56,10.48,1353548,8352.46,American region,Caribbean
-2557,Trinidad and Tobago,2002,70.49,182.8,21.2,11.4,25.53,27.11,4.72,8.05,10.39,1345964,6692.8,American region,Caribbean
-2558,Trinidad and Tobago,2001,69.65,192.3,21.0,11.9,25.43,26.98,4.03,7.02,10.88,1338567,6592.78,American region,Caribbean
-2559,Trinidad and Tobago,2000,69.1,193.8,21.0,11.5,25.33,26.84,4.23,6.79,12.1,1332203,6120.94,American region,Caribbean
-2560,Tunisia,2015,75.69,87.69,8.0,5.9,25.62,27.25,6.21,12.18,15.16,11557779,3960.92,African region,Northern Africa
-2561,Tunisia,2014,75.65,88.06,8.3,6.0,25.52,27.19,6.45,13.54,14.26,11428948,4398.64,African region,Northern Africa
-2562,Tunisia,2013,75.65,88.66,8.6,6.2,25.42,27.14,6.51,12.5,15.93,11300284,4308.34,African region,Northern Africa
-2563,Tunisia,2012,75.55,89.3,9.0,6.4,25.31,27.08,6.29,12.64,17.63,11174383,4233.92,African region,Northern Africa
-2564,Tunisia,2011,75.46,91.23,9.3,6.5,25.21,27.03,6.12,12.39,18.33,11032528,4361.95,African region,Northern Africa
-2565,Tunisia,2010,75.42,91.36,9.9,7.0,25.11,26.98,5.61,13.03,13.05,10895063,4241.01,African region,Northern Africa
-2566,Tunisia,2009,75.27,92.54,10.4,7.1,25.01,26.92,5.41,12.08,13.29,10784504,4029.46,African region,Northern Africa
-2567,Tunisia,2008,75.18,93.73,10.9,7.8,24.91,26.87,5.16,11.84,12.44,10680380,4200.17,African region,Northern Africa
-2568,Tunisia,2007,75.07,95.15,11.7,8.2,24.81,26.82,5.18,11.85,12.36,10580395,3678.06,African region,Northern Africa
-2569,Tunisia,2006,74.92,96.24,12.3,8.8,24.72,26.77,5.13,11.73,12.51,10483558,3279.1,African region,Northern Africa
-2570,Tunisia,2005,74.76,97.58,13.2,9.6,24.63,26.72,5.15,11.35,12.87,10388344,3106.58,African region,Northern Africa
-2571,Tunisia,2004,74.49,98.91,13.9,10.6,24.54,26.67,5.2,11.55,14.23,10292225,3029.85,African region,Northern Africa
-2572,Tunisia,2003,74.31,100.3,14.8,11.1,24.44,26.61,5.21,11.41,14.51,10193798,2693.2,African region,Northern Africa
-2573,Tunisia,2002,74.06,101.8,15.9,12.2,24.35,26.55,5.12,10.99,14.55,10094561,2292.48,African region,Northern Africa
-2574,Tunisia,2001,73.82,102.7,16.9,13.0,24.25,26.48,4.86,10.58,14.4,9995123,2207.66,African region,Northern Africa
-2575,Tunisia,2000,73.69,104.2,17.9,14.0,24.15,26.41,4.81,10.54,14.94,9893316,2170.51,African region,Northern Africa
-2576,Turkey,2015,76.65,87.5,7.2,6.4,27.19,28.88,4.12,9.69,10.3,78218479,11050.0,Asian region,Western Asia (Middle East)
-2577,Turkey,2014,76.56,88.52,7.5,6.9,27.11,28.81,4.33,10.15,9.9,77181884,12165.22,Asian region,Western Asia (Middle East)
-2578,Turkey,2013,76.3,88.32,7.6,7.8,27.03,28.75,4.37,10.09,9.71,76147624,12578.19,Asian region,Western Asia (Middle East)
-2579,Turkey,2012,75.68,88.43,7.8,8.7,26.95,28.68,4.44,10.3,9.21,75175827,11713.28,Asian region,Western Asia (Middle East)
-2580,Turkey,2011,74.94,88.8,8.5,9.4,26.87,28.61,4.65,11.12,9.79,74223629,11300.79,Asian region,Western Asia (Middle East)
-2581,Turkey,2010,75.07,89.49,9.2,9.9,26.79,28.55,5.02,10.92,11.88,73142150,10622.7,Asian region,Western Asia (Middle East)
-2582,Turkey,2009,74.76,89.9,10.2,10.4,26.71,28.48,5.49,11.67,14.03,72039206,9013.0,Asian region,Western Asia (Middle East)
-2583,Turkey,2008,74.45,87.94,11.0,11.2,26.63,28.41,5.22,11.09,10.96,71051678,10843.5,Asian region,Western Asia (Middle East)
-2584,Turkey,2007,74.19,89.01,11.8,11.9,26.56,28.34,5.24,10.77,10.28,70158112,9711.22,Asian region,Western Asia (Middle East)
-2585,Turkey,2006,73.84,90.88,12.8,12.8,26.48,28.27,5.15,10.41,10.23,69601333,8003.81,Asian region,Western Asia (Middle East)
-2586,Turkey,2005,73.53,93.02,13.7,13.8,26.4,28.21,4.89,10.32,10.64,68704715,7369.43,Asian region,Western Asia (Middle East)
-2587,Turkey,2004,73.24,95.37,14.7,14.9,26.32,28.14,4.91,10.19,10.84,67785075,6031.79,Asian region,Western Asia (Middle East)
-2588,Turkey,2003,72.89,99.27,15.6,16.0,26.23,28.07,5.01,9.29,10.54,66867327,4704.77,Asian region,Western Asia (Middle East)
-2589,Turkey,2002,72.58,102.1,16.7,17.4,26.13,27.99,5.06,8.64,10.36,65988663,3640.76,Asian region,Western Asia (Middle East)
-2590,Turkey,2001,72.23,107.6,18.0,18.8,26.04,27.91,4.89,7.46,8.38,65072018,3100.46,Asian region,Western Asia (Middle East)
-2591,Turkey,2000,71.86,113.9,19.0,20.2,25.94,27.82,4.6,7.19,6.5,64113547,4278.26,Asian region,Western Asia (Middle East)
-2592,Turkmenistan,2015,68.78,195.0,22.0,27.6,26.56,26.67,5.12,8.71,4.02,5766431,6208.3,Asian region,Central Asia
-2593,Turkmenistan,2014,68.61,195.4,22.7,28.4,26.44,26.53,4.31,8.71,4.01,5663152,7685.51,Asian region,Central Asia
-2594,Turkmenistan,2013,68.74,192.7,23.1,29.4,26.32,26.4,3.94,8.71,4.0,5560095,7049.8,Asian region,Central Asia
-2595,Turkmenistan,2012,68.72,188.2,23.5,30.1,26.21,26.26,3.37,8.71,4.0,5458682,6441.89,Asian region,Central Asia
-2596,Turkmenistan,2011,68.57,188.6,23.8,31.1,26.09,26.13,3.25,8.7,4.0,5360811,5453.16,Asian region,Central Asia
-2597,Turkmenistan,2010,68.29,189.3,24.5,32.4,25.97,26.0,3.24,8.71,4.0,5267970,4286.88,Asian region,Central Asia
-2598,Turkmenistan,2009,67.96,197.9,25.0,33.8,25.85,25.87,2.85,8.71,4.0,5180957,3901.67,Asian region,Central Asia
-2599,Turkmenistan,2008,67.41,219.0,25.3,35.7,25.74,25.74,3.49,8.71,4.85,5100083,3778.67,Asian region,Central Asia
-2600,Turkmenistan,2007,66.9,229.0,25.8,37.7,25.63,25.61,3.13,10.32,5.7,5024894,2520.29,Asian region,Central Asia
-2601,Turkmenistan,2006,66.5,235.1,26.6,39.5,25.52,25.49,4.98,10.34,6.58,4954029,2074.41,Asian region,Central Asia
-2602,Turkmenistan,2005,66.07,239.8,27.2,41.4,25.42,25.36,5.65,10.27,7.46,4885775,1658.67,Asian region,Central Asia
-2603,Turkmenistan,2004,66.08,229.7,27.8,43.3,25.32,25.24,6.26,12.82,8.37,4819792,1418.81,Asian region,Central Asia
-2604,Turkmenistan,2003,65.75,220.4,28.4,44.8,25.22,25.12,5.04,14.0,9.24,4758988,1256.03,Asian region,Central Asia
-2605,Turkmenistan,2002,65.39,216.3,28.6,46.8,25.13,25.0,4.16,13.47,10.1,4698968,949.58,Asian region,Central Asia
-2606,Turkmenistan,2001,65.16,210.8,29.3,48.9,25.04,24.89,4.82,13.36,10.9,4635094,762.61,Asian region,Central Asia
-2607,Turkmenistan,2000,65.03,213.5,29.9,51.2,24.96,24.77,4.08,13.34,11.75,4569132,635.71,Asian region,Central Asia
-2608,Uganda,2015,61.09,263.1,21.6,32.0,21.54,23.25,5.07,5.08,2.79,37477356,864.18,African region,East Africa
-2609,Uganda,2014,60.41,276.0,22.3,34.7,21.46,23.15,5.34,7.01,2.4,36336539,897.51,African region,East Africa
-2610,Uganda,2013,59.76,289.5,22.9,37.4,21.39,23.05,5.78,7.32,1.91,35273570,819.76,African region,East Africa
-2611,Uganda,2012,58.82,304.5,23.7,41.2,21.32,22.95,6.11,7.05,3.55,34273295,796.71,African region,East Africa
-2612,Uganda,2011,57.96,318.2,24.3,46.0,21.24,22.85,6.7,6.9,3.53,33295738,837.1,African region,East Africa
-2613,Uganda,2010,57.06,331.7,24.9,50.1,21.17,22.75,6.81,7.11,3.62,32341728,824.74,African region,East Africa
-2614,Uganda,2009,56.49,345.4,25.2,55.0,21.11,22.66,5.79,7.03,3.6,31412520,799.93,African region,East Africa
-2615,Uganda,2008,55.82,363.6,25.6,59.4,21.04,22.56,5.45,7.25,3.05,30509862,473.3,African region,East Africa
-2616,Uganda,2007,55.24,381.6,25.8,64.6,20.97,22.47,6.11,7.79,2.68,29629804,401.71,African region,East Africa
-2617,Uganda,2006,54.37,390.3,25.9,70.1,20.9,22.38,6.46,7.16,2.27,28773227,346.77,African region,East Africa
-2618,Uganda,2005,52.98,408.9,26.2,76.3,20.83,22.28,5.81,7.13,1.9,27946588,330.6,African region,East Africa
-2619,Uganda,2004,51.55,440.8,26.7,82.7,20.76,22.19,4.7,8.77,2.71,27146084,292.47,African region,East Africa
-2620,Uganda,2003,50.37,467.4,27.1,96.8,20.7,22.1,4.3,8.95,3.6,26354736,250.69,African region,East Africa
-2621,Uganda,2002,49.65,483.0,27.6,105.8,20.63,22.0,4.77,8.75,3.5,25545090,241.87,African region,East Africa
-2622,Uganda,2001,49.01,495.9,28.5,108.1,20.56,21.9,5.05,8.33,3.52,24763325,235.85,African region,East Africa
-2623,Uganda,2000,48.34,509.0,29.3,115.7,20.49,21.8,5.08,8.33,3.52,24020697,257.83,African region,East Africa
-2624,Ukraine,2015,71.19,186.2,5.5,3.9,27.01,26.38,7.78,8.57,9.14,45167350,2124.66,European region,Eastern Europe
-2625,Ukraine,2014,71.19,208.1,5.8,4.1,26.93,26.36,7.2,7.72,9.27,45272155,3104.65,European region,Eastern Europe
-2626,Ukraine,2013,71.16,194.3,6.1,4.2,26.86,26.34,6.94,6.94,7.17,45489648,4187.74,European region,Eastern Europe
-2627,Ukraine,2012,70.94,203.6,6.3,4.3,26.78,26.32,7.12,7.64,7.53,45593342,4004.79,European region,Eastern Europe
-2628,Ukraine,2011,70.81,203.6,6.6,4.6,26.71,26.29,6.82,7.49,7.85,45706086,3704.84,European region,Eastern Europe
-2629,Ukraine,2010,70.27,213.7,6.9,4.8,26.63,26.27,6.81,7.5,8.1,45870741,3078.41,European region,Eastern Europe
-2630,Ukraine,2009,69.19,231.6,7.2,4.8,26.55,26.24,6.61,7.92,8.84,46053331,2639.38,European region,Eastern Europe
-2631,Ukraine,2008,68.25,271.3,7.6,5.0,26.47,26.21,5.5,6.78,6.36,46258189,4066.53,European region,Eastern Europe
-2632,Ukraine,2007,68.22,274.5,7.9,5.1,26.39,26.18,6.02,8.16,6.35,46509355,3197.93,European region,Eastern Europe
-2633,Ukraine,2006,68.08,265.4,8.3,5.4,26.3,26.14,6.42,8.7,6.81,46787786,2391.32,European region,Eastern Europe
-2634,Ukraine,2005,67.96,279.8,8.5,5.4,26.21,26.1,6.35,8.43,7.18,47105171,1894.46,European region,Eastern Europe
-2635,Ukraine,2004,68.19,271.8,8.9,5.9,26.12,26.06,6.17,8.18,8.59,47451626,1416.6,European region,Eastern Europe
-2636,Ukraine,2003,68.21,263.1,9.5,6.2,26.02,26.01,6.55,9.39,9.06,47812949,1087.79,European region,Eastern Europe
-2637,Ukraine,2002,68.28,262.9,10.0,6.7,25.93,25.97,5.99,8.11,10.14,48202470,911.91,European region,Eastern Europe
-2638,Ukraine,2001,67.84,255.8,10.4,7.5,25.84,25.92,5.73,7.63,11.06,48662400,807.8,European region,Eastern Europe
-2639,Ukraine,2000,67.68,257.5,11.2,7.9,25.76,25.87,5.31,7.08,11.71,49176500,658.34,European region,Eastern Europe
-2640,United Arab Emirates,2015,79.22,45.14,4.5,4.3,28.1,29.58,3.47,9.07,1.79,8916899,41525.14,Asian region,Western Asia (Middle East)
-2641,United Arab Emirates,2014,79.04,45.21,4.3,4.1,28.02,29.51,3.53,7.78,1.96,8835951,46865.96,Asian region,Western Asia (Middle East)
-2642,United Arab Emirates,2013,78.85,46.4,4.3,4.0,27.93,29.45,3.5,8.53,2.07,8751847,45729.61,Asian region,Western Asia (Middle East)
-2643,United Arab Emirates,2012,78.72,47.74,4.3,3.8,27.84,29.39,3.34,8.53,2.27,8664969,44386.79,Asian region,Western Asia (Middle East)
-2644,United Arab Emirates,2011,78.52,48.94,4.3,3.8,27.76,29.32,3.67,8.53,2.57,8575205,42078.61,Asian region,Western Asia (Middle East)
-2645,United Arab Emirates,2010,78.33,49.69,4.3,3.8,27.67,29.26,3.88,8.53,2.79,8481771,35392.26,Asian region,Western Asia (Middle East)
-2646,United Arab Emirates,2009,78.0,50.85,4.3,3.8,27.59,29.2,4.05,8.53,2.92,7992644,31722.59,Asian region,Western Asia (Middle East)
-2647,United Arab Emirates,2008,77.49,52.43,4.5,3.9,27.5,29.14,2.93,8.53,2.8,6988685,45140.77,Asian region,Western Asia (Middle East)
-2648,United Arab Emirates,2007,77.13,53.99,4.7,4.0,27.42,29.08,2.57,8.53,2.92,5872624,43918.38,Asian region,Western Asia (Middle East)
-2649,United Arab Emirates,2006,76.91,55.5,4.8,4.0,27.34,29.02,2.33,8.53,2.96,4898954,45339.59,Asian region,Western Asia (Middle East)
-2650,United Arab Emirates,2005,76.68,56.9,4.9,4.1,27.27,28.96,2.32,8.38,3.12,4280993,42190.55,Asian region,Western Asia (Middle East)
-2651,United Arab Emirates,2004,76.45,58.37,5.1,4.3,27.19,28.9,2.46,7.94,2.96,3993339,37017.74,Asian region,Western Asia (Middle East)
-2652,United Arab Emirates,2003,76.22,59.9,5.2,4.4,27.11,28.83,2.65,8.09,2.9,3813443,32607.37,Asian region,Western Asia (Middle East)
-2653,United Arab Emirates,2002,74.9,61.37,5.5,4.8,27.03,28.77,2.72,7.8,2.66,3633655,30221.97,Asian region,Western Asia (Middle East)
-2654,United Arab Emirates,2001,74.64,62.81,5.7,4.9,26.95,28.69,2.48,7.58,2.44,3454198,29909.01,Asian region,Western Asia (Middle East)
-2655,United Arab Emirates,2000,74.38,64.29,5.8,5.3,26.87,28.62,2.37,7.57,2.25,3275333,31855.5,Asian region,Western Asia (Middle East)
-2656,United Kingdom of Great Britain and Northern Ireland,2015,80.96,69.04,2.5,1.7,27.45,27.12,9.8,18.73,5.3,65116219,44964.39,European region,Northern Europe
-2657,United Kingdom of Great Britain and Northern Ireland,2014,81.3,68.45,2.6,1.6,27.43,27.09,9.86,18.49,6.11,64602298,47439.62,European region,Northern Europe
-2658,United Kingdom of Great Britain and Northern Ireland,2013,81.0,69.21,2.7,1.7,27.41,27.06,9.87,18.2,7.52,64128273,43426.3,European region,Northern Europe
-2659,United Kingdom of Great Britain and Northern Ireland,2012,80.9,68.85,2.8,1.9,27.38,27.02,9.95,17.68,7.88,63700215,42497.34,European region,Northern Europe
-2660,United Kingdom of Great Britain and Northern Ireland,2011,80.95,71.67,3.0,1.9,27.36,26.99,9.92,17.63,8.04,63258810,42109.64,European region,Northern Europe
-2661,United Kingdom of Great Britain and Northern Ireland,2010,80.4,74.63,3.2,2.0,27.32,26.95,9.93,17.07,7.79,62766365,39598.96,European region,Northern Europe
-2662,United Kingdom of Great Britain and Northern Ireland,2009,80.05,76.53,3.1,2.2,27.28,26.91,10.05,17.29,7.54,62276270,38744.13,European region,Northern Europe
-2663,United Kingdom of Great Britain and Northern Ireland,2008,79.6,78.82,3.3,2.3,27.23,26.86,9.03,16.62,5.62,61806995,47396.12,European region,Northern Europe
-2664,United Kingdom of Great Britain and Northern Ireland,2007,79.45,79.1,3.3,2.3,27.17,26.8,8.62,17.2,5.26,61322463,50397.69,European region,Northern Europe
-2665,United Kingdom of Great Britain and Northern Ireland,2006,79.25,80.26,3.3,2.3,27.11,26.74,8.63,17.27,5.35,60846820,44512.46,European region,Northern Europe
-2666,United Kingdom of Great Britain and Northern Ireland,2005,79.05,80.69,3.4,2.5,27.03,26.68,8.36,16.57,4.75,60401206,42104.79,European region,Northern Europe
-2667,United Kingdom of Great Britain and Northern Ireland,2004,78.75,81.78,3.4,2.6,26.95,26.61,8.31,16.72,4.59,59987905,40366.89,European region,Northern Europe
-2668,United Kingdom of Great Britain and Northern Ireland,2003,78.45,84.69,3.6,2.7,26.86,26.53,8.06,16.36,4.81,59647577,34442.69,European region,Northern Europe
-2669,United Kingdom of Great Britain and Northern Ireland,2002,78.14,85.6,3.6,2.7,26.77,26.44,7.65,16.29,5.04,59370479,30077.74,European region,Northern Europe
-2670,United Kingdom of Great Britain and Northern Ireland,2001,77.99,87.21,3.8,2.7,26.66,26.35,7.34,15.87,4.7,59119673,27906.57,European region,Northern Europe
-2671,United Kingdom of Great Britain and Northern Ireland,2000,77.74,86.46,3.6,2.8,26.56,26.25,7.13,15.6,5.56,58892514,28280.93,European region,Northern Europe
-2672,United Republic of Tanzania,2015,64.65,242.0,22.0,34.7,22.37,24.05,3.65,7.33,2.16,52542823,929.8,African region,East Africa
-2673,United Republic of Tanzania,2014,63.87,249.9,22.5,36.9,22.34,23.95,4.01,6.94,2.12,50814552,1013.43,African region,East Africa
-2674,United Republic of Tanzania,2013,62.96,262.2,23.2,38.5,22.3,23.84,4.65,6.31,2.93,49253643,954.66,African region,East Africa
-2675,United Republic of Tanzania,2012,62.03,281.6,23.7,40.5,22.27,23.74,5.02,6.01,3.22,47786137,854.54,African region,East Africa
-2676,United Republic of Tanzania,2011,61.05,295.9,24.2,43.0,22.24,23.63,5.06,6.76,3.47,46416031,768.93,African region,East Africa
-2677,United Republic of Tanzania,2010,60.1,302.9,24.8,45.8,22.21,23.52,5.22,7.32,3.03,45110527,730.78,African region,East Africa
-2678,United Republic of Tanzania,2009,58.89,312.1,25.4,48.5,22.18,23.42,5.06,7.58,2.5,43957933,688.71,African region,East Africa
-2679,United Republic of Tanzania,2008,58.09,319.4,25.9,51.0,22.15,23.31,5.56,12.49,2.78,42870884,671.24,African region,East Africa
-2680,United Republic of Tanzania,2007,57.52,339.5,26.7,54.1,22.11,23.21,6.88,10.89,3.02,41716497,539.54,African region,East Africa
-2681,United Republic of Tanzania,2006,56.91,372.3,27.3,57.6,22.07,23.11,7.6,13.51,3.3,40562052,472.61,African region,East Africa
-2682,United Republic of Tanzania,2005,56.3,396.6,28.0,61.5,22.03,23.0,6.32,12.62,3.19,39439505,480.18,African region,East Africa
-2683,United Republic of Tanzania,2004,55.6,407.9,28.8,66.4,21.99,22.9,5.74,11.55,3.1,38360879,447.44,African region,East Africa
-2684,United Republic of Tanzania,2003,54.9,414.0,29.9,71.8,21.95,22.8,5.34,9.71,3.05,37333918,419.42,African region,East Africa
-2685,United Republic of Tanzania,2002,53.86,419.7,30.8,78.0,21.9,22.69,4.69,9.79,3.02,36353531,400.08,African region,East Africa
-2686,United Republic of Tanzania,2001,53.16,424.7,31.7,84.7,21.85,22.59,4.24,8.8,2.99,35414469,394.22,African region,East Africa
-2687,United Republic of Tanzania,2000,52.36,429.3,32.6,91.2,21.8,22.48,3.42,6.05,3.13,34463704,399.33,African region,East Africa
-2688,United States of America,2015,78.69,106.6,3.8,2.8,28.97,29.0,16.49,22.32,5.28,320738994,57040.21,American region,North America
-2689,United States of America,2014,78.84,105.0,3.9,2.9,28.93,28.92,16.2,21.48,6.17,318386329,55304.32,American region,North America
-2690,United States of America,2013,78.74,104.2,3.9,3.0,28.89,28.85,15.99,20.36,7.38,316059947,53409.75,American region,North America
-2691,United States of America,2012,78.74,104.3,3.9,3.0,28.85,28.77,16.12,19.63,8.07,313877662,51784.41,American region,North America
-2692,United States of America,2011,78.64,104.5,3.9,3.1,28.8,28.7,16.14,18.85,8.95,311583481,50065.98,American region,North America
-2693,United States of America,2010,78.54,104.2,3.9,3.3,28.74,28.62,16.2,18.39,9.63,309327143,48650.66,American region,North America
-2694,United States of America,2009,78.39,107.5,4.1,3.1,28.68,28.54,16.2,18.19,9.25,306771529,47194.95,American region,North America
-2695,United States of America,2008,78.04,108.7,4.3,3.1,28.61,28.45,15.21,18.2,5.78,304093966,48570.06,American region,North America
-2696,United States of America,2007,77.99,110.1,4.4,3.2,28.52,28.36,14.92,18.5,4.62,301231207,48050.23,American region,North America
-2697,United States of America,2006,77.69,112.7,4.4,3.2,28.43,28.26,14.71,18.57,4.62,298379912,46301.99,American region,North America
-2698,United States of America,2005,77.49,113.0,4.3,3.3,28.33,28.16,14.58,17.94,5.08,295516599,44123.4,American region,North America
-2699,United States of America,2004,77.49,112.0,4.4,3.2,28.23,28.06,14.55,17.93,5.53,292805298,41724.64,American region,North America
-2700,United States of America,2003,77.04,114.5,4.4,3.5,28.12,27.95,14.51,17.51,5.99,290107933,39490.3,American region,North America
-2701,United States of America,2002,76.94,115.0,4.6,3.5,28.0,27.84,14.0,17.22,5.78,287625193,37997.74,American region,North America
-2702,United States of America,2001,76.84,116.1,4.6,3.6,27.89,27.71,13.17,16.76,4.73,284968955,37133.62,American region,North America
-2703,United States of America,2000,76.64,115.1,4.5,3.7,27.76,27.58,12.49,16.16,3.99,282162411,36329.97,American region,North America
-2704,Uruguay,2015,77.48,115.1,4.9,4.0,27.4,27.47,8.29,19.92,7.49,3402818,16950.75,American region,South America
-2705,Uruguay,2014,77.37,115.0,4.9,4.1,27.28,27.38,8.07,18.82,6.55,3391662,18131.58,American region,South America
-2706,Uruguay,2013,77.24,117.8,4.8,4.6,27.15,27.29,8.12,18.63,6.44,3381180,18140.89,American region,South America
-2707,Uruguay,2012,77.11,118.7,4.9,5.1,27.02,27.2,8.07,18.64,6.45,3371133,16087.25,American region,South America
-2708,Uruguay,2011,76.98,117.7,4.9,5.3,26.9,27.11,7.95,18.49,6.31,3361637,14975.56,American region,South America
-2709,Uruguay,2010,76.86,118.8,4.8,5.9,26.78,27.02,7.91,17.25,7.16,3352651,12512.59,American region,South America
-2710,Uruguay,2009,76.74,119.0,5.1,6.3,26.65,26.94,7.95,17.27,7.74,3344156,9780.74,American region,South America
-2711,Uruguay,2008,76.62,119.6,5.4,6.7,26.54,26.86,8.13,17.33,8.03,3336126,9328.07,American region,South America
-2712,Uruguay,2007,76.5,125.0,5.7,7.0,26.42,26.78,7.49,13.54,9.4,3328651,7149.37,American region,South America
-2713,Uruguay,2006,76.36,119.1,6.3,7.2,26.31,26.7,7.74,13.71,10.84,3322282,5942.13,American region,South America
-2714,Uruguay,2005,76.19,125.6,7.0,7.4,26.2,26.63,7.76,13.28,12.01,3317665,5233.46,American region,South America
-2715,Uruguay,2004,76.01,125.9,7.4,7.9,26.09,26.56,8.3,16.25,12.98,3313801,4130.1,American region,South America
-2716,Uruguay,2003,75.78,126.5,7.7,8.3,25.99,26.49,9.62,18.08,16.66,3310202,3638.94,American region,South America
-2717,Uruguay,2002,75.54,129.6,7.9,8.2,25.9,26.42,9.68,16.74,16.65,3306441,4115.15,American region,South America
-2718,Uruguay,2001,75.28,127.9,8.1,8.4,25.8,26.35,9.8,15.75,15.05,3300939,6331.16,American region,South America
-2719,Uruguay,2000,75.03,134.5,8.2,8.7,25.71,26.28,9.21,14.34,12.63,3292224,6932.48,American region,South America
-2720,Uzbekistan,2015,70.47,177.6,13.8,11.7,26.36,27.49,4.74,9.6,5.15,31298900,2753.97,Asian region,Central Asia
-2721,Uzbekistan,2014,70.23,181.4,14.8,12.4,26.23,27.31,4.43,9.3,5.09,30757700,2628.46,Asian region,Central Asia
-2722,Uzbekistan,2013,69.99,185.9,15.9,13.4,26.1,27.14,5.72,9.52,4.86,30243200,2419.72,Asian region,Central Asia
-2723,Uzbekistan,2012,69.87,194.9,16.9,14.1,25.97,26.97,5.55,9.76,4.87,29774500,2267.62,Asian region,Central Asia
-2724,Uzbekistan,2011,69.65,198.8,18.1,15.0,25.85,26.81,5.26,8.83,4.96,29339400,2051.13,Asian region,Central Asia
-2725,Uzbekistan,2010,69.24,205.0,19.4,16.1,25.72,26.64,5.3,8.04,5.36,28562400,1742.35,Asian region,Central Asia
-2726,Uzbekistan,2009,68.87,215.2,20.6,17.1,25.6,26.48,4.8,7.27,5.04,27767400,1213.27,Asian region,Central Asia
-2727,Uzbekistan,2008,68.76,227.0,21.4,18.6,25.48,26.32,4.7,7.23,4.89,27302800,1082.29,Asian region,Central Asia
-2728,Uzbekistan,2007,68.29,237.9,22.4,20.1,25.36,26.16,4.54,7.24,4.99,26868000,830.41,Asian region,Central Asia
-2729,Uzbekistan,2006,67.89,248.2,23.1,21.9,25.25,26.01,4.75,7.8,6.03,26488250,654.28,Asian region,Central Asia
-2730,Uzbekistan,2005,67.49,266.6,24.3,23.7,25.15,25.86,4.78,6.47,7.07,26167000,546.78,Asian region,Central Asia
-2731,Uzbekistan,2004,67.4,261.3,25.3,25.9,25.04,25.72,4.84,6.14,8.13,25864350,465.12,Asian region,Central Asia
-2732,Uzbekistan,2003,67.04,267.2,25.9,27.9,24.95,25.57,5.19,6.01,9.18,25567650,396.38,Asian region,Central Asia
-2733,Uzbekistan,2002,66.6,276.8,26.8,30.4,24.85,25.43,5.14,5.58,10.22,25271850,383.34,Asian region,Central Asia
-2734,Uzbekistan,2001,66.09,276.3,27.8,32.6,24.76,25.29,5.24,6.64,11.25,24964450,456.71,Asian region,Central Asia
-2735,Uzbekistan,2000,65.72,283.4,28.5,34.9,24.68,25.16,5.12,6.11,12.29,24650400,558.23,Asian region,Central Asia
-2736,Vanuatu,2015,69.51,257.6,12.1,15.7,25.68,26.91,4.32,4.76,5.26,276438,2643.89,Oceania region,Melanesia
-2737,Vanuatu,2014,69.46,258.2,12.4,16.0,25.64,26.86,3.65,2.52,5.15,269927,2861.2,Oceania region,Melanesia
-2738,Vanuatu,2013,69.53,258.5,12.6,16.1,25.6,26.8,4.39,9.8,5.06,263534,2877.44,Oceania region,Melanesia
-2739,Vanuatu,2012,69.5,259.7,12.8,16.2,25.57,26.74,3.94,9.4,4.95,257313,2906.34,Oceania region,Melanesia
-2740,Vanuatu,2011,69.55,261.1,12.8,16.0,25.54,26.69,3.6,9.39,4.82,251294,3064.75,Oceania region,Melanesia
-2741,Vanuatu,2010,69.62,263.0,12.7,16.1,25.51,26.63,3.53,6.85,4.68,245453,2732.55,Oceania region,Melanesia
-2742,Vanuatu,2009,69.65,265.6,12.5,16.0,25.49,26.58,3.25,7.27,4.57,239689,2472.46,Oceania region,Melanesia
-2743,Vanuatu,2008,69.6,268.4,12.5,16.1,25.46,26.52,3.14,8.18,5.66,233952,2525.08,Oceania region,Melanesia
-2744,Vanuatu,2007,69.54,271.3,12.5,15.9,25.44,26.46,3.11,9.9,6.85,228345,2261.46,Oceania region,Melanesia
-2745,Vanuatu,2006,69.46,273.8,12.3,16.0,25.41,26.39,3.32,10.67,8.01,222923,1970.9,Oceania region,Melanesia
-2746,Vanuatu,2005,69.39,276.5,12.1,15.9,25.38,26.33,3.31,11.7,8.13,217632,1814.82,Oceania region,Melanesia
-2747,Vanuatu,2004,69.31,278.5,12.1,16.5,25.35,26.26,3.54,12.56,8.46,212422,1718.26,Oceania region,Melanesia
-2748,Vanuatu,2003,69.28,280.3,12.0,16.3,25.32,26.18,3.51,13.21,8.71,207258,1517.29,Oceania region,Melanesia
-2749,Vanuatu,2002,69.2,281.9,12.2,16.0,25.28,26.1,3.9,11.75,8.65,202125,1299.18,Oceania region,Melanesia
-2750,Vanuatu,2001,69.04,283.1,12.4,15.8,25.25,26.01,3.39,11.27,8.47,197034,1309.05,Oceania region,Melanesia
-2751,Vanuatu,2000,68.97,284.6,12.6,16.0,25.21,25.92,3.31,9.7,8.32,192074,1416.2,Oceania region,Melanesia
-2752,Viet Nam,2015,73.88,136.0,11.0,10.5,21.81,21.81,4.71,8.49,1.85,92191398,2595.23,Asian region,Southeast Asia
-2753,Viet Nam,2014,73.86,137.2,11.1,12.0,21.66,21.67,4.69,9.12,1.26,91235504,2558.78,Asian region,Southeast Asia
-2754,Viet Nam,2013,73.78,138.3,11.3,10.8,21.5,21.53,4.41,8.16,1.32,90267739,2367.5,Asian region,Southeast Asia
-2755,Viet Nam,2012,73.7,139.1,11.4,10.8,21.35,21.4,5.0,9.52,1.03,89301326,2190.23,Asian region,Southeast Asia
-2756,Viet Nam,2011,73.69,140.2,11.4,10.9,21.2,21.26,4.97,9.11,1.0,88349117,1953.56,Asian region,Southeast Asia
-2757,Viet Nam,2010,73.51,141.3,11.4,11.3,21.05,21.13,5.07,8.61,1.11,87411012,1684.01,Asian region,Southeast Asia
-2758,Viet Nam,2009,73.5,141.6,11.5,11.6,20.91,21.0,4.49,6.85,1.74,86482923,1225.85,Asian region,Southeast Asia
-2759,Viet Nam,2008,73.41,141.6,11.7,11.1,20.78,20.88,4.36,8.12,1.89,85597241,1158.1,Asian region,Southeast Asia
-2760,Viet Nam,2007,73.44,141.5,11.7,11.4,20.65,20.76,4.63,7.94,2.03,84762269,913.31,Asian region,Southeast Asia
-2761,Viet Nam,2006,73.32,141.6,12.1,11.8,20.52,20.64,4.57,8.77,2.04,83951800,790.59,Asian region,Southeast Asia
-2762,Viet Nam,2005,73.27,142.1,12.3,12.0,20.41,20.53,4.32,8.67,2.08,83142095,693.19,Asian region,Southeast Asia
-2763,Viet Nam,2004,73.14,141.1,12.6,12.2,20.29,20.42,4.09,8.69,2.14,82311227,551.9,Asian region,Southeast Asia
-2764,Viet Nam,2003,72.98,140.8,13.1,13.3,20.19,20.32,3.94,7.16,2.25,81475825,485.45,Asian region,Southeast Asia
-2765,Viet Nam,2002,72.8,140.5,13.5,14.4,20.09,20.22,3.87,8.62,2.12,80642308,434.81,Asian region,Southeast Asia
-2766,Viet Nam,2001,72.65,140.7,14.1,15.4,20.0,20.12,4.8,8.2,2.76,79817777,409.5,Asian region,Southeast Asia
-2767,Viet Nam,2000,72.46,141.1,14.8,16.5,19.91,20.02,4.11,9.48,2.26,79001142,394.58,Asian region,Southeast Asia
-2768,Yemen,2015,65.87,178.1,26.9,27.4,23.64,24.09,4.25,2.23,17.9,28516545,1488.42,Asian region,Western Asia (Middle East)
-2769,Yemen,2014,67.38,171.7,27.0,27.7,23.55,23.99,4.84,2.82,13.47,27753304,1557.6,Asian region,Western Asia (Middle East)
-2770,Yemen,2013,67.54,169.9,27.1,27.1,23.47,23.88,4.96,3.18,13.64,26984002,1497.75,Asian region,Western Asia (Middle East)
-2771,Yemen,2012,67.34,176.2,27.0,27.8,23.38,23.77,5.2,3.43,13.44,26223391,1349.99,Asian region,Western Asia (Middle East)
-2772,Yemen,2011,67.42,176.8,27.1,27.9,23.29,23.67,4.77,3.66,13.28,25475610,1284.62,Asian region,Western Asia (Middle East)
-2773,Yemen,2010,67.28,177.2,27.2,27.7,23.21,23.56,5.16,3.85,12.78,24743946,1249.06,Asian region,Western Asia (Middle East)
-2774,Yemen,2009,67.2,180.7,27.9,28.9,23.13,23.45,5.99,3.72,12.75,24029589,1045.81,Asian region,Western Asia (Middle East)
-2775,Yemen,2008,66.96,184.3,28.6,30.9,23.05,23.34,5.76,3.89,12.65,23329004,1153.54,Asian region,Western Asia (Middle East)
-2776,Yemen,2007,66.56,188.6,29.5,33.1,22.97,23.24,5.82,3.88,12.48,22641538,956.23,Asian region,Western Asia (Middle East)
-2777,Yemen,2006,65.99,192.2,30.8,38.4,22.9,23.13,5.53,4.35,12.35,21966298,867.84,Asian region,Western Asia (Middle East)
-2778,Yemen,2005,65.54,196.6,31.7,40.7,22.83,23.02,5.21,4.5,12.22,21320671,784.76,Asian region,Western Asia (Middle East)
-2779,Yemen,2004,65.01,201.2,32.9,45.6,22.77,22.91,5.51,5.72,12.13,20733406,668.85,Asian region,Western Asia (Middle East)
-2780,Yemen,2003,64.54,205.0,34.0,47.3,22.7,22.8,5.76,6.81,12.01,20188799,583.37,Asian region,Western Asia (Middle East)
-2781,Yemen,2002,63.91,208.3,35.0,48.4,22.63,22.68,4.83,7.57,11.84,19660653,543.9,Asian region,Western Asia (Middle East)
-2782,Yemen,2001,63.22,212.1,36.3,52.4,22.55,22.56,4.95,8.13,11.72,19143457,514.69,Asian region,Western Asia (Middle East)
-2783,Yemen,2000,62.59,215.9,37.2,60.1,22.48,22.43,4.67,7.49,11.56,18628700,519.59,Asian region,Western Asia (Middle East)
-2784,Zambia,2015,61.21,331.0,23.1,39.6,21.39,23.76,4.43,7.56,8.32,16248230,1307.91,African region,East Africa
-2785,Zambia,2014,60.7,338.8,23.8,42.0,21.34,23.68,3.83,7.78,8.13,15737793,1724.58,African region,East Africa
-2786,Zambia,2013,59.88,349.8,24.6,44.8,21.28,23.59,4.57,5.45,8.04,15234976,1840.32,African region,East Africa
-2787,Zambia,2012,58.87,362.2,25.2,48.4,21.23,23.51,4.05,7.06,7.85,14744658,1729.65,African region,East Africa
-2788,Zambia,2011,57.77,374.8,25.9,53.5,21.18,23.43,3.96,8.06,10.55,14265814,1644.46,African region,East Africa
-2789,Zambia,2010,56.8,385.6,26.5,57.3,21.12,23.35,3.97,8.63,13.19,13792086,1469.36,African region,East Africa
-2790,Zambia,2009,55.3,400.0,27.1,58.2,21.07,23.27,5.16,9.37,10.58,13318087,1150.94,African region,East Africa
-2791,Zambia,2008,53.94,425.9,27.8,62.2,21.02,23.19,4.47,8.15,7.93,12852966,1393.52,African region,East Africa
-2792,Zambia,2007,52.74,466.1,28.4,66.2,20.96,23.11,4.58,7.47,10.56,12402073,1133.44,African region,East Africa
-2793,Zambia,2006,51.8,505.8,29.2,70.1,20.91,23.03,5.58,6.75,13.23,11971567,1065.6,African region,East Africa
-2794,Zambia,2005,50.66,533.9,30.6,76.2,20.85,22.95,6.33,5.54,15.9,11564870,720.45,African region,East Africa
-2795,Zambia,2004,49.49,560.0,32.1,83.7,20.8,22.87,5.48,5.65,15.33,11188040,556.05,African region,East Africa
-2796,Zambia,2003,48.28,589.8,33.4,93.8,20.74,22.8,6.0,5.32,14.7,10837973,452.29,African region,East Africa
-2797,Zambia,2002,46.98,609.2,34.8,108.1,20.69,22.72,5.89,6.88,14.12,10508294,399.1,African region,East Africa
-2798,Zambia,2001,46.02,614.4,36.1,114.8,20.65,22.66,4.83,6.88,13.41,10191964,401.73,African region,East Africa
-2799,Zambia,2000,45.23,613.0,37.0,125.3,20.6,22.59,4.17,6.88,12.93,9891136,364.03,African region,East Africa
-2800,Zimbabwe,2015,59.59,416.7,24.0,32.4,22.27,25.39,7.45,7.56,5.38,14154937,1410.33,African region,East Africa
-2801,Zimbabwe,2014,58.85,427.2,25.1,34.9,22.24,25.36,8.13,13.36,4.77,13855753,1407.03,African region,East Africa
-2802,Zimbabwe,2013,57.46,445.2,26.4,38.5,22.21,25.32,7.11,9.65,4.94,13555422,1408.37,African region,East Africa
-2803,Zimbabwe,2012,55.63,468.3,27.6,44.2,22.18,25.28,6.92,9.8,5.06,13265331,1290.19,African region,East Africa
-2804,Zimbabwe,2011,53.35,500.1,29.0,50.2,22.15,25.25,8.08,9.12,5.37,13025785,1082.62,African region,East Africa
-2805,Zimbabwe,2010,50.65,543.9,30.0,54.8,22.13,25.22,10.48,15.22,5.46,12839771,937.84,African region,East Africa
-2806,Zimbabwe,2009,48.06,585.7,30.4,58.8,22.1,25.18,8.76,,5.47,12679810,762.3,African region,East Africa
-2807,Zimbabwe,2008,46.72,618.2,30.6,62.2,22.07,25.15,8.8,,5.37,12550347,351.84,African region,East Africa
-2808,Zimbabwe,2007,45.61,644.4,30.5,64.6,22.03,25.11,8.78,,5.0,12450568,425.04,African region,East Africa
-2809,Zimbabwe,2006,45.36,671.1,30.1,66.7,22.0,25.08,8.69,,4.76,12330490,441.5,African region,East Africa
-2810,Zimbabwe,2005,44.77,692.4,29.4,66.2,21.96,25.04,8.54,,4.63,12224753,470.78,African region,East Africa
-2811,Zimbabwe,2004,44.5,707.1,29.1,66.5,21.92,25.01,8.48,,4.39,12160881,477.4,African region,East Africa
-2812,Zimbabwe,2003,43.39,709.9,28.6,66.7,21.88,24.97,8.37,,4.74,12075828,474.3,African region,East Africa
-2813,Zimbabwe,2002,44.56,704.8,28.2,68.7,21.84,24.93,8.28,,5.01,11984644,529.19,African region,East Africa
-2814,Zimbabwe,2001,41.96,693.9,28.0,69.5,21.81,24.9,8.24,,5.31,11910978,569.0,African region,East Africa
-2815,Zimbabwe,2000,44.69,682.6,27.9,70.2,21.77,24.86,8.22,,5.68,11834676,565.28,African region,East Africa
+2304,South Africa,2015,63.95,337.2,11.2,28.8,25.07,29.51,8.05,15.24,22.87,55876504,6204.93,African region,Southern Africa
+2305,South Africa,2014,63.38,347.1,11.5,29.3,25.03,29.43,7.87,14.92,22.61,54729551,6965.14,African region,Southern Africa
+2306,South Africa,2013,62.53,361.4,11.7,31.9,25.0,29.35,8.1,14.34,22.04,53873616,7441.23,African region,Southern Africa
+2307,South Africa,2012,61.85,387.0,12.1,35.0,24.96,29.27,8.0,14.47,21.79,53145033,8173.87,African region,Southern Africa
+2308,South Africa,2011,60.65,420.5,12.6,38.9,24.92,29.18,7.94,14.68,21.42,52443325,8737.04,African region,Southern Africa
+2309,South Africa,2010,58.9,459.0,13.1,46.8,24.88,29.1,7.79,14.14,23.18,51784921,8059.56,African region,Southern Africa
+2310,South Africa,2009,57.45,491.3,13.6,48.1,24.84,29.01,7.65,13.37,20.51,51170779,6444.19,African region,Southern Africa
+2311,South Africa,2008,56.02,513.3,14.3,53.9,24.79,28.92,7.15,13.01,19.51,50565812,6251.88,African region,Southern Africa
+2312,South Africa,2007,54.99,528.2,14.7,59.6,24.73,28.83,6.91,13.51,19.39,49996094,6662.06,African region,Southern Africa
+2313,South Africa,2006,54.28,541.0,15.1,64.9,24.66,28.73,6.88,13.1,19.42,49491756,6139.58,African region,Southern Africa
+2314,South Africa,2005,53.98,541.8,15.6,66.9,24.58,28.63,6.86,10.92,19.56,49017147,5893.19,African region,Southern Africa
+2315,South Africa,2004,54.04,536.7,16.3,67.5,24.51,28.53,6.94,12.03,19.63,48556071,5268.28,African region,Southern Africa
+2316,South Africa,2003,54.33,519.5,16.5,66.8,24.43,28.44,7.04,12.34,19.73,48104048,4095.68,African region,Southern Africa
+2317,South Africa,2002,55.67,487.2,17.0,65.0,24.35,28.34,6.68,10.38,19.66,47661514,2708.42,African region,Southern Africa
+2318,South Africa,2001,57.26,453.7,17.3,62.4,24.28,28.24,7.12,10.62,19.73,47229714,2867.47,African region,Southern Africa
+2319,South Africa,2000,58.47,428.0,17.9,59.6,24.21,28.15,7.34,11.86,19.84,46813266,3241.66,African region,Southern Africa
+2320,Spain,2015,82.83,58.74,1.9,1.5,27.17,25.02,9.12,14.77,22.06,46444832,25754.36,European region,Southern Europe
+2321,Spain,2014,83.23,58.84,1.9,1.4,27.18,25.1,9.08,14.08,24.44,46480882,29513.65,European region,Southern Europe
+2322,Spain,2013,83.08,60.24,2.1,1.4,27.19,25.19,9.06,13.87,26.09,46620045,29077.18,European region,Southern Europe
+2323,Spain,2012,82.43,62.14,2.1,1.5,27.19,25.27,9.15,13.34,24.79,46773055,28322.95,European region,Southern Europe
+2324,Spain,2011,82.48,65.43,2.0,1.7,27.2,25.35,9.17,14.6,21.39,46742697,31677.9,European region,Southern Europe
+2325,Spain,2010,81.63,66.68,2.1,1.8,27.19,25.43,9.12,14.75,19.86,46576897,30532.48,European region,Southern Europe
+2326,Spain,2009,81.48,68.63,2.0,2.0,27.18,25.5,9.11,14.79,17.86,46362946,32169.5,European region,Southern Europe
+2327,Spain,2008,81.18,72.04,2.1,2.2,27.16,25.56,8.38,14.82,11.26,45954106,35510.72,European region,Southern Europe
+2328,Spain,2007,80.87,74.04,2.2,2.0,27.13,25.61,7.92,14.59,8.23,45226803,32591.35,European region,Southern Europe
+2329,Spain,2006,80.82,75.17,2.4,2.1,27.08,25.66,7.83,14.69,8.45,44397319,28389.08,European region,Southern Europe
+2330,Spain,2005,80.17,77.86,2.5,2.3,27.03,25.7,7.73,14.38,9.15,43653155,26429.15,European region,Southern Europe
+2331,Spain,2004,79.87,79.86,2.5,2.2,26.97,25.74,7.66,14.07,11.09,42921895,24907.0,European region,Southern Europe
+2332,Spain,2003,79.62,83.08,2.6,2.1,26.9,25.77,7.56,14.01,11.28,42187645,21510.84,European region,Southern Europe
+2333,Spain,2002,79.57,82.9,2.6,2.4,26.83,25.79,6.8,12.67,11.15,41431558,17106.69,European region,Southern Europe
+2334,Spain,2001,79.37,84.27,2.6,2.4,26.75,25.8,6.77,12.68,10.35,40850412,15369.0,European region,Southern Europe
+2335,Spain,2000,78.97,86.13,2.7,2.5,26.67,25.81,6.8,12.57,13.78,40567864,14749.69,European region,Southern Europe
+2336,Sri Lanka,2015,74.93,103.8,6.3,3.5,22.53,23.71,3.68,8.4,4.52,21336697,3990.35,Asian region,South Asia
+2337,Sri Lanka,2014,74.65,106.1,6.6,3.7,22.42,23.59,3.47,9.03,4.16,21239457,3885.62,Asian region,South Asia
+2338,Sri Lanka,2013,74.24,110.7,6.6,4.1,22.31,23.47,3.69,10.1,4.19,21131756,3643.83,Asian region,South Asia
+2339,Sri Lanka,2012,73.91,114.0,6.4,4.4,22.21,23.35,3.31,8.06,3.88,21017147,3351.89,Asian region,South Asia
+2340,Sri Lanka,2011,73.38,123.5,6.3,5.1,22.11,23.23,3.58,7.97,4.12,20859743,3248.04,Asian region,South Asia
+2341,Sri Lanka,2010,73.22,136.7,6.4,5.2,22.0,23.11,3.74,7.83,4.78,20668557,2836.97,Asian region,South Asia
+2342,Sri Lanka,2009,69.19,146.7,6.9,5.1,21.91,23.0,4.06,7.84,5.85,20482477,2053.77,Asian region,South Asia
+2343,Sri Lanka,2008,71.73,149.8,7.2,5.2,21.81,22.89,3.85,8.73,5.22,20285643,2007.03,Asian region,South Asia
+2344,Sri Lanka,2007,72.05,138.3,7.1,5.7,21.72,22.78,3.82,9.33,5.97,20078655,1611.18,Asian region,South Asia
+2345,Sri Lanka,2006,71.97,145.2,7.0,6.4,21.63,22.68,3.85,9.56,6.5,19870706,1423.19,Asian region,South Asia
+2346,Sri Lanka,2005,72.12,146.0,6.6,7.4,21.53,22.58,3.88,10.14,7.67,19673866,1240.52,Asian region,South Asia
+2347,Sri Lanka,2004,67.09,178.5,6.5,22.2,21.44,22.48,4.04,11.05,8.38,19490431,1060.14,Asian region,South Asia
+2348,Sri Lanka,2003,71.37,147.3,6.6,8.6,21.36,22.38,3.65,10.38,8.22,19303180,978.17,Asian region,South Asia
+2349,Sri Lanka,2002,71.12,149.1,7.2,8.2,21.27,22.28,4.04,10.37,8.76,19110707,865.3,Asian region,South Asia
+2350,Sri Lanka,2001,70.79,160.6,8.3,7.5,21.19,22.19,4.06,9.52,7.9,18920275,832.43,Asian region,South Asia
+2351,Sri Lanka,2000,70.36,177.0,9.5,6.7,21.11,22.09,4.11,10.14,7.74,18776371,869.75,Asian region,South Asia
+2352,Sudan,2015,64.66,162.2,30.5,35.3,23.24,26.03,5.81,6.66,14.51,38171178,1355.13,African region,Northern Africa
+2353,Sudan,2014,64.27,163.8,31.1,35.9,23.2,25.94,5.68,10.62,15.56,37003245,1338.17,African region,Northern Africa
+2354,Sudan,2013,63.68,167.0,31.7,39.5,23.15,25.85,6.96,7.52,16.41,35990704,1195.42,African region,Northern Africa
+2355,Sudan,2012,63.79,167.1,32.1,40.5,23.11,25.76,5.69,9.06,17.07,35159792,1070.34,African region,Northern Africa
+2356,Sudan,2011,63.25,173.7,32.4,41.1,23.07,25.67,5.62,7.04,17.44,34419624,1391.43,African region,Northern Africa
+2357,Sudan,2010,63.02,172.7,32.7,42.3,23.02,25.59,5.06,9.49,15.16,33739933,1356.89,African region,Northern Africa
+2358,Sudan,2009,62.64,179.0,33.0,43.6,22.98,25.5,6.39,14.02,13.0,32948155,1223.9,African region,Northern Africa
+2359,Sudan,2008,61.21,179.5,33.2,45.5,22.94,25.41,5.42,8.79,14.8,32065241,1585.58,African region,Northern Africa
+2360,Sudan,2007,61.26,183.9,33.5,47.3,22.89,25.33,5.66,10.47,14.77,31191163,1500.67,African region,Northern Africa
+2361,Sudan,2006,60.28,188.4,33.8,49.4,22.84,25.24,4.89,9.44,14.78,30332968,1179.9,African region,Northern Africa
+2362,Sudan,2005,57.28,191.6,34.2,51.4,22.79,25.15,4.09,8.1,14.79,29540577,945.69,African region,Northern Africa
+2363,Sudan,2004,56.77,209.1,34.7,55.0,22.73,25.06,4.16,9.53,14.79,28831550,737.12,African region,Northern Africa
+2364,Sudan,2003,58.2,204.3,35.4,60.4,22.67,24.96,3.89,10.07,14.77,28188977,607.01,African region,Northern Africa
+2365,Sudan,2002,58.98,207.5,35.8,62.7,22.61,24.87,3.3,10.71,14.77,27570318,529.45,African region,Northern Africa
+2366,Sudan,2001,58.56,206.5,36.6,64.6,22.54,24.77,3.36,11.37,14.82,26947253,471.37,African region,Northern Africa
+2367,Sudan,2000,58.32,210.2,37.1,65.6,22.48,24.66,3.61,11.77,14.87,26298773,378.16,African region,Northern Africa
+2368,Suriname,2015,70.8,170.6,11.0,9.8,25.44,27.84,5.81,10.86,7.22,575475,8907.84,American region,South America
+2369,Suriname,2014,69.78,166.5,11.3,10.2,25.38,27.76,4.52,6.9,6.94,569682,9199.18,American region,South America
+2370,Suriname,2013,69.68,163.9,11.7,10.4,25.32,27.68,4.49,7.03,6.6,563947,9124.54,American region,South America
+2371,Suriname,2012,69.76,163.9,12.0,10.9,25.26,27.6,4.28,6.59,8.1,558111,8922.96,American region,South America
+2372,Suriname,2011,69.91,166.3,12.5,11.2,25.2,27.52,4.41,8.51,7.54,552146,8009.25,American region,South America
+2373,Suriname,2010,69.89,169.9,12.9,11.9,25.14,27.44,4.7,9.47,7.15,546080,7999.51,American region,South America
+2374,Suriname,2009,69.5,170.0,13.3,12.1,25.08,27.36,4.98,9.52,8.72,539987,7176.86,American region,South America
+2375,Suriname,2008,68.82,175.6,13.8,12.5,25.02,27.29,4.75,10.23,8.83,533938,6616.82,American region,South America
+2376,Suriname,2007,68.2,176.3,14.2,13.0,24.95,27.21,5.22,11.44,9.01,527946,5562.33,American region,South America
+2377,Suriname,2006,67.57,178.2,14.7,13.2,24.89,27.13,5.86,12.23,9.1,522023,5031.16,American region,South America
+2378,Suriname,2005,67.0,182.2,15.3,13.9,24.82,27.06,5.24,10.64,9.26,516220,3474.12,American region,South America
+2379,Suriname,2004,66.42,188.4,15.8,14.4,24.75,26.98,5.46,11.68,9.49,510572,2906.73,American region,South America
+2380,Suriname,2003,65.6,192.6,16.3,14.7,24.68,26.89,4.89,11.15,10.35,503780,2529.26,American region,South America
+2381,Suriname,2002,65.53,194.1,16.9,15.3,24.61,26.81,5.33,11.07,11.23,495666,2206.27,American region,South America
+2382,Suriname,2001,65.48,193.8,17.6,15.7,24.54,26.73,3.82,8.52,12.14,487394,1711.71,American region,South America
+2383,Suriname,2000,65.51,192.4,18.3,16.4,24.46,26.64,5.87,11.65,12.98,478998,1978.45,American region,South America
+2384,Sweden,2015,82.2,54.42,1.6,1.2,26.82,25.42,10.8,18.39,7.43,9799186,51545.48,European region,Northern Europe
+2385,Sweden,2014,82.25,54.88,1.7,1.2,26.77,25.38,10.95,18.14,7.95,9696110,60020.36,European region,Northern Europe
+2386,Sweden,2013,81.96,55.87,1.5,1.2,26.73,25.34,10.9,17.74,8.05,9600379,61126.94,European region,Northern Europe
+2387,Sweden,2012,81.7,56.17,1.5,1.4,26.68,25.3,10.74,17.73,7.98,9519374,58037.82,European region,Northern Europe
+2388,Sweden,2011,81.8,57.46,1.6,1.3,26.63,25.26,10.42,17.67,7.8,9449213,60755.76,European region,Northern Europe
+2389,Sweden,2010,81.45,57.75,1.5,1.4,26.58,25.22,8.32,13.6,8.61,9378126,52869.04,European region,Northern Europe
+2390,Sweden,2009,81.35,61.1,1.5,1.5,26.52,25.17,8.77,13.81,8.35,9298515,46946.96,European region,Northern Europe
+2391,Sweden,2008,81.1,62.15,1.5,1.4,26.45,25.13,8.21,13.54,6.24,9219637,56152.55,European region,Northern Europe
+2392,Sweden,2007,80.9,63.13,1.7,1.6,26.38,25.08,8.0,13.38,6.16,9148092,53700.01,European region,Northern Europe
+2393,Sweden,2006,80.75,64.15,1.8,1.4,26.31,25.03,8.05,12.98,7.07,9080505,46593.6,European region,Northern Europe
+2394,Sweden,2005,80.55,65.86,2.0,1.6,26.23,24.98,8.15,12.83,7.49,9029572,43437.06,European region,Northern Europe
+2395,Sweden,2004,80.5,66.63,2.0,1.6,26.15,24.93,8.13,12.81,6.69,8993531,42821.67,European region,Northern Europe
+2396,Sweden,2003,80.1,67.65,2.2,1.6,26.06,24.88,8.32,12.85,5.56,8958229,37321.8,European region,Northern Europe
+2397,Sweden,2002,79.85,69.35,2.1,1.6,25.97,24.83,8.21,12.64,4.96,8924958,29899.2,European region,Northern Europe
+2398,Sweden,2001,79.8,71.65,2.3,1.7,25.87,24.77,7.9,12.36,4.73,8895960,27247.86,European region,Northern Europe
+2399,Sweden,2000,79.64,71.94,2.3,1.8,25.77,24.71,7.33,11.67,5.47,8872109,29624.91,European region,Northern Europe
+2400,Switzerland,2015,82.9,49.46,3.0,1.2,26.79,23.84,10.78,10.73,4.8,8282396,83806.45,European region,Western Europe
+2401,Switzerland,2014,83.2,50.05,3.0,1.2,26.74,23.86,10.43,10.65,4.83,8188649,88724.99,European region,Western Europe
+2402,Switzerland,2013,82.8,52.78,3.0,1.1,26.69,23.88,10.38,10.44,4.75,8089346,87304.33,European region,Western Europe
+2403,Switzerland,2012,82.7,53.51,3.0,1.3,26.65,23.9,10.14,11.0,4.49,7996861,85836.21,European region,Western Europe
+2404,Switzerland,2011,82.7,54.21,3.0,1.3,26.6,23.92,10.05,10.73,4.41,7912398,90476.76,European region,Western Europe
+2405,Switzerland,2010,82.25,56.75,3.1,1.3,26.54,23.93,9.93,10.39,4.81,7824909,76531.37,European region,Western Europe
+2406,Switzerland,2009,82.04,59.09,3.1,1.4,26.48,23.95,10.14,9.97,4.11,7743831,71568.31,European region,Western Europe
+2407,Switzerland,2008,81.99,59.2,3.1,1.5,26.42,23.97,9.53,9.78,3.35,7647675,74175.19,European region,Western Europe
+2408,Switzerland,2007,81.74,61.97,3.2,1.5,26.35,23.98,9.42,9.56,3.64,7551117,64989.16,European region,Western Europe
+2409,Switzerland,2006,81.49,63.65,3.1,1.6,26.28,23.99,9.58,9.34,4.0,7483934,59011.03,European region,Western Europe
+2410,Switzerland,2005,81.24,64.61,3.1,1.8,26.21,24.0,10.06,9.39,4.44,7437115,56242.89,European region,Western Europe
+2411,Switzerland,2004,81.09,67.11,3.2,1.8,26.14,24.01,10.23,9.31,4.32,7389625,54659.46,European region,Western Europe
+2412,Switzerland,2003,80.54,70.37,3.2,2.0,26.07,24.02,10.14,9.31,4.12,7339001,49335.75,European region,Western Europe
+2413,Switzerland,2002,80.39,71.54,3.3,2.0,26.0,24.03,9.88,8.84,2.92,7284753,42458.74,European region,Western Europe
+2414,Switzerland,2001,80.18,73.35,3.4,2.2,25.93,24.03,9.46,8.7,2.49,7229854,39638.79,European region,Western Europe
+2415,Switzerland,2000,79.68,76.41,3.5,2.3,25.87,24.03,9.13,7.84,2.66,7184250,38865.02,European region,Western Europe
+2416,Syrian Arab Republic,2015,65.12,310.4,8.8,9.1,27.47,29.39,2.27,4.49,14.29,19205178,857.42,Asian region,Western Asia (Middle East)
+2417,Syrian Arab Republic,2014,63.15,302.9,8.9,9.5,27.37,29.3,2.45,4.68,14.77,20072232,1071.23,Asian region,Western Asia (Middle East)
+2418,Syrian Arab Republic,2013,63.83,218.8,8.8,9.4,27.28,29.21,2.64,4.87,14.48,21495821,993.74,Asian region,Western Asia (Middle East)
+2419,Syrian Arab Republic,2012,66.77,223.3,8.8,9.5,27.19,29.12,3.05,4.47,13.8,22605577,1910.6,Asian region,Western Asia (Middle East)
+2420,Syrian Arab Republic,2011,73.31,133.4,8.7,7.8,27.09,29.03,2.53,3.74,8.61,22730733,2971.28,Asian region,Western Asia (Middle East)
+2421,Syrian Arab Republic,2010,73.88,108.9,8.7,7.5,27.0,28.94,3.28,5.12,8.61,22337563,2748.32,Asian region,Western Asia (Middle East)
+2422,Syrian Arab Republic,2009,73.85,110.2,8.7,7.5,26.91,28.85,3.55,5.95,8.14,21827220,2479.09,Asian region,Western Asia (Middle East)
+2423,Syrian Arab Republic,2008,73.55,113.5,9.0,7.6,26.82,28.76,3.4,6.84,10.94,21474059,2447.51,Asian region,Western Asia (Middle East)
+2424,Syrian Arab Republic,2007,73.71,114.4,9.5,7.7,26.74,28.67,3.72,6.85,8.42,20703005,1954.56,Asian region,Western Asia (Middle East)
+2425,Syrian Arab Republic,2006,73.35,119.2,9.8,8.0,26.65,28.59,3.78,6.74,8.17,19432009,1736.92,Asian region,Western Asia (Middle East)
+2426,Syrian Arab Republic,2005,72.77,120.8,10.2,8.3,26.57,28.5,4.11,7.34,8.82,18583557,1552.93,Asian region,Western Asia (Middle East)
+2427,Syrian Arab Republic,2004,72.47,125.2,10.6,8.7,26.49,28.41,4.48,6.82,9.52,18084007,1387.25,Asian region,Western Asia (Middle East)
+2428,Syrian Arab Republic,2003,72.41,125.7,11.0,9.3,26.41,28.32,5.12,7.51,10.28,17611356,1239.44,Asian region,Western Asia (Middle East)
+2429,Syrian Arab Republic,2002,71.94,131.9,11.5,9.7,26.33,28.23,4.95,7.21,10.94,17164021,1204.23,Asian region,Western Asia (Middle East)
+2430,Syrian Arab Republic,2001,71.64,134.5,11.9,10.3,26.24,28.13,4.7,6.65,11.63,16727948,1209.77,Asian region,Western Asia (Middle East)
+2431,Syrian Arab Republic,2000,70.76,143.7,12.2,10.5,26.15,28.03,4.55,5.65,9.59,16307654,1161.24,Asian region,Western Asia (Middle East)
+2432,Tajikistan,2015,69.31,121.3,15.9,19.6,25.89,26.33,6.91,6.41,7.55,8524063,970.36,Asian region,Central Asia
+2433,Tajikistan,2014,69.07,124.1,16.5,19.7,25.77,26.16,6.67,7.54,8.21,8326348,1094.43,Asian region,Central Asia
+2434,Tajikistan,2013,68.89,125.9,17.2,20.1,25.65,25.99,6.53,6.83,8.86,8136610,1038.32,Asian region,Central Asia
+2435,Tajikistan,2012,68.48,130.4,17.9,20.5,25.53,25.82,5.98,6.55,9.52,7956382,959.36,Asian region,Central Asia
+2436,Tajikistan,2011,68.15,134.5,18.9,21.2,25.42,25.66,5.86,5.43,10.19,7784819,837.88,Asian region,Central Asia
+2437,Tajikistan,2010,67.74,138.4,19.9,21.8,25.3,25.5,5.74,4.52,10.84,7621779,740.28,Asian region,Central Asia
+2438,Tajikistan,2009,68.04,141.2,20.3,22.9,25.19,25.34,5.86,4.57,11.5,7468596,666.72,Asian region,Central Asia
+2439,Tajikistan,2008,67.69,144.0,21.1,24.6,25.08,25.19,5.91,6.74,11.87,7324627,704.65,Asian region,Central Asia
+2440,Tajikistan,2007,67.22,148.0,21.8,26.9,24.97,25.04,5.54,5.33,12.25,7188391,517.43,Asian region,Central Asia
+2441,Tajikistan,2006,67.01,151.1,22.5,29.5,24.87,24.89,5.03,4.27,12.63,7057417,401.03,Asian region,Central Asia
+2442,Tajikistan,2005,66.51,154.1,23.2,32.9,24.77,24.75,5.21,4.3,13.0,6929145,333.71,Asian region,Central Asia
+2443,Tajikistan,2004,66.03,153.5,24.1,37.2,24.68,24.62,4.8,4.41,13.36,6801204,305.27,Asian region,Central Asia
+2444,Tajikistan,2003,65.55,157.2,25.1,41.9,24.59,24.48,4.7,4.03,13.75,6672492,233.09,Asian region,Central Asia
+2445,Tajikistan,2002,64.85,163.9,26.2,47.4,24.5,24.36,4.44,4.21,14.15,6541755,186.66,Asian region,Central Asia
+2446,Tajikistan,2001,64.06,170.4,27.3,53.2,24.43,24.23,4.58,4.76,14.57,6408810,168.64,Asian region,Central Asia
+2447,Tajikistan,2000,63.26,176.1,28.2,59.2,24.35,24.11,4.26,4.62,14.97,6272998,137.18,Asian region,Central Asia
+2448,Thailand,2015,77.72,141.4,5.8,4.8,23.89,25.01,3.85,12.53,0.6,70294397,5708.79,Asian region,Southeast Asia
+2449,Thailand,2014,77.42,142.3,6.1,4.9,23.77,24.91,3.68,12.66,0.58,69960943,5822.38,Asian region,Southeast Asia
+2450,Thailand,2013,77.08,142.7,6.3,5.2,23.66,24.81,3.45,12.16,0.25,69578602,6041.13,Asian region,Southeast Asia
+2451,Thailand,2012,76.77,144.6,6.7,5.5,23.54,24.71,3.52,12.64,0.58,69157023,5748.63,Asian region,Southeast Asia
+2452,Thailand,2011,76.42,146.7,7.0,5.7,23.43,24.6,3.57,12.84,0.66,68712846,5396.64,Asian region,Southeast Asia
+2453,Thailand,2010,76.13,149.1,7.4,5.8,23.32,24.5,3.39,11.56,0.62,68270489,4996.37,Asian region,Southeast Asia
+2454,Thailand,2009,75.84,150.8,7.8,6.2,23.21,24.39,3.62,12.46,1.49,67813654,4154.19,Asian region,Southeast Asia
+2455,Thailand,2008,75.49,157.4,8.1,6.6,23.1,24.29,3.46,13.5,1.18,67328239,4327.8,Asian region,Southeast Asia
+2456,Thailand,2007,75.19,163.8,8.5,6.9,22.99,24.19,3.19,12.38,1.18,66826754,3934.69,Asian region,Southeast Asia
+2457,Thailand,2006,74.94,170.2,9.0,7.5,22.89,24.09,3.1,12.12,1.22,66319525,3343.79,Asian region,Southeast Asia
+2458,Thailand,2005,73.82,177.8,9.5,7.9,22.79,24.0,3.16,10.5,1.35,65821360,2876.25,Asian region,Southeast Asia
+2459,Thailand,2004,73.08,188.8,9.8,8.4,22.69,23.91,3.14,10.71,1.51,65311166,2647.26,Asian region,Southeast Asia
+2460,Thailand,2003,73.16,191.3,10.3,8.7,22.6,23.82,3.24,11.46,1.54,64776956,2350.85,Asian region,Southeast Asia
+2461,Thailand,2002,72.93,195.9,10.8,9.0,22.5,23.73,3.33,8.72,1.82,64222580,2091.18,Asian region,Southeast Asia
+2462,Thailand,2001,72.61,195.3,11.5,9.7,22.42,23.65,3.03,8.38,2.6,63649892,1889.97,Asian region,Southeast Asia
+2463,Thailand,2000,72.32,203.9,12.0,10.3,22.33,23.57,3.1,9.25,2.39,63066603,2004.11,Asian region,Southeast Asia
+2464,The former Yugoslav republic of Macedonia,2015,75.4,96.12,9.1,3.0,27.37,26.34,6.34,12.78,26.4,1912430,5262.69,European region,Southern Europe
+2465,The former Yugoslav republic of Macedonia,2014,75.45,97.57,8.2,3.1,27.27,26.28,6.29,12.67,28.22,1917557,5925.39,European region,Southern Europe
+2466,The former Yugoslav republic of Macedonia,2013,75.4,98.06,7.5,3.3,27.17,26.21,6.72,13.93,29.02,1922716,5626.26,European region,Southern Europe
+2467,The former Yugoslav republic of Macedonia,2012,74.9,101.9,7.0,3.3,27.07,26.15,6.61,12.43,31.1,1929821,5049.83,European region,Southern Europe
+2468,The former Yugoslav republic of Macedonia,2011,75.1,101.7,6.9,3.4,26.98,26.09,6.52,12.74,31.5,1937398,5416.87,European region,Southern Europe
+2469,The former Yugoslav republic of Macedonia,2010,75.0,106.0,6.9,3.5,26.89,26.04,6.71,12.51,33.14,1946298,4833.37,European region,Southern Europe
+2470,The former Yugoslav republic of Macedonia,2009,74.45,108.7,7.2,3.7,26.8,25.98,6.53,12.19,32.35,1958782,4799.79,European region,Southern Europe
+2471,The former Yugoslav republic of Macedonia,2008,74.4,108.3,7.6,3.8,26.71,25.92,6.55,12.54,33.93,1971493,5026.42,European region,Southern Europe
+2472,The former Yugoslav republic of Macedonia,2007,73.8,116.2,8.3,4.1,26.62,25.87,6.57,12.85,35.23,1982933,4204.11,European region,Southern Europe
+2473,The former Yugoslav republic of Macedonia,2006,73.9,117.4,8.7,4.6,26.53,25.81,7.38,13.4,36.39,1994287,3440.44,European region,Southern Europe
+2474,The former Yugoslav republic of Macedonia,2005,73.7,115.5,8.9,5.1,26.45,25.76,7.68,13.47,37.32,2005330,3120.98,European region,Southern Europe
+2475,The former Yugoslav republic of Macedonia,2004,73.6,116.4,8.9,5.3,26.36,25.72,8.47,13.83,37.16,2016186,2818.58,European region,Southern Europe
+2476,The former Yugoslav republic of Macedonia,2003,73.24,123.1,8.5,6.0,26.28,25.67,9.01,13.76,36.69,2022725,2445.36,European region,Southern Europe
+2477,The former Yugoslav republic of Macedonia,2002,73.04,125.9,8.4,6.3,26.2,25.63,8.98,12.39,31.94,2020157,1989.14,European region,Southern Europe
+2478,The former Yugoslav republic of Macedonia,2001,73.44,125.6,8.7,6.7,26.12,25.59,8.38,12.2,30.52,2034882,1823.02,European region,Southern Europe
+2479,The former Yugoslav republic of Macedonia,2000,72.95,121.9,9.2,7.1,26.04,25.55,8.87,14.71,32.2,2026350,1861.9,European region,Southern Europe
+2480,Timor-Leste,2015,67.14,164.1,21.6,28.7,21.25,21.27,7.67,4.51,4.45,1205813,1322.93,Asian region,Southeast Asia
+2481,Timor-Leste,2014,66.79,164.9,22.2,30.2,21.15,21.16,7.6,3.72,4.23,1184830,1221.72,Asian region,Southeast Asia
+2482,Timor-Leste,2013,66.44,164.6,22.7,31.7,21.04,21.05,8.53,4.62,4.01,1161555,1201.6,Asian region,Southeast Asia
+2483,Timor-Leste,2012,66.08,164.1,23.1,33.2,20.94,20.95,6.99,3.21,3.77,1137676,1020.11,Asian region,Southeast Asia
+2484,Timor-Leste,2011,65.7,164.6,23.8,34.7,20.84,20.84,6.87,2.68,3.53,1112976,936.71,Asian region,Southeast Asia
+2485,Timor-Leste,2010,65.3,165.2,24.4,36.3,20.74,20.74,6.47,2.71,3.3,1088486,810.22,Asian region,Southeast Asia
+2486,Timor-Leste,2009,64.85,167.7,25.3,38.4,20.65,20.64,7.31,2.66,3.3,1065540,682.22,Asian region,Southeast Asia
+2487,Timor-Leste,2008,64.33,167.3,25.9,40.9,20.56,20.54,6.97,2.78,3.37,1043076,621.74,Asian region,Southeast Asia
+2488,Timor-Leste,2007,63.72,169.3,26.8,43.5,20.48,20.45,5.65,1.27,3.41,1019362,532.49,Asian region,Southeast Asia
+2489,Timor-Leste,2006,63.07,171.5,27.9,46.9,20.39,20.37,6.0,4.0,3.46,994564,456.27,Asian region,Southeast Asia
+2490,Timor-Leste,2005,62.33,171.3,29.1,50.8,20.31,20.28,5.28,3.63,3.45,969313,476.9,Asian region,Southeast Asia
+2491,Timor-Leste,2004,61.63,176.5,30.5,55.0,20.24,20.2,4.26,2.25,3.5,945989,465.94,Asian region,Southeast Asia
+2492,Timor-Leste,2003,60.87,178.2,31.8,59.0,20.16,20.12,2.84,1.62,3.41,926721,529.22,Asian region,Southeast Asia
+2493,Timor-Leste,2002,60.15,180.9,33.5,63.2,20.09,20.04,4.13,2.86,3.33,909639,516.09,Asian region,Southeast Asia
+2494,Timor-Leste,2001,59.36,182.1,35.2,67.2,20.02,19.96,4.13,2.86,3.48,893001,534.65,Asian region,Southeast Asia
+2495,Timor-Leste,2000,58.57,184.2,36.7,70.8,19.95,19.89,4.13,2.86,3.6,878360,417.74,Asian region,Southeast Asia
+2496,Togo,2015,59.4,285.6,26.2,49.8,22.55,24.52,4.96,4.04,2.2,7473229,770.14,African region,West Africa
+2497,Togo,2014,58.85,290.3,26.7,51.6,22.51,24.4,5.08,4.56,2.14,7288383,877.19,African region,West Africa
+2498,Togo,2013,58.68,293.6,27.3,54.3,22.48,24.28,4.94,4.69,2.08,7106229,847.39,African region,West Africa
+2499,Togo,2012,58.07,298.3,27.6,55.7,22.44,24.15,4.81,6.11,2.03,6926635,781.55,African region,West Africa
+2500,Togo,2011,57.92,306.0,28.1,57.0,22.4,24.03,4.55,5.67,1.98,6748672,803.48,African region,West Africa
+2501,Togo,2010,57.3,317.8,28.7,59.0,22.35,23.9,4.45,7.45,2.38,6571855,722.23,African region,West Africa
+2502,Togo,2009,57.01,330.0,29.5,60.5,22.31,23.77,4.08,4.78,2.85,6398624,737.95,African region,West Africa
+2503,Togo,2008,56.7,338.4,30.4,62.5,22.25,23.63,3.84,4.84,3.29,6222482,735.86,African region,West Africa
+2504,Togo,2007,56.51,339.8,31.2,63.5,22.19,23.5,3.87,4.34,3.82,6047537,621.73,African region,West Africa
+2505,Togo,2006,56.22,339.0,32.0,64.9,22.12,23.35,3.45,3.83,4.23,5874240,565.33,African region,West Africa
+2506,Togo,2005,55.96,347.3,32.6,66.3,22.05,23.21,3.3,3.8,4.15,5711597,564.1,African region,West Africa
+2507,Togo,2004,55.57,348.8,33.3,68.8,21.97,23.06,3.09,4.21,4.0,5565218,573.48,African region,West Africa
+2508,Togo,2003,55.64,352.9,34.0,70.5,21.89,22.9,2.94,4.24,3.96,5421001,551.19,African region,West Africa
+2509,Togo,2002,55.31,349.0,34.8,71.5,21.8,22.74,2.9,4.05,4.08,5281538,456.34,African region,West Africa
+2510,Togo,2001,54.86,344.4,35.5,81.6,21.72,22.58,2.89,2.99,4.1,5145426,406.87,African region,West Africa
+2511,Togo,2000,54.74,338.6,36.1,87.7,21.63,22.42,2.79,2.44,4.15,5008035,420.69,African region,West Africa
+2512,Tonga,2015,70.61,168.9,6.9,10.0,30.68,33.93,4.47,7.38,2.03,106122,4117.93,Oceania region,Polynesia
+2513,Tonga,2014,70.54,170.0,7.2,10.1,30.64,33.86,5.01,9.18,1.92,106626,4125.43,Oceania region,Polynesia
+2514,Tonga,2013,70.5,170.7,7.0,10.4,30.6,33.78,3.98,8.11,1.76,107089,4208.19,Oceania region,Polynesia
+2515,Tonga,2012,70.44,171.4,7.4,10.2,30.56,33.7,4.8,8.69,1.65,107502,4378.57,Oceania region,Polynesia
+2516,Tonga,2011,70.38,172.1,7.2,10.5,30.52,33.63,3.82,8.4,1.61,107611,3852.14,Oceania region,Polynesia
+2517,Tonga,2010,70.32,172.8,7.5,10.1,30.48,33.55,4.82,10.07,1.52,107383,3416.11,Oceania region,Polynesia
+2518,Tonga,2009,70.01,211.8,7.4,9.9,30.45,33.48,3.93,12.72,1.41,107144,2915.49,Oceania region,Polynesia
+2519,Tonga,2008,70.16,173.0,7.4,9.8,30.41,33.4,6.06,12.08,1.25,106932,3221.08,Oceania region,Polynesia
+2520,Tonga,2007,70.05,173.3,6.9,9.7,30.38,33.32,4.73,13.68,1.18,106638,2799.37,Oceania region,Polynesia
+2521,Tonga,2006,69.89,173.4,6.9,9.8,30.35,33.25,5.47,11.16,1.09,106190,2751.96,Oceania region,Polynesia
+2522,Tonga,2005,69.77,174.8,6.9,9.3,30.32,33.17,4.39,13.11,2.57,105633,2478.43,Oceania region,Polynesia
+2523,Tonga,2004,69.67,176.2,6.9,9.6,30.3,33.08,4.51,12.74,3.94,105036,2195.99,Oceania region,Polynesia
+2524,Tonga,2003,69.5,177.2,7.0,9.6,30.27,33.0,3.44,12.09,5.18,104410,1937.04,Oceania region,Polynesia
+2525,Tonga,2002,69.33,178.4,7.6,9.3,30.24,32.9,3.59,12.14,4.84,103804,1760.67,Oceania region,Polynesia
+2526,Tonga,2001,69.13,179.5,7.6,9.5,30.21,32.81,3.43,12.74,4.48,103210,1754.84,Oceania region,Polynesia
+2527,Tonga,2000,68.98,180.6,7.6,9.8,30.18,32.7,2.9,11.41,4.12,102603,1996.52,Oceania region,Polynesia
+2528,Trinidad and Tobago,2015,74.5,152.9,17.6,10.2,26.69,28.75,5.65,8.31,2.43,1460177,18508.77,American region,Caribbean
+2529,Trinidad and Tobago,2014,74.22,152.2,18.2,10.4,26.6,28.62,4.87,7.47,2.48,1450661,20473.4,American region,Caribbean
+2530,Trinidad and Tobago,2013,73.96,150.5,18.6,10.6,26.51,28.49,4.8,7.89,2.68,1440729,19927.4,American region,Caribbean
+2531,Trinidad and Tobago,2012,73.72,146.5,19.1,11.0,26.42,28.36,4.63,7.66,3.72,1430377,19110.05,American region,Caribbean
+2532,Trinidad and Tobago,2011,73.28,152.6,19.6,10.8,26.34,28.24,4.72,8.01,3.42,1420020,17910.32,American region,Caribbean
+2533,Trinidad and Tobago,2010,72.72,159.1,20.1,11.1,26.25,28.11,5.08,8.04,4.03,1410296,15711.56,American region,Caribbean
+2534,Trinidad and Tobago,2009,73.13,165.6,20.5,11.1,26.16,27.99,5.49,7.05,5.28,1401191,13682.76,American region,Caribbean
+2535,Trinidad and Tobago,2008,71.47,174.8,20.8,11.4,26.07,27.86,3.66,6.55,4.63,1392803,20011.15,American region,Caribbean
+2536,Trinidad and Tobago,2007,71.65,168.6,21.0,11.5,25.98,27.74,4.15,7.45,5.54,1384861,15627.29,American region,Caribbean
+2537,Trinidad and Tobago,2006,71.26,169.6,20.9,11.3,25.9,27.62,4.15,5.9,6.27,1376919,13340.92,American region,Caribbean
+2538,Trinidad and Tobago,2005,71.31,175.9,21.1,11.3,25.81,27.49,4.43,8.03,7.95,1369075,11673.78,American region,Caribbean
+2539,Trinidad and Tobago,2004,71.08,179.3,21.0,11.3,25.72,27.37,4.31,8.27,8.33,1361172,9756.5,American region,Caribbean
+2540,Trinidad and Tobago,2003,69.73,184.3,21.0,11.4,25.62,27.24,4.19,8.56,10.48,1353548,8352.46,American region,Caribbean
+2541,Trinidad and Tobago,2002,70.49,182.8,21.2,11.4,25.53,27.11,4.72,8.05,10.39,1345964,6692.8,American region,Caribbean
+2542,Trinidad and Tobago,2001,69.65,192.3,21.0,11.9,25.43,26.98,4.03,7.02,10.88,1338567,6592.78,American region,Caribbean
+2543,Trinidad and Tobago,2000,69.1,193.8,21.0,11.5,25.33,26.84,4.23,6.79,12.1,1332203,6120.94,American region,Caribbean
+2544,Tunisia,2015,75.69,87.69,8.0,5.9,25.62,27.25,6.21,12.18,15.16,11557779,3960.92,African region,Northern Africa
+2545,Tunisia,2014,75.65,88.06,8.3,6.0,25.52,27.19,6.45,13.54,14.26,11428948,4398.64,African region,Northern Africa
+2546,Tunisia,2013,75.65,88.66,8.6,6.2,25.42,27.14,6.51,12.5,15.93,11300284,4308.34,African region,Northern Africa
+2547,Tunisia,2012,75.55,89.3,9.0,6.4,25.31,27.08,6.29,12.64,17.63,11174383,4233.92,African region,Northern Africa
+2548,Tunisia,2011,75.46,91.23,9.3,6.5,25.21,27.03,6.12,12.39,18.33,11032528,4361.95,African region,Northern Africa
+2549,Tunisia,2010,75.42,91.36,9.9,7.0,25.11,26.98,5.61,13.03,13.05,10895063,4241.01,African region,Northern Africa
+2550,Tunisia,2009,75.27,92.54,10.4,7.1,25.01,26.92,5.41,12.08,13.29,10784504,4029.46,African region,Northern Africa
+2551,Tunisia,2008,75.18,93.73,10.9,7.8,24.91,26.87,5.16,11.84,12.44,10680380,4200.17,African region,Northern Africa
+2552,Tunisia,2007,75.07,95.15,11.7,8.2,24.81,26.82,5.18,11.85,12.36,10580395,3678.06,African region,Northern Africa
+2553,Tunisia,2006,74.92,96.24,12.3,8.8,24.72,26.77,5.13,11.73,12.51,10483558,3279.1,African region,Northern Africa
+2554,Tunisia,2005,74.76,97.58,13.2,9.6,24.63,26.72,5.15,11.35,12.87,10388344,3106.58,African region,Northern Africa
+2555,Tunisia,2004,74.49,98.91,13.9,10.6,24.54,26.67,5.2,11.55,14.23,10292225,3029.85,African region,Northern Africa
+2556,Tunisia,2003,74.31,100.3,14.8,11.1,24.44,26.61,5.21,11.41,14.51,10193798,2693.2,African region,Northern Africa
+2557,Tunisia,2002,74.06,101.8,15.9,12.2,24.35,26.55,5.12,10.99,14.55,10094561,2292.48,African region,Northern Africa
+2558,Tunisia,2001,73.82,102.7,16.9,13.0,24.25,26.48,4.86,10.58,14.4,9995123,2207.66,African region,Northern Africa
+2559,Tunisia,2000,73.69,104.2,17.9,14.0,24.15,26.41,4.81,10.54,14.94,9893316,2170.51,African region,Northern Africa
+2560,Turkey,2015,76.65,87.5,7.2,6.4,27.19,28.88,4.12,9.69,10.3,78218479,11050.0,Asian region,Western Asia (Middle East)
+2561,Turkey,2014,76.56,88.52,7.5,6.9,27.11,28.81,4.33,10.15,9.9,77181884,12165.22,Asian region,Western Asia (Middle East)
+2562,Turkey,2013,76.3,88.32,7.6,7.8,27.03,28.75,4.37,10.09,9.71,76147624,12578.19,Asian region,Western Asia (Middle East)
+2563,Turkey,2012,75.68,88.43,7.8,8.7,26.95,28.68,4.44,10.3,9.21,75175827,11713.28,Asian region,Western Asia (Middle East)
+2564,Turkey,2011,74.94,88.8,8.5,9.4,26.87,28.61,4.65,11.12,9.79,74223629,11300.79,Asian region,Western Asia (Middle East)
+2565,Turkey,2010,75.07,89.49,9.2,9.9,26.79,28.55,5.02,10.92,11.88,73142150,10622.7,Asian region,Western Asia (Middle East)
+2566,Turkey,2009,74.76,89.9,10.2,10.4,26.71,28.48,5.49,11.67,14.03,72039206,9013.0,Asian region,Western Asia (Middle East)
+2567,Turkey,2008,74.45,87.94,11.0,11.2,26.63,28.41,5.22,11.09,10.96,71051678,10843.5,Asian region,Western Asia (Middle East)
+2568,Turkey,2007,74.19,89.01,11.8,11.9,26.56,28.34,5.24,10.77,10.28,70158112,9711.22,Asian region,Western Asia (Middle East)
+2569,Turkey,2006,73.84,90.88,12.8,12.8,26.48,28.27,5.15,10.41,10.23,69601333,8003.81,Asian region,Western Asia (Middle East)
+2570,Turkey,2005,73.53,93.02,13.7,13.8,26.4,28.21,4.89,10.32,10.64,68704715,7369.43,Asian region,Western Asia (Middle East)
+2571,Turkey,2004,73.24,95.37,14.7,14.9,26.32,28.14,4.91,10.19,10.84,67785075,6031.79,Asian region,Western Asia (Middle East)
+2572,Turkey,2003,72.89,99.27,15.6,16.0,26.23,28.07,5.01,9.29,10.54,66867327,4704.77,Asian region,Western Asia (Middle East)
+2573,Turkey,2002,72.58,102.1,16.7,17.4,26.13,27.99,5.06,8.64,10.36,65988663,3640.76,Asian region,Western Asia (Middle East)
+2574,Turkey,2001,72.23,107.6,18.0,18.8,26.04,27.91,4.89,7.46,8.38,65072018,3100.46,Asian region,Western Asia (Middle East)
+2575,Turkey,2000,71.86,113.9,19.0,20.2,25.94,27.82,4.6,7.19,6.5,64113547,4278.26,Asian region,Western Asia (Middle East)
+2576,Turkmenistan,2015,68.78,195.0,22.0,27.6,26.56,26.67,5.12,8.71,4.02,5766431,6208.3,Asian region,Central Asia
+2577,Turkmenistan,2014,68.61,195.4,22.7,28.4,26.44,26.53,4.31,8.71,4.01,5663152,7685.51,Asian region,Central Asia
+2578,Turkmenistan,2013,68.74,192.7,23.1,29.4,26.32,26.4,3.94,8.71,4.0,5560095,7049.8,Asian region,Central Asia
+2579,Turkmenistan,2012,68.72,188.2,23.5,30.1,26.21,26.26,3.37,8.71,4.0,5458682,6441.89,Asian region,Central Asia
+2580,Turkmenistan,2011,68.57,188.6,23.8,31.1,26.09,26.13,3.25,8.7,4.0,5360811,5453.16,Asian region,Central Asia
+2581,Turkmenistan,2010,68.29,189.3,24.5,32.4,25.97,26.0,3.24,8.71,4.0,5267970,4286.88,Asian region,Central Asia
+2582,Turkmenistan,2009,67.96,197.9,25.0,33.8,25.85,25.87,2.85,8.71,4.0,5180957,3901.67,Asian region,Central Asia
+2583,Turkmenistan,2008,67.41,219.0,25.3,35.7,25.74,25.74,3.49,8.71,4.85,5100083,3778.67,Asian region,Central Asia
+2584,Turkmenistan,2007,66.9,229.0,25.8,37.7,25.63,25.61,3.13,10.32,5.7,5024894,2520.29,Asian region,Central Asia
+2585,Turkmenistan,2006,66.5,235.1,26.6,39.5,25.52,25.49,4.98,10.34,6.58,4954029,2074.41,Asian region,Central Asia
+2586,Turkmenistan,2005,66.07,239.8,27.2,41.4,25.42,25.36,5.65,10.27,7.46,4885775,1658.67,Asian region,Central Asia
+2587,Turkmenistan,2004,66.08,229.7,27.8,43.3,25.32,25.24,6.26,12.82,8.37,4819792,1418.81,Asian region,Central Asia
+2588,Turkmenistan,2003,65.75,220.4,28.4,44.8,25.22,25.12,5.04,14.0,9.24,4758988,1256.03,Asian region,Central Asia
+2589,Turkmenistan,2002,65.39,216.3,28.6,46.8,25.13,25.0,4.16,13.47,10.1,4698968,949.58,Asian region,Central Asia
+2590,Turkmenistan,2001,65.16,210.8,29.3,48.9,25.04,24.89,4.82,13.36,10.9,4635094,762.61,Asian region,Central Asia
+2591,Turkmenistan,2000,65.03,213.5,29.9,51.2,24.96,24.77,4.08,13.34,11.75,4569132,635.71,Asian region,Central Asia
+2592,Uganda,2015,61.09,263.1,21.6,32.0,21.54,23.25,5.07,5.08,2.79,37477356,864.18,African region,East Africa
+2593,Uganda,2014,60.41,276.0,22.3,34.7,21.46,23.15,5.34,7.01,2.4,36336539,897.51,African region,East Africa
+2594,Uganda,2013,59.76,289.5,22.9,37.4,21.39,23.05,5.78,7.32,1.91,35273570,819.76,African region,East Africa
+2595,Uganda,2012,58.82,304.5,23.7,41.2,21.32,22.95,6.11,7.05,3.55,34273295,796.71,African region,East Africa
+2596,Uganda,2011,57.96,318.2,24.3,46.0,21.24,22.85,6.7,6.9,3.53,33295738,837.1,African region,East Africa
+2597,Uganda,2010,57.06,331.7,24.9,50.1,21.17,22.75,6.81,7.11,3.62,32341728,824.74,African region,East Africa
+2598,Uganda,2009,56.49,345.4,25.2,55.0,21.11,22.66,5.79,7.03,3.6,31412520,799.93,African region,East Africa
+2599,Uganda,2008,55.82,363.6,25.6,59.4,21.04,22.56,5.45,7.25,3.05,30509862,473.3,African region,East Africa
+2600,Uganda,2007,55.24,381.6,25.8,64.6,20.97,22.47,6.11,7.79,2.68,29629804,401.71,African region,East Africa
+2601,Uganda,2006,54.37,390.3,25.9,70.1,20.9,22.38,6.46,7.16,2.27,28773227,346.77,African region,East Africa
+2602,Uganda,2005,52.98,408.9,26.2,76.3,20.83,22.28,5.81,7.13,1.9,27946588,330.6,African region,East Africa
+2603,Uganda,2004,51.55,440.8,26.7,82.7,20.76,22.19,4.7,8.77,2.71,27146084,292.47,African region,East Africa
+2604,Uganda,2003,50.37,467.4,27.1,96.8,20.7,22.1,4.3,8.95,3.6,26354736,250.69,African region,East Africa
+2605,Uganda,2002,49.65,483.0,27.6,105.8,20.63,22.0,4.77,8.75,3.5,25545090,241.87,African region,East Africa
+2606,Uganda,2001,49.01,495.9,28.5,108.1,20.56,21.9,5.05,8.33,3.52,24763325,235.85,African region,East Africa
+2607,Uganda,2000,48.34,509.0,29.3,115.7,20.49,21.8,5.08,8.33,3.52,24020697,257.83,African region,East Africa
+2608,Ukraine,2015,71.19,186.2,5.5,3.9,27.01,26.38,7.78,8.57,9.14,45167350,2124.66,European region,Eastern Europe
+2609,Ukraine,2014,71.19,208.1,5.8,4.1,26.93,26.36,7.2,7.72,9.27,45272155,3104.65,European region,Eastern Europe
+2610,Ukraine,2013,71.16,194.3,6.1,4.2,26.86,26.34,6.94,6.94,7.17,45489648,4187.74,European region,Eastern Europe
+2611,Ukraine,2012,70.94,203.6,6.3,4.3,26.78,26.32,7.12,7.64,7.53,45593342,4004.79,European region,Eastern Europe
+2612,Ukraine,2011,70.81,203.6,6.6,4.6,26.71,26.29,6.82,7.49,7.85,45706086,3704.84,European region,Eastern Europe
+2613,Ukraine,2010,70.27,213.7,6.9,4.8,26.63,26.27,6.81,7.5,8.1,45870741,3078.41,European region,Eastern Europe
+2614,Ukraine,2009,69.19,231.6,7.2,4.8,26.55,26.24,6.61,7.92,8.84,46053331,2639.38,European region,Eastern Europe
+2615,Ukraine,2008,68.25,271.3,7.6,5.0,26.47,26.21,5.5,6.78,6.36,46258189,4066.53,European region,Eastern Europe
+2616,Ukraine,2007,68.22,274.5,7.9,5.1,26.39,26.18,6.02,8.16,6.35,46509355,3197.93,European region,Eastern Europe
+2617,Ukraine,2006,68.08,265.4,8.3,5.4,26.3,26.14,6.42,8.7,6.81,46787786,2391.32,European region,Eastern Europe
+2618,Ukraine,2005,67.96,279.8,8.5,5.4,26.21,26.1,6.35,8.43,7.18,47105171,1894.46,European region,Eastern Europe
+2619,Ukraine,2004,68.19,271.8,8.9,5.9,26.12,26.06,6.17,8.18,8.59,47451626,1416.6,European region,Eastern Europe
+2620,Ukraine,2003,68.21,263.1,9.5,6.2,26.02,26.01,6.55,9.39,9.06,47812949,1087.79,European region,Eastern Europe
+2621,Ukraine,2002,68.28,262.9,10.0,6.7,25.93,25.97,5.99,8.11,10.14,48202470,911.91,European region,Eastern Europe
+2622,Ukraine,2001,67.84,255.8,10.4,7.5,25.84,25.92,5.73,7.63,11.06,48662400,807.8,European region,Eastern Europe
+2623,Ukraine,2000,67.68,257.5,11.2,7.9,25.76,25.87,5.31,7.08,11.71,49176500,658.34,European region,Eastern Europe
+2624,United Arab Emirates,2015,79.22,45.14,4.5,4.3,28.1,29.58,3.47,9.07,1.79,8916899,41525.14,Asian region,Western Asia (Middle East)
+2625,United Arab Emirates,2014,79.04,45.21,4.3,4.1,28.02,29.51,3.53,7.78,1.96,8835951,46865.96,Asian region,Western Asia (Middle East)
+2626,United Arab Emirates,2013,78.85,46.4,4.3,4.0,27.93,29.45,3.5,8.53,2.07,8751847,45729.61,Asian region,Western Asia (Middle East)
+2627,United Arab Emirates,2012,78.72,47.74,4.3,3.8,27.84,29.39,3.34,8.53,2.27,8664969,44386.79,Asian region,Western Asia (Middle East)
+2628,United Arab Emirates,2011,78.52,48.94,4.3,3.8,27.76,29.32,3.67,8.53,2.57,8575205,42078.61,Asian region,Western Asia (Middle East)
+2629,United Arab Emirates,2010,78.33,49.69,4.3,3.8,27.67,29.26,3.88,8.53,2.79,8481771,35392.26,Asian region,Western Asia (Middle East)
+2630,United Arab Emirates,2009,78.0,50.85,4.3,3.8,27.59,29.2,4.05,8.53,2.92,7992644,31722.59,Asian region,Western Asia (Middle East)
+2631,United Arab Emirates,2008,77.49,52.43,4.5,3.9,27.5,29.14,2.93,8.53,2.8,6988685,45140.77,Asian region,Western Asia (Middle East)
+2632,United Arab Emirates,2007,77.13,53.99,4.7,4.0,27.42,29.08,2.57,8.53,2.92,5872624,43918.38,Asian region,Western Asia (Middle East)
+2633,United Arab Emirates,2006,76.91,55.5,4.8,4.0,27.34,29.02,2.33,8.53,2.96,4898954,45339.59,Asian region,Western Asia (Middle East)
+2634,United Arab Emirates,2005,76.68,56.9,4.9,4.1,27.27,28.96,2.32,8.38,3.12,4280993,42190.55,Asian region,Western Asia (Middle East)
+2635,United Arab Emirates,2004,76.45,58.37,5.1,4.3,27.19,28.9,2.46,7.94,2.96,3993339,37017.74,Asian region,Western Asia (Middle East)
+2636,United Arab Emirates,2003,76.22,59.9,5.2,4.4,27.11,28.83,2.65,8.09,2.9,3813443,32607.37,Asian region,Western Asia (Middle East)
+2637,United Arab Emirates,2002,74.9,61.37,5.5,4.8,27.03,28.77,2.72,7.8,2.66,3633655,30221.97,Asian region,Western Asia (Middle East)
+2638,United Arab Emirates,2001,74.64,62.81,5.7,4.9,26.95,28.69,2.48,7.58,2.44,3454198,29909.01,Asian region,Western Asia (Middle East)
+2639,United Arab Emirates,2000,74.38,64.29,5.8,5.3,26.87,28.62,2.37,7.57,2.25,3275333,31855.5,Asian region,Western Asia (Middle East)
+2640,United Kingdom of Great Britain and Northern Ireland,2015,80.96,69.04,2.5,1.7,27.45,27.12,9.8,18.73,5.3,65116219,44964.39,European region,Northern Europe
+2641,United Kingdom of Great Britain and Northern Ireland,2014,81.3,68.45,2.6,1.6,27.43,27.09,9.86,18.49,6.11,64602298,47439.62,European region,Northern Europe
+2642,United Kingdom of Great Britain and Northern Ireland,2013,81.0,69.21,2.7,1.7,27.41,27.06,9.87,18.2,7.52,64128273,43426.3,European region,Northern Europe
+2643,United Kingdom of Great Britain and Northern Ireland,2012,80.9,68.85,2.8,1.9,27.38,27.02,9.95,17.68,7.88,63700215,42497.34,European region,Northern Europe
+2644,United Kingdom of Great Britain and Northern Ireland,2011,80.95,71.67,3.0,1.9,27.36,26.99,9.92,17.63,8.04,63258810,42109.64,European region,Northern Europe
+2645,United Kingdom of Great Britain and Northern Ireland,2010,80.4,74.63,3.2,2.0,27.32,26.95,9.93,17.07,7.79,62766365,39598.96,European region,Northern Europe
+2646,United Kingdom of Great Britain and Northern Ireland,2009,80.05,76.53,3.1,2.2,27.28,26.91,10.05,17.29,7.54,62276270,38744.13,European region,Northern Europe
+2647,United Kingdom of Great Britain and Northern Ireland,2008,79.6,78.82,3.3,2.3,27.23,26.86,9.03,16.62,5.62,61806995,47396.12,European region,Northern Europe
+2648,United Kingdom of Great Britain and Northern Ireland,2007,79.45,79.1,3.3,2.3,27.17,26.8,8.62,17.2,5.26,61322463,50397.69,European region,Northern Europe
+2649,United Kingdom of Great Britain and Northern Ireland,2006,79.25,80.26,3.3,2.3,27.11,26.74,8.63,17.27,5.35,60846820,44512.46,European region,Northern Europe
+2650,United Kingdom of Great Britain and Northern Ireland,2005,79.05,80.69,3.4,2.5,27.03,26.68,8.36,16.57,4.75,60401206,42104.79,European region,Northern Europe
+2651,United Kingdom of Great Britain and Northern Ireland,2004,78.75,81.78,3.4,2.6,26.95,26.61,8.31,16.72,4.59,59987905,40366.89,European region,Northern Europe
+2652,United Kingdom of Great Britain and Northern Ireland,2003,78.45,84.69,3.6,2.7,26.86,26.53,8.06,16.36,4.81,59647577,34442.69,European region,Northern Europe
+2653,United Kingdom of Great Britain and Northern Ireland,2002,78.14,85.6,3.6,2.7,26.77,26.44,7.65,16.29,5.04,59370479,30077.74,European region,Northern Europe
+2654,United Kingdom of Great Britain and Northern Ireland,2001,77.99,87.21,3.8,2.7,26.66,26.35,7.34,15.87,4.7,59119673,27906.57,European region,Northern Europe
+2655,United Kingdom of Great Britain and Northern Ireland,2000,77.74,86.46,3.6,2.8,26.56,26.25,7.13,15.6,5.56,58892514,28280.93,European region,Northern Europe
+2656,United Republic of Tanzania,2015,64.65,242.0,22.0,34.7,22.37,24.05,3.65,7.33,2.16,52542823,929.8,African region,East Africa
+2657,United Republic of Tanzania,2014,63.87,249.9,22.5,36.9,22.34,23.95,4.01,6.94,2.12,50814552,1013.43,African region,East Africa
+2658,United Republic of Tanzania,2013,62.96,262.2,23.2,38.5,22.3,23.84,4.65,6.31,2.93,49253643,954.66,African region,East Africa
+2659,United Republic of Tanzania,2012,62.03,281.6,23.7,40.5,22.27,23.74,5.02,6.01,3.22,47786137,854.54,African region,East Africa
+2660,United Republic of Tanzania,2011,61.05,295.9,24.2,43.0,22.24,23.63,5.06,6.76,3.47,46416031,768.93,African region,East Africa
+2661,United Republic of Tanzania,2010,60.1,302.9,24.8,45.8,22.21,23.52,5.22,7.32,3.03,45110527,730.78,African region,East Africa
+2662,United Republic of Tanzania,2009,58.89,312.1,25.4,48.5,22.18,23.42,5.06,7.58,2.5,43957933,688.71,African region,East Africa
+2663,United Republic of Tanzania,2008,58.09,319.4,25.9,51.0,22.15,23.31,5.56,12.49,2.78,42870884,671.24,African region,East Africa
+2664,United Republic of Tanzania,2007,57.52,339.5,26.7,54.1,22.11,23.21,6.88,10.89,3.02,41716497,539.54,African region,East Africa
+2665,United Republic of Tanzania,2006,56.91,372.3,27.3,57.6,22.07,23.11,7.6,13.51,3.3,40562052,472.61,African region,East Africa
+2666,United Republic of Tanzania,2005,56.3,396.6,28.0,61.5,22.03,23.0,6.32,12.62,3.19,39439505,480.18,African region,East Africa
+2667,United Republic of Tanzania,2004,55.6,407.9,28.8,66.4,21.99,22.9,5.74,11.55,3.1,38360879,447.44,African region,East Africa
+2668,United Republic of Tanzania,2003,54.9,414.0,29.9,71.8,21.95,22.8,5.34,9.71,3.05,37333918,419.42,African region,East Africa
+2669,United Republic of Tanzania,2002,53.86,419.7,30.8,78.0,21.9,22.69,4.69,9.79,3.02,36353531,400.08,African region,East Africa
+2670,United Republic of Tanzania,2001,53.16,424.7,31.7,84.7,21.85,22.59,4.24,8.8,2.99,35414469,394.22,African region,East Africa
+2671,United Republic of Tanzania,2000,52.36,429.3,32.6,91.2,21.8,22.48,3.42,6.05,3.13,34463704,399.33,African region,East Africa
+2672,United States of America,2015,78.69,106.6,3.8,2.8,28.97,29.0,16.49,22.32,5.28,320738994,57040.21,American region,North America
+2673,United States of America,2014,78.84,105.0,3.9,2.9,28.93,28.92,16.2,21.48,6.17,318386329,55304.32,American region,North America
+2674,United States of America,2013,78.74,104.2,3.9,3.0,28.89,28.85,15.99,20.36,7.38,316059947,53409.75,American region,North America
+2675,United States of America,2012,78.74,104.3,3.9,3.0,28.85,28.77,16.12,19.63,8.07,313877662,51784.41,American region,North America
+2676,United States of America,2011,78.64,104.5,3.9,3.1,28.8,28.7,16.14,18.85,8.95,311583481,50065.98,American region,North America
+2677,United States of America,2010,78.54,104.2,3.9,3.3,28.74,28.62,16.2,18.39,9.63,309327143,48650.66,American region,North America
+2678,United States of America,2009,78.39,107.5,4.1,3.1,28.68,28.54,16.2,18.19,9.25,306771529,47194.95,American region,North America
+2679,United States of America,2008,78.04,108.7,4.3,3.1,28.61,28.45,15.21,18.2,5.78,304093966,48570.06,American region,North America
+2680,United States of America,2007,77.99,110.1,4.4,3.2,28.52,28.36,14.92,18.5,4.62,301231207,48050.23,American region,North America
+2681,United States of America,2006,77.69,112.7,4.4,3.2,28.43,28.26,14.71,18.57,4.62,298379912,46301.99,American region,North America
+2682,United States of America,2005,77.49,113.0,4.3,3.3,28.33,28.16,14.58,17.94,5.08,295516599,44123.4,American region,North America
+2683,United States of America,2004,77.49,112.0,4.4,3.2,28.23,28.06,14.55,17.93,5.53,292805298,41724.64,American region,North America
+2684,United States of America,2003,77.04,114.5,4.4,3.5,28.12,27.95,14.51,17.51,5.99,290107933,39490.3,American region,North America
+2685,United States of America,2002,76.94,115.0,4.6,3.5,28.0,27.84,14.0,17.22,5.78,287625193,37997.74,American region,North America
+2686,United States of America,2001,76.84,116.1,4.6,3.6,27.89,27.71,13.17,16.76,4.73,284968955,37133.62,American region,North America
+2687,United States of America,2000,76.64,115.1,4.5,3.7,27.76,27.58,12.49,16.16,3.99,282162411,36329.97,American region,North America
+2688,Uruguay,2015,77.48,115.1,4.9,4.0,27.4,27.47,8.29,19.92,7.49,3402818,16950.75,American region,South America
+2689,Uruguay,2014,77.37,115.0,4.9,4.1,27.28,27.38,8.07,18.82,6.55,3391662,18131.58,American region,South America
+2690,Uruguay,2013,77.24,117.8,4.8,4.6,27.15,27.29,8.12,18.63,6.44,3381180,18140.89,American region,South America
+2691,Uruguay,2012,77.11,118.7,4.9,5.1,27.02,27.2,8.07,18.64,6.45,3371133,16087.25,American region,South America
+2692,Uruguay,2011,76.98,117.7,4.9,5.3,26.9,27.11,7.95,18.49,6.31,3361637,14975.56,American region,South America
+2693,Uruguay,2010,76.86,118.8,4.8,5.9,26.78,27.02,7.91,17.25,7.16,3352651,12512.59,American region,South America
+2694,Uruguay,2009,76.74,119.0,5.1,6.3,26.65,26.94,7.95,17.27,7.74,3344156,9780.74,American region,South America
+2695,Uruguay,2008,76.62,119.6,5.4,6.7,26.54,26.86,8.13,17.33,8.03,3336126,9328.07,American region,South America
+2696,Uruguay,2007,76.5,125.0,5.7,7.0,26.42,26.78,7.49,13.54,9.4,3328651,7149.37,American region,South America
+2697,Uruguay,2006,76.36,119.1,6.3,7.2,26.31,26.7,7.74,13.71,10.84,3322282,5942.13,American region,South America
+2698,Uruguay,2005,76.19,125.6,7.0,7.4,26.2,26.63,7.76,13.28,12.01,3317665,5233.46,American region,South America
+2699,Uruguay,2004,76.01,125.9,7.4,7.9,26.09,26.56,8.3,16.25,12.98,3313801,4130.1,American region,South America
+2700,Uruguay,2003,75.78,126.5,7.7,8.3,25.99,26.49,9.62,18.08,16.66,3310202,3638.94,American region,South America
+2701,Uruguay,2002,75.54,129.6,7.9,8.2,25.9,26.42,9.68,16.74,16.65,3306441,4115.15,American region,South America
+2702,Uruguay,2001,75.28,127.9,8.1,8.4,25.8,26.35,9.8,15.75,15.05,3300939,6331.16,American region,South America
+2703,Uruguay,2000,75.03,134.5,8.2,8.7,25.71,26.28,9.21,14.34,12.63,3292224,6932.48,American region,South America
+2704,Uzbekistan,2015,70.47,177.6,13.8,11.7,26.36,27.49,4.74,9.6,5.15,31298900,2753.97,Asian region,Central Asia
+2705,Uzbekistan,2014,70.23,181.4,14.8,12.4,26.23,27.31,4.43,9.3,5.09,30757700,2628.46,Asian region,Central Asia
+2706,Uzbekistan,2013,69.99,185.9,15.9,13.4,26.1,27.14,5.72,9.52,4.86,30243200,2419.72,Asian region,Central Asia
+2707,Uzbekistan,2012,69.87,194.9,16.9,14.1,25.97,26.97,5.55,9.76,4.87,29774500,2267.62,Asian region,Central Asia
+2708,Uzbekistan,2011,69.65,198.8,18.1,15.0,25.85,26.81,5.26,8.83,4.96,29339400,2051.13,Asian region,Central Asia
+2709,Uzbekistan,2010,69.24,205.0,19.4,16.1,25.72,26.64,5.3,8.04,5.36,28562400,1742.35,Asian region,Central Asia
+2710,Uzbekistan,2009,68.87,215.2,20.6,17.1,25.6,26.48,4.8,7.27,5.04,27767400,1213.27,Asian region,Central Asia
+2711,Uzbekistan,2008,68.76,227.0,21.4,18.6,25.48,26.32,4.7,7.23,4.89,27302800,1082.29,Asian region,Central Asia
+2712,Uzbekistan,2007,68.29,237.9,22.4,20.1,25.36,26.16,4.54,7.24,4.99,26868000,830.41,Asian region,Central Asia
+2713,Uzbekistan,2006,67.89,248.2,23.1,21.9,25.25,26.01,4.75,7.8,6.03,26488250,654.28,Asian region,Central Asia
+2714,Uzbekistan,2005,67.49,266.6,24.3,23.7,25.15,25.86,4.78,6.47,7.07,26167000,546.78,Asian region,Central Asia
+2715,Uzbekistan,2004,67.4,261.3,25.3,25.9,25.04,25.72,4.84,6.14,8.13,25864350,465.12,Asian region,Central Asia
+2716,Uzbekistan,2003,67.04,267.2,25.9,27.9,24.95,25.57,5.19,6.01,9.18,25567650,396.38,Asian region,Central Asia
+2717,Uzbekistan,2002,66.6,276.8,26.8,30.4,24.85,25.43,5.14,5.58,10.22,25271850,383.34,Asian region,Central Asia
+2718,Uzbekistan,2001,66.09,276.3,27.8,32.6,24.76,25.29,5.24,6.64,11.25,24964450,456.71,Asian region,Central Asia
+2719,Uzbekistan,2000,65.72,283.4,28.5,34.9,24.68,25.16,5.12,6.11,12.29,24650400,558.23,Asian region,Central Asia
+2720,Vanuatu,2015,69.51,257.6,12.1,15.7,25.68,26.91,4.32,4.76,5.26,276438,2643.89,Oceania region,Melanesia
+2721,Vanuatu,2014,69.46,258.2,12.4,16.0,25.64,26.86,3.65,2.52,5.15,269927,2861.2,Oceania region,Melanesia
+2722,Vanuatu,2013,69.53,258.5,12.6,16.1,25.6,26.8,4.39,9.8,5.06,263534,2877.44,Oceania region,Melanesia
+2723,Vanuatu,2012,69.5,259.7,12.8,16.2,25.57,26.74,3.94,9.4,4.95,257313,2906.34,Oceania region,Melanesia
+2724,Vanuatu,2011,69.55,261.1,12.8,16.0,25.54,26.69,3.6,9.39,4.82,251294,3064.75,Oceania region,Melanesia
+2725,Vanuatu,2010,69.62,263.0,12.7,16.1,25.51,26.63,3.53,6.85,4.68,245453,2732.55,Oceania region,Melanesia
+2726,Vanuatu,2009,69.65,265.6,12.5,16.0,25.49,26.58,3.25,7.27,4.57,239689,2472.46,Oceania region,Melanesia
+2727,Vanuatu,2008,69.6,268.4,12.5,16.1,25.46,26.52,3.14,8.18,5.66,233952,2525.08,Oceania region,Melanesia
+2728,Vanuatu,2007,69.54,271.3,12.5,15.9,25.44,26.46,3.11,9.9,6.85,228345,2261.46,Oceania region,Melanesia
+2729,Vanuatu,2006,69.46,273.8,12.3,16.0,25.41,26.39,3.32,10.67,8.01,222923,1970.9,Oceania region,Melanesia
+2730,Vanuatu,2005,69.39,276.5,12.1,15.9,25.38,26.33,3.31,11.7,8.13,217632,1814.82,Oceania region,Melanesia
+2731,Vanuatu,2004,69.31,278.5,12.1,16.5,25.35,26.26,3.54,12.56,8.46,212422,1718.26,Oceania region,Melanesia
+2732,Vanuatu,2003,69.28,280.3,12.0,16.3,25.32,26.18,3.51,13.21,8.71,207258,1517.29,Oceania region,Melanesia
+2733,Vanuatu,2002,69.2,281.9,12.2,16.0,25.28,26.1,3.9,11.75,8.65,202125,1299.18,Oceania region,Melanesia
+2734,Vanuatu,2001,69.04,283.1,12.4,15.8,25.25,26.01,3.39,11.27,8.47,197034,1309.05,Oceania region,Melanesia
+2735,Vanuatu,2000,68.97,284.6,12.6,16.0,25.21,25.92,3.31,9.7,8.32,192074,1416.2,Oceania region,Melanesia
+2736,Viet Nam,2015,73.88,136.0,11.0,10.5,21.81,21.81,4.71,8.49,1.85,92191398,2595.23,Asian region,Southeast Asia
+2737,Viet Nam,2014,73.86,137.2,11.1,12.0,21.66,21.67,4.69,9.12,1.26,91235504,2558.78,Asian region,Southeast Asia
+2738,Viet Nam,2013,73.78,138.3,11.3,10.8,21.5,21.53,4.41,8.16,1.32,90267739,2367.5,Asian region,Southeast Asia
+2739,Viet Nam,2012,73.7,139.1,11.4,10.8,21.35,21.4,5.0,9.52,1.03,89301326,2190.23,Asian region,Southeast Asia
+2740,Viet Nam,2011,73.69,140.2,11.4,10.9,21.2,21.26,4.97,9.11,1.0,88349117,1953.56,Asian region,Southeast Asia
+2741,Viet Nam,2010,73.51,141.3,11.4,11.3,21.05,21.13,5.07,8.61,1.11,87411012,1684.01,Asian region,Southeast Asia
+2742,Viet Nam,2009,73.5,141.6,11.5,11.6,20.91,21.0,4.49,6.85,1.74,86482923,1225.85,Asian region,Southeast Asia
+2743,Viet Nam,2008,73.41,141.6,11.7,11.1,20.78,20.88,4.36,8.12,1.89,85597241,1158.1,Asian region,Southeast Asia
+2744,Viet Nam,2007,73.44,141.5,11.7,11.4,20.65,20.76,4.63,7.94,2.03,84762269,913.31,Asian region,Southeast Asia
+2745,Viet Nam,2006,73.32,141.6,12.1,11.8,20.52,20.64,4.57,8.77,2.04,83951800,790.59,Asian region,Southeast Asia
+2746,Viet Nam,2005,73.27,142.1,12.3,12.0,20.41,20.53,4.32,8.67,2.08,83142095,693.19,Asian region,Southeast Asia
+2747,Viet Nam,2004,73.14,141.1,12.6,12.2,20.29,20.42,4.09,8.69,2.14,82311227,551.9,Asian region,Southeast Asia
+2748,Viet Nam,2003,72.98,140.8,13.1,13.3,20.19,20.32,3.94,7.16,2.25,81475825,485.45,Asian region,Southeast Asia
+2749,Viet Nam,2002,72.8,140.5,13.5,14.4,20.09,20.22,3.87,8.62,2.12,80642308,434.81,Asian region,Southeast Asia
+2750,Viet Nam,2001,72.65,140.7,14.1,15.4,20.0,20.12,4.8,8.2,2.76,79817777,409.5,Asian region,Southeast Asia
+2751,Viet Nam,2000,72.46,141.1,14.8,16.5,19.91,20.02,4.11,9.48,2.26,79001142,394.58,Asian region,Southeast Asia
+2752,Yemen,2015,65.87,178.1,26.9,27.4,23.64,24.09,4.25,2.23,17.9,28516545,1488.42,Asian region,Western Asia (Middle East)
+2753,Yemen,2014,67.38,171.7,27.0,27.7,23.55,23.99,4.84,2.82,13.47,27753304,1557.6,Asian region,Western Asia (Middle East)
+2754,Yemen,2013,67.54,169.9,27.1,27.1,23.47,23.88,4.96,3.18,13.64,26984002,1497.75,Asian region,Western Asia (Middle East)
+2755,Yemen,2012,67.34,176.2,27.0,27.8,23.38,23.77,5.2,3.43,13.44,26223391,1349.99,Asian region,Western Asia (Middle East)
+2756,Yemen,2011,67.42,176.8,27.1,27.9,23.29,23.67,4.77,3.66,13.28,25475610,1284.62,Asian region,Western Asia (Middle East)
+2757,Yemen,2010,67.28,177.2,27.2,27.7,23.21,23.56,5.16,3.85,12.78,24743946,1249.06,Asian region,Western Asia (Middle East)
+2758,Yemen,2009,67.2,180.7,27.9,28.9,23.13,23.45,5.99,3.72,12.75,24029589,1045.81,Asian region,Western Asia (Middle East)
+2759,Yemen,2008,66.96,184.3,28.6,30.9,23.05,23.34,5.76,3.89,12.65,23329004,1153.54,Asian region,Western Asia (Middle East)
+2760,Yemen,2007,66.56,188.6,29.5,33.1,22.97,23.24,5.82,3.88,12.48,22641538,956.23,Asian region,Western Asia (Middle East)
+2761,Yemen,2006,65.99,192.2,30.8,38.4,22.9,23.13,5.53,4.35,12.35,21966298,867.84,Asian region,Western Asia (Middle East)
+2762,Yemen,2005,65.54,196.6,31.7,40.7,22.83,23.02,5.21,4.5,12.22,21320671,784.76,Asian region,Western Asia (Middle East)
+2763,Yemen,2004,65.01,201.2,32.9,45.6,22.77,22.91,5.51,5.72,12.13,20733406,668.85,Asian region,Western Asia (Middle East)
+2764,Yemen,2003,64.54,205.0,34.0,47.3,22.7,22.8,5.76,6.81,12.01,20188799,583.37,Asian region,Western Asia (Middle East)
+2765,Yemen,2002,63.91,208.3,35.0,48.4,22.63,22.68,4.83,7.57,11.84,19660653,543.9,Asian region,Western Asia (Middle East)
+2766,Yemen,2001,63.22,212.1,36.3,52.4,22.55,22.56,4.95,8.13,11.72,19143457,514.69,Asian region,Western Asia (Middle East)
+2767,Yemen,2000,62.59,215.9,37.2,60.1,22.48,22.43,4.67,7.49,11.56,18628700,519.59,Asian region,Western Asia (Middle East)
+2768,Zambia,2015,61.21,331.0,23.1,39.6,21.39,23.76,4.43,7.56,8.32,16248230,1307.91,African region,East Africa
+2769,Zambia,2014,60.7,338.8,23.8,42.0,21.34,23.68,3.83,7.78,8.13,15737793,1724.58,African region,East Africa
+2770,Zambia,2013,59.88,349.8,24.6,44.8,21.28,23.59,4.57,5.45,8.04,15234976,1840.32,African region,East Africa
+2771,Zambia,2012,58.87,362.2,25.2,48.4,21.23,23.51,4.05,7.06,7.85,14744658,1729.65,African region,East Africa
+2772,Zambia,2011,57.77,374.8,25.9,53.5,21.18,23.43,3.96,8.06,10.55,14265814,1644.46,African region,East Africa
+2773,Zambia,2010,56.8,385.6,26.5,57.3,21.12,23.35,3.97,8.63,13.19,13792086,1469.36,African region,East Africa
+2774,Zambia,2009,55.3,400.0,27.1,58.2,21.07,23.27,5.16,9.37,10.58,13318087,1150.94,African region,East Africa
+2775,Zambia,2008,53.94,425.9,27.8,62.2,21.02,23.19,4.47,8.15,7.93,12852966,1393.52,African region,East Africa
+2776,Zambia,2007,52.74,466.1,28.4,66.2,20.96,23.11,4.58,7.47,10.56,12402073,1133.44,African region,East Africa
+2777,Zambia,2006,51.8,505.8,29.2,70.1,20.91,23.03,5.58,6.75,13.23,11971567,1065.6,African region,East Africa
+2778,Zambia,2005,50.66,533.9,30.6,76.2,20.85,22.95,6.33,5.54,15.9,11564870,720.45,African region,East Africa
+2779,Zambia,2004,49.49,560.0,32.1,83.7,20.8,22.87,5.48,5.65,15.33,11188040,556.05,African region,East Africa
+2780,Zambia,2003,48.28,589.8,33.4,93.8,20.74,22.8,6.0,5.32,14.7,10837973,452.29,African region,East Africa
+2781,Zambia,2002,46.98,609.2,34.8,108.1,20.69,22.72,5.89,6.88,14.12,10508294,399.1,African region,East Africa
+2782,Zambia,2001,46.02,614.4,36.1,114.8,20.65,22.66,4.83,6.88,13.41,10191964,401.73,African region,East Africa
+2783,Zambia,2000,45.23,613.0,37.0,125.3,20.6,22.59,4.17,6.88,12.93,9891136,364.03,African region,East Africa
+2784,Zimbabwe,2015,59.59,416.7,24.0,32.4,22.27,25.39,7.45,7.56,5.38,14154937,1410.33,African region,East Africa
+2785,Zimbabwe,2014,58.85,427.2,25.1,34.9,22.24,25.36,8.13,13.36,4.77,13855753,1407.03,African region,East Africa
+2786,Zimbabwe,2013,57.46,445.2,26.4,38.5,22.21,25.32,7.11,9.65,4.94,13555422,1408.37,African region,East Africa
+2787,Zimbabwe,2012,55.63,468.3,27.6,44.2,22.18,25.28,6.92,9.8,5.06,13265331,1290.19,African region,East Africa
+2788,Zimbabwe,2011,53.35,500.1,29.0,50.2,22.15,25.25,8.08,9.12,5.37,13025785,1082.62,African region,East Africa
+2789,Zimbabwe,2010,50.65,543.9,30.0,54.8,22.13,25.22,10.48,15.22,5.46,12839771,937.84,African region,East Africa
+2790,Zimbabwe,2009,48.06,585.7,30.4,58.8,22.1,25.18,5.52,8.18,5.47,12679810,762.3,African region,East Africa
+2791,Zimbabwe,2008,46.72,618.2,30.6,62.2,22.07,25.15,5.52,8.18,5.37,12550347,351.84,African region,East Africa
+2792,Zimbabwe,2007,45.61,644.4,30.5,64.6,22.03,25.11,5.52,8.18,5.0,12450568,425.04,African region,East Africa
+2793,Zimbabwe,2006,45.36,671.1,30.1,66.7,22.0,25.08,5.52,8.18,4.76,12330490,441.5,African region,East Africa
+2794,Zimbabwe,2005,44.77,692.4,29.4,66.2,21.96,25.04,5.52,8.18,4.63,12224753,470.78,African region,East Africa
+2795,Zimbabwe,2004,44.5,707.1,29.1,66.5,21.92,25.01,5.52,8.18,4.39,12160881,477.4,African region,East Africa
+2796,Zimbabwe,2003,43.39,709.9,28.6,66.7,21.88,24.97,5.52,8.18,4.74,12075828,474.3,African region,East Africa
+2797,Zimbabwe,2002,44.56,704.8,28.2,68.7,21.84,24.93,5.52,8.18,5.01,11984644,529.19,African region,East Africa
+2798,Zimbabwe,2001,41.96,693.9,28.0,69.5,21.81,24.9,5.52,8.18,5.31,11910978,569.0,African region,East Africa
+2799,Zimbabwe,2000,44.69,682.6,27.9,70.2,21.77,24.86,5.52,8.18,5.68,11834676,565.28,African region,East Africa

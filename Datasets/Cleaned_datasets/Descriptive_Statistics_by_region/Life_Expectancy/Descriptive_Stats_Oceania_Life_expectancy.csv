@@ -1,17 +1,17 @@
-,year,mean,max,max_countries,minimum,min_countries,median,std
-0,2000,69.6,79.23,Australia,61.72,Papua New Guinea,68.97,5.31
-1,2001,69.81,79.63,Australia,61.77,Papua New Guinea,69.09,5.36
-2,2002,69.79,79.94,Australia,61.7,Papua New Guinea,69.26,5.47
-3,2003,70.1,80.24,Australia,61.8,Papua New Guinea,69.39,5.52
-4,2004,70.25,80.49,Australia,61.76,Papua New Guinea,69.49,5.62
-5,2005,70.38,80.84,Australia,61.8,Papua New Guinea,69.58,5.71
-6,2006,70.53,81.04,Australia,61.92,Papua New Guinea,69.68,5.75
-7,2007,70.59,81.29,Australia,62.03,Papua New Guinea,69.8,5.81
-8,2008,70.76,81.4,Australia,62.57,Papua New Guinea,69.88,5.76
-9,2009,70.63,81.54,Australia,62.79,Papua New Guinea,69.83,5.78
-10,2010,71.01,81.7,Australia,63.04,Papua New Guinea,69.97,5.78
-11,2011,71.17,81.9,Australia,63.53,Papua New Guinea,69.96,5.76
-12,2012,71.27,82.05,Australia,63.73,Papua New Guinea,69.97,5.78
-13,2013,71.36,82.15,Australia,63.96,Madagascar,70.02,5.75
-14,2014,71.44,82.3,Australia,64.26,Madagascar,70.0,5.73
-15,2015,71.52,82.4,Australia,64.7,Papua New Guinea,70.1,5.73
+,year,mean,max,max_countries,minimum,min_countries,median,std,25%,75%,iqr
+0,2000,69.6,79.23,Australia,61.72,Papua New Guinea,68.97,5.31,66.54,70.5,8.08
+1,2001,69.81,79.63,Australia,61.77,Papua New Guinea,69.09,5.36,66.6,70.88,8.08
+2,2002,69.79,79.94,Australia,61.7,Papua New Guinea,69.26,5.47,66.19,70.82,8.08
+3,2003,70.1,80.24,Australia,61.8,Papua New Guinea,69.39,5.52,66.54,71.32,8.08
+4,2004,70.25,80.49,Australia,61.76,Papua New Guinea,69.49,5.62,66.76,71.48,8.08
+5,2005,70.38,80.84,Australia,61.8,Papua New Guinea,69.58,5.71,66.96,71.53,8.08
+6,2006,70.53,81.04,Australia,61.92,Papua New Guinea,69.68,5.75,67.17,71.79,8.08
+7,2007,70.59,81.29,Australia,62.03,Papua New Guinea,69.8,5.81,67.12,71.84,8.08
+8,2008,70.76,81.4,Australia,62.57,Papua New Guinea,69.88,5.76,67.31,71.9,8.08
+9,2009,70.63,81.54,Australia,62.79,Papua New Guinea,69.83,5.78,67.44,70.85,8.08
+10,2010,71.01,81.7,Australia,63.04,Papua New Guinea,69.97,5.78,67.68,72.0,8.08
+11,2011,71.17,81.9,Australia,63.53,Papua New Guinea,69.96,5.76,67.87,72.03,8.08
+12,2012,71.27,82.05,Australia,63.73,Papua New Guinea,69.97,5.78,67.93,71.98,8.08
+13,2013,71.36,82.15,Australia,63.96,Madagascar,70.02,5.75,67.87,72.17,8.08
+14,2014,71.44,82.3,Australia,64.26,Madagascar,70.0,5.73,67.84,72.23,8.08
+15,2015,71.52,82.4,Australia,64.7,Papua New Guinea,70.1,5.73,67.51,72.24,8.08

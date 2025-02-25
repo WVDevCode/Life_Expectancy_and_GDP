@@ -1,17 +1,17 @@
-,year,mean,max,max_countries,minimum,min_countries,median,std
-0,2000,9.23,32.4,Sao Tome and Principe,1.36,Myanmar,8.66,4.52
-1,2001,9.17,25.83,Solomon Islands,1.41,Equatorial Guinea,8.76,4.13
-2,2002,9.3,32.32,Solomon Islands,1.21,Afghanistan,8.62,4.4
-3,2003,9.51,26.33,Costa Rica,1.45,Equatorial Guinea,9.05,4.23
-4,2004,9.62,25.74,Costa Rica,1.49,Equatorial Guinea,9.35,4.25
-5,2005,9.57,25.71,Costa Rica,1.29,Myanmar,9.11,4.26
-6,2006,9.44,29.51,Costa Rica,1.44,Equatorial Guinea,9.0,4.37
-7,2007,9.49,31.21,Costa Rica,1.27,Timor-Leste,9.13,4.48
-8,2008,9.3,32.38,Costa Rica,1.32,Myanmar,8.55,4.61
-9,2009,9.41,33.1,Costa Rica,1.44,Myanmar,8.37,4.73
-10,2010,9.51,31.74,Costa Rica,1.35,Myanmar,8.69,4.68
-11,2011,9.5,32.77,Costa Rica,1.47,Equatorial Guinea,8.61,4.77
-12,2012,9.55,31.29,Costa Rica,1.37,Afghanistan,8.97,4.72
-13,2013,9.64,29.15,Costa Rica,1.25,Liberia,8.83,4.7
-14,2014,9.88,29.14,Costa Rica,1.49,Equatorial Guinea,9.29,4.95
-15,2015,9.97,29.49,Costa Rica,1.33,Equatorial Guinea,9.22,5.03
+,year,mean,max,max_countries,minimum,min_countries,median,std,25%,75%,iqr
+0,2000,9.23,32.4,Sao Tome and Principe,1.36,Myanmar,8.66,4.52,3.56,6.79,3.22
+1,2001,9.17,25.83,Solomon Islands,1.41,Equatorial Guinea,8.76,4.13,3.79,7.02,3.22
+2,2002,9.3,32.32,Solomon Islands,1.21,Afghanistan,8.62,4.4,3.88,7.25,3.36
+3,2003,9.51,26.33,Costa Rica,1.45,Equatorial Guinea,9.05,4.23,3.92,7.09,3.17
+4,2004,9.62,25.74,Costa Rica,1.49,Equatorial Guinea,9.35,4.25,4.08,7.32,3.24
+5,2005,9.57,25.71,Costa Rica,1.29,Myanmar,9.11,4.26,3.97,7.62,3.66
+6,2006,9.44,29.51,Costa Rica,1.44,Equatorial Guinea,9.0,4.37,3.94,7.64,3.69
+7,2007,9.49,31.21,Costa Rica,1.27,Timor-Leste,9.13,4.48,3.88,7.5,3.62
+8,2008,9.3,32.38,Costa Rica,1.32,Myanmar,8.55,4.61,3.87,7.66,3.79
+9,2009,9.41,33.1,Costa Rica,1.44,Myanmar,8.37,4.73,4.18,8.02,3.84
+10,2010,9.51,31.74,Costa Rica,1.35,Myanmar,8.69,4.68,4.14,8.01,3.87
+11,2011,9.5,32.77,Costa Rica,1.47,Equatorial Guinea,8.61,4.77,4.1,8.04,3.94
+12,2012,9.55,31.29,Costa Rica,1.37,Afghanistan,8.97,4.72,4.08,8.02,3.94
+13,2013,9.64,29.15,Costa Rica,1.25,Liberia,8.83,4.7,4.18,8.11,3.93
+14,2014,9.88,29.14,Costa Rica,1.49,Equatorial Guinea,9.29,4.95,4.32,7.91,3.59
+15,2015,9.97,29.49,Costa Rica,1.33,Equatorial Guinea,9.22,5.03,4.38,8.01,3.63

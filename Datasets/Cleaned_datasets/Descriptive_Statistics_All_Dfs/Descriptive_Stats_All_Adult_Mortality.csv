@@ -1,17 +1,17 @@
-,year,mean,max,max_countries,minimum,min_countries,median,std_x,std_y
-0,2000,213.8,682.6,Zimbabwe,64.29,United Arab Emirates,177.0,129.78,129.78
-1,2001,211.62,693.9,Zimbabwe,62.81,United Arab Emirates,177.0,130.23,130.23
-2,2002,210.05,704.8,Zimbabwe,61.37,United Arab Emirates,174.8,130.62,130.62
-3,2003,208.23,709.9,Zimbabwe,59.9,United Arab Emirates,172.3,130.93,130.93
-4,2004,205.21,707.1,Zimbabwe,58.37,United Arab Emirates,170.3,129.52,129.52
-5,2005,202.08,732.5,Lesotho,56.9,United Arab Emirates,167.1,126.24,126.24
-6,2006,197.0,743.5,Lesotho,55.5,United Arab Emirates,164.7,121.63,121.63
-7,2007,192.47,710.9,Lesotho,53.99,United Arab Emirates,162.0,116.06,116.06
-8,2008,187.64,659.6,Lesotho,52.43,United Arab Emirates,159.2,110.43,110.43
-9,2009,182.86,631.4,Lesotho,50.85,United Arab Emirates,155.0,105.84,105.84
-10,2010,180.41,675.7,Haiti,49.69,United Arab Emirates,152.9,109.22,109.22
-11,2011,174.74,604.0,Lesotho,48.94,United Arab Emirates,151.7,99.68,99.68
-12,2012,171.27,609.7,Lesotho,47.74,United Arab Emirates,148.7,97.46,97.46
-13,2013,167.98,615.6,Lesotho,46.4,United Arab Emirates,148.9,95.86,95.86
-14,2014,167.39,627.4,Lesotho,45.21,United Arab Emirates,149.6,96.42,96.42
-15,2015,164.89,629.5,Lesotho,45.14,United Arab Emirates,149.0,93.7,93.7
+,year,mean,max,max_countries,minimum,min_countries,median,std,25%,75%,iqr
+0,2000,213.8,682.6,Zimbabwe,64.29,United Arab Emirates,177.0,129.78,119.5,278.55,159.05
+1,2001,211.62,693.9,Zimbabwe,62.81,United Arab Emirates,177.0,130.23,118.35,275.4,157.05
+2,2002,210.05,704.8,Zimbabwe,61.37,United Arab Emirates,174.8,130.62,116.9,275.65,158.75
+3,2003,208.23,709.9,Zimbabwe,59.9,United Arab Emirates,172.3,130.93,119.3,273.3,154.0
+4,2004,205.21,707.1,Zimbabwe,58.37,United Arab Emirates,170.3,129.52,112.55,271.5,158.95
+5,2005,202.08,732.5,Lesotho,56.9,United Arab Emirates,167.1,126.24,109.6,268.35,158.75
+6,2006,197.0,743.5,Lesotho,55.5,United Arab Emirates,164.7,121.63,107.3,263.2,155.9
+7,2007,192.47,710.9,Lesotho,53.99,United Arab Emirates,162.0,116.06,105.55,256.65,151.1
+8,2008,187.64,659.6,Lesotho,52.43,United Arab Emirates,159.2,110.43,103.3,250.75,147.45
+9,2009,182.86,631.4,Lesotho,50.85,United Arab Emirates,155.0,105.84,100.95,239.2,138.25
+10,2010,180.41,675.7,Haiti,49.69,United Arab Emirates,152.9,109.22,99.16,233.0,133.84
+11,2011,174.74,604.0,Lesotho,48.94,United Arab Emirates,151.7,99.68,96.02,227.35,131.34
+12,2012,171.27,609.7,Lesotho,47.74,United Arab Emirates,148.7,97.46,93.3,224.8,131.5
+13,2013,167.98,615.6,Lesotho,46.4,United Arab Emirates,148.9,95.86,90.99,220.3,129.31
+14,2014,167.39,627.4,Lesotho,45.21,United Arab Emirates,149.6,96.42,89.88,219.95,130.06
+15,2015,164.89,629.5,Lesotho,45.14,United Arab Emirates,149.0,93.7,90.41,215.45,125.04

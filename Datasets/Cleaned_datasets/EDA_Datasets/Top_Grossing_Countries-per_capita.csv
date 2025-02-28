@@ -1,417 +1,417 @@
-,country,year,life_expectancy,adult_mortality,infant_deaths,under_five_deaths,bmi_male,bmi_female,health_expenditure_percentage,total_expenditure,population,gdp_per_capita,region,sub_region
-0,Australia,2015,82.4,62.26,2.2,1.4,27.68,26.84,10.18,18.31,23815995,56758.87,Oceania region,Australia and New Zealand
-1,Australia,2014,82.3,61.18,2.4,1.5,27.65,26.81,9.83,17.64,23475686,62558.24,Oceania region,Australia and New Zealand
-2,Australia,2013,82.15,59.56,2.4,1.6,27.61,26.77,8.75,15.4,23128129,68198.42,Oceania region,Australia and New Zealand
-3,Australia,2012,82.05,59.74,2.4,1.7,27.58,26.74,8.67,16.19,22733465,68078.04,Oceania region,Australia and New Zealand
-4,Australia,2011,81.9,61.99,2.6,1.9,27.54,26.7,8.54,16.32,22340024,62609.66,Oceania region,Australia and New Zealand
-5,Australia,2010,81.7,62.48,2.7,1.9,27.5,26.67,8.42,16.11,22031750,52147.02,Oceania region,Australia and New Zealand
-6,Australia,2009,81.54,63.99,2.9,1.9,27.46,26.62,8.54,15.88,21691653,42816.57,Oceania region,Australia and New Zealand
-7,Australia,2008,81.4,64.08,3.0,2.2,27.4,26.58,8.25,15.61,21249199,49701.28,Oceania region,Australia and New Zealand
-8,Australia,2007,81.29,64.99,3.0,2.2,27.34,26.53,8.05,16.49,20827622,41051.61,Oceania region,Australia and New Zealand
-9,Australia,2006,81.04,65.58,3.1,2.4,27.27,26.47,7.98,15.94,20450966,36595.71,Oceania region,Australia and New Zealand
-10,Australia,2005,80.84,66.92,3.2,2.3,27.2,26.41,7.97,15.9,20176844,34479.77,Oceania region,Australia and New Zealand
-11,Australia,2004,80.49,67.06,3.2,2.3,27.12,26.34,8.09,15.95,19932722,30836.73,Oceania region,Australia and New Zealand
-12,Australia,2003,80.24,68.73,3.4,2.4,27.04,26.27,7.88,15.48,19720737,23718.13,Oceania region,Australia and New Zealand
-13,Australia,2002,79.94,71.05,3.4,2.5,26.95,26.19,7.88,15.51,19495210,20301.84,Oceania region,Australia and New Zealand
-14,Australia,2001,79.63,72.98,3.4,2.4,26.86,26.1,7.68,14.71,19274701,19695.73,Oceania region,Australia and New Zealand
-15,Australia,2000,79.23,76.32,3.5,2.6,26.76,26.0,7.59,14.6,19028802,21870.42,Oceania region,Australia and New Zealand
-16,Austria,2015,81.19,64.67,2.2,1.4,26.64,24.73,10.37,14.69,8642699,44195.82,European region,Western Europe
-17,Austria,2014,81.49,65.72,2.3,1.4,26.61,24.71,10.37,14.34,8546356,51786.38,European region,Western Europe
-18,Austria,2013,81.14,67.14,2.3,1.4,26.58,24.69,10.29,14.37,8479823,50731.13,European region,Western Europe
-19,Austria,2012,80.94,68.77,2.3,1.6,26.55,24.67,10.2,14.51,8429991,48564.92,European region,Western Europe
-20,Austria,2011,80.98,71.78,2.4,1.7,26.51,24.65,10.03,14.32,8391643,51442.28,European region,Western Europe
-21,Austria,2010,80.58,74.28,2.5,1.8,26.48,24.63,10.22,14.0,8363404,46903.76,European region,Western Europe
-22,Austria,2009,80.33,76.43,2.6,1.8,26.43,24.61,10.23,13.76,8343323,48153.32,European region,Western Europe
-23,Austria,2008,80.43,74.89,2.5,2.0,26.38,24.58,9.73,14.39,8321496,51919.98,European region,Western Europe
-24,Austria,2007,80.18,78.15,2.6,1.9,26.33,24.56,9.53,14.09,8295487,46915.34,European region,Western Europe
-25,Austria,2006,79.88,78.49,2.7,2.0,26.27,24.53,9.53,13.78,8268641,40669.33,European region,Western Europe
-26,Austria,2005,79.33,83.25,2.8,2.0,26.21,24.5,9.63,13.67,8227829,38417.46,European region,Western Europe
-27,Austria,2004,79.18,84.71,2.9,2.1,26.14,24.48,9.71,13.03,8171966,36889.23,European region,Western Europe
-28,Austria,2003,78.63,87.42,3.0,2.2,26.07,24.45,9.55,13.62,8121423,32294.05,European region,Western Europe
-29,Austria,2002,78.68,89.65,2.9,2.4,26.0,24.41,9.39,13.51,8081957,26527.59,European region,Western Europe
-30,Austria,2001,78.58,91.83,3.0,2.4,25.93,24.38,9.27,13.29,8042293,24558.76,European region,Western Europe
-31,Austria,2000,78.13,95.01,3.1,2.7,25.85,24.34,9.2,13.38,8011566,24625.6,European region,Western Europe
-32,Bahamas,2015,73.1,180.3,4.5,3.6,27.2,28.98,5.16,12.84,392697,29722.41,American region,North America
-33,Bahamas,2014,73.37,185.8,4.7,4.0,27.12,28.9,5.54,14.21,389131,28201.56,American region,North America
-34,Bahamas,2013,73.02,185.0,5.2,3.9,27.03,28.82,5.59,14.02,385650,26956.57,American region,North America
-35,Bahamas,2012,72.75,186.4,5.6,4.3,26.95,28.74,5.32,14.06,382061,28059.66,American region,North America
-36,Bahamas,2011,72.56,186.2,6.2,4.8,26.86,28.66,5.32,13.9,377950,26644.93,American region,North America
-37,Bahamas,2010,72.73,186.1,6.8,5.0,26.77,28.58,5.26,15.44,373272,27046.66,American region,North America
-38,Bahamas,2009,72.58,185.7,7.3,5.1,26.69,28.51,5.15,15.01,368057,27120.69,American region,North America
-39,Bahamas,2008,72.67,185.5,7.8,5.4,26.6,28.43,4.86,14.47,362795,29013.63,American region,North America
-40,Bahamas,2007,72.68,185.5,8.2,5.4,26.52,28.35,4.5,13.5,357666,29687.87,American region,North America
-41,Bahamas,2006,72.86,190.3,8.5,5.9,26.43,28.28,4.31,12.73,352664,28829.85,American region,North America
-42,Bahamas,2005,72.76,187.0,9.0,6.4,26.35,28.2,4.03,12.86,347804,28280.87,American region,North America
-43,Bahamas,2004,72.48,192.4,8.8,6.8,26.26,28.12,4.05,13.04,343089,26393.41,American region,North America
-44,Bahamas,2003,72.4,194.1,8.8,7.3,26.17,28.04,4.02,13.16,338490,26204.88,American region,North America
-45,Bahamas,2002,72.23,203.1,8.5,7.7,26.08,27.96,3.81,12.95,334002,26590.14,American region,North America
-46,Bahamas,2001,72.11,213.9,8.4,7.9,26.0,27.87,3.92,13.24,329626,25234.14,American region,North America
-47,Bahamas,2000,72.04,219.7,8.4,8.2,25.91,27.78,3.8,12.66,325014,24849.61,American region,North America
-48,Belgium,2015,80.99,71.86,2.2,1.8,26.78,25.72,10.8,15.35,11274196,41008.3,European region,Western Europe
-49,Belgium,2014,81.29,72.45,2.1,1.7,26.75,25.69,10.61,14.52,11209057,47764.07,European region,Western Europe
-50,Belgium,2013,80.59,75.97,2.2,2.0,26.72,25.66,10.58,14.32,11159407,46757.95,European region,Western Europe
-51,Belgium,2012,80.39,78.43,2.3,2.0,26.7,25.63,10.5,14.22,11106932,44670.56,European region,Western Europe
-52,Belgium,2011,80.59,80.45,2.3,2.0,26.66,25.6,10.36,14.28,11038264,47410.57,European region,Western Europe
-53,Belgium,2010,80.18,81.5,2.3,2.2,26.63,25.58,10.2,14.44,10895586,44184.95,European region,Western Europe
-54,Belgium,2009,80.03,84.24,2.5,2.1,26.59,25.55,10.32,14.4,10796493,44760.29,European region,Western Europe
-55,Belgium,2008,79.68,86.33,2.5,2.2,26.54,25.51,9.6,14.31,10709973,48303.4,European region,Western Europe
-56,Belgium,2007,79.78,85.0,2.5,2.1,26.49,25.48,9.14,13.96,10625700,44319.17,European region,Western Europe
-57,Belgium,2006,79.38,86.34,2.6,2.3,26.43,25.45,9.13,13.96,10547958,38705.11,European region,Western Europe
-58,Belgium,2005,78.98,88.52,2.7,2.4,26.37,25.42,9.22,13.3,10478617,36809.7,European region,Western Europe
-59,Belgium,2004,78.88,89.63,2.6,2.4,26.3,25.39,9.33,14.18,10421137,35429.41,European region,Western Europe
-60,Belgium,2003,78.13,94.19,2.7,2.6,26.24,25.36,9.16,13.31,10376133,30655.21,European region,Western Europe
-61,Belgium,2002,78.08,96.14,2.9,2.6,26.17,25.33,8.32,12.29,10332785,25006.19,European region,Western Europe
-62,Belgium,2001,77.97,98.22,2.9,2.9,26.1,25.3,8.15,12.43,10286570,23015.07,European region,Western Europe
-63,Belgium,2000,77.72,99.75,3.0,2.9,26.03,25.27,8.0,12.07,10251250,23098.89,European region,Western Europe
-64,Brunei Darussalam,2015,74.75,97.91,4.8,5.7,27.17,27.22,2.39,5.86,421437,30681.43,Asian region,Southeast Asia
-65,Brunei Darussalam,2014,74.78,96.04,4.7,5.8,27.02,27.1,1.91,5.2,416656,41035.78,Asian region,Southeast Asia
-66,Brunei Darussalam,2013,74.8,93.6,4.6,5.8,26.87,26.98,1.9,5.12,411702,43950.05,Asian region,Southeast Asia
-67,Brunei Darussalam,2012,74.83,91.8,4.7,5.9,26.72,26.87,1.85,5.44,406634,46844.2,Asian region,Southeast Asia
-68,Brunei Darussalam,2011,74.86,90.69,4.7,5.7,26.58,26.76,1.86,5.74,401506,46139.11,Asian region,Southeast Asia
-69,Brunei Darussalam,2010,74.85,91.38,4.8,5.8,26.44,26.64,2.28,5.78,396053,34609.71,Asian region,Southeast Asia
-70,Brunei Darussalam,2009,74.85,92.36,4.8,5.8,26.3,26.53,2.39,6.22,390311,27497.55,Asian region,Southeast Asia
-71,Brunei Darussalam,2008,74.84,94.27,4.8,6.1,26.16,26.43,1.88,6.21,384568,37427.54,Asian region,Southeast Asia
-72,Brunei Darussalam,2007,74.82,94.97,4.8,6.3,26.02,26.33,1.94,5.77,378748,32337.27,Asian region,Southeast Asia
-73,Brunei Darussalam,2006,74.78,95.28,4.8,6.6,25.89,26.23,1.91,5.81,372808,30767.75,Asian region,Southeast Asia
-74,Brunei Darussalam,2005,74.73,94.46,5.0,6.9,25.76,26.13,2.23,6.43,366717,25991.21,Asian region,Southeast Asia
-75,Brunei Darussalam,2004,74.65,94.78,5.1,6.9,25.63,26.03,2.55,6.4,360461,21839.26,Asian region,Southeast Asia
-76,Brunei Darussalam,2003,74.56,95.45,4.9,7.1,25.51,25.94,2.6,6.99,354045,18521.37,Asian region,Southeast Asia
-77,Brunei Darussalam,2002,74.43,96.88,5.0,7.1,25.38,25.84,2.53,5.11,347463,16817.24,Asian region,Southeast Asia
-78,Brunei Darussalam,2001,74.28,98.43,5.0,7.0,25.26,25.75,2.55,5.97,340748,16437.42,Asian region,Southeast Asia
-79,Brunei Darussalam,2000,74.08,100.4,5.0,7.1,25.15,25.66,2.55,5.72,333926,17971.89,Asian region,Southeast Asia
-80,Canada,2015,81.82,66.11,3.6,1.6,27.45,26.73,10.74,19.01,4819333,43594.19,American region,North America
-81,Canada,2014,81.78,66.56,3.6,1.6,27.44,26.7,10.26,18.91,4798734,50960.84,American region,North America
-82,Canada,2013,81.74,66.24,3.7,1.6,27.43,26.67,10.41,18.48,4802428,52638.12,American region,North America
-83,Canada,2012,81.66,67.55,3.7,1.7,27.42,26.64,10.51,18.1,4773306,52670.34,American region,North America
-84,Canada,2011,81.48,66.82,3.7,1.7,27.41,26.61,10.38,17.53,4732022,52223.86,American region,North America
-85,Canada,2010,81.32,69.1,3.6,1.9,27.39,26.57,10.68,17.32,4660067,47560.67,American region,North America
-86,Canada,2009,81.07,71.36,3.6,1.9,27.37,26.53,10.66,17.24,4564540,40874.88,American region,North America
-87,Canada,2008,80.72,73.0,3.8,1.9,27.34,26.49,9.61,17.28,4467233,46710.25,American region,North America
-88,Canada,2007,80.54,73.68,3.9,1.9,27.3,26.45,9.45,17.06,4375569,44660.08,American region,North America
-89,Canada,2006,80.54,73.95,3.9,1.9,27.26,26.4,9.34,16.78,4294352,40504.04,American region,North America
-90,Canada,2005,80.11,75.7,3.9,2.0,27.21,26.35,9.04,17.13,4208834,36383.66,American region,North America
-91,Canada,2004,79.99,75.73,3.9,2.1,27.16,26.29,9.07,16.93,4115138,32145.54,American region,North America
-92,Canada,2003,79.72,77.35,4.0,2.2,27.1,26.23,9.01,16.36,4026841,28301.86,American region,North America
-93,Canada,2002,79.53,78.0,3.9,2.3,27.03,26.16,8.86,15.88,3930648,24256.02,American region,North America
-94,Canada,2001,79.4,79.21,3.6,2.5,26.96,26.08,8.62,15.28,3844773,23822.1,American region,North America
-95,Canada,2000,79.17,80.77,3.7,2.6,26.89,26.0,8.25,14.82,3759170,24271.0,American region,North America
-96,Denmark,2015,80.7,66.12,3.1,1.0,26.27,24.56,10.34,15.98,5683483,53254.86,European region,Northern Europe
-97,Denmark,2014,80.7,68.15,3.1,1.0,26.27,24.56,10.31,15.77,5643475,62548.98,European region,Northern Europe
-98,Denmark,2013,80.3,71.37,3.0,1.0,26.26,24.56,10.33,15.63,5614932,61191.19,European region,Northern Europe
-99,Denmark,2012,80.05,73.75,2.8,1.2,26.25,24.56,10.52,15.32,5591572,58507.51,European region,Northern Europe
-100,Denmark,2011,79.8,77.11,2.9,1.1,26.24,24.56,10.41,15.48,5570572,61753.65,European region,Northern Europe
-101,Denmark,2010,79.1,82.53,2.8,1.3,26.22,24.56,10.61,15.77,5547683,58041.4,European region,Northern Europe
-102,Denmark,2009,78.6,84.67,2.8,1.4,26.19,24.55,10.67,15.95,5523095,58163.28,European region,Northern Europe
-103,Denmark,2008,78.45,86.2,2.7,1.4,26.16,24.55,9.51,15.85,5493621,64322.06,European region,Northern Europe
-104,Denmark,2007,78.2,91.58,2.9,1.6,26.11,24.54,9.33,15.74,5461438,58487.05,European region,Northern Europe
-105,Denmark,2006,78.1,91.4,3.0,1.6,26.06,24.53,9.17,15.43,5437272,52027.0,European region,Northern Europe
-106,Denmark,2005,77.84,89.41,3.1,1.8,26.0,24.52,9.09,14.86,5419432,48799.83,European region,Northern Europe
-107,Denmark,2004,77.49,94.52,3.1,1.9,25.93,24.51,9.01,14.2,5404523,46511.6,European region,Northern Europe
-108,Denmark,2003,77.14,96.81,3.3,1.9,25.86,24.49,8.9,13.93,5390574,40458.78,European region,Northern Europe
-109,Denmark,2002,76.9,99.36,3.3,2.0,25.78,24.48,8.7,13.71,5375931,33228.69,European region,Northern Europe
-110,Denmark,2001,76.79,98.69,3.4,2.0,25.69,24.47,8.45,13.34,5358783,30751.65,European region,Northern Europe
-111,Denmark,2000,76.59,99.75,3.5,2.0,25.61,24.45,8.1,12.78,5339616,30743.55,European region,Northern Europe
-112,Finland,2015,81.48,69.32,1.8,0.6,26.55,25.68,9.65,13.41,5479531,42801.91,European region,Northern Europe
-113,Finland,2014,81.18,72.75,1.7,0.8,26.56,25.68,9.78,13.59,5461512,50327.24,European region,Northern Europe
-114,Finland,2013,80.98,77.15,1.8,1.0,26.57,25.68,9.81,13.71,5438972,49892.22,European region,Northern Europe
-115,Finland,2012,80.63,79.93,1.9,1.0,26.58,25.68,9.59,13.8,5413971,47708.06,European region,Northern Europe
-116,Finland,2011,80.47,83.72,2.0,0.8,26.59,25.67,9.22,13.61,5388272,51148.93,European region,Northern Europe
-117,Finland,2010,79.87,87.74,2.2,0.6,26.59,25.67,9.14,13.32,5363352,46505.3,European region,Northern Europe
-118,Finland,2009,79.72,90.52,2.4,0.6,26.58,25.67,9.16,13.38,5338871,47481.48,European region,Northern Europe
-119,Finland,2008,79.57,93.93,2.5,0.6,26.57,25.66,8.34,13.74,5313399,53772.79,European region,Northern Europe
-120,Finland,2007,79.26,96.27,2.6,0.7,26.56,25.65,8.08,13.65,5288720,48476.39,European region,Northern Europe
-121,Finland,2006,79.21,95.76,2.7,0.8,26.54,25.63,8.28,13.57,5266268,41222.6,European region,Northern Europe
-122,Finland,2005,78.82,100.1,2.8,0.9,26.52,25.62,8.29,13.16,5246096,39054.85,European region,Northern Europe
-123,Finland,2004,78.71,99.56,2.6,1.0,26.49,25.6,8.06,12.77,5228172,37772.18,European region,Northern Europe
-124,Finland,2003,78.37,97.01,2.7,1.3,26.45,25.58,7.94,12.44,5213014,32927.68,European region,Northern Europe
-125,Finland,2002,78.12,97.59,2.7,1.4,26.41,25.56,7.63,12.09,5200598,26997.75,European region,Northern Europe
-126,Finland,2001,77.97,99.4,2.7,1.5,26.37,25.52,7.25,11.69,5188008,24967.79,European region,Northern Europe
-127,Finland,2000,77.47,104.3,2.6,1.6,26.32,25.49,7.09,11.2,5176209,24345.91,European region,Northern Europe
-128,France,2015,82.32,74.41,2.4,1.7,26.06,24.34,11.45,14.58,66548272,36652.92,European region,Western Europe
-129,France,2014,82.72,73.79,2.3,1.6,26.04,24.38,11.54,14.2,66312067,43068.55,European region,Western Europe
-130,France,2013,82.22,76.88,2.3,1.8,26.02,24.41,11.4,14.01,66002289,42602.72,European region,Western Europe
-131,France,2012,81.97,79.66,2.2,1.7,26.01,24.44,11.3,13.91,65662240,40870.85,European region,Western Europe
-132,France,2011,82.11,82.76,2.2,1.9,25.99,24.46,11.18,13.95,65345233,43846.47,European region,Western Europe
-133,France,2010,81.66,84.78,2.1,2.0,25.96,24.49,11.23,13.9,65030575,40676.06,European region,Western Europe
-134,France,2009,81.41,86.58,2.2,2.0,25.93,24.51,11.29,13.96,64710879,41737.76,European region,Western Europe
-135,France,2008,81.21,86.56,2.3,2.1,25.9,24.52,10.5,13.92,64379696,45515.96,European region,Western Europe
-136,France,2007,81.11,87.63,2.2,2.0,25.86,24.53,10.32,13.95,64021737,41557.62,European region,Western Europe
-137,France,2006,80.81,89.59,2.4,2.1,25.81,24.54,10.39,14.0,63628261,36470.21,European region,Western Europe
-138,France,2005,80.16,91.83,2.3,2.2,25.76,24.54,10.21,13.91,63188395,34768.18,European region,Western Europe
-139,France,2004,80.16,92.27,2.5,2.2,25.7,24.54,10.16,13.94,62716306,33797.16,European region,Western Europe
-140,France,2003,79.11,97.62,2.6,2.2,25.65,24.54,10.08,13.75,62256970,29627.92,European region,Western Europe
-141,France,2002,79.26,99.04,2.6,2.4,25.59,24.53,10.02,13.86,61816234,24288.27,European region,Western Europe
-142,France,2001,79.16,100.3,2.6,2.6,25.53,24.52,9.71,13.65,61367388,22449.34,European region,Western Europe
-143,France,2000,79.06,100.2,2.8,2.6,25.48,24.51,9.58,13.5,60921384,22416.43,European region,Western Europe
-144,Germany,2015,80.64,71.6,2.2,1.5,27.44,25.97,11.19,19.51,81686611,41103.26,European region,Western Europe
-145,Germany,2014,81.09,70.49,2.1,1.8,27.4,25.94,11.03,19.17,80982500,48023.87,European region,Western Europe
-146,Germany,2013,80.49,73.3,2.2,1.7,27.36,25.9,11.0,18.7,80645605,46298.92,European region,Western Europe
-147,Germany,2012,80.54,71.97,2.3,1.8,27.31,25.86,10.85,18.23,80425823,43855.85,European region,Western Europe
-148,Germany,2011,80.44,74.43,2.2,1.8,27.26,25.82,10.78,17.97,80274983,46705.9,European region,Western Europe
-149,Germany,2010,79.99,76.32,2.3,1.7,27.21,25.78,11.1,17.45,81776930,41572.46,European region,Western Europe
-150,Germany,2009,79.84,77.75,2.3,1.8,27.16,25.74,11.24,17.64,81902307,41650.37,European region,Western Europe
-151,Germany,2008,79.74,78.39,2.4,1.8,27.1,25.7,10.25,17.46,82110097,45612.71,European region,Western Europe
-152,Germany,2007,79.53,79.56,2.5,2.0,27.03,25.66,10.05,17.41,82266372,41640.08,European region,Western Europe
-153,Germany,2006,79.13,81.24,2.6,2.2,26.96,25.61,10.18,16.93,82376451,36353.88,European region,Western Europe
-154,Germany,2005,78.93,83.55,2.6,2.3,26.89,25.56,10.31,16.67,82469422,34520.24,European region,Western Europe
-155,Germany,2004,78.68,85.28,2.6,2.2,26.81,25.52,10.15,16.46,82516260,34106.66,European region,Western Europe
-156,Germany,2003,78.38,89.42,2.6,2.3,26.73,25.47,10.4,16.67,82534176,30310.36,European region,Western Europe
-157,Germany,2002,78.23,90.93,2.6,2.4,26.65,25.42,10.18,16.55,82488495,25197.27,European region,Western Europe
-158,Germany,2001,78.33,91.85,2.6,2.4,26.57,25.37,9.92,16.36,82349925,23628.33,European region,Western Europe
-159,Germany,2000,77.93,94.37,2.7,2.8,26.5,25.32,9.89,16.19,82211508,23694.76,European region,Western Europe
-160,Iceland,2015,82.47,54.2,1.2,1.2,27.12,25.57,8.07,15.0,330815,52951.68,European region,Northern Europe
-161,Iceland,2014,82.86,53.68,1.2,1.4,27.08,25.55,8.23,14.45,327386,54576.74,European region,Northern Europe
-162,Iceland,2013,82.06,53.14,1.1,1.4,27.03,25.52,8.18,14.27,323764,49804.98,European region,Northern Europe
-163,Iceland,2012,82.92,52.92,1.4,1.1,26.99,25.5,8.18,13.7,320716,45995.55,European region,Northern Europe
-164,Iceland,2011,82.36,52.71,1.2,1.4,26.94,25.48,8.2,12.99,319014,47714.59,European region,Northern Europe
-165,Iceland,2010,81.9,53.21,1.1,1.2,26.89,25.46,8.36,13.69,318041,43237.07,European region,Northern Europe
-166,Iceland,2009,81.75,54.64,1.3,1.4,26.84,25.43,8.78,13.37,318499,41301.27,European region,Northern Europe
-167,Iceland,2008,81.61,56.6,1.6,1.3,26.78,25.4,8.34,10.82,317414,56943.37,European region,Northern Europe
-168,Iceland,2007,81.45,58.27,1.6,1.3,26.71,25.37,8.35,15.31,311566,69495.73,European region,Northern Europe
-169,Iceland,2006,81.16,59.4,1.5,1.4,26.64,25.33,8.56,15.57,303782,57492.93,European region,Northern Europe
-170,Iceland,2005,81.5,60.74,1.6,1.7,26.57,25.29,8.95,16.11,296734,56794.85,European region,Northern Europe
-171,Iceland,2004,81.0,62.26,1.7,1.6,26.49,25.25,9.33,16.17,292074,47334.93,European region,Northern Europe
-172,Iceland,2003,80.96,64.62,1.9,1.6,26.41,25.21,9.73,16.55,289521,39476.7,European region,Northern Europe
-173,Iceland,2002,80.5,67.22,1.9,1.6,26.33,25.16,9.4,16.84,287523,32409.22,European region,Northern Europe
-174,Iceland,2001,80.69,70.23,1.9,1.9,26.25,25.11,8.75,14.88,284968,28897.44,European region,Northern Europe
-175,Iceland,2000,79.65,72.42,2.1,1.9,26.16,25.06,8.9,16.04,281205,32096.37,European region,Northern Europe
-176,Ireland,2015,81.45,61.09,2.3,1.3,28.04,27.15,7.34,18.12,4701957,62179.26,European region,Northern Europe
-177,Ireland,2014,81.35,62.94,2.2,1.5,27.99,27.09,9.51,18.02,4657740,55752.76,European region,Northern Europe
-178,Ireland,2013,80.95,64.81,2.3,1.4,27.94,27.03,10.28,17.92,4623816,51496.96,European region,Northern Europe
-179,Ireland,2012,80.85,67.43,2.4,1.6,27.89,26.97,10.6,17.93,4599533,48943.82,European region,Northern Europe
-180,Ireland,2011,80.75,69.0,2.4,1.6,27.84,26.91,10.61,16.18,4580084,52219.71,European region,Northern Europe
-181,Ireland,2010,80.74,67.55,2.4,1.6,27.78,26.85,10.52,12.35,4560155,48663.6,European region,Northern Europe
-182,Ireland,2009,80.19,76.86,2.4,1.6,27.72,26.78,10.52,17.3,4535375,52133.09,European region,Northern Europe
-183,Ireland,2008,80.1,74.42,2.4,1.7,27.65,26.71,9.13,17.42,4489544,61353.11,European region,Northern Europe
-184,Ireland,2007,79.64,74.66,2.5,1.8,27.57,26.64,7.81,17.36,4398942,61396.42,European region,Northern Europe
-185,Ireland,2006,79.24,77.08,2.7,1.9,27.49,26.56,7.52,17.43,4273591,54329.16,European region,Northern Europe
-186,Ireland,2005,78.94,78.02,3.0,2.1,27.4,26.48,7.64,18.25,4159914,50933.02,European region,Northern Europe
-187,Ireland,2004,78.54,81.81,3.2,2.1,27.31,26.4,7.22,17.36,4070262,47754.2,European region,Northern Europe
-188,Ireland,2003,78.14,82.11,3.5,2.4,27.21,26.3,7.01,16.9,3996521,41203.53,European region,Northern Europe
-189,Ireland,2002,77.63,87.35,3.6,2.6,27.11,26.21,6.67,16.03,3931947,32705.43,European region,Northern Europe
-190,Ireland,2001,77.13,89.66,3.8,2.8,27.01,26.1,6.39,15.59,3866243,28282.41,European region,Northern Europe
-191,Ireland,2000,76.54,95.46,3.9,2.9,26.9,25.99,5.9,14.96,3805174,26334.57,European region,Northern Europe
-192,Italy,2015,82.54,53.97,2.1,1.5,26.66,24.89,8.86,13.1,60730582,30242.39,European region,Southern Europe
-193,Italy,2014,83.09,52.81,2.1,1.2,26.66,24.92,8.87,13.15,60789140,35565.72,European region,Southern Europe
-194,Italy,2013,82.69,55.41,2.2,1.4,26.67,24.95,8.78,13.05,60233948,35560.08,European region,Southern Europe
-195,Italy,2012,82.24,57.46,2.3,1.5,26.68,24.98,8.78,13.17,59539717,35051.52,European region,Southern Europe
-196,Italy,2011,82.19,58.55,2.3,1.5,26.68,25.0,8.77,13.74,59379449,38649.64,European region,Southern Europe
-197,Italy,2010,82.04,57.79,2.3,1.6,26.67,25.02,8.92,14.01,59277417,36035.64,European region,Southern Europe
-198,Italy,2009,81.64,60.23,2.5,1.6,26.66,25.04,8.95,13.71,59095365,37226.76,European region,Southern Europe
-199,Italy,2008,81.49,61.63,2.5,1.7,26.63,25.05,8.53,13.86,58826731,40944.91,European region,Southern Europe
-200,Italy,2007,81.43,63.07,2.5,1.6,26.6,25.05,8.14,13.48,58438310,37870.75,European region,Southern Europe
-201,Italy,2006,81.28,64.49,2.5,1.6,26.55,25.04,8.44,13.72,58143979,33529.73,European region,Southern Europe
-202,Italy,2005,80.78,66.41,2.6,1.7,26.5,25.04,8.34,13.68,57969484,32055.09,European region,Southern Europe
-203,Italy,2004,80.78,67.81,2.7,1.8,26.43,25.03,8.17,13.28,57685327,31317.2,European region,Southern Europe
-204,Italy,2003,79.98,71.87,2.9,2.0,26.36,25.01,7.83,12.51,57313203,27526.32,European region,Southern Europe
-205,Italy,2002,80.23,72.39,3.1,1.8,26.29,24.99,7.87,12.63,57059007,22376.3,European region,Southern Europe
-206,Italy,2001,80.13,74.87,3.1,2.0,26.21,24.97,7.74,12.2,56974100,20500.95,European region,Southern Europe
-207,Italy,2000,79.78,75.85,3.5,2.1,26.13,24.94,7.57,11.81,56942108,20137.59,European region,Southern Europe
-208,Japan,2015,83.79,53.59,0.8,1.9,23.66,21.85,10.75,23.15,127141000,34960.64,Asian region,East Asia
-209,Japan,2014,83.59,55.68,0.9,1.8,23.63,21.88,10.73,22.57,127276000,38475.4,Asian region,East Asia
-210,Japan,2013,83.33,57.39,0.9,1.9,23.6,21.91,10.67,22.22,127445000,40898.65,Asian region,East Asia
-211,Japan,2012,83.1,58.93,0.9,2.1,23.58,21.93,10.67,22.22,127629000,49145.28,Asian region,East Asia
-212,Japan,2011,82.59,63.29,1.0,2.4,23.54,21.95,10.49,21.69,127833000,48760.08,Asian region,East Asia
-213,Japan,2010,82.84,63.0,1.0,2.2,23.51,21.97,9.06,18.93,128070000,44968.16,Asian region,East Asia
-214,Japan,2009,82.93,63.92,1.1,2.2,23.47,21.98,8.96,18.06,128047000,41309.0,Asian region,East Asia
-215,Japan,2008,82.59,64.74,1.2,2.1,23.43,21.99,8.09,18.1,128063000,39876.3,Asian region,East Asia
-216,Japan,2007,82.51,65.8,1.2,2.2,23.39,22.0,7.78,18.23,128001000,35779.02,Asian region,East Asia
-217,Japan,2006,82.32,67.04,1.4,2.2,23.35,22.0,7.69,17.87,127854000,35991.55,Asian region,East Asia
-218,Japan,2005,81.96,68.69,1.3,2.3,23.3,22.0,7.66,17.75,127773000,37812.9,Asian region,East Asia
-219,Japan,2004,82.03,68.73,1.4,2.3,23.25,22.0,7.54,17.2,127761000,38298.98,Asian region,East Asia
-220,Japan,2003,81.76,70.55,1.5,2.4,23.2,22.0,7.49,16.36,127718000,35387.04,Asian region,East Asia
-221,Japan,2002,81.69,70.48,1.6,2.5,23.15,22.01,7.35,16.06,127445000,32820.79,Asian region,East Asia
-222,Japan,2001,81.42,71.77,1.7,2.5,23.11,22.01,7.24,15.95,127149000,34406.18,Asian region,East Asia
-223,Japan,2000,81.08,72.85,1.7,2.8,23.06,22.02,7.03,15.07,126843000,39169.36,Asian region,East Asia
-224,Kuwait,2015,79.56,62.67,4.6,4.0,29.08,30.61,4.21,6.57,3908743,29315.19,Asian region,Western Asia (Middle East)
-225,Kuwait,2014,79.44,59.57,4.7,4.3,28.98,30.57,2.92,5.57,3761584,43239.88,Asian region,Western Asia (Middle East)
-226,Kuwait,2013,79.16,61.69,5.0,4.5,28.87,30.52,2.49,5.48,3646518,47762.86,Asian region,Western Asia (Middle East)
-227,Kuwait,2012,78.81,64.24,5.2,4.8,28.76,30.48,2.33,5.02,3394663,51270.98,Asian region,Western Asia (Middle East)
-228,Kuwait,2011,78.46,62.6,5.4,4.7,28.65,30.43,2.33,5.05,3143825,48997.39,Asian region,Western Asia (Middle East)
-229,Kuwait,2010,77.98,68.15,5.4,4.9,28.55,30.39,2.68,5.04,2943356,39212.47,Asian region,Western Asia (Middle East)
-230,Kuwait,2009,77.44,79.27,5.6,5.1,28.44,30.35,2.71,5.23,2795550,37906.21,Asian region,Western Asia (Middle East)
-231,Kuwait,2008,77.14,88.61,5.8,5.2,28.35,30.3,1.92,3.72,2650930,55595.48,Asian region,Western Asia (Middle East)
-232,Kuwait,2007,77.02,82.53,5.9,5.4,28.26,30.26,1.93,4.9,2506769,45729.8,Asian region,Western Asia (Middle East)
-233,Kuwait,2006,76.89,89.3,5.7,5.4,28.17,30.22,1.82,4.37,2363409,42970.7,Asian region,Western Asia (Middle East)
-234,Kuwait,2005,76.9,88.72,5.8,5.6,28.08,30.18,2.01,5.46,2235403,36144.99,Asian region,Western Asia (Middle East)
-235,Kuwait,2004,76.79,85.04,5.8,5.8,28.0,30.14,2.36,5.26,2153481,27601.4,Asian region,Western Asia (Middle East)
-236,Kuwait,2003,76.98,82.27,6.0,5.8,27.91,30.09,2.76,5.73,2101506,22781.08,Asian region,Western Asia (Middle East)
-237,Kuwait,2002,76.98,89.66,6.1,5.9,27.83,30.04,3.12,5.73,2047364,18626.77,Asian region,Western Asia (Middle East)
-238,Kuwait,2001,76.89,84.08,6.3,6.2,27.74,29.99,3.19,5.86,1991674,17517.71,Asian region,Western Asia (Middle East)
-239,Kuwait,2000,76.72,98.96,6.5,6.1,27.66,29.93,2.2,4.37,1934901,19493.89,Asian region,Western Asia (Middle East)
-240,Luxembourg,2015,82.29,53.28,1.8,1.1,27.21,25.74,5.08,10.63,569604,105462.01,European region,Western Europe
-241,Luxembourg,2014,82.23,56.01,1.8,0.8,27.17,25.72,5.23,10.85,556319,123678.7,European region,Western Europe
-242,Luxembourg,2013,81.8,58.87,1.9,0.8,27.13,25.7,5.24,10.65,543360,120000.14,European region,Western Europe
-243,Luxembourg,2012,81.39,61.74,1.9,1.0,27.09,25.67,5.29,10.59,530946,112584.68,European region,Western Europe
-244,Luxembourg,2011,80.99,63.99,1.9,1.0,27.04,25.65,5.95,11.96,518347,119025.06,European region,Western Europe
-245,Luxembourg,2010,80.63,65.76,1.8,1.1,26.99,25.63,6.66,13.62,506953,110885.99,European region,Western Europe
-246,Luxembourg,2009,80.64,67.82,1.6,1.2,26.94,25.6,6.95,14.12,497783,109419.75,European region,Western Europe
-247,Luxembourg,2008,80.54,70.23,1.8,1.3,26.87,25.57,6.23,14.4,488650,120422.14,European region,Western Europe
-248,Luxembourg,2007,79.38,72.8,1.9,1.5,26.81,25.54,6.16,14.06,479993,107475.32,European region,Western Europe
-249,Luxembourg,2006,79.29,75.31,1.9,1.4,26.73,25.5,6.64,14.12,472637,90788.8,European region,Western Europe
-250,Luxembourg,2005,79.43,78.54,2.1,1.5,26.66,25.47,7.12,13.8,465158,80988.14,European region,Western Europe
-251,Luxembourg,2004,79.12,81.2,2.1,1.7,26.57,25.43,7.28,14.09,458095,76544.92,European region,Western Europe
-252,Luxembourg,2003,77.73,83.87,2.0,1.8,26.49,25.38,6.96,13.47,451630,65689.32,European region,Western Europe
-253,Luxembourg,2002,77.97,85.74,2.3,2.1,26.4,25.34,6.76,13.59,446175,53005.73,European region,Western Europe
-254,Luxembourg,2001,77.82,88.37,2.4,2.0,26.31,25.29,6.38,14.06,441525,48440.14,European region,Western Europe
-255,Luxembourg,2000,77.87,90.51,2.4,2.4,26.23,25.25,5.93,12.99,436300,48659.6,European region,Western Europe
-256,Netherlands,2015,81.51,58.02,2.5,1.4,26.13,25.26,10.32,15.2,16939923,45193.4,European region,Western Europe
-257,Netherlands,2014,81.71,58.9,2.6,1.5,26.11,25.27,10.57,15.55,16865008,52900.54,European region,Western Europe
-258,Netherlands,2013,81.3,60.78,2.7,1.4,26.09,25.27,10.58,15.59,16804432,52198.9,European region,Western Europe
-259,Netherlands,2012,81.1,62.82,2.7,1.5,26.07,25.27,10.54,15.34,16754962,50070.14,European region,Western Europe
-260,Netherlands,2011,81.2,63.85,2.6,1.7,26.04,25.27,10.23,14.84,16693074,54230.31,European region,Western Europe
-261,Netherlands,2010,80.7,64.53,2.8,1.8,26.01,25.26,10.16,14.42,16615394,50999.75,European region,Western Europe
-262,Netherlands,2009,80.55,65.7,2.8,1.7,25.97,25.25,9.99,14.2,16530388,52722.21,European region,Western Europe
-263,Netherlands,2008,80.25,68.02,2.9,1.8,25.93,25.24,9.28,14.42,16445593,57879.94,European region,Western Europe
-264,Netherlands,2007,80.1,67.94,3.1,1.9,25.87,25.21,9.05,13.97,16381696,51799.21,European region,Western Europe
-265,Netherlands,2006,79.7,70.26,3.3,1.7,25.81,25.19,9.08,13.81,16346101,44900.94,European region,Western Europe
-266,Netherlands,2005,79.35,72.06,3.3,1.8,25.74,25.16,9.1,14.59,16319868,41994.71,European region,Western Europe
-267,Netherlands,2004,79.1,76.38,3.5,2.0,25.66,25.12,9.11,14.29,16281779,40436.62,European region,Western Europe
-268,Netherlands,2003,78.49,79.68,3.6,2.0,25.58,25.08,9.06,14.19,16225302,35750.97,European region,Western Europe
-269,Netherlands,2002,78.29,80.44,3.8,2.1,25.5,25.03,8.65,13.83,16148929,29343.24,European region,Western Europe
-270,Netherlands,2001,78.19,81.87,3.8,2.2,25.41,24.98,8.06,13.0,16046180,26896.55,European region,Western Europe
-271,Netherlands,2000,77.99,83.7,3.8,2.3,25.32,24.93,7.71,12.53,15925513,26214.5,European region,Western Europe
-272,New Zealand,2015,81.61,65.82,3.1,2.4,28.23,28.03,9.28,18.89,4609400,38639.35,Oceania region,Australia and New Zealand
-273,New Zealand,2014,81.46,66.01,3.2,2.4,28.17,27.95,9.4,19.46,4516500,44578.23,Oceania region,Australia and New Zealand
-274,New Zealand,2013,81.4,66.92,3.3,2.5,28.11,27.87,9.36,19.2,4442100,42977.39,Oceania region,Australia and New Zealand
-275,New Zealand,2012,81.41,68.12,3.2,2.8,28.05,27.79,9.65,19.18,4408100,39974.3,Oceania region,Australia and New Zealand
-276,New Zealand,2011,81.16,69.53,3.3,2.9,27.99,27.71,9.52,17.85,4384000,38388.53,Oceania region,Australia and New Zealand
-277,New Zealand,2010,80.9,70.74,3.1,3.1,27.93,27.63,9.59,17.6,4350700,33676.77,Oceania region,Australia and New Zealand
-278,New Zealand,2009,80.7,70.89,3.0,3.1,27.85,27.54,9.62,18.72,4302600,28209.36,Oceania region,Australia and New Zealand
-279,New Zealand,2008,80.35,72.55,3.1,3.2,27.77,27.46,9.12,18.36,4259800,31252.96,Oceania region,Australia and New Zealand
-280,New Zealand,2007,80.15,75.54,3.0,3.4,27.69,27.36,8.33,18.14,4223800,32479.98,Oceania region,Australia and New Zealand
-281,New Zealand,2006,80.05,75.19,3.0,3.4,27.6,27.27,8.64,17.94,4184600,26654.59,Oceania region,Australia and New Zealand
-282,New Zealand,2005,79.85,77.51,3.2,3.2,27.5,27.17,8.27,17.38,4133900,27751.07,Oceania region,Australia and New Zealand
-283,New Zealand,2004,79.55,78.7,3.3,3.2,27.4,27.07,7.9,17.0,4087500,25420.23,Oceania region,Australia and New Zealand
-284,New Zealand,2003,79.15,82.08,3.2,3.5,27.29,26.96,7.72,16.22,4027200,21913.71,Oceania region,Australia and New Zealand
-285,New Zealand,2002,78.85,83.46,3.5,3.7,27.18,26.85,7.9,16.28,3948500,16874.19,Oceania region,Australia and New Zealand
-286,New Zealand,2001,78.69,83.79,3.3,3.8,27.06,26.73,7.58,15.17,3880500,13882.86,Oceania region,Australia and New Zealand
-287,New Zealand,2000,78.64,86.04,3.6,3.9,26.95,26.61,7.47,14.71,3857700,13641.1,Oceania region,Australia and New Zealand
-288,Norway,2015,82.3,53.7,1.7,1.2,27.38,26.22,10.07,17.58,5188607,74809.97,European region,Northern Europe
-289,Norway,2014,82.1,56.62,1.7,1.1,27.33,26.18,9.28,17.23,5137232,97666.7,European region,Northern Europe
-290,Norway,2013,81.75,60.16,1.8,1.1,27.27,26.13,8.87,17.1,5079623,103553.84,European region,Northern Europe
-291,Norway,2012,81.45,59.16,1.7,1.2,27.21,26.08,8.72,17.18,5018573,102175.92,European region,Northern Europe
-292,Norway,2011,81.3,65.86,1.7,1.3,27.15,26.04,8.73,16.79,4953088,101221.81,European region,Northern Europe
-293,Norway,2010,81.0,64.64,1.8,1.3,27.09,25.99,8.86,16.61,4889252,88163.21,European region,Northern Europe
-294,Norway,2009,80.8,66.57,1.9,1.3,27.01,25.94,9.03,16.48,4828726,80347.57,European region,Northern Europe
-295,Norway,2008,80.59,66.38,2.1,1.4,26.94,25.89,7.92,16.51,4768212,97503.54,European region,Northern Europe
-296,Norway,2007,80.4,67.13,2.1,1.6,26.86,25.83,8.02,16.14,4709153,85502.27,European region,Northern Europe
-297,Norway,2006,80.34,69.73,2.1,1.7,26.77,25.77,7.88,16.01,4660677,74434.5,European region,Northern Europe
-298,Norway,2005,80.04,71.8,2.2,1.8,26.67,25.71,8.3,16.28,4623291,67047.17,European region,Northern Europe
-299,Norway,2004,79.84,74.52,2.4,1.8,26.58,25.65,8.8,16.12,4591910,57768.7,European region,Northern Europe
-300,Norway,2003,79.39,75.99,2.5,1.9,26.48,25.59,9.19,15.86,4564855,50250.33,European region,Northern Europe
-301,Norway,2002,78.99,79.02,2.6,2.0,26.37,25.52,8.98,15.81,4538159,43170.56,European region,Northern Europe
-302,Norway,2001,78.79,80.44,2.6,2.2,26.27,25.45,8.01,15.03,4513751,38601.9,European region,Northern Europe
-303,Norway,2000,78.63,84.58,2.9,2.1,26.17,25.37,7.7,14.85,4490967,38178.24,European region,Northern Europe
-304,Qatar,2015,80.06,76.25,3.9,3.9,28.83,30.28,3.64,8.29,2414573,66984.91,Asian region,Western Asia (Middle East)
-305,Qatar,2014,79.77,79.46,3.9,3.9,28.72,30.18,2.42,6.5,2214465,93126.15,Asian region,Western Asia (Middle East)
-306,Qatar,2013,79.54,82.47,4.1,3.9,28.61,30.08,2.08,6.18,2035501,97630.83,Asian region,Western Asia (Middle East)
-307,Qatar,2012,79.23,86.97,4.2,3.9,28.5,29.98,1.75,4.47,1905660,98041.36,Asian region,Western Asia (Middle East)
-308,Qatar,2011,78.89,91.7,4.4,4.0,28.39,29.88,1.6,4.13,1804171,92993.0,Asian region,Western Asia (Middle East)
-309,Qatar,2010,78.42,97.66,4.5,4.1,28.29,29.78,1.87,4.15,1713504,73021.31,Asian region,Western Asia (Middle East)
-310,Qatar,2009,77.88,104.6,4.6,4.1,28.18,29.68,2.38,4.65,1610274,60733.98,Asian region,Western Asia (Middle East)
-311,Qatar,2008,77.43,109.8,4.8,4.1,28.08,29.58,1.64,5.19,1444277,79811.6,Asian region,Western Asia (Middle East)
-312,Qatar,2007,77.02,115.3,4.9,4.3,27.98,29.49,2.07,5.25,1231893,64706.99,Asian region,Western Asia (Middle East)
-313,Qatar,2006,76.57,119.3,5.1,4.4,27.88,29.4,2.29,5.8,1015060,59978.86,Asian region,Western Asia (Middle East)
-314,Qatar,2005,76.06,121.0,5.5,4.6,27.79,29.32,2.56,6.62,848710,52468.45,Asian region,Western Asia (Middle East)
-315,Qatar,2004,75.96,121.0,5.5,4.9,27.7,29.23,3.18,7.98,777943,40792.28,Asian region,Western Asia (Middle East)
-316,Qatar,2003,75.56,124.2,5.9,5.1,27.61,29.15,3.5,9.22,748525,31440.22,Asian region,Western Asia (Middle East)
-317,Qatar,2002,75.41,126.7,6.1,5.3,27.53,29.06,2.46,4.9,713186,27151.03,Asian region,Western Asia (Middle East)
-318,Qatar,2001,75.26,129.3,6.4,5.4,27.44,28.97,2.32,4.55,678831,25836.27,Asian region,Western Asia (Middle East)
-319,Qatar,2000,74.83,131.9,6.5,5.8,27.35,28.88,1.97,3.94,645937,27494.77,Asian region,Western Asia (Middle East)
-320,Singapore,2015,82.74,52.85,1.0,1.6,24.35,23.16,4.18,13.54,5535002,55645.61,Asian region,Southeast Asia
-321,Singapore,2014,82.5,54.11,0.9,1.6,24.31,23.17,3.87,13.66,5469724,57564.8,Asian region,Southeast Asia
-322,Singapore,2013,82.25,54.82,1.0,1.6,24.26,23.18,3.69,13.96,5399162,56967.43,Asian region,Southeast Asia
-323,Singapore,2012,82.0,55.94,1.0,1.7,24.21,23.2,3.33,13.21,5312437,55547.56,Asian region,Southeast Asia
-324,Singapore,2011,81.74,57.1,1.1,1.6,24.16,23.21,3.16,11.97,5183688,53891.46,Asian region,Southeast Asia
-325,Singapore,2010,81.54,58.32,1.1,1.5,24.12,23.23,3.2,10.94,5076732,47236.68,Asian region,Southeast Asia
-326,Singapore,2009,81.24,60.01,1.3,1.5,24.08,23.25,3.4,7.15,4987573,38926.81,Asian region,Southeast Asia
-327,Singapore,2008,80.79,65.08,1.2,1.6,24.03,23.26,3.19,8.65,4839396,40008.57,Asian region,Southeast Asia
-328,Singapore,2007,80.44,65.15,1.1,1.6,23.99,23.28,2.84,10.35,4588599,39432.89,Asian region,Southeast Asia
-329,Singapore,2006,80.14,65.57,1.3,1.6,23.95,23.3,2.93,7.85,4401365,33768.45,Asian region,Southeast Asia
-330,Singapore,2005,79.99,69.06,1.3,1.7,23.91,23.33,3.03,7.89,4265762,29961.32,Asian region,Southeast Asia
-331,Singapore,2004,79.49,69.89,1.3,1.8,23.87,23.35,3.15,7.13,4166664,27608.08,Asian region,Southeast Asia
-332,Singapore,2003,79.04,71.96,1.2,1.9,23.83,23.37,3.61,8.33,4114826,23730.38,Asian region,Southeast Asia
-333,Singapore,2002,78.55,76.58,1.3,2.1,23.79,23.39,3.36,6.54,4175950,22159.84,Asian region,Southeast Asia
-334,Singapore,2001,78.25,77.7,1.5,2.3,23.74,23.41,3.16,4.87,4138012,21699.74,Asian region,Southeast Asia
-335,Singapore,2000,77.95,77.69,1.5,2.2,23.7,23.44,3.34,7.39,4027887,23852.84,Asian region,Southeast Asia
-336,Sweden,2015,82.2,54.42,1.6,1.2,26.82,25.42,10.8,18.39,9799186,51545.48,European region,Northern Europe
-337,Sweden,2014,82.25,54.88,1.7,1.2,26.77,25.38,10.95,18.14,9696110,60020.36,European region,Northern Europe
-338,Sweden,2013,81.96,55.87,1.5,1.2,26.73,25.34,10.9,17.74,9600379,61126.94,European region,Northern Europe
-339,Sweden,2012,81.7,56.17,1.5,1.4,26.68,25.3,10.74,17.73,9519374,58037.82,European region,Northern Europe
-340,Sweden,2011,81.8,57.46,1.6,1.3,26.63,25.26,10.42,17.67,9449213,60755.76,European region,Northern Europe
-341,Sweden,2010,81.45,57.75,1.5,1.4,26.58,25.22,8.32,13.6,9378126,52869.04,European region,Northern Europe
-342,Sweden,2009,81.35,61.1,1.5,1.5,26.52,25.17,8.77,13.81,9298515,46946.96,European region,Northern Europe
-343,Sweden,2008,81.1,62.15,1.5,1.4,26.45,25.13,8.21,13.54,9219637,56152.55,European region,Northern Europe
-344,Sweden,2007,80.9,63.13,1.7,1.6,26.38,25.08,8.0,13.38,9148092,53700.01,European region,Northern Europe
-345,Sweden,2006,80.75,64.15,1.8,1.4,26.31,25.03,8.05,12.98,9080505,46593.6,European region,Northern Europe
-346,Sweden,2005,80.55,65.86,2.0,1.6,26.23,24.98,8.15,12.83,9029572,43437.06,European region,Northern Europe
-347,Sweden,2004,80.5,66.63,2.0,1.6,26.15,24.93,8.13,12.81,8993531,42821.67,European region,Northern Europe
-348,Sweden,2003,80.1,67.65,2.2,1.6,26.06,24.88,8.32,12.85,8958229,37321.8,European region,Northern Europe
-349,Sweden,2002,79.85,69.35,2.1,1.6,25.97,24.83,8.21,12.64,8924958,29899.2,European region,Northern Europe
-350,Sweden,2001,79.8,71.65,2.3,1.7,25.87,24.77,7.9,12.36,8895960,27247.86,European region,Northern Europe
-351,Sweden,2000,79.64,71.94,2.3,1.8,25.77,24.71,7.33,11.67,8872109,29624.91,European region,Northern Europe
-352,Switzerland,2015,82.9,49.46,3.0,1.2,26.79,23.84,10.78,10.73,8282396,83806.45,European region,Western Europe
-353,Switzerland,2014,83.2,50.05,3.0,1.2,26.74,23.86,10.43,10.65,8188649,88724.99,European region,Western Europe
-354,Switzerland,2013,82.8,52.78,3.0,1.1,26.69,23.88,10.38,10.44,8089346,87304.33,European region,Western Europe
-355,Switzerland,2012,82.7,53.51,3.0,1.3,26.65,23.9,10.14,11.0,7996861,85836.21,European region,Western Europe
-356,Switzerland,2011,82.7,54.21,3.0,1.3,26.6,23.92,10.05,10.73,7912398,90476.76,European region,Western Europe
-357,Switzerland,2010,82.25,56.75,3.1,1.3,26.54,23.93,9.93,10.39,7824909,76531.37,European region,Western Europe
-358,Switzerland,2009,82.04,59.09,3.1,1.4,26.48,23.95,10.14,9.97,7743831,71568.31,European region,Western Europe
-359,Switzerland,2008,81.99,59.2,3.1,1.5,26.42,23.97,9.53,9.78,7647675,74175.19,European region,Western Europe
-360,Switzerland,2007,81.74,61.97,3.2,1.5,26.35,23.98,9.42,9.56,7551117,64989.16,European region,Western Europe
-361,Switzerland,2006,81.49,63.65,3.1,1.6,26.28,23.99,9.58,9.34,7483934,59011.03,European region,Western Europe
-362,Switzerland,2005,81.24,64.61,3.1,1.8,26.21,24.0,10.06,9.39,7437115,56242.89,European region,Western Europe
-363,Switzerland,2004,81.09,67.11,3.2,1.8,26.14,24.01,10.23,9.31,7389625,54659.46,European region,Western Europe
-364,Switzerland,2003,80.54,70.37,3.2,2.0,26.07,24.02,10.14,9.31,7339001,49335.75,European region,Western Europe
-365,Switzerland,2002,80.39,71.54,3.3,2.0,26.0,24.03,9.88,8.84,7284753,42458.74,European region,Western Europe
-366,Switzerland,2001,80.18,73.35,3.4,2.2,25.93,24.03,9.46,8.7,7229854,39638.79,European region,Western Europe
-367,Switzerland,2000,79.68,76.41,3.5,2.3,25.87,24.03,9.13,7.84,7184250,38865.02,European region,Western Europe
-368,United Arab Emirates,2015,79.22,45.14,4.5,4.3,28.1,29.58,3.47,9.07,8916899,41525.14,Asian region,Western Asia (Middle East)
-369,United Arab Emirates,2014,79.04,45.21,4.3,4.1,28.02,29.51,3.53,7.78,8835951,46865.96,Asian region,Western Asia (Middle East)
-370,United Arab Emirates,2013,78.85,46.4,4.3,4.0,27.93,29.45,3.5,8.53,8751847,45729.61,Asian region,Western Asia (Middle East)
-371,United Arab Emirates,2012,78.72,47.74,4.3,3.8,27.84,29.39,3.34,8.53,8664969,44386.79,Asian region,Western Asia (Middle East)
-372,United Arab Emirates,2011,78.52,48.94,4.3,3.8,27.76,29.32,3.67,8.53,8575205,42078.61,Asian region,Western Asia (Middle East)
-373,United Arab Emirates,2010,78.33,49.69,4.3,3.8,27.67,29.26,3.88,8.53,8481771,35392.26,Asian region,Western Asia (Middle East)
-374,United Arab Emirates,2009,78.0,50.85,4.3,3.8,27.59,29.2,4.05,8.53,7992644,31722.59,Asian region,Western Asia (Middle East)
-375,United Arab Emirates,2008,77.49,52.43,4.5,3.9,27.5,29.14,2.93,8.53,6988685,45140.77,Asian region,Western Asia (Middle East)
-376,United Arab Emirates,2007,77.13,53.99,4.7,4.0,27.42,29.08,2.57,8.53,5872624,43918.38,Asian region,Western Asia (Middle East)
-377,United Arab Emirates,2006,76.91,55.5,4.8,4.0,27.34,29.02,2.33,8.53,4898954,45339.59,Asian region,Western Asia (Middle East)
-378,United Arab Emirates,2005,76.68,56.9,4.9,4.1,27.27,28.96,2.32,8.38,4280993,42190.55,Asian region,Western Asia (Middle East)
-379,United Arab Emirates,2004,76.45,58.37,5.1,4.3,27.19,28.9,2.46,7.94,3993339,37017.74,Asian region,Western Asia (Middle East)
-380,United Arab Emirates,2003,76.22,59.9,5.2,4.4,27.11,28.83,2.65,8.09,3813443,32607.37,Asian region,Western Asia (Middle East)
-381,United Arab Emirates,2002,74.9,61.37,5.5,4.8,27.03,28.77,2.72,7.8,3633655,30221.97,Asian region,Western Asia (Middle East)
-382,United Arab Emirates,2001,74.64,62.81,5.7,4.9,26.95,28.69,2.48,7.58,3454198,29909.01,Asian region,Western Asia (Middle East)
-383,United Arab Emirates,2000,74.38,64.29,5.8,5.3,26.87,28.62,2.37,7.57,3275333,31855.5,Asian region,Western Asia (Middle East)
-384,United Kingdom of Great Britain and Northern Ireland,2015,80.96,69.04,2.5,1.7,27.45,27.12,9.8,18.73,65116219,44964.39,European region,Northern Europe
-385,United Kingdom of Great Britain and Northern Ireland,2014,81.3,68.45,2.6,1.6,27.43,27.09,9.86,18.49,64602298,47439.62,European region,Northern Europe
-386,United Kingdom of Great Britain and Northern Ireland,2013,81.0,69.21,2.7,1.7,27.41,27.06,9.87,18.2,64128273,43426.3,European region,Northern Europe
-387,United Kingdom of Great Britain and Northern Ireland,2012,80.9,68.85,2.8,1.9,27.38,27.02,9.95,17.68,63700215,42497.34,European region,Northern Europe
-388,United Kingdom of Great Britain and Northern Ireland,2011,80.95,71.67,3.0,1.9,27.36,26.99,9.92,17.63,63258810,42109.64,European region,Northern Europe
-389,United Kingdom of Great Britain and Northern Ireland,2010,80.4,74.63,3.2,2.0,27.32,26.95,9.93,17.07,62766365,39598.96,European region,Northern Europe
-390,United Kingdom of Great Britain and Northern Ireland,2009,80.05,76.53,3.1,2.2,27.28,26.91,10.05,17.29,62276270,38744.13,European region,Northern Europe
-391,United Kingdom of Great Britain and Northern Ireland,2008,79.6,78.82,3.3,2.3,27.23,26.86,9.03,16.62,61806995,47396.12,European region,Northern Europe
-392,United Kingdom of Great Britain and Northern Ireland,2007,79.45,79.1,3.3,2.3,27.17,26.8,8.62,17.2,61322463,50397.69,European region,Northern Europe
-393,United Kingdom of Great Britain and Northern Ireland,2006,79.25,80.26,3.3,2.3,27.11,26.74,8.63,17.27,60846820,44512.46,European region,Northern Europe
-394,United Kingdom of Great Britain and Northern Ireland,2005,79.05,80.69,3.4,2.5,27.03,26.68,8.36,16.57,60401206,42104.79,European region,Northern Europe
-395,United Kingdom of Great Britain and Northern Ireland,2004,78.75,81.78,3.4,2.6,26.95,26.61,8.31,16.72,59987905,40366.89,European region,Northern Europe
-396,United Kingdom of Great Britain and Northern Ireland,2003,78.45,84.69,3.6,2.7,26.86,26.53,8.06,16.36,59647577,34442.69,European region,Northern Europe
-397,United Kingdom of Great Britain and Northern Ireland,2002,78.14,85.6,3.6,2.7,26.77,26.44,7.65,16.29,59370479,30077.74,European region,Northern Europe
-398,United Kingdom of Great Britain and Northern Ireland,2001,77.99,87.21,3.8,2.7,26.66,26.35,7.34,15.87,59119673,27906.57,European region,Northern Europe
-399,United Kingdom of Great Britain and Northern Ireland,2000,77.74,86.46,3.6,2.8,26.56,26.25,7.13,15.6,58892514,28280.93,European region,Northern Europe
-400,United States of America,2015,78.69,106.6,3.8,2.8,28.97,29.0,16.49,22.32,320738994,57040.21,American region,North America
-401,United States of America,2014,78.84,105.0,3.9,2.9,28.93,28.92,16.2,21.48,318386329,55304.32,American region,North America
-402,United States of America,2013,78.74,104.2,3.9,3.0,28.89,28.85,15.99,20.36,316059947,53409.75,American region,North America
-403,United States of America,2012,78.74,104.3,3.9,3.0,28.85,28.77,16.12,19.63,313877662,51784.41,American region,North America
-404,United States of America,2011,78.64,104.5,3.9,3.1,28.8,28.7,16.14,18.85,311583481,50065.98,American region,North America
-405,United States of America,2010,78.54,104.2,3.9,3.3,28.74,28.62,16.2,18.39,309327143,48650.66,American region,North America
-406,United States of America,2009,78.39,107.5,4.1,3.1,28.68,28.54,16.2,18.19,306771529,47194.95,American region,North America
-407,United States of America,2008,78.04,108.7,4.3,3.1,28.61,28.45,15.21,18.2,304093966,48570.06,American region,North America
-408,United States of America,2007,77.99,110.1,4.4,3.2,28.52,28.36,14.92,18.5,301231207,48050.23,American region,North America
-409,United States of America,2006,77.69,112.7,4.4,3.2,28.43,28.26,14.71,18.57,298379912,46301.99,American region,North America
-410,United States of America,2005,77.49,113.0,4.3,3.3,28.33,28.16,14.58,17.94,295516599,44123.4,American region,North America
-411,United States of America,2004,77.49,112.0,4.4,3.2,28.23,28.06,14.55,17.93,292805298,41724.64,American region,North America
-412,United States of America,2003,77.04,114.5,4.4,3.5,28.12,27.95,14.51,17.51,290107933,39490.3,American region,North America
-413,United States of America,2002,76.94,115.0,4.6,3.5,28.0,27.84,14.0,17.22,287625193,37997.74,American region,North America
-414,United States of America,2001,76.84,116.1,4.6,3.6,27.89,27.71,13.17,16.76,284968955,37133.62,American region,North America
-415,United States of America,2000,76.64,115.1,4.5,3.7,27.76,27.58,12.49,16.16,282162411,36329.97,American region,North America
+,country,year,life_expectancy,adult_mortality,infant_deaths,under_five_deaths,bmi_male,bmi_female,health_expenditure_percentage,total_expenditure,population,gdp_per_capita,income_class,region,sub_region
+0,Australia,2015,82.4,62.26,2.2,1.4,27.68,26.84,10.18,18.31,23815995,56758.87,High income,Oceania region,Australia and New Zealand
+1,Australia,2014,82.3,61.18,2.4,1.5,27.65,26.81,9.83,17.64,23475686,62558.24,High income,Oceania region,Australia and New Zealand
+2,Australia,2013,82.15,59.56,2.4,1.6,27.61,26.77,8.75,15.4,23128129,68198.42,High income,Oceania region,Australia and New Zealand
+3,Australia,2012,82.05,59.74,2.4,1.7,27.58,26.74,8.67,16.19,22733465,68078.04,High income,Oceania region,Australia and New Zealand
+4,Australia,2011,81.9,61.99,2.6,1.9,27.54,26.7,8.54,16.32,22340024,62609.66,High income,Oceania region,Australia and New Zealand
+5,Australia,2010,81.7,62.48,2.7,1.9,27.5,26.67,8.42,16.11,22031750,52147.02,High income,Oceania region,Australia and New Zealand
+6,Australia,2009,81.54,63.99,2.9,1.9,27.46,26.62,8.54,15.88,21691653,42816.57,High income,Oceania region,Australia and New Zealand
+7,Australia,2008,81.4,64.08,3.0,2.2,27.4,26.58,8.25,15.61,21249199,49701.28,High income,Oceania region,Australia and New Zealand
+8,Australia,2007,81.29,64.99,3.0,2.2,27.34,26.53,8.05,16.49,20827622,41051.61,High income,Oceania region,Australia and New Zealand
+9,Australia,2006,81.04,65.58,3.1,2.4,27.27,26.47,7.98,15.94,20450966,36595.71,High income,Oceania region,Australia and New Zealand
+10,Australia,2005,80.84,66.92,3.2,2.3,27.2,26.41,7.97,15.9,20176844,34479.77,High income,Oceania region,Australia and New Zealand
+11,Australia,2004,80.49,67.06,3.2,2.3,27.12,26.34,8.09,15.95,19932722,30836.73,High income,Oceania region,Australia and New Zealand
+12,Australia,2003,80.24,68.73,3.4,2.4,27.04,26.27,7.88,15.48,19720737,23718.13,High income,Oceania region,Australia and New Zealand
+13,Australia,2002,79.94,71.05,3.4,2.5,26.95,26.19,7.88,15.51,19495210,20301.84,High income,Oceania region,Australia and New Zealand
+14,Australia,2001,79.63,72.98,3.4,2.4,26.86,26.1,7.68,14.71,19274701,19695.73,High income,Oceania region,Australia and New Zealand
+15,Australia,2000,79.23,76.32,3.5,2.6,26.76,26.0,7.59,14.6,19028802,21870.42,High income,Oceania region,Australia and New Zealand
+16,Austria,2015,81.19,64.67,2.2,1.4,26.64,24.73,10.37,14.69,8642699,44195.82,High income,European region,Western Europe
+17,Austria,2014,81.49,65.72,2.3,1.4,26.61,24.71,10.37,14.34,8546356,51786.38,High income,European region,Western Europe
+18,Austria,2013,81.14,67.14,2.3,1.4,26.58,24.69,10.29,14.37,8479823,50731.13,High income,European region,Western Europe
+19,Austria,2012,80.94,68.77,2.3,1.6,26.55,24.67,10.2,14.51,8429991,48564.92,High income,European region,Western Europe
+20,Austria,2011,80.98,71.78,2.4,1.7,26.51,24.65,10.03,14.32,8391643,51442.28,High income,European region,Western Europe
+21,Austria,2010,80.58,74.28,2.5,1.8,26.48,24.63,10.22,14.0,8363404,46903.76,High income,European region,Western Europe
+22,Austria,2009,80.33,76.43,2.6,1.8,26.43,24.61,10.23,13.76,8343323,48153.32,High income,European region,Western Europe
+23,Austria,2008,80.43,74.89,2.5,2.0,26.38,24.58,9.73,14.39,8321496,51919.98,High income,European region,Western Europe
+24,Austria,2007,80.18,78.15,2.6,1.9,26.33,24.56,9.53,14.09,8295487,46915.34,High income,European region,Western Europe
+25,Austria,2006,79.88,78.49,2.7,2.0,26.27,24.53,9.53,13.78,8268641,40669.33,High income,European region,Western Europe
+26,Austria,2005,79.33,83.25,2.8,2.0,26.21,24.5,9.63,13.67,8227829,38417.46,High income,European region,Western Europe
+27,Austria,2004,79.18,84.71,2.9,2.1,26.14,24.48,9.71,13.03,8171966,36889.23,High income,European region,Western Europe
+28,Austria,2003,78.63,87.42,3.0,2.2,26.07,24.45,9.55,13.62,8121423,32294.05,High income,European region,Western Europe
+29,Austria,2002,78.68,89.65,2.9,2.4,26.0,24.41,9.39,13.51,8081957,26527.59,High income,European region,Western Europe
+30,Austria,2001,78.58,91.83,3.0,2.4,25.93,24.38,9.27,13.29,8042293,24558.76,High income,European region,Western Europe
+31,Austria,2000,78.13,95.01,3.1,2.7,25.85,24.34,9.2,13.38,8011566,24625.6,High income,European region,Western Europe
+32,Bahamas,2015,73.1,180.3,4.5,3.6,27.2,28.98,5.16,12.84,392697,29722.41,High income,American region,North America
+33,Bahamas,2014,73.37,185.8,4.7,4.0,27.12,28.9,5.54,14.21,389131,28201.56,High income,American region,North America
+34,Bahamas,2013,73.02,185.0,5.2,3.9,27.03,28.82,5.59,14.02,385650,26956.57,High income,American region,North America
+35,Bahamas,2012,72.75,186.4,5.6,4.3,26.95,28.74,5.32,14.06,382061,28059.66,High income,American region,North America
+36,Bahamas,2011,72.56,186.2,6.2,4.8,26.86,28.66,5.32,13.9,377950,26644.93,High income,American region,North America
+37,Bahamas,2010,72.73,186.1,6.8,5.0,26.77,28.58,5.26,15.44,373272,27046.66,High income,American region,North America
+38,Bahamas,2009,72.58,185.7,7.3,5.1,26.69,28.51,5.15,15.01,368057,27120.69,High income,American region,North America
+39,Bahamas,2008,72.67,185.5,7.8,5.4,26.6,28.43,4.86,14.47,362795,29013.63,High income,American region,North America
+40,Bahamas,2007,72.68,185.5,8.2,5.4,26.52,28.35,4.5,13.5,357666,29687.87,High income,American region,North America
+41,Bahamas,2006,72.86,190.3,8.5,5.9,26.43,28.28,4.31,12.73,352664,28829.85,High income,American region,North America
+42,Bahamas,2005,72.76,187.0,9.0,6.4,26.35,28.2,4.03,12.86,347804,28280.87,High income,American region,North America
+43,Bahamas,2004,72.48,192.4,8.8,6.8,26.26,28.12,4.05,13.04,343089,26393.41,High income,American region,North America
+44,Bahamas,2003,72.4,194.1,8.8,7.3,26.17,28.04,4.02,13.16,338490,26204.88,High income,American region,North America
+45,Bahamas,2002,72.23,203.1,8.5,7.7,26.08,27.96,3.81,12.95,334002,26590.14,High income,American region,North America
+46,Bahamas,2001,72.11,213.9,8.4,7.9,26.0,27.87,3.92,13.24,329626,25234.14,High income,American region,North America
+47,Bahamas,2000,72.04,219.7,8.4,8.2,25.91,27.78,3.8,12.66,325014,24849.61,High income,American region,North America
+48,Belgium,2015,80.99,71.86,2.2,1.8,26.78,25.72,10.8,15.35,11274196,41008.3,High income,European region,Western Europe
+49,Belgium,2014,81.29,72.45,2.1,1.7,26.75,25.69,10.61,14.52,11209057,47764.07,High income,European region,Western Europe
+50,Belgium,2013,80.59,75.97,2.2,2.0,26.72,25.66,10.58,14.32,11159407,46757.95,High income,European region,Western Europe
+51,Belgium,2012,80.39,78.43,2.3,2.0,26.7,25.63,10.5,14.22,11106932,44670.56,High income,European region,Western Europe
+52,Belgium,2011,80.59,80.45,2.3,2.0,26.66,25.6,10.36,14.28,11038264,47410.57,High income,European region,Western Europe
+53,Belgium,2010,80.18,81.5,2.3,2.2,26.63,25.58,10.2,14.44,10895586,44184.95,High income,European region,Western Europe
+54,Belgium,2009,80.03,84.24,2.5,2.1,26.59,25.55,10.32,14.4,10796493,44760.29,High income,European region,Western Europe
+55,Belgium,2008,79.68,86.33,2.5,2.2,26.54,25.51,9.6,14.31,10709973,48303.4,High income,European region,Western Europe
+56,Belgium,2007,79.78,85.0,2.5,2.1,26.49,25.48,9.14,13.96,10625700,44319.17,High income,European region,Western Europe
+57,Belgium,2006,79.38,86.34,2.6,2.3,26.43,25.45,9.13,13.96,10547958,38705.11,High income,European region,Western Europe
+58,Belgium,2005,78.98,88.52,2.7,2.4,26.37,25.42,9.22,13.3,10478617,36809.7,High income,European region,Western Europe
+59,Belgium,2004,78.88,89.63,2.6,2.4,26.3,25.39,9.33,14.18,10421137,35429.41,High income,European region,Western Europe
+60,Belgium,2003,78.13,94.19,2.7,2.6,26.24,25.36,9.16,13.31,10376133,30655.21,High income,European region,Western Europe
+61,Belgium,2002,78.08,96.14,2.9,2.6,26.17,25.33,8.32,12.29,10332785,25006.19,High income,European region,Western Europe
+62,Belgium,2001,77.97,98.22,2.9,2.9,26.1,25.3,8.15,12.43,10286570,23015.07,High income,European region,Western Europe
+63,Belgium,2000,77.72,99.75,3.0,2.9,26.03,25.27,8.0,12.07,10251250,23098.89,High income,European region,Western Europe
+64,Brunei Darussalam,2015,74.75,97.91,4.8,5.7,27.17,27.22,2.39,5.86,421437,30681.43,High income,Asian region,Southeast Asia
+65,Brunei Darussalam,2014,74.78,96.04,4.7,5.8,27.02,27.1,1.91,5.2,416656,41035.78,High income,Asian region,Southeast Asia
+66,Brunei Darussalam,2013,74.8,93.6,4.6,5.8,26.87,26.98,1.9,5.12,411702,43950.05,High income,Asian region,Southeast Asia
+67,Brunei Darussalam,2012,74.83,91.8,4.7,5.9,26.72,26.87,1.85,5.44,406634,46844.2,High income,Asian region,Southeast Asia
+68,Brunei Darussalam,2011,74.86,90.69,4.7,5.7,26.58,26.76,1.86,5.74,401506,46139.11,High income,Asian region,Southeast Asia
+69,Brunei Darussalam,2010,74.85,91.38,4.8,5.8,26.44,26.64,2.28,5.78,396053,34609.71,High income,Asian region,Southeast Asia
+70,Brunei Darussalam,2009,74.85,92.36,4.8,5.8,26.3,26.53,2.39,6.22,390311,27497.55,High income,Asian region,Southeast Asia
+71,Brunei Darussalam,2008,74.84,94.27,4.8,6.1,26.16,26.43,1.88,6.21,384568,37427.54,High income,Asian region,Southeast Asia
+72,Brunei Darussalam,2007,74.82,94.97,4.8,6.3,26.02,26.33,1.94,5.77,378748,32337.27,High income,Asian region,Southeast Asia
+73,Brunei Darussalam,2006,74.78,95.28,4.8,6.6,25.89,26.23,1.91,5.81,372808,30767.75,High income,Asian region,Southeast Asia
+74,Brunei Darussalam,2005,74.73,94.46,5.0,6.9,25.76,26.13,2.23,6.43,366717,25991.21,High income,Asian region,Southeast Asia
+75,Brunei Darussalam,2004,74.65,94.78,5.1,6.9,25.63,26.03,2.55,6.4,360461,21839.26,High income,Asian region,Southeast Asia
+76,Brunei Darussalam,2003,74.56,95.45,4.9,7.1,25.51,25.94,2.6,6.99,354045,18521.37,High income,Asian region,Southeast Asia
+77,Brunei Darussalam,2002,74.43,96.88,5.0,7.1,25.38,25.84,2.53,5.11,347463,16817.24,High income,Asian region,Southeast Asia
+78,Brunei Darussalam,2001,74.28,98.43,5.0,7.0,25.26,25.75,2.55,5.97,340748,16437.42,High income,Asian region,Southeast Asia
+79,Brunei Darussalam,2000,74.08,100.4,5.0,7.1,25.15,25.66,2.55,5.72,333926,17971.89,High income,Asian region,Southeast Asia
+80,Canada,2015,81.82,66.11,3.6,1.6,27.45,26.73,10.74,19.01,4819333,43594.19,High income,American region,North America
+81,Canada,2014,81.78,66.56,3.6,1.6,27.44,26.7,10.26,18.91,4798734,50960.84,High income,American region,North America
+82,Canada,2013,81.74,66.24,3.7,1.6,27.43,26.67,10.41,18.48,4802428,52638.12,High income,American region,North America
+83,Canada,2012,81.66,67.55,3.7,1.7,27.42,26.64,10.51,18.1,4773306,52670.34,High income,American region,North America
+84,Canada,2011,81.48,66.82,3.7,1.7,27.41,26.61,10.38,17.53,4732022,52223.86,High income,American region,North America
+85,Canada,2010,81.32,69.1,3.6,1.9,27.39,26.57,10.68,17.32,4660067,47560.67,High income,American region,North America
+86,Canada,2009,81.07,71.36,3.6,1.9,27.37,26.53,10.66,17.24,4564540,40874.88,High income,American region,North America
+87,Canada,2008,80.72,73.0,3.8,1.9,27.34,26.49,9.61,17.28,4467233,46710.25,High income,American region,North America
+88,Canada,2007,80.54,73.68,3.9,1.9,27.3,26.45,9.45,17.06,4375569,44660.08,High income,American region,North America
+89,Canada,2006,80.54,73.95,3.9,1.9,27.26,26.4,9.34,16.78,4294352,40504.04,High income,American region,North America
+90,Canada,2005,80.11,75.7,3.9,2.0,27.21,26.35,9.04,17.13,4208834,36383.66,High income,American region,North America
+91,Canada,2004,79.99,75.73,3.9,2.1,27.16,26.29,9.07,16.93,4115138,32145.54,High income,American region,North America
+92,Canada,2003,79.72,77.35,4.0,2.2,27.1,26.23,9.01,16.36,4026841,28301.86,High income,American region,North America
+93,Canada,2002,79.53,78.0,3.9,2.3,27.03,26.16,8.86,15.88,3930648,24256.02,High income,American region,North America
+94,Canada,2001,79.4,79.21,3.6,2.5,26.96,26.08,8.62,15.28,3844773,23822.1,High income,American region,North America
+95,Canada,2000,79.17,80.77,3.7,2.6,26.89,26.0,8.25,14.82,3759170,24271.0,High income,American region,North America
+96,Denmark,2015,80.7,66.12,3.1,1.0,26.27,24.56,10.34,15.98,5683483,53254.86,High income,European region,Northern Europe
+97,Denmark,2014,80.7,68.15,3.1,1.0,26.27,24.56,10.31,15.77,5643475,62548.98,High income,European region,Northern Europe
+98,Denmark,2013,80.3,71.37,3.0,1.0,26.26,24.56,10.33,15.63,5614932,61191.19,High income,European region,Northern Europe
+99,Denmark,2012,80.05,73.75,2.8,1.2,26.25,24.56,10.52,15.32,5591572,58507.51,High income,European region,Northern Europe
+100,Denmark,2011,79.8,77.11,2.9,1.1,26.24,24.56,10.41,15.48,5570572,61753.65,High income,European region,Northern Europe
+101,Denmark,2010,79.1,82.53,2.8,1.3,26.22,24.56,10.61,15.77,5547683,58041.4,High income,European region,Northern Europe
+102,Denmark,2009,78.6,84.67,2.8,1.4,26.19,24.55,10.67,15.95,5523095,58163.28,High income,European region,Northern Europe
+103,Denmark,2008,78.45,86.2,2.7,1.4,26.16,24.55,9.51,15.85,5493621,64322.06,High income,European region,Northern Europe
+104,Denmark,2007,78.2,91.58,2.9,1.6,26.11,24.54,9.33,15.74,5461438,58487.05,High income,European region,Northern Europe
+105,Denmark,2006,78.1,91.4,3.0,1.6,26.06,24.53,9.17,15.43,5437272,52027.0,High income,European region,Northern Europe
+106,Denmark,2005,77.84,89.41,3.1,1.8,26.0,24.52,9.09,14.86,5419432,48799.83,High income,European region,Northern Europe
+107,Denmark,2004,77.49,94.52,3.1,1.9,25.93,24.51,9.01,14.2,5404523,46511.6,High income,European region,Northern Europe
+108,Denmark,2003,77.14,96.81,3.3,1.9,25.86,24.49,8.9,13.93,5390574,40458.78,High income,European region,Northern Europe
+109,Denmark,2002,76.9,99.36,3.3,2.0,25.78,24.48,8.7,13.71,5375931,33228.69,High income,European region,Northern Europe
+110,Denmark,2001,76.79,98.69,3.4,2.0,25.69,24.47,8.45,13.34,5358783,30751.65,High income,European region,Northern Europe
+111,Denmark,2000,76.59,99.75,3.5,2.0,25.61,24.45,8.1,12.78,5339616,30743.55,High income,European region,Northern Europe
+112,Finland,2015,81.48,69.32,1.8,0.6,26.55,25.68,9.65,13.41,5479531,42801.91,High income,European region,Northern Europe
+113,Finland,2014,81.18,72.75,1.7,0.8,26.56,25.68,9.78,13.59,5461512,50327.24,High income,European region,Northern Europe
+114,Finland,2013,80.98,77.15,1.8,1.0,26.57,25.68,9.81,13.71,5438972,49892.22,High income,European region,Northern Europe
+115,Finland,2012,80.63,79.93,1.9,1.0,26.58,25.68,9.59,13.8,5413971,47708.06,High income,European region,Northern Europe
+116,Finland,2011,80.47,83.72,2.0,0.8,26.59,25.67,9.22,13.61,5388272,51148.93,High income,European region,Northern Europe
+117,Finland,2010,79.87,87.74,2.2,0.6,26.59,25.67,9.14,13.32,5363352,46505.3,High income,European region,Northern Europe
+118,Finland,2009,79.72,90.52,2.4,0.6,26.58,25.67,9.16,13.38,5338871,47481.48,High income,European region,Northern Europe
+119,Finland,2008,79.57,93.93,2.5,0.6,26.57,25.66,8.34,13.74,5313399,53772.79,High income,European region,Northern Europe
+120,Finland,2007,79.26,96.27,2.6,0.7,26.56,25.65,8.08,13.65,5288720,48476.39,High income,European region,Northern Europe
+121,Finland,2006,79.21,95.76,2.7,0.8,26.54,25.63,8.28,13.57,5266268,41222.6,High income,European region,Northern Europe
+122,Finland,2005,78.82,100.1,2.8,0.9,26.52,25.62,8.29,13.16,5246096,39054.85,High income,European region,Northern Europe
+123,Finland,2004,78.71,99.56,2.6,1.0,26.49,25.6,8.06,12.77,5228172,37772.18,High income,European region,Northern Europe
+124,Finland,2003,78.37,97.01,2.7,1.3,26.45,25.58,7.94,12.44,5213014,32927.68,High income,European region,Northern Europe
+125,Finland,2002,78.12,97.59,2.7,1.4,26.41,25.56,7.63,12.09,5200598,26997.75,High income,European region,Northern Europe
+126,Finland,2001,77.97,99.4,2.7,1.5,26.37,25.52,7.25,11.69,5188008,24967.79,High income,European region,Northern Europe
+127,Finland,2000,77.47,104.3,2.6,1.6,26.32,25.49,7.09,11.2,5176209,24345.91,High income,European region,Northern Europe
+128,France,2015,82.32,74.41,2.4,1.7,26.06,24.34,11.45,14.58,66548272,36652.92,High income,European region,Western Europe
+129,France,2014,82.72,73.79,2.3,1.6,26.04,24.38,11.54,14.2,66312067,43068.55,High income,European region,Western Europe
+130,France,2013,82.22,76.88,2.3,1.8,26.02,24.41,11.4,14.01,66002289,42602.72,High income,European region,Western Europe
+131,France,2012,81.97,79.66,2.2,1.7,26.01,24.44,11.3,13.91,65662240,40870.85,High income,European region,Western Europe
+132,France,2011,82.11,82.76,2.2,1.9,25.99,24.46,11.18,13.95,65345233,43846.47,High income,European region,Western Europe
+133,France,2010,81.66,84.78,2.1,2.0,25.96,24.49,11.23,13.9,65030575,40676.06,High income,European region,Western Europe
+134,France,2009,81.41,86.58,2.2,2.0,25.93,24.51,11.29,13.96,64710879,41737.76,High income,European region,Western Europe
+135,France,2008,81.21,86.56,2.3,2.1,25.9,24.52,10.5,13.92,64379696,45515.96,High income,European region,Western Europe
+136,France,2007,81.11,87.63,2.2,2.0,25.86,24.53,10.32,13.95,64021737,41557.62,High income,European region,Western Europe
+137,France,2006,80.81,89.59,2.4,2.1,25.81,24.54,10.39,14.0,63628261,36470.21,High income,European region,Western Europe
+138,France,2005,80.16,91.83,2.3,2.2,25.76,24.54,10.21,13.91,63188395,34768.18,High income,European region,Western Europe
+139,France,2004,80.16,92.27,2.5,2.2,25.7,24.54,10.16,13.94,62716306,33797.16,High income,European region,Western Europe
+140,France,2003,79.11,97.62,2.6,2.2,25.65,24.54,10.08,13.75,62256970,29627.92,High income,European region,Western Europe
+141,France,2002,79.26,99.04,2.6,2.4,25.59,24.53,10.02,13.86,61816234,24288.27,High income,European region,Western Europe
+142,France,2001,79.16,100.3,2.6,2.6,25.53,24.52,9.71,13.65,61367388,22449.34,High income,European region,Western Europe
+143,France,2000,79.06,100.2,2.8,2.6,25.48,24.51,9.58,13.5,60921384,22416.43,High income,European region,Western Europe
+144,Germany,2015,80.64,71.6,2.2,1.5,27.44,25.97,11.19,19.51,81686611,41103.26,High income,European region,Western Europe
+145,Germany,2014,81.09,70.49,2.1,1.8,27.4,25.94,11.03,19.17,80982500,48023.87,High income,European region,Western Europe
+146,Germany,2013,80.49,73.3,2.2,1.7,27.36,25.9,11.0,18.7,80645605,46298.92,High income,European region,Western Europe
+147,Germany,2012,80.54,71.97,2.3,1.8,27.31,25.86,10.85,18.23,80425823,43855.85,High income,European region,Western Europe
+148,Germany,2011,80.44,74.43,2.2,1.8,27.26,25.82,10.78,17.97,80274983,46705.9,High income,European region,Western Europe
+149,Germany,2010,79.99,76.32,2.3,1.7,27.21,25.78,11.1,17.45,81776930,41572.46,High income,European region,Western Europe
+150,Germany,2009,79.84,77.75,2.3,1.8,27.16,25.74,11.24,17.64,81902307,41650.37,High income,European region,Western Europe
+151,Germany,2008,79.74,78.39,2.4,1.8,27.1,25.7,10.25,17.46,82110097,45612.71,High income,European region,Western Europe
+152,Germany,2007,79.53,79.56,2.5,2.0,27.03,25.66,10.05,17.41,82266372,41640.08,High income,European region,Western Europe
+153,Germany,2006,79.13,81.24,2.6,2.2,26.96,25.61,10.18,16.93,82376451,36353.88,High income,European region,Western Europe
+154,Germany,2005,78.93,83.55,2.6,2.3,26.89,25.56,10.31,16.67,82469422,34520.24,High income,European region,Western Europe
+155,Germany,2004,78.68,85.28,2.6,2.2,26.81,25.52,10.15,16.46,82516260,34106.66,High income,European region,Western Europe
+156,Germany,2003,78.38,89.42,2.6,2.3,26.73,25.47,10.4,16.67,82534176,30310.36,High income,European region,Western Europe
+157,Germany,2002,78.23,90.93,2.6,2.4,26.65,25.42,10.18,16.55,82488495,25197.27,High income,European region,Western Europe
+158,Germany,2001,78.33,91.85,2.6,2.4,26.57,25.37,9.92,16.36,82349925,23628.33,High income,European region,Western Europe
+159,Germany,2000,77.93,94.37,2.7,2.8,26.5,25.32,9.89,16.19,82211508,23694.76,High income,European region,Western Europe
+160,Iceland,2015,82.47,54.2,1.2,1.2,27.12,25.57,8.07,15.0,330815,52951.68,High income,European region,Northern Europe
+161,Iceland,2014,82.86,53.68,1.2,1.4,27.08,25.55,8.23,14.45,327386,54576.74,High income,European region,Northern Europe
+162,Iceland,2013,82.06,53.14,1.1,1.4,27.03,25.52,8.18,14.27,323764,49804.98,High income,European region,Northern Europe
+163,Iceland,2012,82.92,52.92,1.4,1.1,26.99,25.5,8.18,13.7,320716,45995.55,High income,European region,Northern Europe
+164,Iceland,2011,82.36,52.71,1.2,1.4,26.94,25.48,8.2,12.99,319014,47714.59,High income,European region,Northern Europe
+165,Iceland,2010,81.9,53.21,1.1,1.2,26.89,25.46,8.36,13.69,318041,43237.07,High income,European region,Northern Europe
+166,Iceland,2009,81.75,54.64,1.3,1.4,26.84,25.43,8.78,13.37,318499,41301.27,High income,European region,Northern Europe
+167,Iceland,2008,81.61,56.6,1.6,1.3,26.78,25.4,8.34,10.82,317414,56943.37,High income,European region,Northern Europe
+168,Iceland,2007,81.45,58.27,1.6,1.3,26.71,25.37,8.35,15.31,311566,69495.73,High income,European region,Northern Europe
+169,Iceland,2006,81.16,59.4,1.5,1.4,26.64,25.33,8.56,15.57,303782,57492.93,High income,European region,Northern Europe
+170,Iceland,2005,81.5,60.74,1.6,1.7,26.57,25.29,8.95,16.11,296734,56794.85,High income,European region,Northern Europe
+171,Iceland,2004,81.0,62.26,1.7,1.6,26.49,25.25,9.33,16.17,292074,47334.93,High income,European region,Northern Europe
+172,Iceland,2003,80.96,64.62,1.9,1.6,26.41,25.21,9.73,16.55,289521,39476.7,High income,European region,Northern Europe
+173,Iceland,2002,80.5,67.22,1.9,1.6,26.33,25.16,9.4,16.84,287523,32409.22,High income,European region,Northern Europe
+174,Iceland,2001,80.69,70.23,1.9,1.9,26.25,25.11,8.75,14.88,284968,28897.44,High income,European region,Northern Europe
+175,Iceland,2000,79.65,72.42,2.1,1.9,26.16,25.06,8.9,16.04,281205,32096.37,High income,European region,Northern Europe
+176,Ireland,2015,81.45,61.09,2.3,1.3,28.04,27.15,7.34,18.12,4701957,62179.26,High income,European region,Northern Europe
+177,Ireland,2014,81.35,62.94,2.2,1.5,27.99,27.09,9.51,18.02,4657740,55752.76,High income,European region,Northern Europe
+178,Ireland,2013,80.95,64.81,2.3,1.4,27.94,27.03,10.28,17.92,4623816,51496.96,High income,European region,Northern Europe
+179,Ireland,2012,80.85,67.43,2.4,1.6,27.89,26.97,10.6,17.93,4599533,48943.82,High income,European region,Northern Europe
+180,Ireland,2011,80.75,69.0,2.4,1.6,27.84,26.91,10.61,16.18,4580084,52219.71,High income,European region,Northern Europe
+181,Ireland,2010,80.74,67.55,2.4,1.6,27.78,26.85,10.52,12.35,4560155,48663.6,High income,European region,Northern Europe
+182,Ireland,2009,80.19,76.86,2.4,1.6,27.72,26.78,10.52,17.3,4535375,52133.09,High income,European region,Northern Europe
+183,Ireland,2008,80.1,74.42,2.4,1.7,27.65,26.71,9.13,17.42,4489544,61353.11,High income,European region,Northern Europe
+184,Ireland,2007,79.64,74.66,2.5,1.8,27.57,26.64,7.81,17.36,4398942,61396.42,High income,European region,Northern Europe
+185,Ireland,2006,79.24,77.08,2.7,1.9,27.49,26.56,7.52,17.43,4273591,54329.16,High income,European region,Northern Europe
+186,Ireland,2005,78.94,78.02,3.0,2.1,27.4,26.48,7.64,18.25,4159914,50933.02,High income,European region,Northern Europe
+187,Ireland,2004,78.54,81.81,3.2,2.1,27.31,26.4,7.22,17.36,4070262,47754.2,High income,European region,Northern Europe
+188,Ireland,2003,78.14,82.11,3.5,2.4,27.21,26.3,7.01,16.9,3996521,41203.53,High income,European region,Northern Europe
+189,Ireland,2002,77.63,87.35,3.6,2.6,27.11,26.21,6.67,16.03,3931947,32705.43,High income,European region,Northern Europe
+190,Ireland,2001,77.13,89.66,3.8,2.8,27.01,26.1,6.39,15.59,3866243,28282.41,High income,European region,Northern Europe
+191,Ireland,2000,76.54,95.46,3.9,2.9,26.9,25.99,5.9,14.96,3805174,26334.57,High income,European region,Northern Europe
+192,Italy,2015,82.54,53.97,2.1,1.5,26.66,24.89,8.86,13.1,60730582,30242.39,High income,European region,Southern Europe
+193,Italy,2014,83.09,52.81,2.1,1.2,26.66,24.92,8.87,13.15,60789140,35565.72,High income,European region,Southern Europe
+194,Italy,2013,82.69,55.41,2.2,1.4,26.67,24.95,8.78,13.05,60233948,35560.08,High income,European region,Southern Europe
+195,Italy,2012,82.24,57.46,2.3,1.5,26.68,24.98,8.78,13.17,59539717,35051.52,High income,European region,Southern Europe
+196,Italy,2011,82.19,58.55,2.3,1.5,26.68,25.0,8.77,13.74,59379449,38649.64,High income,European region,Southern Europe
+197,Italy,2010,82.04,57.79,2.3,1.6,26.67,25.02,8.92,14.01,59277417,36035.64,High income,European region,Southern Europe
+198,Italy,2009,81.64,60.23,2.5,1.6,26.66,25.04,8.95,13.71,59095365,37226.76,High income,European region,Southern Europe
+199,Italy,2008,81.49,61.63,2.5,1.7,26.63,25.05,8.53,13.86,58826731,40944.91,High income,European region,Southern Europe
+200,Italy,2007,81.43,63.07,2.5,1.6,26.6,25.05,8.14,13.48,58438310,37870.75,High income,European region,Southern Europe
+201,Italy,2006,81.28,64.49,2.5,1.6,26.55,25.04,8.44,13.72,58143979,33529.73,High income,European region,Southern Europe
+202,Italy,2005,80.78,66.41,2.6,1.7,26.5,25.04,8.34,13.68,57969484,32055.09,High income,European region,Southern Europe
+203,Italy,2004,80.78,67.81,2.7,1.8,26.43,25.03,8.17,13.28,57685327,31317.2,High income,European region,Southern Europe
+204,Italy,2003,79.98,71.87,2.9,2.0,26.36,25.01,7.83,12.51,57313203,27526.32,High income,European region,Southern Europe
+205,Italy,2002,80.23,72.39,3.1,1.8,26.29,24.99,7.87,12.63,57059007,22376.3,High income,European region,Southern Europe
+206,Italy,2001,80.13,74.87,3.1,2.0,26.21,24.97,7.74,12.2,56974100,20500.95,High income,European region,Southern Europe
+207,Italy,2000,79.78,75.85,3.5,2.1,26.13,24.94,7.57,11.81,56942108,20137.59,High income,European region,Southern Europe
+208,Japan,2015,83.79,53.59,0.8,1.9,23.66,21.85,10.75,23.15,127141000,34960.64,High income,Asian region,East Asia
+209,Japan,2014,83.59,55.68,0.9,1.8,23.63,21.88,10.73,22.57,127276000,38475.4,High income,Asian region,East Asia
+210,Japan,2013,83.33,57.39,0.9,1.9,23.6,21.91,10.67,22.22,127445000,40898.65,High income,Asian region,East Asia
+211,Japan,2012,83.1,58.93,0.9,2.1,23.58,21.93,10.67,22.22,127629000,49145.28,High income,Asian region,East Asia
+212,Japan,2011,82.59,63.29,1.0,2.4,23.54,21.95,10.49,21.69,127833000,48760.08,High income,Asian region,East Asia
+213,Japan,2010,82.84,63.0,1.0,2.2,23.51,21.97,9.06,18.93,128070000,44968.16,High income,Asian region,East Asia
+214,Japan,2009,82.93,63.92,1.1,2.2,23.47,21.98,8.96,18.06,128047000,41309.0,High income,Asian region,East Asia
+215,Japan,2008,82.59,64.74,1.2,2.1,23.43,21.99,8.09,18.1,128063000,39876.3,High income,Asian region,East Asia
+216,Japan,2007,82.51,65.8,1.2,2.2,23.39,22.0,7.78,18.23,128001000,35779.02,High income,Asian region,East Asia
+217,Japan,2006,82.32,67.04,1.4,2.2,23.35,22.0,7.69,17.87,127854000,35991.55,High income,Asian region,East Asia
+218,Japan,2005,81.96,68.69,1.3,2.3,23.3,22.0,7.66,17.75,127773000,37812.9,High income,Asian region,East Asia
+219,Japan,2004,82.03,68.73,1.4,2.3,23.25,22.0,7.54,17.2,127761000,38298.98,High income,Asian region,East Asia
+220,Japan,2003,81.76,70.55,1.5,2.4,23.2,22.0,7.49,16.36,127718000,35387.04,High income,Asian region,East Asia
+221,Japan,2002,81.69,70.48,1.6,2.5,23.15,22.01,7.35,16.06,127445000,32820.79,High income,Asian region,East Asia
+222,Japan,2001,81.42,71.77,1.7,2.5,23.11,22.01,7.24,15.95,127149000,34406.18,High income,Asian region,East Asia
+223,Japan,2000,81.08,72.85,1.7,2.8,23.06,22.02,7.03,15.07,126843000,39169.36,High income,Asian region,East Asia
+224,Kuwait,2015,79.56,62.67,4.6,4.0,29.08,30.61,4.21,6.57,3908743,29315.19,High income,Asian region,Western Asia (Middle East)
+225,Kuwait,2014,79.44,59.57,4.7,4.3,28.98,30.57,2.92,5.57,3761584,43239.88,High income,Asian region,Western Asia (Middle East)
+226,Kuwait,2013,79.16,61.69,5.0,4.5,28.87,30.52,2.49,5.48,3646518,47762.86,High income,Asian region,Western Asia (Middle East)
+227,Kuwait,2012,78.81,64.24,5.2,4.8,28.76,30.48,2.33,5.02,3394663,51270.98,High income,Asian region,Western Asia (Middle East)
+228,Kuwait,2011,78.46,62.6,5.4,4.7,28.65,30.43,2.33,5.05,3143825,48997.39,High income,Asian region,Western Asia (Middle East)
+229,Kuwait,2010,77.98,68.15,5.4,4.9,28.55,30.39,2.68,5.04,2943356,39212.47,High income,Asian region,Western Asia (Middle East)
+230,Kuwait,2009,77.44,79.27,5.6,5.1,28.44,30.35,2.71,5.23,2795550,37906.21,High income,Asian region,Western Asia (Middle East)
+231,Kuwait,2008,77.14,88.61,5.8,5.2,28.35,30.3,1.92,3.72,2650930,55595.48,High income,Asian region,Western Asia (Middle East)
+232,Kuwait,2007,77.02,82.53,5.9,5.4,28.26,30.26,1.93,4.9,2506769,45729.8,High income,Asian region,Western Asia (Middle East)
+233,Kuwait,2006,76.89,89.3,5.7,5.4,28.17,30.22,1.82,4.37,2363409,42970.7,High income,Asian region,Western Asia (Middle East)
+234,Kuwait,2005,76.9,88.72,5.8,5.6,28.08,30.18,2.01,5.46,2235403,36144.99,High income,Asian region,Western Asia (Middle East)
+235,Kuwait,2004,76.79,85.04,5.8,5.8,28.0,30.14,2.36,5.26,2153481,27601.4,High income,Asian region,Western Asia (Middle East)
+236,Kuwait,2003,76.98,82.27,6.0,5.8,27.91,30.09,2.76,5.73,2101506,22781.08,High income,Asian region,Western Asia (Middle East)
+237,Kuwait,2002,76.98,89.66,6.1,5.9,27.83,30.04,3.12,5.73,2047364,18626.77,High income,Asian region,Western Asia (Middle East)
+238,Kuwait,2001,76.89,84.08,6.3,6.2,27.74,29.99,3.19,5.86,1991674,17517.71,High income,Asian region,Western Asia (Middle East)
+239,Kuwait,2000,76.72,98.96,6.5,6.1,27.66,29.93,2.2,4.37,1934901,19493.89,High income,Asian region,Western Asia (Middle East)
+240,Luxembourg,2015,82.29,53.28,1.8,1.1,27.21,25.74,5.08,10.63,569604,105462.01,High income,European region,Western Europe
+241,Luxembourg,2014,82.23,56.01,1.8,0.8,27.17,25.72,5.23,10.85,556319,123678.7,High income,European region,Western Europe
+242,Luxembourg,2013,81.8,58.87,1.9,0.8,27.13,25.7,5.24,10.65,543360,120000.14,High income,European region,Western Europe
+243,Luxembourg,2012,81.39,61.74,1.9,1.0,27.09,25.67,5.29,10.59,530946,112584.68,High income,European region,Western Europe
+244,Luxembourg,2011,80.99,63.99,1.9,1.0,27.04,25.65,5.95,11.96,518347,119025.06,High income,European region,Western Europe
+245,Luxembourg,2010,80.63,65.76,1.8,1.1,26.99,25.63,6.66,13.62,506953,110885.99,High income,European region,Western Europe
+246,Luxembourg,2009,80.64,67.82,1.6,1.2,26.94,25.6,6.95,14.12,497783,109419.75,High income,European region,Western Europe
+247,Luxembourg,2008,80.54,70.23,1.8,1.3,26.87,25.57,6.23,14.4,488650,120422.14,High income,European region,Western Europe
+248,Luxembourg,2007,79.38,72.8,1.9,1.5,26.81,25.54,6.16,14.06,479993,107475.32,High income,European region,Western Europe
+249,Luxembourg,2006,79.29,75.31,1.9,1.4,26.73,25.5,6.64,14.12,472637,90788.8,High income,European region,Western Europe
+250,Luxembourg,2005,79.43,78.54,2.1,1.5,26.66,25.47,7.12,13.8,465158,80988.14,High income,European region,Western Europe
+251,Luxembourg,2004,79.12,81.2,2.1,1.7,26.57,25.43,7.28,14.09,458095,76544.92,High income,European region,Western Europe
+252,Luxembourg,2003,77.73,83.87,2.0,1.8,26.49,25.38,6.96,13.47,451630,65689.32,High income,European region,Western Europe
+253,Luxembourg,2002,77.97,85.74,2.3,2.1,26.4,25.34,6.76,13.59,446175,53005.73,High income,European region,Western Europe
+254,Luxembourg,2001,77.82,88.37,2.4,2.0,26.31,25.29,6.38,14.06,441525,48440.14,High income,European region,Western Europe
+255,Luxembourg,2000,77.87,90.51,2.4,2.4,26.23,25.25,5.93,12.99,436300,48659.6,High income,European region,Western Europe
+256,Netherlands,2015,81.51,58.02,2.5,1.4,26.13,25.26,10.32,15.2,16939923,45193.4,High income,European region,Western Europe
+257,Netherlands,2014,81.71,58.9,2.6,1.5,26.11,25.27,10.57,15.55,16865008,52900.54,High income,European region,Western Europe
+258,Netherlands,2013,81.3,60.78,2.7,1.4,26.09,25.27,10.58,15.59,16804432,52198.9,High income,European region,Western Europe
+259,Netherlands,2012,81.1,62.82,2.7,1.5,26.07,25.27,10.54,15.34,16754962,50070.14,High income,European region,Western Europe
+260,Netherlands,2011,81.2,63.85,2.6,1.7,26.04,25.27,10.23,14.84,16693074,54230.31,High income,European region,Western Europe
+261,Netherlands,2010,80.7,64.53,2.8,1.8,26.01,25.26,10.16,14.42,16615394,50999.75,High income,European region,Western Europe
+262,Netherlands,2009,80.55,65.7,2.8,1.7,25.97,25.25,9.99,14.2,16530388,52722.21,High income,European region,Western Europe
+263,Netherlands,2008,80.25,68.02,2.9,1.8,25.93,25.24,9.28,14.42,16445593,57879.94,High income,European region,Western Europe
+264,Netherlands,2007,80.1,67.94,3.1,1.9,25.87,25.21,9.05,13.97,16381696,51799.21,High income,European region,Western Europe
+265,Netherlands,2006,79.7,70.26,3.3,1.7,25.81,25.19,9.08,13.81,16346101,44900.94,High income,European region,Western Europe
+266,Netherlands,2005,79.35,72.06,3.3,1.8,25.74,25.16,9.1,14.59,16319868,41994.71,High income,European region,Western Europe
+267,Netherlands,2004,79.1,76.38,3.5,2.0,25.66,25.12,9.11,14.29,16281779,40436.62,High income,European region,Western Europe
+268,Netherlands,2003,78.49,79.68,3.6,2.0,25.58,25.08,9.06,14.19,16225302,35750.97,High income,European region,Western Europe
+269,Netherlands,2002,78.29,80.44,3.8,2.1,25.5,25.03,8.65,13.83,16148929,29343.24,High income,European region,Western Europe
+270,Netherlands,2001,78.19,81.87,3.8,2.2,25.41,24.98,8.06,13.0,16046180,26896.55,High income,European region,Western Europe
+271,Netherlands,2000,77.99,83.7,3.8,2.3,25.32,24.93,7.71,12.53,15925513,26214.5,High income,European region,Western Europe
+272,New Zealand,2015,81.61,65.82,3.1,2.4,28.23,28.03,9.28,18.89,4609400,38639.35,High income,Oceania region,Australia and New Zealand
+273,New Zealand,2014,81.46,66.01,3.2,2.4,28.17,27.95,9.4,19.46,4516500,44578.23,High income,Oceania region,Australia and New Zealand
+274,New Zealand,2013,81.4,66.92,3.3,2.5,28.11,27.87,9.36,19.2,4442100,42977.39,High income,Oceania region,Australia and New Zealand
+275,New Zealand,2012,81.41,68.12,3.2,2.8,28.05,27.79,9.65,19.18,4408100,39974.3,High income,Oceania region,Australia and New Zealand
+276,New Zealand,2011,81.16,69.53,3.3,2.9,27.99,27.71,9.52,17.85,4384000,38388.53,High income,Oceania region,Australia and New Zealand
+277,New Zealand,2010,80.9,70.74,3.1,3.1,27.93,27.63,9.59,17.6,4350700,33676.77,High income,Oceania region,Australia and New Zealand
+278,New Zealand,2009,80.7,70.89,3.0,3.1,27.85,27.54,9.62,18.72,4302600,28209.36,High income,Oceania region,Australia and New Zealand
+279,New Zealand,2008,80.35,72.55,3.1,3.2,27.77,27.46,9.12,18.36,4259800,31252.96,High income,Oceania region,Australia and New Zealand
+280,New Zealand,2007,80.15,75.54,3.0,3.4,27.69,27.36,8.33,18.14,4223800,32479.98,High income,Oceania region,Australia and New Zealand
+281,New Zealand,2006,80.05,75.19,3.0,3.4,27.6,27.27,8.64,17.94,4184600,26654.59,High income,Oceania region,Australia and New Zealand
+282,New Zealand,2005,79.85,77.51,3.2,3.2,27.5,27.17,8.27,17.38,4133900,27751.07,High income,Oceania region,Australia and New Zealand
+283,New Zealand,2004,79.55,78.7,3.3,3.2,27.4,27.07,7.9,17.0,4087500,25420.23,High income,Oceania region,Australia and New Zealand
+284,New Zealand,2003,79.15,82.08,3.2,3.5,27.29,26.96,7.72,16.22,4027200,21913.71,High income,Oceania region,Australia and New Zealand
+285,New Zealand,2002,78.85,83.46,3.5,3.7,27.18,26.85,7.9,16.28,3948500,16874.19,High income,Oceania region,Australia and New Zealand
+286,New Zealand,2001,78.69,83.79,3.3,3.8,27.06,26.73,7.58,15.17,3880500,13882.86,High income,Oceania region,Australia and New Zealand
+287,New Zealand,2000,78.64,86.04,3.6,3.9,26.95,26.61,7.47,14.71,3857700,13641.1,High income,Oceania region,Australia and New Zealand
+288,Norway,2015,82.3,53.7,1.7,1.2,27.38,26.22,10.07,17.58,5188607,74809.97,High income,European region,Northern Europe
+289,Norway,2014,82.1,56.62,1.7,1.1,27.33,26.18,9.28,17.23,5137232,97666.7,High income,European region,Northern Europe
+290,Norway,2013,81.75,60.16,1.8,1.1,27.27,26.13,8.87,17.1,5079623,103553.84,High income,European region,Northern Europe
+291,Norway,2012,81.45,59.16,1.7,1.2,27.21,26.08,8.72,17.18,5018573,102175.92,High income,European region,Northern Europe
+292,Norway,2011,81.3,65.86,1.7,1.3,27.15,26.04,8.73,16.79,4953088,101221.81,High income,European region,Northern Europe
+293,Norway,2010,81.0,64.64,1.8,1.3,27.09,25.99,8.86,16.61,4889252,88163.21,High income,European region,Northern Europe
+294,Norway,2009,80.8,66.57,1.9,1.3,27.01,25.94,9.03,16.48,4828726,80347.57,High income,European region,Northern Europe
+295,Norway,2008,80.59,66.38,2.1,1.4,26.94,25.89,7.92,16.51,4768212,97503.54,High income,European region,Northern Europe
+296,Norway,2007,80.4,67.13,2.1,1.6,26.86,25.83,8.02,16.14,4709153,85502.27,High income,European region,Northern Europe
+297,Norway,2006,80.34,69.73,2.1,1.7,26.77,25.77,7.88,16.01,4660677,74434.5,High income,European region,Northern Europe
+298,Norway,2005,80.04,71.8,2.2,1.8,26.67,25.71,8.3,16.28,4623291,67047.17,High income,European region,Northern Europe
+299,Norway,2004,79.84,74.52,2.4,1.8,26.58,25.65,8.8,16.12,4591910,57768.7,High income,European region,Northern Europe
+300,Norway,2003,79.39,75.99,2.5,1.9,26.48,25.59,9.19,15.86,4564855,50250.33,High income,European region,Northern Europe
+301,Norway,2002,78.99,79.02,2.6,2.0,26.37,25.52,8.98,15.81,4538159,43170.56,High income,European region,Northern Europe
+302,Norway,2001,78.79,80.44,2.6,2.2,26.27,25.45,8.01,15.03,4513751,38601.9,High income,European region,Northern Europe
+303,Norway,2000,78.63,84.58,2.9,2.1,26.17,25.37,7.7,14.85,4490967,38178.24,High income,European region,Northern Europe
+304,Qatar,2015,80.06,76.25,3.9,3.9,28.83,30.28,3.64,8.29,2414573,66984.91,High income,Asian region,Western Asia (Middle East)
+305,Qatar,2014,79.77,79.46,3.9,3.9,28.72,30.18,2.42,6.5,2214465,93126.15,High income,Asian region,Western Asia (Middle East)
+306,Qatar,2013,79.54,82.47,4.1,3.9,28.61,30.08,2.08,6.18,2035501,97630.83,High income,Asian region,Western Asia (Middle East)
+307,Qatar,2012,79.23,86.97,4.2,3.9,28.5,29.98,1.75,4.47,1905660,98041.36,High income,Asian region,Western Asia (Middle East)
+308,Qatar,2011,78.89,91.7,4.4,4.0,28.39,29.88,1.6,4.13,1804171,92993.0,High income,Asian region,Western Asia (Middle East)
+309,Qatar,2010,78.42,97.66,4.5,4.1,28.29,29.78,1.87,4.15,1713504,73021.31,High income,Asian region,Western Asia (Middle East)
+310,Qatar,2009,77.88,104.6,4.6,4.1,28.18,29.68,2.38,4.65,1610274,60733.98,High income,Asian region,Western Asia (Middle East)
+311,Qatar,2008,77.43,109.8,4.8,4.1,28.08,29.58,1.64,5.19,1444277,79811.6,High income,Asian region,Western Asia (Middle East)
+312,Qatar,2007,77.02,115.3,4.9,4.3,27.98,29.49,2.07,5.25,1231893,64706.99,High income,Asian region,Western Asia (Middle East)
+313,Qatar,2006,76.57,119.3,5.1,4.4,27.88,29.4,2.29,5.8,1015060,59978.86,High income,Asian region,Western Asia (Middle East)
+314,Qatar,2005,76.06,121.0,5.5,4.6,27.79,29.32,2.56,6.62,848710,52468.45,High income,Asian region,Western Asia (Middle East)
+315,Qatar,2004,75.96,121.0,5.5,4.9,27.7,29.23,3.18,7.98,777943,40792.28,High income,Asian region,Western Asia (Middle East)
+316,Qatar,2003,75.56,124.2,5.9,5.1,27.61,29.15,3.5,9.22,748525,31440.22,High income,Asian region,Western Asia (Middle East)
+317,Qatar,2002,75.41,126.7,6.1,5.3,27.53,29.06,2.46,4.9,713186,27151.03,High income,Asian region,Western Asia (Middle East)
+318,Qatar,2001,75.26,129.3,6.4,5.4,27.44,28.97,2.32,4.55,678831,25836.27,High income,Asian region,Western Asia (Middle East)
+319,Qatar,2000,74.83,131.9,6.5,5.8,27.35,28.88,1.97,3.94,645937,27494.77,High income,Asian region,Western Asia (Middle East)
+320,Singapore,2015,82.74,52.85,1.0,1.6,24.35,23.16,4.18,13.54,5535002,55645.61,High income,Asian region,Southeast Asia
+321,Singapore,2014,82.5,54.11,0.9,1.6,24.31,23.17,3.87,13.66,5469724,57564.8,High income,Asian region,Southeast Asia
+322,Singapore,2013,82.25,54.82,1.0,1.6,24.26,23.18,3.69,13.96,5399162,56967.43,High income,Asian region,Southeast Asia
+323,Singapore,2012,82.0,55.94,1.0,1.7,24.21,23.2,3.33,13.21,5312437,55547.56,High income,Asian region,Southeast Asia
+324,Singapore,2011,81.74,57.1,1.1,1.6,24.16,23.21,3.16,11.97,5183688,53891.46,High income,Asian region,Southeast Asia
+325,Singapore,2010,81.54,58.32,1.1,1.5,24.12,23.23,3.2,10.94,5076732,47236.68,High income,Asian region,Southeast Asia
+326,Singapore,2009,81.24,60.01,1.3,1.5,24.08,23.25,3.4,7.15,4987573,38926.81,High income,Asian region,Southeast Asia
+327,Singapore,2008,80.79,65.08,1.2,1.6,24.03,23.26,3.19,8.65,4839396,40008.57,High income,Asian region,Southeast Asia
+328,Singapore,2007,80.44,65.15,1.1,1.6,23.99,23.28,2.84,10.35,4588599,39432.89,High income,Asian region,Southeast Asia
+329,Singapore,2006,80.14,65.57,1.3,1.6,23.95,23.3,2.93,7.85,4401365,33768.45,High income,Asian region,Southeast Asia
+330,Singapore,2005,79.99,69.06,1.3,1.7,23.91,23.33,3.03,7.89,4265762,29961.32,High income,Asian region,Southeast Asia
+331,Singapore,2004,79.49,69.89,1.3,1.8,23.87,23.35,3.15,7.13,4166664,27608.08,High income,Asian region,Southeast Asia
+332,Singapore,2003,79.04,71.96,1.2,1.9,23.83,23.37,3.61,8.33,4114826,23730.38,High income,Asian region,Southeast Asia
+333,Singapore,2002,78.55,76.58,1.3,2.1,23.79,23.39,3.36,6.54,4175950,22159.84,High income,Asian region,Southeast Asia
+334,Singapore,2001,78.25,77.7,1.5,2.3,23.74,23.41,3.16,4.87,4138012,21699.74,High income,Asian region,Southeast Asia
+335,Singapore,2000,77.95,77.69,1.5,2.2,23.7,23.44,3.34,7.39,4027887,23852.84,High income,Asian region,Southeast Asia
+336,Sweden,2015,82.2,54.42,1.6,1.2,26.82,25.42,10.8,18.39,9799186,51545.48,High income,European region,Northern Europe
+337,Sweden,2014,82.25,54.88,1.7,1.2,26.77,25.38,10.95,18.14,9696110,60020.36,High income,European region,Northern Europe
+338,Sweden,2013,81.96,55.87,1.5,1.2,26.73,25.34,10.9,17.74,9600379,61126.94,High income,European region,Northern Europe
+339,Sweden,2012,81.7,56.17,1.5,1.4,26.68,25.3,10.74,17.73,9519374,58037.82,High income,European region,Northern Europe
+340,Sweden,2011,81.8,57.46,1.6,1.3,26.63,25.26,10.42,17.67,9449213,60755.76,High income,European region,Northern Europe
+341,Sweden,2010,81.45,57.75,1.5,1.4,26.58,25.22,8.32,13.6,9378126,52869.04,High income,European region,Northern Europe
+342,Sweden,2009,81.35,61.1,1.5,1.5,26.52,25.17,8.77,13.81,9298515,46946.96,High income,European region,Northern Europe
+343,Sweden,2008,81.1,62.15,1.5,1.4,26.45,25.13,8.21,13.54,9219637,56152.55,High income,European region,Northern Europe
+344,Sweden,2007,80.9,63.13,1.7,1.6,26.38,25.08,8.0,13.38,9148092,53700.01,High income,European region,Northern Europe
+345,Sweden,2006,80.75,64.15,1.8,1.4,26.31,25.03,8.05,12.98,9080505,46593.6,High income,European region,Northern Europe
+346,Sweden,2005,80.55,65.86,2.0,1.6,26.23,24.98,8.15,12.83,9029572,43437.06,High income,European region,Northern Europe
+347,Sweden,2004,80.5,66.63,2.0,1.6,26.15,24.93,8.13,12.81,8993531,42821.67,High income,European region,Northern Europe
+348,Sweden,2003,80.1,67.65,2.2,1.6,26.06,24.88,8.32,12.85,8958229,37321.8,High income,European region,Northern Europe
+349,Sweden,2002,79.85,69.35,2.1,1.6,25.97,24.83,8.21,12.64,8924958,29899.2,High income,European region,Northern Europe
+350,Sweden,2001,79.8,71.65,2.3,1.7,25.87,24.77,7.9,12.36,8895960,27247.86,High income,European region,Northern Europe
+351,Sweden,2000,79.64,71.94,2.3,1.8,25.77,24.71,7.33,11.67,8872109,29624.91,High income,European region,Northern Europe
+352,Switzerland,2015,82.9,49.46,3.0,1.2,26.79,23.84,10.78,10.73,8282396,83806.45,High income,European region,Western Europe
+353,Switzerland,2014,83.2,50.05,3.0,1.2,26.74,23.86,10.43,10.65,8188649,88724.99,High income,European region,Western Europe
+354,Switzerland,2013,82.8,52.78,3.0,1.1,26.69,23.88,10.38,10.44,8089346,87304.33,High income,European region,Western Europe
+355,Switzerland,2012,82.7,53.51,3.0,1.3,26.65,23.9,10.14,11.0,7996861,85836.21,High income,European region,Western Europe
+356,Switzerland,2011,82.7,54.21,3.0,1.3,26.6,23.92,10.05,10.73,7912398,90476.76,High income,European region,Western Europe
+357,Switzerland,2010,82.25,56.75,3.1,1.3,26.54,23.93,9.93,10.39,7824909,76531.37,High income,European region,Western Europe
+358,Switzerland,2009,82.04,59.09,3.1,1.4,26.48,23.95,10.14,9.97,7743831,71568.31,High income,European region,Western Europe
+359,Switzerland,2008,81.99,59.2,3.1,1.5,26.42,23.97,9.53,9.78,7647675,74175.19,High income,European region,Western Europe
+360,Switzerland,2007,81.74,61.97,3.2,1.5,26.35,23.98,9.42,9.56,7551117,64989.16,High income,European region,Western Europe
+361,Switzerland,2006,81.49,63.65,3.1,1.6,26.28,23.99,9.58,9.34,7483934,59011.03,High income,European region,Western Europe
+362,Switzerland,2005,81.24,64.61,3.1,1.8,26.21,24.0,10.06,9.39,7437115,56242.89,High income,European region,Western Europe
+363,Switzerland,2004,81.09,67.11,3.2,1.8,26.14,24.01,10.23,9.31,7389625,54659.46,High income,European region,Western Europe
+364,Switzerland,2003,80.54,70.37,3.2,2.0,26.07,24.02,10.14,9.31,7339001,49335.75,High income,European region,Western Europe
+365,Switzerland,2002,80.39,71.54,3.3,2.0,26.0,24.03,9.88,8.84,7284753,42458.74,High income,European region,Western Europe
+366,Switzerland,2001,80.18,73.35,3.4,2.2,25.93,24.03,9.46,8.7,7229854,39638.79,High income,European region,Western Europe
+367,Switzerland,2000,79.68,76.41,3.5,2.3,25.87,24.03,9.13,7.84,7184250,38865.02,High income,European region,Western Europe
+368,United Arab Emirates,2015,79.22,45.14,4.5,4.3,28.1,29.58,3.47,9.07,8916899,41525.14,High income,Asian region,Western Asia (Middle East)
+369,United Arab Emirates,2014,79.04,45.21,4.3,4.1,28.02,29.51,3.53,7.78,8835951,46865.96,High income,Asian region,Western Asia (Middle East)
+370,United Arab Emirates,2013,78.85,46.4,4.3,4.0,27.93,29.45,3.5,8.53,8751847,45729.61,High income,Asian region,Western Asia (Middle East)
+371,United Arab Emirates,2012,78.72,47.74,4.3,3.8,27.84,29.39,3.34,8.53,8664969,44386.79,High income,Asian region,Western Asia (Middle East)
+372,United Arab Emirates,2011,78.52,48.94,4.3,3.8,27.76,29.32,3.67,8.53,8575205,42078.61,High income,Asian region,Western Asia (Middle East)
+373,United Arab Emirates,2010,78.33,49.69,4.3,3.8,27.67,29.26,3.88,8.53,8481771,35392.26,High income,Asian region,Western Asia (Middle East)
+374,United Arab Emirates,2009,78.0,50.85,4.3,3.8,27.59,29.2,4.05,8.53,7992644,31722.59,High income,Asian region,Western Asia (Middle East)
+375,United Arab Emirates,2008,77.49,52.43,4.5,3.9,27.5,29.14,2.93,8.53,6988685,45140.77,High income,Asian region,Western Asia (Middle East)
+376,United Arab Emirates,2007,77.13,53.99,4.7,4.0,27.42,29.08,2.57,8.53,5872624,43918.38,High income,Asian region,Western Asia (Middle East)
+377,United Arab Emirates,2006,76.91,55.5,4.8,4.0,27.34,29.02,2.33,8.53,4898954,45339.59,High income,Asian region,Western Asia (Middle East)
+378,United Arab Emirates,2005,76.68,56.9,4.9,4.1,27.27,28.96,2.32,8.38,4280993,42190.55,High income,Asian region,Western Asia (Middle East)
+379,United Arab Emirates,2004,76.45,58.37,5.1,4.3,27.19,28.9,2.46,7.94,3993339,37017.74,High income,Asian region,Western Asia (Middle East)
+380,United Arab Emirates,2003,76.22,59.9,5.2,4.4,27.11,28.83,2.65,8.09,3813443,32607.37,High income,Asian region,Western Asia (Middle East)
+381,United Arab Emirates,2002,74.9,61.37,5.5,4.8,27.03,28.77,2.72,7.8,3633655,30221.97,High income,Asian region,Western Asia (Middle East)
+382,United Arab Emirates,2001,74.64,62.81,5.7,4.9,26.95,28.69,2.48,7.58,3454198,29909.01,High income,Asian region,Western Asia (Middle East)
+383,United Arab Emirates,2000,74.38,64.29,5.8,5.3,26.87,28.62,2.37,7.57,3275333,31855.5,High income,Asian region,Western Asia (Middle East)
+384,United Kingdom of Great Britain and Northern Ireland,2015,80.96,69.04,2.5,1.7,27.45,27.12,9.8,18.73,65116219,44964.39,High income,European region,Northern Europe
+385,United Kingdom of Great Britain and Northern Ireland,2014,81.3,68.45,2.6,1.6,27.43,27.09,9.86,18.49,64602298,47439.62,High income,European region,Northern Europe
+386,United Kingdom of Great Britain and Northern Ireland,2013,81.0,69.21,2.7,1.7,27.41,27.06,9.87,18.2,64128273,43426.3,High income,European region,Northern Europe
+387,United Kingdom of Great Britain and Northern Ireland,2012,80.9,68.85,2.8,1.9,27.38,27.02,9.95,17.68,63700215,42497.34,High income,European region,Northern Europe
+388,United Kingdom of Great Britain and Northern Ireland,2011,80.95,71.67,3.0,1.9,27.36,26.99,9.92,17.63,63258810,42109.64,High income,European region,Northern Europe
+389,United Kingdom of Great Britain and Northern Ireland,2010,80.4,74.63,3.2,2.0,27.32,26.95,9.93,17.07,62766365,39598.96,High income,European region,Northern Europe
+390,United Kingdom of Great Britain and Northern Ireland,2009,80.05,76.53,3.1,2.2,27.28,26.91,10.05,17.29,62276270,38744.13,High income,European region,Northern Europe
+391,United Kingdom of Great Britain and Northern Ireland,2008,79.6,78.82,3.3,2.3,27.23,26.86,9.03,16.62,61806995,47396.12,High income,European region,Northern Europe
+392,United Kingdom of Great Britain and Northern Ireland,2007,79.45,79.1,3.3,2.3,27.17,26.8,8.62,17.2,61322463,50397.69,High income,European region,Northern Europe
+393,United Kingdom of Great Britain and Northern Ireland,2006,79.25,80.26,3.3,2.3,27.11,26.74,8.63,17.27,60846820,44512.46,High income,European region,Northern Europe
+394,United Kingdom of Great Britain and Northern Ireland,2005,79.05,80.69,3.4,2.5,27.03,26.68,8.36,16.57,60401206,42104.79,High income,European region,Northern Europe
+395,United Kingdom of Great Britain and Northern Ireland,2004,78.75,81.78,3.4,2.6,26.95,26.61,8.31,16.72,59987905,40366.89,High income,European region,Northern Europe
+396,United Kingdom of Great Britain and Northern Ireland,2003,78.45,84.69,3.6,2.7,26.86,26.53,8.06,16.36,59647577,34442.69,High income,European region,Northern Europe
+397,United Kingdom of Great Britain and Northern Ireland,2002,78.14,85.6,3.6,2.7,26.77,26.44,7.65,16.29,59370479,30077.74,High income,European region,Northern Europe
+398,United Kingdom of Great Britain and Northern Ireland,2001,77.99,87.21,3.8,2.7,26.66,26.35,7.34,15.87,59119673,27906.57,High income,European region,Northern Europe
+399,United Kingdom of Great Britain and Northern Ireland,2000,77.74,86.46,3.6,2.8,26.56,26.25,7.13,15.6,58892514,28280.93,High income,European region,Northern Europe
+400,United States of America,2015,78.69,106.6,3.8,2.8,28.97,29.0,16.49,22.32,320738994,57040.21,High income,American region,North America
+401,United States of America,2014,78.84,105.0,3.9,2.9,28.93,28.92,16.2,21.48,318386329,55304.32,High income,American region,North America
+402,United States of America,2013,78.74,104.2,3.9,3.0,28.89,28.85,15.99,20.36,316059947,53409.75,High income,American region,North America
+403,United States of America,2012,78.74,104.3,3.9,3.0,28.85,28.77,16.12,19.63,313877662,51784.41,High income,American region,North America
+404,United States of America,2011,78.64,104.5,3.9,3.1,28.8,28.7,16.14,18.85,311583481,50065.98,High income,American region,North America
+405,United States of America,2010,78.54,104.2,3.9,3.3,28.74,28.62,16.2,18.39,309327143,48650.66,High income,American region,North America
+406,United States of America,2009,78.39,107.5,4.1,3.1,28.68,28.54,16.2,18.19,306771529,47194.95,High income,American region,North America
+407,United States of America,2008,78.04,108.7,4.3,3.1,28.61,28.45,15.21,18.2,304093966,48570.06,High income,American region,North America
+408,United States of America,2007,77.99,110.1,4.4,3.2,28.52,28.36,14.92,18.5,301231207,48050.23,High income,American region,North America
+409,United States of America,2006,77.69,112.7,4.4,3.2,28.43,28.26,14.71,18.57,298379912,46301.99,High income,American region,North America
+410,United States of America,2005,77.49,113.0,4.3,3.3,28.33,28.16,14.58,17.94,295516599,44123.4,High income,American region,North America
+411,United States of America,2004,77.49,112.0,4.4,3.2,28.23,28.06,14.55,17.93,292805298,41724.64,High income,American region,North America
+412,United States of America,2003,77.04,114.5,4.4,3.5,28.12,27.95,14.51,17.51,290107933,39490.3,High income,American region,North America
+413,United States of America,2002,76.94,115.0,4.6,3.5,28.0,27.84,14.0,17.22,287625193,37997.74,High income,American region,North America
+414,United States of America,2001,76.84,116.1,4.6,3.6,27.89,27.71,13.17,16.76,284968955,37133.62,High income,American region,North America
+415,United States of America,2000,76.64,115.1,4.5,3.7,27.76,27.58,12.49,16.16,282162411,36329.97,High income,American region,North America

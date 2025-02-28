@@ -1,0 +1,401 @@
+,country,year,life_expectancy,adult_mortality,infant_deaths,under_five_deaths,bmi_male,bmi_female,health_expenditure_percentage,total_expenditure,population,gdp_per_capita,income_class,region,sub_region
+0,Afghanistan,2015,62.66,305.9,41.6,31.0,22.6,24.11,10.11,2.01,33753499,566.88,Low income,Asian region,South Asia
+1,Afghanistan,2014,62.54,301.3,42.8,32.2,22.51,23.98,9.53,1.86,32716210,626.51,Low income,Asian region,South Asia
+2,Afghanistan,2013,62.42,297.8,44.0,33.5,22.43,23.85,8.81,1.78,31541209,638.73,Low income,Asian region,South Asia
+3,Afghanistan,2012,61.92,304.5,45.4,38.3,22.34,23.72,7.9,1.37,30466479,653.42,Low income,Asian region,South Asia
+4,Afghanistan,2011,61.42,307.6,46.6,40.5,22.26,23.59,8.56,2.19,29249157,608.74,Low income,Asian region,South Asia
+5,Afghanistan,2010,60.85,314.1,48.1,42.1,22.18,23.47,8.57,2.26,28189672,562.5,Low income,Asian region,South Asia
+6,Afghanistan,2009,60.36,319.6,49.3,44.9,22.1,23.34,9.82,2.51,27385307,453.39,Low income,Asian region,South Asia
+7,Afghanistan,2008,59.85,328.8,50.7,44.7,22.02,23.21,10.26,3.0,26427199,382.53,Low income,Asian region,South Asia
+8,Afghanistan,2007,59.11,338.6,52.2,46.8,21.95,23.08,9.9,2.61,25903301,376.32,Low income,Asian region,South Asia
+9,Afghanistan,2006,58.68,342.2,53.5,53.0,21.87,22.96,10.62,2.72,25442944,274.02,Low income,Asian region,South Asia
+10,Afghanistan,2005,58.36,343.2,54.8,50.6,21.79,22.83,9.95,3.37,24411191,254.12,Low income,Asian region,South Asia
+11,Afghanistan,2004,57.94,345.7,56.1,50.8,21.71,22.7,9.81,3.6,23553551,221.83,Low income,Asian region,South Asia
+12,Afghanistan,2003,57.34,353.4,57.4,52.4,21.63,22.57,8.94,5.46,22645130,199.64,Low income,Asian region,South Asia
+13,Afghanistan,2002,56.45,367.5,58.6,60.3,21.54,22.44,9.44,1.21,21000256,182.17,Low income,Asian region,South Asia
+14,Afghanistan,2001,55.8,380.3,59.7,68.7,21.46,22.3,10.11,2.01,19688632,142.9,Low income,Asian region,South Asia
+15,Afghanistan,2000,55.3,378.2,60.8,66.4,21.37,22.17,10.11,2.01,19542982,180.19,Low income,Asian region,South Asia
+16,Benin,2015,59.38,215.5,33.7,66.2,22.63,24.47,2.73,3.25,10932783,1041.65,Low income,African region,West Africa
+17,Benin,2014,59.12,217.4,34.3,69.7,22.6,24.35,2.69,4.04,10614844,1251.5,Low income,African region,West Africa
+18,Benin,2013,58.96,217.5,34.6,70.6,22.56,24.24,2.87,5.13,10308730,1214.3,Low income,African region,West Africa
+19,Benin,2012,58.72,219.0,34.9,71.6,22.53,24.12,3.08,5.25,10014078,1112.57,Low income,African region,West Africa
+20,Benin,2011,58.46,220.6,35.0,73.8,22.49,24.0,3.0,4.42,9726380,1099.41,Low income,African region,West Africa
+21,Benin,2010,58.36,222.2,35.0,74.7,22.45,23.88,3.01,5.34,9445710,1009.49,Low income,African region,West Africa
+22,Benin,2009,57.96,225.9,35.1,76.7,22.41,23.76,2.89,5.11,9172514,1061.72,Low income,African region,West Africa
+23,Benin,2008,57.87,236.9,35.2,77.3,22.36,23.63,2.65,5.1,8906469,1098.95,Low income,African region,West Africa
+24,Benin,2007,57.68,248.7,35.5,77.7,22.3,23.5,2.94,6.12,8647761,944.64,Low income,African region,West Africa
+25,Benin,2006,57.46,251.1,35.8,78.9,22.24,23.36,3.29,8.31,8402631,837.13,Low income,African region,West Africa
+26,Benin,2005,57.12,253.6,36.1,81.5,22.17,23.22,3.22,7.56,8149419,805.9,Low income,African region,West Africa
+27,Benin,2004,56.83,255.0,36.7,83.5,22.1,23.07,3.23,8.69,7894554,784.12,Low income,African region,West Africa
+28,Benin,2003,56.74,259.2,37.2,87.8,22.02,22.92,3.12,7.73,7659208,698.41,Low income,African region,West Africa
+29,Benin,2002,56.61,262.0,38.5,92.2,21.94,22.77,3.1,6.35,7431783,564.38,Low income,African region,West Africa
+30,Benin,2001,56.66,263.6,39.1,103.9,21.86,22.61,3.3,7.99,7212041,508.35,Low income,African region,West Africa
+31,Benin,2000,56.58,264.1,39.8,102.8,21.78,22.45,2.96,7.3,6998023,503.0,Low income,African region,West Africa
+32,Burkina Faso,2015,58.84,248.4,26.6,57.9,22.2,22.09,5.13,7.15,18718019,632.13,Low income,African region,West Africa
+33,Burkina Faso,2014,58.36,252.8,27.2,62.7,22.14,22.03,5.0,7.77,18169842,767.37,Low income,African region,West Africa
+34,Burkina Faso,2013,57.82,257.4,28.1,67.2,22.08,21.97,5.56,6.38,17636408,762.3,Low income,African region,West Africa
+35,Burkina Faso,2012,57.62,260.2,28.7,86.6,22.02,21.9,4.6,4.7,17113732,733.97,Low income,African region,West Africa
+36,Burkina Faso,2011,57.12,262.8,29.6,76.5,21.97,21.84,4.65,6.59,16602651,727.61,Low income,African region,West Africa
+37,Burkina Faso,2010,56.48,266.8,30.5,83.4,21.9,21.77,5.24,6.03,16116845,627.27,Low income,African region,West Africa
+38,Burkina Faso,2009,55.96,271.0,31.7,112.6,21.84,21.7,5.08,7.63,15650022,603.88,Low income,African region,West Africa
+39,Burkina Faso,2008,55.34,276.5,32.6,90.3,21.76,21.62,4.65,7.32,15197915,621.89,Low income,African region,West Africa
+40,Burkina Faso,2007,54.38,283.4,33.7,96.6,21.68,21.54,5.23,6.27,14757074,516.75,Low income,African region,West Africa
+41,Burkina Faso,2006,53.74,291.1,35.0,101.9,21.6,21.45,4.51,6.54,14316242,457.34,Low income,African region,West Africa
+42,Burkina Faso,2005,53.09,301.5,36.1,106.4,21.5,21.36,3.95,6.05,13876127,442.94,Low income,African region,West Africa
+43,Burkina Faso,2004,52.42,313.5,37.3,112.3,21.41,21.27,4.22,8.39,13445977,405.45,Low income,African region,West Africa
+44,Burkina Faso,2003,51.79,324.0,38.5,122.6,21.32,21.17,3.14,5.57,13030591,363.82,Low income,African region,West Africa
+45,Burkina Faso,2002,51.27,333.4,39.4,130.8,21.22,21.07,2.97,5.43,12632269,286.75,Low income,African region,West Africa
+46,Burkina Faso,2001,51.07,340.2,40.0,131.2,21.13,20.97,2.89,4.94,12249764,260.44,Low income,African region,West Africa
+47,Burkina Faso,2000,50.85,345.8,40.9,145.0,21.03,20.87,2.95,4.85,11882888,249.8,Low income,African region,West Africa
+48,Burundi,2015,60.22,256.8,23.4,41.1,21.81,21.52,6.29,10.44,10727148,289.36,Low income,African region,East Africa
+49,Burundi,2014,59.87,260.3,23.9,43.9,21.75,21.44,7.21,9.79,10494913,257.82,Low income,African region,East Africa
+50,Burundi,2013,59.24,267.0,24.8,46.8,21.7,21.36,8.63,4.43,10149577,241.55,Low income,African region,East Africa
+51,Burundi,2012,58.49,274.8,25.7,50.5,21.65,21.28,8.64,7.11,9795479,238.21,Low income,African region,East Africa
+52,Burundi,2011,57.77,285.2,26.8,53.9,21.6,21.2,10.07,8.23,9455733,236.45,Low income,African region,East Africa
+53,Burundi,2010,57.08,296.2,27.7,57.9,21.55,21.13,11.28,4.86,9126605,222.66,Low income,African region,East Africa
+54,Burundi,2009,56.39,308.2,29.0,62.0,21.5,21.05,9.23,5.48,8709366,204.54,Low income,African region,East Africa
+55,Burundi,2008,55.71,320.3,29.9,67.0,21.45,20.97,7.74,3.79,8278109,194.71,Low income,African region,East Africa
+56,Burundi,2007,54.73,341.1,31.0,72.1,21.39,20.89,9.19,6.32,7944609,170.71,Low income,African region,East Africa
+57,Burundi,2006,53.87,364.5,32.2,78.5,21.34,20.81,8.71,6.48,7658190,166.28,Low income,African region,East Africa
+58,Burundi,2005,53.02,436.7,33.2,84.6,21.28,20.73,7.56,6.22,7388874,151.19,Low income,African region,East Africa
+59,Burundi,2004,52.01,461.5,34.1,90.7,21.21,20.65,7.1,5.8,7120496,128.54,Low income,African region,East Africa
+60,Burundi,2003,50.86,486.2,34.9,96.8,21.15,20.57,5.27,3.72,6860846,114.37,Low income,African region,East Africa
+61,Burundi,2002,49.89,503.8,35.7,103.4,21.08,20.48,5.35,6.38,6648938,124.14,Low income,African region,East Africa
+62,Burundi,2001,48.43,523.8,36.5,117.0,21.02,20.4,5.68,6.66,6465729,135.61,Low income,African region,East Africa
+63,Burundi,2000,47.51,545.0,37.2,121.9,20.95,20.31,4.22,5.94,6307659,138.0,Low income,African region,East Africa
+64,Central African Republic,2015,52.79,480.9,43.0,86.2,22.02,23.67,5.03,3.26,14140274,351.88,Low income,African region,Central Africa
+65,Central African Republic,2014,50.57,516.6,43.8,88.9,21.97,23.56,4.57,3.95,13697126,394.86,Low income,African region,Central Africa
+66,Central African Republic,2013,50.9,515.0,44.7,96.2,21.91,23.45,4.77,7.34,13216766,352.23,Low income,African region,Central Africa
+67,Central African Republic,2012,50.69,504.1,45.3,94.6,21.86,23.34,3.92,4.29,12754906,525.87,Low income,African region,Central Africa
+68,Central African Republic,2011,49.95,509.2,46.0,101.5,21.8,23.23,3.68,2.93,12317730,515.21,Low income,African region,Central Africa
+69,Central African Republic,2010,49.26,511.2,46.9,99.5,21.75,23.11,3.57,3.34,11894727,459.78,Low income,African region,Central Africa
+70,Central African Republic,2009,48.65,516.2,47.4,101.8,21.7,23.0,4.82,4.58,11496128,452.92,Low income,African region,Central Africa
+71,Central African Republic,2008,48.02,530.3,47.7,105.5,21.64,22.89,4.09,5.28,11098664,446.23,Low income,African region,Central Africa
+72,Central African Republic,2007,47.43,552.6,48.2,106.7,21.58,22.78,4.72,9.87,10722731,388.48,Low income,African region,Central Africa
+73,Central African Republic,2006,46.85,569.4,48.4,108.2,21.52,22.66,4.44,9.18,10365614,340.41,Low income,African region,Central Africa
+74,Central African Republic,2005,46.43,581.8,48.5,115.6,21.46,22.54,4.37,6.41,10005012,317.88,Low income,African region,Central Africa
+75,Central African Republic,2004,46.04,592.5,48.8,121.8,21.4,22.43,4.3,11.29,9613503,309.19,Low income,African region,Central Africa
+76,Central African Republic,2003,45.76,599.8,48.9,119.0,21.33,22.31,4.4,12.56,9196366,283.68,Low income,African region,Central Africa
+77,Central African Republic,2002,45.41,606.6,48.9,122.1,21.27,22.19,4.23,8.62,8838369,253.41,Low income,African region,Central Africa
+78,Central African Republic,2001,45.39,610.9,49.1,123.4,21.21,22.07,3.96,10.72,8538804,242.58,Low income,African region,Central Africa
+79,Central African Republic,2000,45.41,614.4,49.2,124.9,21.14,21.95,4.27,10.02,8259137,243.88,Low income,African region,Central Africa
+80,Chad,2015,51.59,267.6,36.0,89.6,22.02,21.92,4.52,5.25,17870124,774.41,Low income,African region,Central Africa
+81,Chad,2014,51.2,271.7,36.4,93.4,21.98,21.87,4.27,5.55,17687108,1017.79,Low income,African region,Central Africa
+82,Chad,2013,50.78,275.5,36.9,95.5,21.95,21.81,4.07,5.04,17509925,980.08,Low income,African region,Central Africa
+83,Chad,2012,50.54,278.6,37.6,99.5,21.92,21.76,3.86,3.96,17341771,969.62,Low income,African region,Central Africa
+84,Chad,2011,50.01,281.5,37.8,103.2,21.88,21.7,3.91,3.69,17173573,988.19,Low income,African region,Central Africa
+85,Chad,2010,49.58,285.0,38.4,104.9,21.84,21.64,4.06,3.5,17004162,896.88,Low income,African region,Central Africa
+86,Chad,2009,49.2,291.5,38.6,107.8,21.8,21.58,4.44,3.84,16833447,808.16,Low income,African region,Central Africa
+87,Chad,2008,49.02,304.6,38.8,111.6,21.75,21.51,4.06,4.23,16661462,936.49,Low income,African region,Central Africa
+88,Chad,2007,48.75,311.1,39.2,113.6,21.69,21.44,4.34,5.99,16495538,806.71,Low income,African region,Central Africa
+89,Chad,2006,48.29,326.9,39.9,117.4,21.63,21.36,4.87,7.14,16334575,716.67,Low income,African region,Central Africa
+90,Chad,2005,48.31,327.3,40.2,122.7,21.56,21.28,4.84,12.42,16175311,664.6,Low income,African region,Central Africa
+91,Chad,2004,48.23,332.7,41.0,131.7,21.49,21.19,5.5,15.03,16017966,460.07,Low income,African region,Central Africa
+92,Chad,2003,48.21,335.0,41.8,128.0,21.42,21.1,5.51,8.98,15859112,298.25,Low income,African region,Central Africa
+93,Chad,2002,47.95,335.8,42.5,131.7,21.34,21.0,7.27,11.72,15693790,225.95,Low income,African region,Central Africa
+94,Chad,2001,47.85,334.4,43.6,132.9,21.26,20.91,5.29,11.87,15523978,200.36,Low income,African region,Central Africa
+95,Chad,2000,47.44,338.1,44.6,125.9,21.18,20.81,5.46,11.4,15351799,168.12,Low income,African region,Central Africa
+96,Congo,2015,58.49,310.9,20.3,35.6,22.34,24.14,3.75,3.84,4895242,482.06,Low income,African region,Central Africa
+97,Congo,2014,58.3,318.3,20.8,31.0,22.29,24.06,3.73,2.98,4844288,472.27,Low income,African region,Central Africa
+98,Congo,2013,57.76,319.3,21.2,32.8,22.24,23.99,3.34,3.91,4791535,444.86,Low income,African region,Central Africa
+99,Congo,2012,57.25,320.6,21.6,34.3,22.19,23.91,3.22,3.88,4736593,412.78,Low income,African region,Central Africa
+100,Congo,2011,57.07,318.5,22.3,36.0,22.14,23.82,3.19,2.53,4679926,376.37,Low income,African region,Central Africa
+101,Congo,2010,56.42,327.0,22.6,37.4,22.09,23.74,3.72,2.5,4622252,324.83,Low income,African region,Central Africa
+102,Congo,2009,55.84,334.5,23.2,39.7,22.04,23.66,4.51,2.5,4563127,290.16,Low income,African region,Central Africa
+103,Congo,2008,55.34,350.6,24.1,42.2,21.98,23.57,4.31,2.5,4501921,317.89,Low income,African region,Central Africa
+104,Congo,2007,54.92,367.9,25.1,46.9,21.93,23.48,3.89,2.5,4440019,277.61,Low income,African region,Central Africa
+105,Congo,2006,54.53,377.1,26.1,51.1,21.87,23.39,4.06,2.5,4378172,247.54,Low income,African region,Central Africa
+106,Congo,2005,53.93,393.5,27.2,55.6,21.81,23.29,3.99,2.5,4315887,211.57,Low income,African region,Central Africa
+107,Congo,2004,53.43,411.2,28.4,65.7,21.75,23.19,4.34,2.5,4252800,187.86,Low income,African region,Central Africa
+108,Congo,2003,52.83,424.5,29.4,71.6,21.69,23.09,3.73,2.5,4188610,167.98,Low income,African region,Central Africa
+109,Congo,2002,52.33,432.1,30.2,81.9,21.62,22.98,2.57,2.5,4122623,168.94,Low income,African region,Central Africa
+110,Congo,2001,52.12,444.5,30.9,82.0,21.56,22.87,2.62,2.5,4053222,148.45,Low income,African region,Central Africa
+111,Congo,2000,51.78,461.5,31.5,80.9,21.5,22.76,1.47,2.5,3979193,392.63,Low income,African region,Central Africa
+112,Ethiopia,2015,63.65,186.6,30.6,36.3,20.09,21.05,3.82,5.57,102471895,630.31,Low income,African region,East Africa
+113,Ethiopia,2014,62.9,191.3,31.9,39.1,20.08,20.98,4.03,4.09,99746766,557.53,Low income,African region,East Africa
+114,Ethiopia,2013,62.37,197.2,33.0,36.1,20.06,20.91,4.08,6.19,97084366,490.79,Low income,African region,East Africa
+115,Ethiopia,2012,61.54,205.2,34.1,37.8,20.04,20.84,4.54,6.41,94451280,458.55,Low income,African region,East Africa
+116,Ethiopia,2011,60.72,214.7,35.6,40.2,20.03,20.77,4.47,2.09,91817929,348.0,Low income,African region,East Africa
+117,Ethiopia,2010,59.73,226.6,36.9,45.4,20.01,20.7,5.47,5.11,89237791,335.44,Low income,African region,East Africa
+118,Ethiopia,2009,58.8,240.3,38.2,53.2,20.0,20.63,4.65,5.3,86755585,373.89,Low income,African region,East Africa
+119,Ethiopia,2008,57.59,255.9,39.6,54.3,19.98,20.56,4.28,2.74,84357105,320.86,Low income,African region,East Africa
+120,Ethiopia,2007,56.43,274.8,40.9,54.2,19.97,20.49,5.0,6.5,81996185,240.35,Low income,African region,East Africa
+121,Ethiopia,2006,55.15,296.9,42.0,62.3,19.95,20.42,4.46,5.08,79691050,191.75,Low income,African region,East Africa
+122,Ethiopia,2005,54.01,317.0,43.3,65.2,19.92,20.35,4.1,7.55,77469940,160.08,Low income,African region,East Africa
+123,Ethiopia,2004,53.24,334.0,44.4,70.8,19.89,20.28,4.31,5.73,75301026,134.54,Low income,African region,East Africa
+124,Ethiopia,2003,52.53,348.3,45.5,76.9,19.86,20.21,4.9,8.42,73168838,117.86,Low income,African region,East Africa
+125,Ethiopia,2002,51.52,361.0,46.7,84.1,19.83,20.13,4.71,8.37,71073215,110.46,Low income,African region,East Africa
+126,Ethiopia,2001,51.04,374.1,47.6,83.0,19.79,20.06,4.72,8.98,69018932,119.26,Low income,African region,East Africa
+127,Ethiopia,2000,50.54,409.2,48.7,90.1,19.75,19.98,4.37,7.03,67031867,122.96,Low income,African region,East Africa
+128,Gambia,2015,62.49,255.6,28.7,37.2,23.45,24.57,3.18,5.1,2253133,611.67,Low income,African region,West Africa
+129,Gambia,2014,62.27,255.3,29.4,38.3,23.33,24.48,3.05,5.75,2189019,561.65,Low income,African region,West Africa
+130,Gambia,2013,62.11,253.5,30.0,40.1,23.22,24.39,3.91,6.31,2124869,647.39,Low income,African region,West Africa
+131,Gambia,2012,62.1,253.3,30.7,41.6,23.1,24.29,4.27,6.31,2061014,686.56,Low income,African region,West Africa
+132,Gambia,2011,61.53,257.0,31.5,43.7,22.99,24.2,4.37,6.31,1998212,705.48,Low income,African region,West Africa
+133,Gambia,2010,60.72,264.0,32.3,45.5,22.86,24.09,4.12,6.31,1937275,796.63,Low income,African region,West Africa
+134,Gambia,2009,60.43,270.5,33.1,47.3,22.73,23.99,4.46,6.31,1878119,772.12,Low income,African region,West Africa
+135,Gambia,2008,60.08,272.9,33.7,49.2,22.59,23.87,4.66,6.31,1820542,857.86,Low income,African region,West Africa
+136,Gambia,2007,59.39,275.0,34.7,51.5,22.45,23.75,4.96,6.31,1764883,725.09,Low income,African region,West Africa
+137,Gambia,2006,59.06,273.0,35.3,53.8,22.3,23.62,5.44,6.31,1711294,615.97,Low income,African region,West Africa
+138,Gambia,2005,58.39,273.9,36.3,56.1,22.15,23.48,5.39,6.31,1660368,618.96,Low income,African region,West Africa
+139,Gambia,2004,58.09,275.0,37.1,58.8,21.99,23.34,5.42,6.31,1612225,596.63,Low income,African region,West Africa
+140,Gambia,2003,57.59,273.2,38.0,63.0,21.83,23.19,5.33,6.31,1566257,310.96,Low income,African region,West Africa
+141,Gambia,2002,57.08,270.3,39.0,65.5,21.67,23.03,6.28,6.31,1522223,379.86,Low income,African region,West Africa
+142,Gambia,2001,57.04,266.0,39.8,69.6,21.52,22.87,5.64,6.31,1479449,464.64,Low income,African region,West Africa
+143,Gambia,2000,56.94,262.5,40.8,74.7,21.37,22.7,6.65,6.31,1437539,544.62,Low income,African region,West Africa
+144,Guinea,2015,58.13,271.2,24.9,65.5,22.43,23.41,5.81,1.98,11625998,756.43,Low income,African region,West Africa
+145,Guinea,2014,57.89,283.2,25.7,68.5,22.39,23.34,4.79,3.03,11333365,774.57,Low income,African region,West Africa
+146,Guinea,2013,57.79,263.0,26.5,68.3,22.36,23.26,3.46,2.62,11055430,757.69,Low income,African region,West Africa
+147,Guinea,2012,57.41,264.8,27.5,72.1,22.32,23.19,3.5,2.57,10788692,707.97,Low income,African region,West Africa
+148,Guinea,2011,57.02,268.0,28.6,73.4,22.28,23.11,3.79,3.18,10527712,644.5,Low income,African region,West Africa
+149,Guinea,2010,56.72,271.6,29.8,74.4,22.24,23.03,3.43,1.77,10270728,667.28,Low income,African region,West Africa
+150,Guinea,2009,56.35,277.5,31.4,78.5,22.2,22.95,3.58,1.6,10021323,670.26,Low income,African region,West Africa
+151,Guinea,2008,56.04,281.5,33.0,79.5,22.14,22.86,3.27,2.67,9779785,712.1,Low income,African region,West Africa
+152,Guinea,2007,55.55,285.5,34.9,80.4,22.08,22.77,3.47,2.77,9547082,657.99,Low income,African region,West Africa
+153,Guinea,2006,55.11,287.4,36.4,84.3,22.02,22.68,3.62,1.88,9330625,452.28,Low income,African region,West Africa
+154,Guinea,2005,54.63,291.0,38.1,86.5,21.95,22.58,4.05,2.37,9140114,468.54,Low income,African region,West Africa
+155,Guinea,2004,54.12,293.6,39.6,88.2,21.87,22.48,4.78,1.86,8961039,591.53,Low income,African region,West Africa
+156,Guinea,2003,53.68,293.7,40.8,101.6,21.8,22.37,4.78,2.86,8772254,572.85,Low income,African region,West Africa
+157,Guinea,2002,53.28,294.1,42.4,107.8,21.72,22.26,5.36,4.4,8577790,501.48,Low income,African region,West Africa
+158,Guinea,2001,52.66,294.8,44.3,127.7,21.64,22.15,4.89,2.47,8445717,488.48,Low income,African region,West Africa
+159,Guinea,2000,52.48,294.2,46.5,127.1,21.56,22.03,4.75,2.38,8336967,523.87,Low income,African region,West Africa
+160,Guinea-Bissau,2015,59.13,343.8,39.1,54.4,22.81,24.08,8.13,2.5,1788919,644.18,Low income,African region,West Africa
+161,Guinea-Bissau,2014,58.61,346.9,40.0,51.5,22.77,24.0,9.97,2.6,1743309,651.2,Low income,African region,West Africa
+162,Guinea-Bissau,2013,58.23,345.7,41.1,53.6,22.72,23.92,7.04,4.44,1697753,653.62,Low income,African region,West Africa
+163,Guinea-Bissau,2012,57.69,348.4,42.5,57.0,22.68,23.84,5.94,3.89,1652717,634.96,Low income,African region,West Africa
+164,Guinea-Bissau,2011,56.97,352.1,43.8,60.0,22.63,23.76,6.22,2.52,1609017,719.12,Low income,African region,West Africa
+165,Guinea-Bissau,2010,56.23,357.9,45.0,64.0,22.58,23.67,5.27,2.52,1567220,599.86,Low income,African region,West Africa
+166,Guinea-Bissau,2009,55.54,363.7,46.3,67.9,22.52,23.58,4.73,2.52,1527196,582.88,Low income,African region,West Africa
+167,Guinea-Bissau,2008,54.65,367.0,47.6,71.8,22.46,23.48,5.46,2.52,1488431,640.05,Low income,African region,West Africa
+168,Guinea-Bissau,2007,54.16,376.7,49.0,75.5,22.39,23.38,5.04,2.52,1450572,519.22,Low income,African region,West Africa
+169,Guinea-Bissau,2006,53.37,385.1,49.9,82.1,22.31,23.27,5.08,2.52,1414091,448.9,Low income,African region,West Africa
+170,Guinea-Bissau,2005,52.25,389.0,51.0,90.1,22.22,23.16,4.55,2.52,1379713,463.7,Low income,African region,West Africa
+171,Guinea-Bissau,2004,52.15,389.7,51.6,126.7,22.14,23.04,4.28,2.52,1347009,432.19,Low income,African region,West Africa
+172,Guinea-Bissau,2003,51.4,386.2,52.3,155.7,22.04,22.91,3.53,2.52,1315653,420.79,Low income,African region,West Africa
+173,Guinea-Bissau,2002,50.99,386.0,53.0,110.7,21.95,22.78,3.97,2.52,1285678,363.06,Low income,African region,West Africa
+174,Guinea-Bissau,2001,50.44,386.3,53.8,108.3,21.85,22.65,4.53,2.52,1257380,328.15,Low income,African region,West Africa
+175,Guinea-Bissau,2000,50.12,388.0,54.8,121.2,21.76,22.51,4.19,2.52,1230849,317.95,Low income,African region,West Africa
+176,Liberia,2015,59.15,289.3,26.0,64.1,23.19,25.09,10.47,3.24,4612329,699.66,Low income,African region,West Africa
+177,Liberia,2014,59.12,347.5,26.7,53.9,23.21,24.97,8.77,2.46,4519398,713.73,Low income,African region,West Africa
+178,Liberia,2013,59.94,256.2,27.2,55.4,23.22,24.85,7.09,1.25,4427313,717.64,Low income,African region,West Africa
+179,Liberia,2012,59.91,259.0,28.0,57.4,23.24,24.74,8.15,5.05,4331740,644.46,Low income,African region,West Africa
+180,Liberia,2011,59.62,262.5,28.6,64.2,23.26,24.62,9.71,5.05,4181150,573.53,Low income,African region,West Africa
+181,Liberia,2010,59.43,265.7,29.4,70.5,23.26,24.5,10.35,5.05,4019956,497.02,Low income,African region,West Africa
+182,Liberia,2009,59.19,267.1,30.4,65.7,23.26,24.37,11.57,5.05,3905066,452.75,Low income,African region,West Africa
+183,Liberia,2008,58.77,268.4,31.6,68.3,23.25,24.24,6.0,4.25,3783887,456.14,Low income,African region,West Africa
+184,Liberia,2007,58.28,271.4,32.7,73.3,23.22,24.11,4.33,4.25,3632740,377.95,Low income,African region,West Africa
+185,Liberia,2006,57.62,277.4,34.1,77.6,23.19,23.98,6.07,4.25,3455397,323.84,Low income,African region,West Africa
+186,Liberia,2005,56.91,284.7,35.6,82.1,23.15,23.84,7.14,4.25,3266318,290.54,Low income,African region,West Africa
+187,Liberia,2004,56.01,287.3,37.2,92.2,23.11,23.71,6.34,4.25,3122447,287.27,Low income,African region,West Africa
+188,Liberia,2003,53.04,326.4,38.9,101.4,23.07,23.57,2.66,4.25,3085173,242.45,Low income,African region,West Africa
+189,Liberia,2002,53.79,317.9,40.4,111.0,23.02,23.44,2.28,4.25,3060599,302.88,Low income,African region,West Africa
+190,Liberia,2001,52.75,297.3,42.5,138.5,22.97,23.32,2.28,4.25,2981648,303.86,Low income,African region,West Africa
+191,Liberia,2000,51.36,297.1,44.7,151.7,22.93,23.2,2.88,4.25,2895224,301.88,Low income,African region,West Africa
+192,Madagascar,2015,64.34,243.9,19.4,27.5,21.53,21.11,5.01,15.27,24850912,455.64,Low income,African region,East Africa
+193,Madagascar,2014,64.26,246.4,19.8,28.5,21.49,21.07,4.46,13.92,24215976,517.14,Low income,African region,East Africa
+194,Madagascar,2013,63.96,247.8,20.3,30.8,21.44,21.03,3.75,10.27,23588073,526.69,Low income,African region,East Africa
+195,Madagascar,2012,63.54,249.4,21.2,32.6,21.39,20.99,3.91,12.94,22966240,504.17,Low income,African region,East Africa
+196,Madagascar,2011,63.49,251.3,21.7,34.8,21.35,20.95,4.52,13.94,22348158,516.9,Low income,African region,East Africa
+197,Madagascar,2010,62.87,253.3,22.7,37.7,21.3,20.91,4.7,15.21,21731053,459.38,Low income,African region,East Africa
+198,Madagascar,2009,62.73,255.5,23.3,40.3,21.26,20.87,4.38,10.45,21117092,455.41,Low income,African region,East Africa
+199,Madagascar,2008,62.14,256.4,24.3,42.7,21.22,20.83,4.08,8.98,20513599,522.83,Low income,African region,East Africa
+200,Madagascar,2007,61.76,258.9,25.1,45.8,21.17,20.8,4.61,11.84,19924958,427.84,Low income,African region,East Africa
+201,Madagascar,2006,61.32,264.2,25.8,48.9,21.12,20.76,5.07,10.25,19350299,330.52,Low income,African region,East Africa
+202,Madagascar,2005,60.57,269.7,26.4,51.8,21.08,20.72,5.22,10.54,18792171,311.79,Low income,African region,East Africa
+203,Madagascar,2004,60.15,275.7,27.4,57.6,21.03,20.69,5.25,10.03,18250774,277.51,Low income,African region,East Africa
+204,Madagascar,2003,59.49,277.8,28.3,63.5,20.98,20.65,5.0,13.1,17724310,359.53,Low income,African region,East Africa
+205,Madagascar,2002,58.89,277.7,29.1,66.1,20.93,20.6,4.93,14.02,17211934,310.93,Low income,African region,East Africa
+206,Madagascar,2001,58.57,274.5,30.1,69.8,20.88,20.56,4.12,12.02,16709665,325.46,Low income,African region,East Africa
+207,Madagascar,2000,57.94,278.6,31.2,74.4,20.83,20.51,3.99,12.04,16216431,285.47,Low income,African region,East Africa
+208,Malawi,2015,61.38,310.0,23.9,36.0,22.54,23.19,6.63,9.73,16938942,544.28,Low income,African region,East Africa
+209,Malawi,2014,60.9,315.9,24.8,38.9,22.48,23.11,6.9,8.58,16477966,534.13,Low income,African region,East Africa
+210,Malawi,2013,59.73,327.8,25.8,42.8,22.41,23.04,8.22,7.16,16024775,501.2,Low income,African region,East Africa
+211,Malawi,2012,58.68,346.4,26.8,47.3,22.35,22.96,6.02,5.1,15581251,563.06,Low income,African region,East Africa
+212,Malawi,2011,57.46,369.2,27.9,53.4,22.29,22.89,5.32,6.78,15146094,769.05,Low income,African region,East Africa
+213,Malawi,2010,56.38,390.9,28.5,57.8,22.24,22.81,5.14,5.77,14718422,688.14,Low income,African region,East Africa
+214,Malawi,2009,55.45,412.9,29.0,61.4,22.18,22.74,5.87,5.23,14298932,630.11,Low income,African region,East Africa
+215,Malawi,2008,54.6,444.9,29.3,64.9,22.12,22.66,6.11,6.62,13889423,557.52,Low income,African region,East Africa
+216,Malawi,2007,53.95,484.2,29.7,69.1,22.05,22.59,5.44,3.54,13495463,478.03,Low income,African region,East Africa
+217,Malawi,2006,53.24,522.8,30.2,72.7,21.99,22.51,4.91,5.29,13118307,443.52,Low income,African region,East Africa
+218,Malawi,2005,52.04,556.8,31.0,77.5,21.92,22.43,4.3,6.04,12755648,417.1,Low income,African region,East Africa
+219,Malawi,2004,50.45,576.9,32.1,84.5,21.85,22.35,4.07,5.0,12411342,407.59,Low income,African region,East Africa
+220,Malawi,2003,48.79,581.9,33.4,93.5,21.77,22.26,3.32,7.63,12087965,386.32,Low income,African region,East Africa
+221,Malawi,2002,47.22,584.2,35.5,103.9,21.69,22.17,2.7,7.04,11784498,431.7,Low income,African region,East Africa
+222,Malawi,2001,45.9,583.9,37.3,115.3,21.62,22.08,2.06,7.04,11498818,217.24,Low income,African region,East Africa
+223,Malawi,2000,44.52,582.5,39.4,125.6,21.54,21.99,2.35,7.04,11229387,225.95,Low income,African region,East Africa
+224,Mali,2015,58.36,242.9,36.6,74.4,22.94,23.11,4.11,4.39,18112907,723.5,Low income,African region,West Africa
+225,Mali,2014,57.9,244.8,37.4,77.4,22.88,23.03,4.48,4.45,17551814,818.43,Low income,African region,West Africa
+226,Mali,2013,57.36,246.5,38.1,79.8,22.81,22.95,3.97,4.13,17004033,778.8,Low income,African region,West Africa
+227,Mali,2012,57.08,242.6,38.9,82.3,22.75,22.88,3.75,2.66,16514687,753.39,Low income,African region,West Africa
+228,Mali,2011,56.76,241.2,40.0,87.0,22.69,22.79,4.01,2.94,16039734,810.18,Low income,African region,West Africa
+229,Mali,2010,56.38,243.5,40.8,92.4,22.62,22.71,4.68,3.3,15529181,688.33,Low income,African region,West Africa
+230,Mali,2009,55.87,245.4,41.7,97.5,22.54,22.61,5.21,2.93,15032635,680.65,Low income,African region,West Africa
+231,Mali,2008,55.29,249.6,42.6,96.8,22.46,22.52,5.03,3.79,14551117,676.13,Low income,African region,West Africa
+232,Mali,2007,54.94,252.8,43.8,101.8,22.37,22.41,5.25,4.64,14080912,579.26,Low income,African region,West Africa
+233,Mali,2006,54.62,259.3,44.8,107.3,22.28,22.3,5.46,5.55,13623541,506.91,Low income,African region,West Africa
+234,Mali,2005,54.0,263.5,46.3,112.6,22.18,22.18,5.2,6.46,13180551,474.0,Low income,African region,West Africa
+235,Mali,2004,53.54,267.6,47.9,121.5,22.07,22.06,5.22,7.3,12751995,427.72,Low income,African region,West Africa
+236,Mali,2003,52.89,277.5,49.8,128.1,21.96,21.92,5.05,6.79,12342165,381.95,Low income,African region,West Africa
+237,Mali,2002,52.22,283.7,52.0,134.2,21.86,21.79,5.0,5.57,11952660,326.97,Low income,African region,West Africa
+238,Mali,2001,51.28,285.9,54.3,154.1,21.75,21.65,4.52,5.75,11583824,299.41,Low income,African region,West Africa
+239,Mali,2000,50.54,288.6,56.6,152.4,21.64,21.5,5.47,6.67,11239101,263.5,Low income,African region,West Africa
+240,Mozambique,2015,58.15,410.4,28.1,48.5,22.01,23.41,6.72,5.55,26843246,603.84,Low income,African region,East Africa
+241,Mozambique,2014,57.27,425.6,28.6,51.7,21.95,23.31,6.33,4.32,26038704,690.44,Low income,African region,East Africa
+242,Mozambique,2013,56.49,439.4,29.3,54.9,21.89,23.22,6.13,4.73,25251731,681.07,Low income,African region,East Africa
+243,Mozambique,2012,55.64,444.3,30.2,58.7,21.83,23.12,5.25,4.39,24487611,681.49,Low income,African region,East Africa
+244,Mozambique,2011,54.87,441.9,30.9,63.5,21.77,23.03,5.0,4.34,23760421,615.28,Low income,African region,East Africa
+245,Mozambique,2010,54.2,438.8,31.6,68.8,21.72,22.94,5.44,4.67,23073723,494.58,Low income,African region,East Africa
+246,Mozambique,2009,53.79,433.3,32.5,70.6,21.66,22.85,5.2,4.97,22436660,546.6,Low income,African region,East Africa
+247,Mozambique,2008,53.16,429.9,33.4,75.6,21.61,22.76,4.22,5.67,21845571,591.44,Low income,African region,East Africa
+248,Mozambique,2007,52.57,431.4,34.1,80.6,21.55,22.67,3.93,5.6,21280513,508.04,Low income,African region,East Africa
+249,Mozambique,2006,51.96,429.3,35.3,85.6,21.49,22.58,4.09,5.67,20735982,458.62,Low income,African region,East Africa
+250,Mozambique,2005,51.56,423.7,36.2,99.0,21.43,22.5,4.38,8.4,20211114,438.79,Low income,African region,East Africa
+251,Mozambique,2004,51.25,413.7,37.4,101.0,21.37,22.41,3.67,6.32,19694411,403.02,Low income,African region,East Africa
+252,Mozambique,2003,50.87,403.3,39.0,105.5,21.3,22.31,3.4,6.32,19186754,343.13,Low income,African region,East Africa
+253,Mozambique,2002,50.59,393.4,40.5,108.6,21.24,22.22,3.28,6.32,18694946,318.31,Low income,African region,East Africa
+254,Mozambique,2001,50.06,380.8,42.1,113.5,21.17,22.12,2.88,6.32,18220716,310.1,Low income,African region,East Africa
+255,Mozambique,2000,49.49,371.8,43.9,118.8,21.1,22.02,2.19,6.32,17768505,333.78,Low income,African region,East Africa
+256,Nepal,2015,67.46,164.2,22.6,14.1,22.52,22.41,5.47,5.15,27610325,882.31,Low income,Asian region,South Asia
+257,Nepal,2014,68.08,159.1,23.6,14.9,22.42,22.27,5.08,5.27,27462106,827.74,Low income,Asian region,South Asia
+258,Nepal,2013,67.96,160.8,24.5,16.1,22.32,22.14,4.63,4.88,27381555,809.38,Low income,Asian region,South Asia
+259,Nepal,2012,67.47,162.0,25.5,19.1,22.21,22.0,4.49,4.69,27330694,794.09,Low income,Asian region,South Asia
+260,Nepal,2011,67.31,162.9,26.5,19.8,22.11,21.86,4.45,4.87,27266399,791.23,Low income,Asian region,South Asia
+261,Nepal,2010,66.81,162.6,27.5,20.6,22.02,21.72,4.36,4.81,27161567,589.17,Low income,Asian region,South Asia
+262,Nepal,2009,66.76,163.1,28.6,21.8,21.92,21.59,3.9,4.69,27026941,475.64,Low income,Asian region,South Asia
+263,Nepal,2008,66.42,163.6,30.0,23.9,21.83,21.45,3.82,5.31,26881544,466.69,Low income,Asian region,South Asia
+264,Nepal,2007,66.33,163.9,31.2,25.2,21.74,21.32,3.67,5.18,26713655,386.53,Low income,Asian region,South Asia
+265,Nepal,2006,65.87,164.7,32.4,26.5,21.65,21.18,3.54,7.58,26518971,341.03,Low income,Asian region,South Asia
+266,Nepal,2005,65.46,167.1,33.6,29.6,21.57,21.04,3.95,6.25,26285110,309.31,Low income,Asian region,South Asia
+267,Nepal,2004,64.82,171.6,34.9,38.8,21.48,20.91,4.05,5.48,26003965,279.72,Low income,Asian region,South Asia
+268,Nepal,2003,64.2,172.3,36.2,40.1,21.38,20.77,3.86,5.52,25682908,246.49,Low income,Asian region,South Asia
+269,Nepal,2002,63.26,183.0,37.5,38.6,21.29,20.63,3.94,6.1,25332178,238.86,Low income,Asian region,South Asia
+270,Nepal,2001,63.34,181.6,39.1,42.0,21.19,20.48,3.81,4.53,24956071,240.71,Low income,Asian region,South Asia
+271,Nepal,2000,62.61,189.5,40.5,42.4,21.09,20.34,3.13,4.25,24559500,223.71,Low income,Asian region,South Asia
+272,Niger,2015,61.08,223.1,27.3,62.2,21.42,22.31,5.35,4.59,20128124,481.11,Low income,African region,West Africa
+273,Niger,2014,60.79,223.1,28.0,64.9,21.39,22.24,4.45,5.4,19372014,560.75,Low income,African region,West Africa
+274,Niger,2013,60.24,224.8,28.9,68.7,21.36,22.17,4.47,6.56,18653199,548.16,Low income,African region,West Africa
+275,Niger,2012,59.65,227.4,29.8,73.5,21.32,22.09,4.31,6.25,17954407,525.05,Low income,African region,West Africa
+276,Niger,2011,58.99,229.5,30.7,78.3,21.29,22.02,4.87,8.3,17283112,507.6,Low income,African region,West Africa
+277,Niger,2010,58.37,231.4,31.6,84.1,21.25,21.94,4.96,9.18,16647543,471.61,Low income,African region,West Africa
+278,Niger,2009,57.4,235.2,32.7,89.6,21.21,21.87,5.34,8.69,16037915,458.42,Low income,African region,West Africa
+279,Niger,2008,56.51,238.2,33.5,97.1,21.16,21.78,5.25,9.19,15455175,472.18,Low income,African region,West Africa
+280,Niger,2007,55.55,245.0,34.5,103.5,21.11,21.7,5.43,8.63,14897873,384.72,Low income,African region,West Africa
+281,Niger,2006,54.6,246.9,35.6,110.9,21.05,21.61,5.99,13.54,14365168,331.1,Low income,African region,West Africa
+282,Niger,2005,53.59,254.5,36.8,118.4,20.98,21.52,5.88,12.35,13855221,316.37,Low income,African region,West Africa
+283,Niger,2004,52.59,259.2,38.0,151.6,20.91,21.42,4.98,7.35,13366885,281.33,Low income,African region,West Africa
+284,Niger,2003,51.43,265.9,39.2,156.7,20.84,21.32,4.75,7.63,12900790,263.09,Low income,African region,West Africa
+285,Niger,2002,50.56,266.2,40.4,156.8,20.77,21.22,4.83,8.36,12456517,223.35,Low income,African region,West Africa
+286,Niger,2001,49.84,270.8,41.6,177.2,20.69,21.11,4.73,8.34,12031430,203.53,Low income,African region,West Africa
+287,Niger,2000,49.32,268.9,42.9,164.8,20.62,21.0,4.66,8.37,11622665,192.88,Low income,African region,West Africa
+288,Rwanda,2015,65.3,208.6,17.6,24.3,21.24,22.68,6.65,7.91,11642959,733.81,Low income,African region,East Africa
+289,Rwanda,2014,64.94,211.0,18.2,25.9,21.2,22.6,6.99,7.98,11368451,724.72,Low income,African region,East Africa
+290,Rwanda,2013,64.43,215.2,19.0,28.6,21.15,22.52,6.78,8.3,11101350,704.42,Low income,African region,East Africa
+291,Rwanda,2012,64.01,222.1,20.1,31.6,21.11,22.43,8.11,8.36,10840334,706.14,Low income,African region,East Africa
+292,Rwanda,2011,63.26,228.3,21.1,35.6,21.06,22.35,7.94,8.9,10576932,650.94,Low income,African region,East Africa
+293,Rwanda,2010,62.54,236.6,22.3,40.4,21.02,22.26,8.09,8.56,10309031,594.12,Low income,African region,East Africa
+294,Rwanda,2009,61.96,251.3,23.8,45.9,20.97,22.17,7.81,8.43,10043737,564.98,Low income,African region,East Africa
+295,Rwanda,2008,61.13,257.5,25.2,51.9,20.92,22.09,7.57,8.08,9781996,529.53,Low income,African region,East Africa
+296,Rwanda,2007,59.96,271.6,26.5,58.3,20.87,22.0,7.86,7.79,9523168,427.43,Low income,African region,East Africa
+297,Rwanda,2006,58.71,293.2,28.1,66.3,20.82,21.91,7.61,7.2,9270066,358.12,Low income,African region,East Africa
+298,Rwanda,2005,57.32,325.7,29.8,75.2,20.76,21.81,7.73,8.09,9026299,325.03,Low income,African region,East Africa
+299,Rwanda,2004,55.49,362.9,31.7,85.8,20.69,21.72,7.51,10.79,8791853,270.31,Low income,African region,East Africa
+300,Rwanda,2003,53.37,393.1,33.7,98.7,20.63,21.62,6.93,12.45,8567992,249.56,Low income,African region,East Africa
+301,Rwanda,2002,51.03,412.9,35.4,111.3,20.56,21.51,3.13,3.71,8372306,234.82,Low income,African region,East Africa
+302,Rwanda,2001,49.02,440.7,37.3,123.2,20.49,21.41,3.32,3.66,8223941,239.13,Low income,African region,East Africa
+303,Rwanda,2000,47.13,458.3,38.8,135.1,20.41,21.3,3.58,3.54,8109989,255.1,Low income,African region,East Africa
+304,Sierra Leone,2015,57.19,281.1,35.5,84.9,21.91,23.55,19.66,6.21,7314773,581.29,Low income,African region,West Africa
+305,Sierra Leone,2014,56.39,313.2,36.5,90.6,21.9,23.51,19.69,7.58,7140688,702.34,Low income,African region,West Africa
+306,Sierra Leone,2013,56.31,269.7,37.8,97.0,21.9,23.48,11.59,5.15,6964859,706.45,Low income,African region,West Africa
+307,Sierra Leone,2012,55.45,276.0,39.0,104.2,21.9,23.44,8.94,4.75,6788587,558.18,Low income,African region,West Africa
+308,Sierra Leone,2011,54.62,282.9,40.0,110.6,21.89,23.41,10.77,5.35,6612385,443.45,Low income,African region,West Africa
+309,Sierra Leone,2010,53.69,289.1,41.4,117.2,21.88,23.37,9.13,6.51,6436698,400.54,Low income,African region,West Africa
+310,Sierra Leone,2009,52.63,297.4,42.6,124.0,21.87,23.32,9.68,5.61,6259842,386.43,Low income,African region,West Africa
+311,Sierra Leone,2008,51.53,301.9,43.8,129.7,21.85,23.27,8.81,4.41,6090860,402.55,Low income,African region,West Africa
+312,Sierra Leone,2007,50.36,307.5,44.8,134.9,21.82,23.22,8.52,5.45,5939163,358.08,Low income,African region,West Africa
+313,Sierra Leone,2006,49.32,307.7,45.8,140.1,21.78,23.15,9.02,5.45,5809774,320.51,Low income,African region,West Africa
+314,Sierra Leone,2005,48.24,310.0,46.8,144.1,21.73,23.09,9.04,5.45,5683334,286.29,Low income,African region,West Africa
+315,Sierra Leone,2004,47.58,310.6,47.8,147.0,21.68,23.01,8.67,5.45,5533329,258.47,Low income,African region,West Africa
+316,Sierra Leone,2003,46.96,308.3,48.4,172.2,21.63,22.93,8.45,5.45,5350907,255.97,Low income,African region,West Africa
+317,Sierra Leone,2002,46.36,304.2,49.1,177.7,21.57,22.85,9.4,5.45,5140113,240.51,Low income,African region,West Africa
+318,Sierra Leone,2001,45.66,298.0,49.8,183.0,21.51,22.76,8.37,5.45,4857096,221.3,Low income,African region,West Africa
+319,Sierra Leone,2000,45.05,303.5,50.4,186.7,21.45,22.67,8.49,5.45,4584067,138.71,Low income,African region,West Africa
+320,Syrian Arab Republic,2015,65.12,310.4,8.8,9.1,27.47,29.39,2.27,4.49,19205178,857.42,Low income,Asian region,Western Asia (Middle East)
+321,Syrian Arab Republic,2014,63.15,302.9,8.9,9.5,27.37,29.3,2.45,4.68,20072232,1071.23,Low income,Asian region,Western Asia (Middle East)
+322,Syrian Arab Republic,2013,63.83,218.8,8.8,9.4,27.28,29.21,2.64,4.87,21495821,993.74,Low income,Asian region,Western Asia (Middle East)
+323,Syrian Arab Republic,2012,66.77,223.3,8.8,9.5,27.19,29.12,3.05,4.47,22605577,1910.6,Low income,Asian region,Western Asia (Middle East)
+324,Syrian Arab Republic,2011,73.31,133.4,8.7,7.8,27.09,29.03,2.53,3.74,22730733,2971.28,Low income,Asian region,Western Asia (Middle East)
+325,Syrian Arab Republic,2010,73.88,108.9,8.7,7.5,27.0,28.94,3.28,5.12,22337563,2748.32,Low income,Asian region,Western Asia (Middle East)
+326,Syrian Arab Republic,2009,73.85,110.2,8.7,7.5,26.91,28.85,3.55,5.95,21827220,2479.09,Low income,Asian region,Western Asia (Middle East)
+327,Syrian Arab Republic,2008,73.55,113.5,9.0,7.6,26.82,28.76,3.4,6.84,21474059,2447.51,Low income,Asian region,Western Asia (Middle East)
+328,Syrian Arab Republic,2007,73.71,114.4,9.5,7.7,26.74,28.67,3.72,6.85,20703005,1954.56,Low income,Asian region,Western Asia (Middle East)
+329,Syrian Arab Republic,2006,73.35,119.2,9.8,8.0,26.65,28.59,3.78,6.74,19432009,1736.92,Low income,Asian region,Western Asia (Middle East)
+330,Syrian Arab Republic,2005,72.77,120.8,10.2,8.3,26.57,28.5,4.11,7.34,18583557,1552.93,Low income,Asian region,Western Asia (Middle East)
+331,Syrian Arab Republic,2004,72.47,125.2,10.6,8.7,26.49,28.41,4.48,6.82,18084007,1387.25,Low income,Asian region,Western Asia (Middle East)
+332,Syrian Arab Republic,2003,72.41,125.7,11.0,9.3,26.41,28.32,5.12,7.51,17611356,1239.44,Low income,Asian region,Western Asia (Middle East)
+333,Syrian Arab Republic,2002,71.94,131.9,11.5,9.7,26.33,28.23,4.95,7.21,17164021,1204.23,Low income,Asian region,Western Asia (Middle East)
+334,Syrian Arab Republic,2001,71.64,134.5,11.9,10.3,26.24,28.13,4.7,6.65,16727948,1209.77,Low income,Asian region,Western Asia (Middle East)
+335,Syrian Arab Republic,2000,70.76,143.7,12.2,10.5,26.15,28.03,4.55,5.65,16307654,1161.24,Low income,Asian region,Western Asia (Middle East)
+336,Tajikistan,2015,69.31,121.3,15.9,19.6,25.89,26.33,6.91,6.41,8524063,970.36,Low income,Asian region,Central Asia
+337,Tajikistan,2014,69.07,124.1,16.5,19.7,25.77,26.16,6.67,7.54,8326348,1094.43,Low income,Asian region,Central Asia
+338,Tajikistan,2013,68.89,125.9,17.2,20.1,25.65,25.99,6.53,6.83,8136610,1038.32,Low income,Asian region,Central Asia
+339,Tajikistan,2012,68.48,130.4,17.9,20.5,25.53,25.82,5.98,6.55,7956382,959.36,Low income,Asian region,Central Asia
+340,Tajikistan,2011,68.15,134.5,18.9,21.2,25.42,25.66,5.86,5.43,7784819,837.88,Low income,Asian region,Central Asia
+341,Tajikistan,2010,67.74,138.4,19.9,21.8,25.3,25.5,5.74,4.52,7621779,740.28,Low income,Asian region,Central Asia
+342,Tajikistan,2009,68.04,141.2,20.3,22.9,25.19,25.34,5.86,4.57,7468596,666.72,Low income,Asian region,Central Asia
+343,Tajikistan,2008,67.69,144.0,21.1,24.6,25.08,25.19,5.91,6.74,7324627,704.65,Low income,Asian region,Central Asia
+344,Tajikistan,2007,67.22,148.0,21.8,26.9,24.97,25.04,5.54,5.33,7188391,517.43,Low income,Asian region,Central Asia
+345,Tajikistan,2006,67.01,151.1,22.5,29.5,24.87,24.89,5.03,4.27,7057417,401.03,Low income,Asian region,Central Asia
+346,Tajikistan,2005,66.51,154.1,23.2,32.9,24.77,24.75,5.21,4.3,6929145,333.71,Low income,Asian region,Central Asia
+347,Tajikistan,2004,66.03,153.5,24.1,37.2,24.68,24.62,4.8,4.41,6801204,305.27,Low income,Asian region,Central Asia
+348,Tajikistan,2003,65.55,157.2,25.1,41.9,24.59,24.48,4.7,4.03,6672492,233.09,Low income,Asian region,Central Asia
+349,Tajikistan,2002,64.85,163.9,26.2,47.4,24.5,24.36,4.44,4.21,6541755,186.66,Low income,Asian region,Central Asia
+350,Tajikistan,2001,64.06,170.4,27.3,53.2,24.43,24.23,4.58,4.76,6408810,168.64,Low income,Asian region,Central Asia
+351,Tajikistan,2000,63.26,176.1,28.2,59.2,24.35,24.11,4.26,4.62,6272998,137.18,Low income,Asian region,Central Asia
+352,Togo,2015,59.4,285.6,26.2,49.8,22.55,24.52,4.96,4.04,7473229,770.14,Low income,African region,West Africa
+353,Togo,2014,58.85,290.3,26.7,51.6,22.51,24.4,5.08,4.56,7288383,877.19,Low income,African region,West Africa
+354,Togo,2013,58.68,293.6,27.3,54.3,22.48,24.28,4.94,4.69,7106229,847.39,Low income,African region,West Africa
+355,Togo,2012,58.07,298.3,27.6,55.7,22.44,24.15,4.81,6.11,6926635,781.55,Low income,African region,West Africa
+356,Togo,2011,57.92,306.0,28.1,57.0,22.4,24.03,4.55,5.67,6748672,803.48,Low income,African region,West Africa
+357,Togo,2010,57.3,317.8,28.7,59.0,22.35,23.9,4.45,7.45,6571855,722.23,Low income,African region,West Africa
+358,Togo,2009,57.01,330.0,29.5,60.5,22.31,23.77,4.08,4.78,6398624,737.95,Low income,African region,West Africa
+359,Togo,2008,56.7,338.4,30.4,62.5,22.25,23.63,3.84,4.84,6222482,735.86,Low income,African region,West Africa
+360,Togo,2007,56.51,339.8,31.2,63.5,22.19,23.5,3.87,4.34,6047537,621.73,Low income,African region,West Africa
+361,Togo,2006,56.22,339.0,32.0,64.9,22.12,23.35,3.45,3.83,5874240,565.33,Low income,African region,West Africa
+362,Togo,2005,55.96,347.3,32.6,66.3,22.05,23.21,3.3,3.8,5711597,564.1,Low income,African region,West Africa
+363,Togo,2004,55.57,348.8,33.3,68.8,21.97,23.06,3.09,4.21,5565218,573.48,Low income,African region,West Africa
+364,Togo,2003,55.64,352.9,34.0,70.5,21.89,22.9,2.94,4.24,5421001,551.19,Low income,African region,West Africa
+365,Togo,2002,55.31,349.0,34.8,71.5,21.8,22.74,2.9,4.05,5281538,456.34,Low income,African region,West Africa
+366,Togo,2001,54.86,344.4,35.5,81.6,21.72,22.58,2.89,2.99,5145426,406.87,Low income,African region,West Africa
+367,Togo,2000,54.74,338.6,36.1,87.7,21.63,22.42,2.79,2.44,5008035,420.69,Low income,African region,West Africa
+368,Uganda,2015,61.09,263.1,21.6,32.0,21.54,23.25,5.07,5.08,37477356,864.18,Low income,African region,East Africa
+369,Uganda,2014,60.41,276.0,22.3,34.7,21.46,23.15,5.34,7.01,36336539,897.51,Low income,African region,East Africa
+370,Uganda,2013,59.76,289.5,22.9,37.4,21.39,23.05,5.78,7.32,35273570,819.76,Low income,African region,East Africa
+371,Uganda,2012,58.82,304.5,23.7,41.2,21.32,22.95,6.11,7.05,34273295,796.71,Low income,African region,East Africa
+372,Uganda,2011,57.96,318.2,24.3,46.0,21.24,22.85,6.7,6.9,33295738,837.1,Low income,African region,East Africa
+373,Uganda,2010,57.06,331.7,24.9,50.1,21.17,22.75,6.81,7.11,32341728,824.74,Low income,African region,East Africa
+374,Uganda,2009,56.49,345.4,25.2,55.0,21.11,22.66,5.79,7.03,31412520,799.93,Low income,African region,East Africa
+375,Uganda,2008,55.82,363.6,25.6,59.4,21.04,22.56,5.45,7.25,30509862,473.3,Low income,African region,East Africa
+376,Uganda,2007,55.24,381.6,25.8,64.6,20.97,22.47,6.11,7.79,29629804,401.71,Low income,African region,East Africa
+377,Uganda,2006,54.37,390.3,25.9,70.1,20.9,22.38,6.46,7.16,28773227,346.77,Low income,African region,East Africa
+378,Uganda,2005,52.98,408.9,26.2,76.3,20.83,22.28,5.81,7.13,27946588,330.6,Low income,African region,East Africa
+379,Uganda,2004,51.55,440.8,26.7,82.7,20.76,22.19,4.7,8.77,27146084,292.47,Low income,African region,East Africa
+380,Uganda,2003,50.37,467.4,27.1,96.8,20.7,22.1,4.3,8.95,26354736,250.69,Low income,African region,East Africa
+381,Uganda,2002,49.65,483.0,27.6,105.8,20.63,22.0,4.77,8.75,25545090,241.87,Low income,African region,East Africa
+382,Uganda,2001,49.01,495.9,28.5,108.1,20.56,21.9,5.05,8.33,24763325,235.85,Low income,African region,East Africa
+383,Uganda,2000,48.34,509.0,29.3,115.7,20.49,21.8,5.08,8.33,24020697,257.83,Low income,African region,East Africa
+384,United Republic of Tanzania,2015,64.65,242.0,22.0,34.7,22.37,24.05,3.65,7.33,52542823,929.8,Low income,African region,East Africa
+385,United Republic of Tanzania,2014,63.87,249.9,22.5,36.9,22.34,23.95,4.01,6.94,50814552,1013.43,Low income,African region,East Africa
+386,United Republic of Tanzania,2013,62.96,262.2,23.2,38.5,22.3,23.84,4.65,6.31,49253643,954.66,Low income,African region,East Africa
+387,United Republic of Tanzania,2012,62.03,281.6,23.7,40.5,22.27,23.74,5.02,6.01,47786137,854.54,Low income,African region,East Africa
+388,United Republic of Tanzania,2011,61.05,295.9,24.2,43.0,22.24,23.63,5.06,6.76,46416031,768.93,Low income,African region,East Africa
+389,United Republic of Tanzania,2010,60.1,302.9,24.8,45.8,22.21,23.52,5.22,7.32,45110527,730.78,Low income,African region,East Africa
+390,United Republic of Tanzania,2009,58.89,312.1,25.4,48.5,22.18,23.42,5.06,7.58,43957933,688.71,Low income,African region,East Africa
+391,United Republic of Tanzania,2008,58.09,319.4,25.9,51.0,22.15,23.31,5.56,12.49,42870884,671.24,Low income,African region,East Africa
+392,United Republic of Tanzania,2007,57.52,339.5,26.7,54.1,22.11,23.21,6.88,10.89,41716497,539.54,Low income,African region,East Africa
+393,United Republic of Tanzania,2006,56.91,372.3,27.3,57.6,22.07,23.11,7.6,13.51,40562052,472.61,Low income,African region,East Africa
+394,United Republic of Tanzania,2005,56.3,396.6,28.0,61.5,22.03,23.0,6.32,12.62,39439505,480.18,Low income,African region,East Africa
+395,United Republic of Tanzania,2004,55.6,407.9,28.8,66.4,21.99,22.9,5.74,11.55,38360879,447.44,Low income,African region,East Africa
+396,United Republic of Tanzania,2003,54.9,414.0,29.9,71.8,21.95,22.8,5.34,9.71,37333918,419.42,Low income,African region,East Africa
+397,United Republic of Tanzania,2002,53.86,419.7,30.8,78.0,21.9,22.69,4.69,9.79,36353531,400.08,Low income,African region,East Africa
+398,United Republic of Tanzania,2001,53.16,424.7,31.7,84.7,21.85,22.59,4.24,8.8,35414469,394.22,Low income,African region,East Africa
+399,United Republic of Tanzania,2000,52.36,429.3,32.6,91.2,21.8,22.48,3.42,6.05,34463704,399.33,Low income,African region,East Africa

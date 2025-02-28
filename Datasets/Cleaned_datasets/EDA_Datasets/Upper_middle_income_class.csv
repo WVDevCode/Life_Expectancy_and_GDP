@@ -1,1 +1,753 @@
 ,country,year,life_expectancy,adult_mortality,infant_deaths,under_five_deaths,bmi_male,bmi_female,health_expenditure_percentage,total_expenditure,population,gdp_per_capita,income_class,region,sub_region
+0,Algeria,2015,75.62,84.95,15.4,9.5,24.78,26.49,6.96,10.6,39543154,4741.5,Upper-middle income,African region,Northern Africa
+1,Algeria,2014,75.11,86.18,15.5,9.6,24.69,26.42,6.55,11.42,38760168,6164.64,Upper-middle income,African region,Northern Africa
+2,Algeria,2013,74.61,87.57,15.8,9.4,24.6,26.34,6.04,11.7,38000626,6044.67,Upper-middle income,African region,Northern Africa
+3,Algeria,2012,74.2,89.11,16.1,9.3,24.51,26.27,6.0,10.06,37260563,6096.09,Upper-middle income,African region,Northern Africa
+4,Algeria,2011,74.12,90.61,16.4,9.3,24.42,26.19,5.27,9.03,36543541,5974.57,Upper-middle income,African region,Northern Africa
+5,Algeria,2010,73.81,92.17,16.9,9.4,24.33,26.12,5.12,9.19,35856344,4958.26,Upper-middle income,African region,Northern Africa
+6,Algeria,2009,73.62,94.66,17.4,9.6,24.24,26.04,5.36,8.64,35196037,4270.86,Upper-middle income,African region,Northern Africa
+7,Algeria,2008,72.94,96.34,17.9,10.1,24.15,25.96,4.2,7.69,34569592,5217.99,Upper-middle income,African region,Northern Africa
+8,Algeria,2007,72.6,98.52,18.3,10.6,24.07,25.89,3.82,7.63,33983827,4192.66,Upper-middle income,African region,Northern Africa
+9,Algeria,2006,72.33,100.2,18.8,11.6,23.99,25.81,3.36,7.85,33435080,3681.29,Upper-middle income,African region,Northern Africa
+10,Algeria,2005,72.06,102.2,19.5,12.4,23.92,25.74,3.24,7.76,32956690,3248.1,Upper-middle income,African region,Northern Africa
+11,Algeria,2004,71.76,105.0,20.2,13.4,23.84,25.66,3.54,8.67,32510186,2827.23,Upper-middle income,African region,Northern Africa
+12,Algeria,2003,71.29,109.6,20.7,18.3,23.77,25.58,3.6,9.44,32055883,2292.32,Upper-middle income,African region,Northern Africa
+13,Algeria,2002,71.23,111.1,21.1,17.9,23.69,25.49,3.73,7.97,31624696,1945.19,Upper-middle income,African region,Northern Africa
+14,Algeria,2001,70.82,113.2,21.2,18.8,23.62,25.4,3.84,9.27,31200985,1904.22,Upper-middle income,African region,Northern Africa
+15,Algeria,2000,70.48,115.8,21.5,19.6,23.54,25.3,3.49,8.78,30774621,1780.38,Upper-middle income,African region,Northern Africa
+16,Azerbaijan,2015,71.45,112.5,13.5,12.7,26.15,28.04,4.34,3.37,9649341,5500.5,Upper-middle income,Asian region,Western Asia (Middle East)
+17,Azerbaijan,2014,71.12,118.1,14.7,13.3,26.05,27.92,3.59,3.11,9535079,7890.84,Upper-middle income,Asian region,Western Asia (Middle East)
+18,Azerbaijan,2013,70.88,123.0,15.8,13.9,25.96,27.81,3.23,2.82,9416801,7875.35,Upper-middle income,Asian region,Western Asia (Middle East)
+19,Azerbaijan,2012,70.36,131.9,17.2,14.3,25.86,27.69,3.16,3.05,9295784,7495.87,Upper-middle income,Asian region,Western Asia (Middle East)
+20,Azerbaijan,2011,69.98,142.6,18.8,15.0,25.77,27.58,2.6,2.82,9173082,7189.82,Upper-middle income,Asian region,Western Asia (Middle East)
+21,Azerbaijan,2010,69.53,146.7,20.4,15.8,25.67,27.47,2.65,3.17,9054332,5843.53,Upper-middle income,Asian region,Western Asia (Middle East)
+22,Azerbaijan,2009,69.36,149.3,21.5,17.0,25.58,27.36,2.77,3.28,8947243,4950.4,Upper-middle income,Asian region,Western Asia (Middle East)
+23,Azerbaijan,2008,68.81,158.5,22.8,18.5,25.49,27.25,2.05,2.75,8763400,5574.47,Upper-middle income,Asian region,Western Asia (Middle East)
+24,Azerbaijan,2007,68.6,154.8,24.0,20.1,25.4,27.14,1.99,3.49,8581300,3851.33,Upper-middle income,Asian region,Western Asia (Middle East)
+25,Azerbaijan,2006,68.17,169.3,25.4,22.5,25.32,27.03,2.07,3.43,8484550,2472.96,Upper-middle income,Asian region,Western Asia (Middle East)
+26,Azerbaijan,2005,67.56,177.3,26.8,24.6,25.24,26.93,2.23,3.96,8391850,1578.37,Upper-middle income,Asian region,Western Asia (Middle East)
+27,Azerbaijan,2004,67.35,170.3,28.3,27.2,25.17,26.83,2.66,3.56,8306500,1045.01,Upper-middle income,Asian region,Western Asia (Middle East)
+28,Azerbaijan,2003,66.76,174.6,29.7,30.1,25.1,26.73,2.73,3.57,8234100,883.69,Upper-middle income,Asian region,Western Asia (Middle East)
+29,Azerbaijan,2002,66.24,169.8,31.2,33.7,25.03,26.63,2.73,3.19,8171950,763.11,Upper-middle income,Asian region,Western Asia (Middle East)
+30,Azerbaijan,2001,65.51,177.1,32.6,38.0,24.97,26.54,2.77,4.8,8111200,703.67,Upper-middle income,Asian region,Western Asia (Middle East)
+31,Azerbaijan,2000,64.89,190.1,34.2,42.5,24.92,26.44,2.95,4.75,8048600,655.1,Upper-middle income,Asian region,Western Asia (Middle East)
+32,Belarus,2015,73.62,162.9,1.6,2.2,26.56,26.89,6.07,8.83,9461076,5967.07,Upper-middle income,European region,Eastern Europe
+33,Belarus,2014,72.97,175.0,1.8,2.5,26.5,26.86,5.39,8.68,9448515,8341.29,Upper-middle income,European region,Eastern Europe
+34,Belarus,2013,72.47,183.8,1.9,2.6,26.43,26.83,5.7,8.74,9443211,7998.08,Upper-middle income,European region,Eastern Europe
+35,Belarus,2012,71.97,191.9,1.9,2.9,26.36,26.8,5.25,8.85,9446836,6953.22,Upper-middle income,European region,Eastern Europe
+36,Belarus,2011,70.55,226.4,1.9,3.1,26.29,26.77,4.87,7.66,9461643,6527.66,Upper-middle income,European region,Eastern Europe
+37,Belarus,2010,70.4,224.1,1.9,3.6,26.22,26.74,5.66,8.69,9483836,6034.68,Upper-middle income,European region,Eastern Europe
+38,Belarus,2009,70.41,219.7,2.0,4.0,26.15,26.7,5.39,6.73,9504583,5352.49,Upper-middle income,European region,Eastern Europe
+39,Belarus,2008,70.46,221.5,2.2,4.1,26.07,26.66,5.29,5.8,9527985,6376.18,Upper-middle income,European region,Eastern Europe
+40,Belarus,2007,70.21,223.2,2.5,4.5,25.99,26.62,5.69,8.12,9560953,4735.48,Upper-middle income,European region,Eastern Europe
+41,Belarus,2006,69.4,238.9,2.8,4.7,25.91,26.57,5.57,8.44,9604924,3848.22,Upper-middle income,European region,Eastern Europe
+42,Belarus,2005,68.85,249.5,3.5,4.8,25.82,26.52,6.07,10.05,9663915,3126.07,Upper-middle income,European region,Eastern Europe
+43,Belarus,2004,68.96,246.1,4.0,5.1,25.73,26.46,5.74,10.0,9730146,2378.34,Upper-middle income,European region,Eastern Europe
+44,Belarus,2003,68.55,252.9,4.5,5.3,25.64,26.4,5.77,10.07,9796749,1819.53,Upper-middle income,European region,Eastern Europe
+45,Belarus,2002,68.06,262.6,4.9,5.9,25.55,26.34,5.62,9.32,9865548,1479.38,Upper-middle income,European region,Eastern Europe
+46,Belarus,2001,68.51,252.0,5.5,6.4,25.46,26.28,5.71,10.04,9928549,1244.37,Upper-middle income,European region,Eastern Europe
+47,Belarus,2000,68.91,241.9,6.0,6.9,25.37,26.22,5.28,12.13,9979610,1276.28,Upper-middle income,European region,Eastern Europe
+48,Belize,2015,73.19,165.8,9.5,5.9,27.54,30.63,4.65,11.35,359871,6098.6,Upper-middle income,American region,Central America
+49,Belize,2014,73.31,166.1,9.9,6.2,27.45,30.51,4.88,12.23,352335,6031.55,Upper-middle income,American region,Central America
+50,Belize,2013,73.67,166.8,10.1,6.6,27.36,30.39,4.44,12.27,344688,5865.47,Upper-middle income,American region,Central America
+51,Belize,2012,73.24,169.1,10.4,7.4,27.26,30.26,4.36,12.94,337059,5635.52,Upper-middle income,American region,Central America
+52,Belize,2011,72.65,171.2,9.9,8.2,27.17,30.15,4.55,12.7,329538,5519.34,Upper-middle income,American region,Central America
+53,Belize,2010,72.27,172.1,9.6,9.2,27.08,30.03,4.5,12.76,322106,5399.06,Upper-middle income,American region,Central America
+54,Belize,2009,71.82,169.3,9.1,10.3,26.99,29.91,4.53,12.48,314171,5352.1,Upper-middle income,American region,Central America
+55,Belize,2008,71.15,165.8,8.7,11.2,26.9,29.79,4.54,13.38,305671,5665.97,Upper-middle income,American region,Central America
+56,Belize,2007,70.66,165.6,8.2,11.9,26.81,29.68,4.08,10.77,297173,5717.93,Upper-middle income,American region,Central America
+57,Belize,2006,70.09,167.6,8.5,11.8,26.72,29.56,3.57,9.33,288729,5486.83,Upper-middle income,American region,Central America
+58,Belize,2005,69.38,169.8,9.1,11.9,26.62,29.45,3.47,8.33,280375,5236.37,Upper-middle income,American region,Central America
+59,Belize,2004,69.23,175.7,9.8,11.4,26.53,29.33,3.45,7.88,272128,5123.6,Upper-middle income,American region,Central America
+60,Belize,2003,68.91,181.5,10.3,11.3,26.43,29.21,3.56,7.14,263998,4937.09,Upper-middle income,American region,Central America
+61,Belize,2002,68.75,187.5,11.0,11.1,26.33,29.09,3.59,7.51,255987,4844.23,Upper-middle income,American region,Central America
+62,Belize,2001,68.36,192.5,11.5,11.2,26.23,28.96,3.49,6.83,248100,4708.29,Upper-middle income,American region,Central America
+63,Belize,2000,68.56,193.9,11.9,11.7,26.13,28.83,2.98,5.85,240406,4720.17,Upper-middle income,American region,Central America
+64,Bosnia and Herzegovina,2015,76.18,95.82,4.3,1.6,26.44,25.29,9.24,14.98,3524324,4654.61,Upper-middle income,European region,Southern Europe
+65,Bosnia and Herzegovina,2014,75.66,94.97,4.4,1.7,26.35,25.24,9.49,14.43,3571068,5196.97,Upper-middle income,European region,Southern Europe
+66,Bosnia and Herzegovina,2013,76.33,95.57,4.5,1.8,26.26,25.19,9.45,14.79,3617559,5025.24,Upper-middle income,European region,Southern Europe
+67,Bosnia and Herzegovina,2012,77.19,94.77,4.7,1.8,26.17,25.14,9.49,13.88,3674374,4688.35,Upper-middle income,European region,Southern Europe
+68,Bosnia and Herzegovina,2011,77.01,96.83,4.7,2.0,26.09,25.09,9.18,13.38,3743142,4980.9,Upper-middle income,European region,Southern Europe
+69,Bosnia and Herzegovina,2010,77.07,97.79,5.0,2.2,26.01,25.04,9.02,12.6,3811088,4506.93,Upper-middle income,European region,Southern Europe
+70,Bosnia and Herzegovina,2009,76.98,100.2,5.1,2.4,25.93,24.99,9.02,12.52,3877750,4542.31,Upper-middle income,European region,Southern Europe
+71,Bosnia and Herzegovina,2008,76.84,102.0,5.1,2.8,25.85,24.95,9.69,10.92,3943392,4846.79,Upper-middle income,European region,Southern Europe
+72,Bosnia and Herzegovina,2007,76.16,109.1,5.2,3.2,25.78,24.9,9.53,11.33,4007876,3936.93,Upper-middle income,European region,Southern Europe
+73,Bosnia and Herzegovina,2006,76.25,103.3,5.4,3.3,25.7,24.85,9.17,10.96,4058086,3170.17,Upper-middle income,European region,Southern Europe
+74,Bosnia and Herzegovina,2005,75.42,104.9,5.5,3.6,25.62,24.81,9.05,10.81,4094297,2741.08,Upper-middle income,European region,Southern Europe
+75,Bosnia and Herzegovina,2004,76.13,102.4,5.7,3.7,25.54,24.76,9.06,11.32,4142860,2451.58,Upper-middle income,European region,Southern Europe
+76,Bosnia and Herzegovina,2003,75.78,105.0,5.8,3.7,25.46,24.72,8.31,11.59,4183757,2031.4,Upper-middle income,European region,Southern Europe
+77,Bosnia and Herzegovina,2002,74.61,107.7,6.0,3.7,25.38,24.67,7.43,9.32,4198410,1602.56,Upper-middle income,European region,Southern Europe
+78,Bosnia and Herzegovina,2001,75.06,109.9,6.2,3.9,25.31,24.63,7.61,8.6,4194932,1382.77,Upper-middle income,European region,Southern Europe
+79,Bosnia and Herzegovina,2000,74.5,112.5,6.5,3.9,25.24,24.6,8.0,7.25,4179350,1332.21,Upper-middle income,European region,Southern Europe
+80,Botswana,2015,63.82,340.8,27.0,13.2,22.59,26.27,6.1,10.42,2305171,5869.74,Upper-middle income,African region,Southern Africa
+81,Botswana,2014,62.61,352.2,27.7,13.8,22.55,26.23,5.88,10.96,2260376,6844.03,Upper-middle income,African region,Southern Africa
+82,Botswana,2013,62.0,369.1,28.5,14.1,22.5,26.2,6.5,11.93,2217278,6436.6,Upper-middle income,African region,Southern Africa
+83,Botswana,2012,60.8,384.6,29.3,16.3,22.46,26.17,6.35,10.68,2175425,6392.99,Upper-middle income,African region,Southern Africa
+84,Botswana,2011,60.53,409.4,29.8,18.7,22.42,26.14,5.87,9.63,2134037,7080.78,Upper-middle income,African region,Southern Africa
+85,Botswana,2010,60.01,429.5,30.3,19.7,22.38,26.11,6.27,8.06,2091664,6041.73,Upper-middle income,African region,Southern Africa
+86,Botswana,2009,58.28,446.5,30.7,23.9,22.33,26.07,6.62,6.25,2048997,4938.25,Upper-middle income,African region,Southern Africa
+87,Botswana,2008,57.12,461.3,31.0,26.9,22.28,26.03,5.9,7.64,2007320,5345.85,Upper-middle income,African region,Southern Africa
+88,Botswana,2007,55.73,472.4,31.3,29.0,22.23,25.99,5.52,8.18,1966977,5372.34,Upper-middle income,African region,Southern Africa
+89,Botswana,2006,53.92,492.3,31.0,33.3,22.17,25.94,4.88,8.18,1928704,5142.91,Upper-middle income,African region,Southern Africa
+90,Botswana,2005,52.61,531.1,30.4,40.5,22.11,25.9,5.27,8.18,1892807,5240.32,Upper-middle income,African region,Southern Africa
+91,Botswana,2004,51.62,587.9,29.5,47.7,22.04,25.84,6.09,8.18,1859085,4818.21,Upper-middle income,African region,Southern Africa
+92,Botswana,2003,50.95,644.5,28.6,52.5,21.98,25.79,6.41,8.18,1826863,4111.74,Upper-middle income,African region,Southern Africa
+93,Botswana,2002,50.63,675.8,27.7,56.0,21.91,25.72,6.67,8.18,1795130,3029.79,Upper-middle income,African region,Southern Africa
+94,Botswana,2001,50.68,678.5,27.0,59.6,21.84,25.66,6.37,8.18,1761930,3115.68,Upper-middle income,African region,Southern Africa
+95,Botswana,2000,51.01,663.7,26.4,72.4,21.77,25.59,6.11,8.18,1726985,3351.7,Upper-middle income,African region,Southern Africa
+96,Brazil,2015,74.33,136.0,9.4,6.3,26.34,26.91,8.91,8.94,205188205,8783.22,Upper-middle income,American region,South America
+97,Brazil,2014,74.31,138.0,9.7,6.4,26.21,26.78,8.4,9.32,203459650,12071.4,Upper-middle income,American region,South America
+98,Brazil,2013,73.92,140.4,10.0,6.8,26.08,26.65,7.98,9.2,201721767,12258.57,Upper-middle income,American region,South America
+99,Brazil,2012,73.55,141.7,10.3,7.0,25.95,26.52,7.74,8.7,199977707,12327.51,Upper-middle income,American region,South America
+100,Brazil,2011,73.34,143.7,10.7,7.3,25.82,26.39,7.79,8.97,198185302,13200.56,Upper-middle income,American region,South America
+101,Brazil,2010,73.18,144.4,11.3,7.4,25.69,26.27,7.95,9.05,196353492,11249.29,Upper-middle income,American region,South America
+102,Brazil,2009,72.95,145.3,11.8,7.9,25.57,26.15,8.39,10.01,194517549,8569.9,Upper-middle income,American region,South America
+103,Brazil,2008,72.72,145.2,12.3,8.6,25.45,26.03,8.01,9.27,192672317,8801.76,Upper-middle income,American region,South America
+104,Brazil,2007,72.36,145.2,12.9,9.1,25.33,25.92,8.2,9.28,190779453,7323.19,Upper-middle income,American region,South America
+105,Brazil,2006,72.04,147.0,13.6,10.0,25.22,25.81,8.25,9.06,188820682,5866.02,Upper-middle income,American region,South America
+106,Brazil,2005,71.75,148.6,14.1,11.0,25.11,25.71,8.04,8.44,186797334,4773.27,Upper-middle income,American region,South America
+107,Brazil,2004,71.13,154.5,15.0,12.0,25.0,25.61,8.12,9.15,184722043,3623.22,Upper-middle income,American region,South America
+108,Brazil,2003,70.72,155.6,15.7,13.0,24.9,25.52,8.19,8.61,182629278,3056.65,Upper-middle income,American region,South America
+109,Brazil,2002,70.41,158.2,16.6,14.1,24.81,25.43,8.7,9.54,180476685,2824.72,Upper-middle income,American region,South America
+110,Brazil,2001,70.19,159.9,17.3,15.2,24.71,25.33,8.55,9.79,178211881,3142.24,Upper-middle income,American region,South America
+111,Brazil,2000,69.74,161.8,18.3,16.5,24.62,25.24,8.33,9.68,175873720,3726.81,Upper-middle income,American region,South America
+112,Bulgaria,2015,74.61,137.2,4.0,4.3,27.22,25.88,7.39,10.23,7177991,7078.86,Upper-middle income,European region,Eastern Europe
+113,Bulgaria,2014,74.47,140.5,4.3,4.6,27.11,25.83,7.68,10.36,7223938,7912.27,Upper-middle income,European region,Eastern Europe
+114,Bulgaria,2013,74.86,134.7,4.5,5.1,27.01,25.77,7.14,10.7,7265115,7687.71,Upper-middle income,European region,Eastern Europe
+115,Bulgaria,2012,74.31,136.4,4.7,5.2,26.91,25.72,7.54,11.18,7305888,7430.74,Upper-middle income,European region,Eastern Europe
+116,Bulgaria,2011,74.16,140.7,4.9,5.5,26.81,25.67,7.1,11.41,7348328,7857.17,Upper-middle income,European region,Eastern Europe
+117,Bulgaria,2010,73.51,143.1,5.0,5.5,26.71,25.62,7.1,10.85,7395599,6863.67,Upper-middle income,European region,Eastern Europe
+118,Bulgaria,2009,73.41,146.5,5.2,5.9,26.62,25.56,6.6,9.04,7444443,6988.27,Upper-middle income,European region,Eastern Europe
+119,Bulgaria,2008,72.96,149.6,5.3,6.0,26.52,25.51,6.28,9.39,7492561,7271.3,Upper-middle income,European region,Eastern Europe
+120,Bulgaria,2007,72.66,152.7,5.3,6.5,26.42,25.46,6.16,9.11,7545338,5888.78,Upper-middle income,European region,Eastern Europe
+121,Bulgaria,2006,72.61,156.8,5.5,6.7,26.33,25.4,6.53,10.79,7601022,4523.15,Upper-middle income,European region,Eastern Europe
+122,Bulgaria,2005,72.56,156.9,5.8,7.0,26.24,25.35,6.89,11.17,7658972,3899.83,Upper-middle income,European region,Eastern Europe
+123,Bulgaria,2004,72.56,154.8,6.4,7.5,26.14,25.3,6.89,10.83,7716860,3389.69,Upper-middle income,European region,Eastern Europe
+124,Bulgaria,2003,72.07,153.9,6.7,8.0,26.05,25.25,7.2,11.33,7775327,2719.49,Upper-middle income,European region,Eastern Europe
+125,Bulgaria,2002,71.87,155.9,7.2,8.6,25.97,25.21,7.08,10.74,7837161,2092.98,Upper-middle income,European region,Eastern Europe
+126,Bulgaria,2001,71.77,158.5,7.5,9.2,25.88,25.17,6.86,9.47,8009142,1770.91,Upper-middle income,European region,Eastern Europe
+127,Bulgaria,2000,71.66,159.7,8.0,10.0,25.8,25.13,5.83,8.08,8170172,1621.26,Upper-middle income,European region,Eastern Europe
+128,China,2015,76.98,93.05,5.5,5.2,24.13,23.53,4.94,9.42,47119728,8016.45,Upper-middle income,Asian region,East Asia
+129,China,2014,76.72,94.86,6.0,5.5,23.98,23.46,4.78,9.66,46677947,7636.07,Upper-middle income,Asian region,East Asia
+130,China,2013,76.45,97.18,6.4,6.0,23.84,23.39,4.71,9.42,46237930,7020.39,Upper-middle income,Asian region,East Asia
+131,China,2012,76.19,100.2,6.9,6.3,23.7,23.31,4.57,9.04,45782417,6300.58,Upper-middle income,Asian region,East Asia
+132,China,2011,75.9,102.9,7.6,6.6,23.57,23.24,4.34,8.6,45308899,5614.39,Upper-middle income,Asian region,East Asia
+133,China,2010,75.6,105.9,8.2,7.1,23.45,23.16,4.23,8.75,44816108,4550.47,Upper-middle income,Asian region,East Asia
+134,China,2009,75.34,109.4,9.0,7.7,23.33,23.09,4.35,8.38,44313917,3832.23,Upper-middle income,Asian region,East Asia
+135,China,2008,74.87,115.9,10.1,7.9,23.22,23.01,3.9,7.71,43815313,3468.33,Upper-middle income,Asian region,East Asia
+136,China,2007,74.76,118.3,11.2,8.4,23.11,22.93,3.67,7.9,43306582,2693.96,Upper-middle income,Asian region,East Asia
+137,China,2006,74.5,122.6,12.5,9.1,23.0,22.85,3.95,7.56,42772910,2099.22,Upper-middle income,Asian region,East Asia
+138,China,2005,74.11,128.0,13.9,9.8,22.9,22.78,4.18,7.49,42220940,1753.41,Upper-middle income,Asian region,East Asia
+139,China,2004,73.75,131.5,15.4,10.8,22.81,22.72,4.29,7.27,41648268,1508.67,Upper-middle income,Asian region,East Asia
+140,China,2003,73.37,133.0,16.9,11.7,22.72,22.65,4.42,6.88,41057687,1288.64,Upper-middle income,Asian region,East Asia
+141,China,2002,72.98,135.0,18.3,13.0,22.64,22.59,4.38,6.03,40454050,1148.51,Upper-middle income,Asian region,East Asia
+142,China,2001,72.61,136.4,19.8,14.4,22.57,22.54,4.25,5.59,39837875,1053.11,Upper-middle income,Asian region,East Asia
+143,China,2000,71.88,139.0,21.3,15.8,22.5,22.49,4.51,6.09,39215135,959.36,Upper-middle income,Asian region,East Asia
+144,Colombia,2015,76.26,91.23,8.4,7.1,25.88,26.69,7.52,17.04,730216,6228.65,Upper-middle income,American region,South America
+145,Colombia,2014,76.04,91.3,8.9,7.6,25.76,26.63,7.19,16.18,714612,8167.47,Upper-middle income,American region,South America
+146,Colombia,2013,75.83,94.72,9.0,7.8,25.65,26.56,7.02,16.34,699393,8263.64,Upper-middle income,American region,South America
+147,Colombia,2012,75.6,97.35,9.5,8.0,25.54,26.5,6.75,16.2,684553,8096.8,Upper-middle income,American region,South America
+148,Colombia,2011,75.32,99.71,9.9,8.4,25.42,26.43,6.78,16.48,670071,7392.94,Upper-middle income,American region,South America
+149,Colombia,2010,75.03,106.3,10.0,8.4,25.31,26.37,7.07,16.83,656024,6392.76,Upper-middle income,American region,South America
+150,Colombia,2009,74.74,109.4,10.5,8.9,25.2,26.31,7.31,17.04,642493,5245.95,Upper-middle income,American region,South America
+151,Colombia,2008,74.3,107.9,10.8,9.0,25.09,26.25,6.84,16.69,629470,5534.69,Upper-middle income,American region,South America
+152,Colombia,2007,73.84,109.5,11.1,9.4,24.97,26.19,6.49,16.28,616899,4762.08,Upper-middle income,American region,South America
+153,Colombia,2006,73.47,115.5,11.5,9.9,24.86,26.13,6.34,16.06,604658,3782.6,Upper-middle income,American region,South America
+154,Colombia,2005,73.08,117.8,11.8,9.8,24.75,26.07,6.07,16.83,592683,3448.54,Upper-middle income,American region,South America
+155,Colombia,2004,72.69,125.9,12.0,10.3,24.64,26.0,5.8,15.74,581154,2811.46,Upper-middle income,American region,South America
+156,Colombia,2003,72.36,130.0,12.3,10.5,24.53,25.94,5.78,15.6,570130,2305.17,Upper-middle income,American region,South America
+157,Colombia,2002,71.94,145.1,12.8,10.8,24.42,25.87,5.73,14.86,559047,2421.16,Upper-middle income,American region,South America
+158,Colombia,2001,71.5,146.5,13.2,11.3,24.31,25.8,5.94,15.38,547741,2465.01,Upper-middle income,American region,South America
+159,Colombia,2000,71.32,148.1,13.4,11.5,24.2,25.72,5.64,14.88,536758,2546.85,Upper-middle income,American region,South America
+160,Costa Rica,2015,79.09,82.12,6.0,3.2,26.84,28.01,7.59,29.49,4203604,11529.96,Upper-middle income,American region,Central America
+161,Costa Rica,2014,78.77,80.37,6.2,3.4,26.77,27.91,7.66,29.14,4238389,10737.68,Upper-middle income,American region,Central America
+162,Costa Rica,2013,79.4,81.18,6.3,3.4,26.7,27.81,7.68,29.15,4255689,10633.27,Upper-middle income,American region,Central America
+163,Costa Rica,2012,79.28,81.59,6.4,3.3,26.63,27.7,7.79,31.29,4267558,9971.65,Upper-middle income,American region,Central America
+164,Costa Rica,2011,79.35,81.82,6.5,3.3,26.56,27.59,8.12,32.77,4280622,9137.46,Upper-middle income,American region,Central America
+165,Costa Rica,2010,78.67,87.64,6.6,3.3,26.48,27.48,8.03,31.74,4295427,8147.24,Upper-middle income,American region,Central America
+166,Costa Rica,2009,78.67,79.08,6.8,3.3,26.4,27.37,7.86,33.1,4305181,6737.86,Upper-middle income,American region,Central America
+167,Costa Rica,2008,78.44,80.83,6.8,3.5,26.32,27.25,7.47,32.38,4309705,6841.91,Upper-middle income,American region,Central America
+168,Costa Rica,2007,78.46,76.58,7.0,3.5,26.24,27.13,7.0,31.21,4310217,6055.09,Upper-middle income,American region,Central America
+169,Costa Rica,2006,78.51,88.2,6.8,3.6,26.15,27.02,6.94,29.51,4311159,5188.36,Upper-middle income,American region,Central America
+170,Costa Rica,2005,78.5,81.73,6.8,3.5,26.07,26.89,6.66,25.71,4310145,4643.46,Upper-middle income,American region,Central America
+171,Costa Rica,2004,78.33,88.35,6.9,3.8,25.97,26.77,6.63,25.74,4304600,4376.08,Upper-middle income,American region,Central America
+172,Costa Rica,2003,78.07,88.35,7.0,4.1,25.88,26.64,6.97,26.33,4303399,4123.51,Upper-middle income,American region,Central America
+173,Costa Rica,2002,77.98,88.0,7.2,4.5,25.78,26.51,6.87,24.76,4302174,4021.43,Upper-middle income,American region,Central America
+174,Costa Rica,2001,77.54,90.16,7.4,4.9,25.68,26.37,6.47,24.56,4299642,3941.6,Upper-middle income,American region,Central America
+175,Costa Rica,2000,77.59,89.4,7.6,5.5,25.58,26.23,6.56,25.26,4468302,3773.03,Upper-middle income,American region,Central America
+176,Croatia,2015,77.28,94.12,3.0,1.7,28.07,26.91,6.69,11.73,11339894,12135.1,Upper-middle income,European region,Southern Europe
+177,Croatia,2014,77.48,92.31,3.1,1.7,27.95,26.79,6.61,11.36,11332026,14035.86,Upper-middle income,European region,Southern Europe
+178,Croatia,2013,77.13,93.75,3.3,1.9,27.83,26.67,6.43,11.37,11321579,14002.24,Upper-middle income,European region,Southern Europe
+179,Croatia,2012,76.92,100.7,3.4,1.9,27.71,26.55,7.68,13.43,11309290,13452.98,Upper-middle income,European region,Southern Europe
+180,Croatia,2011,76.78,102.0,3.3,1.9,27.59,26.43,7.66,12.95,11298710,14664.37,Upper-middle income,European region,Southern Europe
+181,Croatia,2010,76.48,105.0,3.6,2.0,27.47,26.32,7.99,13.7,11290417,13697.45,Upper-middle income,European region,Southern Europe
+182,Croatia,2009,76.17,109.0,3.6,2.0,27.36,26.2,8.08,13.36,11283185,14422.92,Upper-middle income,European region,Southern Europe
+183,Croatia,2008,75.91,117.3,3.8,2.2,27.24,26.08,7.65,14.12,11276609,15900.47,Upper-middle income,European region,Southern Europe
+184,Croatia,2007,75.71,115.5,3.9,2.3,27.12,25.96,7.41,13.96,11269887,13762.67,Upper-middle income,European region,Southern Europe
+185,Croatia,2006,75.84,114.7,4.1,2.3,27.0,25.85,6.91,13.03,11260630,11505.41,Upper-middle income,European region,Southern Europe
+186,Croatia,2005,75.24,117.4,4.1,2.4,26.88,25.73,6.84,12.76,11246114,10446.44,Upper-middle income,European region,Southern Europe
+187,Croatia,2004,75.52,114.7,4.3,2.6,26.76,25.62,6.5,10.63,11225294,9723.36,Upper-middle income,European region,Southern Europe
+188,Croatia,2003,74.61,121.9,4.7,2.7,26.63,25.51,6.3,10.48,11199217,8192.61,Upper-middle income,European region,Southern Europe
+189,Croatia,2002,74.72,122.3,5.0,2.7,26.52,25.41,6.14,9.69,11170051,6219.64,Upper-middle income,European region,Southern Europe
+190,Croatia,2001,74.51,124.5,5.2,3.0,26.4,25.31,7.17,11.76,11139127,5363.83,Upper-middle income,European region,Southern Europe
+191,Croatia,2000,72.81,126.5,5.5,2.8,26.29,25.22,7.65,11.92,11105791,4952.31,Upper-middle income,European region,Southern Europe
+192,Cuba,2015,77.77,100.1,2.3,3.3,25.29,26.14,12.81,18.25,1187280,7683.74,Upper-middle income,American region,Caribbean
+193,Cuba,2014,77.85,97.26,2.4,3.3,25.21,26.09,12.14,18.02,1176995,7117.54,Upper-middle income,American region,Caribbean
+194,Cuba,2013,77.87,97.98,2.5,3.3,25.13,26.03,10.43,14.14,1166968,6814.24,Upper-middle income,American region,Caribbean
+195,Cuba,2012,77.83,98.59,2.5,3.3,25.05,25.97,9.3,11.49,1156556,6467.34,Upper-middle income,American region,Caribbean
+196,Cuba,2011,77.76,94.36,2.7,3.2,24.96,25.92,11.31,15.09,1145086,6106.01,Upper-middle income,American region,Caribbean
+197,Cuba,2010,77.66,99.79,2.8,3.2,24.88,25.86,10.69,13.87,1129686,5275.53,Upper-middle income,American region,Caribbean
+198,Cuba,2009,77.55,100.8,2.7,3.3,24.8,25.81,12.29,14.93,1110974,5094.44,Upper-middle income,American region,Caribbean
+199,Cuba,2008,77.43,101.5,2.8,3.6,24.72,25.75,11.31,13.18,1092390,4992.82,Upper-middle income,American region,Caribbean
+200,Cuba,2007,77.31,101.9,2.7,3.7,24.64,25.7,10.97,14.48,1073873,4814.85,Upper-middle income,American region,Caribbean
+201,Cuba,2006,77.18,101.8,3.0,4.1,24.56,25.64,8.27,11.21,1055438,4336.87,Upper-middle income,American region,Caribbean
+202,Cuba,2005,77.05,107.9,3.3,4.3,24.47,25.59,8.76,11.67,1037062,3791.87,Upper-middle income,American region,Caribbean
+203,Cuba,2004,76.91,106.7,3.4,4.3,24.39,25.53,6.83,10.32,1018684,3403.3,Upper-middle income,American region,Caribbean
+204,Cuba,2003,76.77,108.3,3.9,4.1,24.31,25.47,7.1,10.89,1000350,3205.69,Upper-middle income,American region,Caribbean
+205,Cuba,2002,76.61,108.3,3.9,3.9,24.23,25.41,7.11,11.19,982194,3007.19,Upper-middle income,American region,Caribbean
+206,Cuba,2001,76.42,115.3,4.0,3.7,24.14,25.35,6.98,11.39,964830,2844.24,Upper-middle income,American region,Caribbean
+207,Cuba,2000,76.18,116.5,4.2,4.1,24.06,25.28,6.58,10.8,948237,2752.2,Upper-middle income,American region,Caribbean
+208,Ecuador,2015,76.79,103.1,7.9,7.1,26.65,27.93,7.61,10.91,16195902,6002.11,Upper-middle income,American region,South America
+209,Ecuador,2014,76.62,107.7,8.1,7.3,26.52,27.8,6.83,9.7,15957994,6436.76,Upper-middle income,American region,South America
+210,Ecuador,2013,76.37,112.4,8.1,7.8,26.4,27.66,6.88,8.86,15722989,6141.98,Upper-middle income,American region,South America
+211,Ecuador,2012,76.06,119.3,8.5,8.0,26.28,27.52,6.86,8.85,15483883,5666.22,Upper-middle income,American region,South America
+212,Ecuador,2011,75.74,123.6,8.8,8.5,26.15,27.39,6.58,7.97,15237728,5183.62,Upper-middle income,American region,South America
+213,Ecuador,2010,75.43,128.8,9.1,9.0,26.03,27.25,6.22,8.44,14989585,4546.58,Upper-middle income,American region,South America
+214,Ecuador,2009,75.18,133.2,9.5,9.4,25.91,27.12,5.8,7.46,14742766,4076.23,Upper-middle income,American region,South America
+215,Ecuador,2008,74.98,136.8,9.9,10.1,25.79,26.99,5.47,6.15,14496797,4217.44,Upper-middle income,American region,South America
+216,Ecuador,2007,74.84,137.0,10.2,10.6,25.67,26.86,5.43,8.83,14251835,3497.71,Upper-middle income,American region,South America
+217,Ecuador,2006,74.69,139.5,10.7,11.0,25.55,26.74,5.71,8.57,14009061,3261.51,Upper-middle income,American region,South America
+218,Ecuador,2005,74.51,143.7,11.1,11.4,25.44,26.62,5.6,7.87,13770012,2925.11,Upper-middle income,American region,South America
+219,Ecuador,2004,74.28,139.1,11.5,12.2,25.32,26.49,5.57,8.46,13534593,2600.37,Upper-middle income,American region,South America
+220,Ecuador,2003,73.97,139.9,12.0,12.6,25.21,26.37,5.44,8.21,13301184,2328.0,Upper-middle income,American region,South America
+221,Ecuador,2002,73.61,146.6,12.7,13.3,25.1,26.25,4.48,6.55,13070609,2069.85,Upper-middle income,American region,South America
+222,Ecuador,2001,73.24,145.6,13.3,14.2,24.99,26.12,3.76,6.21,12845521,1800.4,Upper-middle income,American region,South America
+223,Ecuador,2000,72.84,150.0,14.1,14.8,24.88,25.99,3.33,4.14,12626507,1389.1,Upper-middle income,American region,South America
+224,Equatorial Guinea,2015,60.1,270.0,32.0,64.0,22.34,25.9,2.34,1.33,1346973,9788.98,Upper-middle income,African region,Central Africa
+225,Equatorial Guinea,2014,59.6,256.9,32.6,61.7,22.28,25.78,1.75,1.49,1295183,16804.92,Upper-middle income,African region,Central Africa
+226,Equatorial Guinea,2013,59.22,266.4,33.3,63.1,22.23,25.66,1.64,1.46,1243941,17644.59,Upper-middle income,African region,Central Africa
+227,Equatorial Guinea,2012,58.86,282.5,33.8,66.8,22.17,25.54,1.51,1.49,1193636,18756.43,Upper-middle income,African region,Central Africa
+228,Equatorial Guinea,2011,58.41,287.5,34.6,68.1,22.12,25.42,1.43,1.47,1144588,18659.42,Upper-middle income,African region,Central Africa
+229,Equatorial Guinea,2010,57.88,280.6,35.4,69.3,22.07,25.3,1.62,1.46,1094524,14905.51,Upper-middle income,African region,Central Africa
+230,Equatorial Guinea,2009,57.43,276.1,36.3,78.1,22.01,25.18,1.77,1.48,1043686,14398.77,Upper-middle income,African region,Central Africa
+231,Equatorial Guinea,2008,57.07,278.7,37.2,79.8,21.95,25.05,1.12,1.5,994971,19849.72,Upper-middle income,African region,Central Africa
+232,Equatorial Guinea,2007,56.54,282.3,38.3,81.3,21.89,24.93,1.3,1.47,948814,13776.9,Upper-middle income,African region,Central Africa
+233,Equatorial Guinea,2006,56.05,290.6,39.4,82.4,21.83,24.81,1.29,1.44,905418,11140.19,Upper-middle income,African region,Central Africa
+234,Equatorial Guinea,2005,55.46,303.1,40.4,93.9,21.77,24.68,1.3,1.46,864726,9502.86,Upper-middle income,African region,Central Africa
+235,Equatorial Guinea,2004,55.04,305.4,41.4,96.8,21.7,24.56,1.45,1.49,826355,5337.61,Upper-middle income,African region,Central Africa
+236,Equatorial Guinea,2003,54.58,306.6,42.5,99.6,21.64,24.43,1.83,1.45,789681,3146.52,Upper-middle income,African region,Central Africa
+237,Equatorial Guinea,2002,54.08,305.0,43.1,102.5,21.57,24.3,2.75,1.41,754115,2395.85,Upper-middle income,African region,Central Africa
+238,Equatorial Guinea,2001,53.64,312.0,43.7,103.2,21.51,24.17,1.2,1.41,719270,2031.42,Upper-middle income,African region,Central Africa
+239,Equatorial Guinea,2000,53.23,322.8,44.4,102.8,21.44,24.04,1.11,1.41,684977,1527.06,Upper-middle income,African region,Central Africa
+240,Fiji,2015,66.84,225.3,10.1,14.7,26.7,28.93,3.32,7.04,917200,5105.19,Upper-middle income,Oceania region,Melanesia
+241,Fiji,2014,67.38,227.2,9.9,14.5,26.59,28.85,3.37,7.1,915560,5305.06,Upper-middle income,Oceania region,Melanesia
+242,Fiji,2013,67.43,229.1,9.9,14.5,26.48,28.77,3.2,7.47,913453,4586.96,Upper-middle income,Oceania region,Melanesia
+243,Fiji,2012,67.55,230.8,9.8,14.5,26.38,28.7,3.27,7.51,911059,4359.79,Upper-middle income,Oceania region,Melanesia
+244,Fiji,2011,67.52,232.0,9.9,14.5,26.27,28.62,3.14,7.47,908355,4160.72,Upper-middle income,Oceania region,Melanesia
+245,Fiji,2010,67.33,234.0,10.0,14.2,26.17,28.54,3.42,8.79,905169,3469.15,Upper-middle income,Oceania region,Melanesia
+246,Fiji,2009,67.09,235.9,10.1,13.9,26.07,28.46,3.54,8.37,901383,3184.69,Upper-middle income,Oceania region,Melanesia
+247,Fiji,2008,66.94,240.5,10.5,13.6,25.97,28.38,3.18,9.78,896731,3928.92,Upper-middle income,Oceania region,Melanesia
+248,Fiji,2007,66.83,237.9,10.8,13.0,25.88,28.3,3.42,10.59,890648,3793.1,Upper-middle income,Oceania region,Melanesia
+249,Fiji,2006,66.86,237.8,11.1,12.8,25.78,28.21,3.35,9.97,883083,3483.6,Upper-middle income,Oceania region,Melanesia
+250,Fiji,2005,66.63,235.0,10.7,12.5,25.68,28.12,3.26,10.36,874923,3406.48,Upper-middle income,Oceania region,Melanesia
+251,Fiji,2004,66.42,229.0,10.5,12.6,25.59,28.03,3.26,9.25,866694,3124.61,Upper-middle income,Oceania region,Melanesia
+252,Fiji,2003,66.18,234.9,9.9,13.8,25.49,27.93,2.97,8.61,858306,2680.27,Upper-middle income,Oceania region,Melanesia
+253,Fiji,2002,65.75,232.6,9.2,14.1,25.4,27.82,2.98,8.04,849891,2157.08,Upper-middle income,Oceania region,Melanesia
+254,Fiji,2001,66.34,240.5,9.0,13.4,25.31,27.72,2.91,7.9,841320,1964.13,Upper-middle income,Oceania region,Melanesia
+255,Fiji,2000,66.31,252.1,9.0,14.0,25.21,27.61,3.42,10.59,832509,2015.86,Upper-middle income,Oceania region,Melanesia
+256,Gabon,2015,65.46,262.1,22.4,28.4,24.09,26.58,2.66,7.03,2028517,7090.45,Upper-middle income,African region,Central Africa
+257,Gabon,2014,64.97,264.9,22.8,29.3,24.04,26.47,2.53,6.38,1966855,9255.37,Upper-middle income,African region,Central Africa
+258,Gabon,2013,64.78,274.3,23.3,30.7,23.98,26.35,2.84,5.26,1902226,9250.08,Upper-middle income,African region,Central Africa
+259,Gabon,2012,64.59,283.6,23.9,33.9,23.92,26.23,2.42,6.19,1836705,9348.51,Upper-middle income,African region,Central Africa
+260,Gabon,2011,64.04,292.4,24.4,34.5,23.87,26.11,2.56,7.18,1772500,10273.8,Upper-middle income,African region,Central Africa
+261,Gabon,2010,63.9,295.7,24.9,34.7,23.81,25.99,2.48,6.81,1711105,8399.6,Upper-middle income,African region,Central Africa
+262,Gabon,2009,63.3,302.6,25.6,35.1,23.75,25.87,3.84,6.82,1653542,7325.91,Upper-middle income,African region,Central Africa
+263,Gabon,2008,63.08,307.8,25.9,36.0,23.68,25.74,2.79,5.61,1599978,9732.23,Upper-middle income,African region,Central Africa
+264,Gabon,2007,62.62,306.5,26.3,40.1,23.61,25.61,3.16,6.36,1549774,8036.92,Upper-middle income,African region,Central Africa
+265,Gabon,2006,62.38,312.0,27.0,40.4,23.54,25.48,3.14,5.76,1502534,6873.45,Upper-middle income,African region,Central Africa
+266,Gabon,2005,61.96,325.4,27.2,39.8,23.46,25.34,2.93,5.08,1458353,6570.96,Upper-middle income,African region,Central Africa
+267,Gabon,2004,61.84,347.0,27.6,59.2,23.38,25.2,3.33,6.51,1417110,5483.14,Upper-middle income,African region,Central Africa
+268,Gabon,2003,61.67,356.0,27.9,64.2,23.3,25.06,3.53,6.75,1378398,4724.25,Upper-middle income,African region,Central Africa
+269,Gabon,2002,61.29,356.9,28.4,69.5,23.22,24.92,3.32,4.66,1341696,3976.65,Upper-middle income,African region,Central Africa
+270,Gabon,2001,61.27,362.5,28.6,79.8,23.13,24.77,3.15,4.54,1306590,3844.56,Upper-middle income,African region,Central Africa
+271,Gabon,2000,61.07,359.8,29.0,54.6,23.05,24.62,2.9,5.24,1272935,3991.16,Upper-middle income,African region,Central Africa
+272,Grenada,2015,75.01,149.0,10.4,6.0,25.18,28.86,4.65,7.66,118980,8379.62,Upper-middle income,American region,Caribbean
+273,Grenada,2014,74.98,149.6,9.9,6.0,25.1,28.73,4.77,7.3,117972,7726.38,Upper-middle income,American region,Caribbean
+274,Grenada,2013,75.12,149.0,9.8,5.5,25.01,28.6,5.63,8.24,116945,7205.25,Upper-middle income,American region,Caribbean
+275,Grenada,2012,75.04,148.7,8.8,6.3,24.93,28.46,5.82,9.11,115912,6900.77,Upper-middle income,American region,Caribbean
+276,Grenada,2011,75.3,147.5,8.2,6.4,24.85,28.33,5.8,8.54,114918,6775.75,Upper-middle income,American region,Caribbean
+277,Grenada,2010,75.0,146.5,8.2,6.0,24.76,28.2,5.42,7.4,114039,6760.97,Upper-middle income,American region,Caribbean
+278,Grenada,2009,75.04,144.9,7.9,5.9,24.68,28.07,5.43,7.87,113249,6810.44,Upper-middle income,American region,Caribbean
+279,Grenada,2008,74.66,144.7,7.4,6.5,24.59,27.94,5.39,7.03,112478,7343.45,Upper-middle income,American region,Caribbean
+280,Grenada,2007,74.32,144.8,7.6,6.0,24.51,27.81,5.24,7.26,111725,6790.63,Upper-middle income,American region,Caribbean
+281,Grenada,2006,73.7,145.6,7.5,6.1,24.42,27.68,5.11,6.31,110988,6295.28,Upper-middle income,American region,Caribbean
+282,Grenada,2005,73.52,145.5,7.7,6.2,24.34,27.55,5.14,9.11,110254,6308.67,Upper-middle income,American region,Caribbean
+283,Grenada,2004,71.79,148.9,7.7,6.8,24.25,27.42,5.37,10.47,109516,5470.6,Upper-middle income,American region,Caribbean
+284,Grenada,2003,73.19,145.7,7.8,6.7,24.16,27.28,5.28,7.42,108740,5435.15,Upper-middle income,American region,Caribbean
+285,Grenada,2002,73.17,146.0,7.8,7.3,24.07,27.15,6.18,7.56,108231,4992.44,Upper-middle income,American region,Caribbean
+286,Grenada,2001,73.12,146.0,8.2,7.3,23.98,27.01,5.62,7.26,107936,4821.78,Upper-middle income,American region,Caribbean
+287,Grenada,2000,72.78,147.3,8.1,8.0,23.89,26.86,5.36,7.24,107432,4840.68,Upper-middle income,American region,Caribbean
+288,Guyana,2015,68.2,249.3,20.2,12.9,25.09,27.82,4.02,10.84,755031,5668.43,Upper-middle income,American region,South America
+289,Guyana,2014,67.88,256.2,20.9,13.3,24.99,27.68,3.95,9.42,751115,5495.38,Upper-middle income,American region,South America
+290,Guyana,2013,67.47,260.5,21.5,13.6,24.9,27.55,3.8,8.82,747420,5576.25,Upper-middle income,American region,South America
+291,Guyana,2012,67.23,260.3,21.8,14.0,24.81,27.41,3.71,8.23,743966,5461.39,Upper-middle income,American region,South America
+292,Guyana,2011,66.98,258.9,22.1,14.5,24.71,27.28,4.17,8.62,744230,4960.0,Upper-middle income,American region,South America
+293,Guyana,2010,66.74,256.7,22.8,15.1,24.62,27.15,4.22,7.61,747932,4589.87,Upper-middle income,American region,South America
+294,Guyana,2009,66.56,255.7,23.2,15.7,24.53,27.02,4.35,7.41,751258,4213.82,Upper-middle income,American region,South America
+295,Guyana,2008,66.29,259.9,23.5,16.1,24.44,26.89,4.2,7.02,754150,4011.39,Upper-middle income,American region,South America
+296,Guyana,2007,66.25,259.9,23.7,16.6,24.35,26.76,4.28,6.61,756521,3609.91,Upper-middle income,American region,South America
+297,Guyana,2006,65.67,264.9,24.2,17.2,24.26,26.63,3.93,5.7,758367,3138.08,Upper-middle income,American region,South America
+298,Guyana,2005,65.13,268.0,24.7,17.9,24.17,26.5,3.79,6.28,759709,1085.78,Upper-middle income,American region,South America
+299,Guyana,2004,64.93,271.2,25.0,18.2,24.08,26.37,3.44,7.35,760424,1036.02,Upper-middle income,American region,South America
+300,Guyana,2003,64.6,273.7,25.6,18.9,23.99,26.24,3.27,7.36,760562,976.99,Upper-middle income,American region,South America
+301,Guyana,2002,64.73,274.5,25.9,19.3,23.9,26.11,3.19,7.51,760323,955.03,Upper-middle income,American region,South America
+302,Guyana,2001,64.79,273.3,26.4,19.7,23.81,25.98,3.06,6.8,759809,937.3,Upper-middle income,American region,South America
+303,Guyana,2000,64.48,272.6,26.9,20.4,23.72,25.85,3.19,7.82,759051,938.89,Upper-middle income,American region,South America
+304,Hungary,2015,75.57,131.7,2.8,2.4,28.27,26.59,6.85,9.22,9843028,12717.04,Upper-middle income,European region,Eastern Europe
+305,Hungary,2014,75.76,132.0,3.0,2.5,28.15,26.52,7.05,9.39,9866468,14294.26,Upper-middle income,European region,Eastern Europe
+306,Hungary,2013,75.57,134.1,3.0,2.4,28.03,26.45,7.23,9.57,9893082,13715.07,Upper-middle income,European region,Eastern Europe
+307,Hungary,2012,75.06,142.4,3.2,2.6,27.91,26.38,7.41,9.78,9920362,12984.84,Upper-middle income,European region,Eastern Europe
+308,Hungary,2011,74.86,150.2,3.2,2.6,27.79,26.31,7.48,10.1,9971727,14234.47,Upper-middle income,European region,Eastern Europe
+309,Hungary,2010,74.21,156.3,3.2,2.6,27.68,26.24,7.45,10.17,10000023,13217.5,Upper-middle income,European region,Eastern Europe
+310,Hungary,2009,73.9,163.5,3.5,2.8,27.56,26.17,7.22,9.71,10022650,13077.31,Upper-middle income,European region,Eastern Europe
+311,Hungary,2008,73.7,166.6,3.6,2.9,27.45,26.1,7.09,9.85,10038188,15772.33,Upper-middle income,European region,Eastern Europe
+312,Hungary,2007,73.15,175.9,3.8,3.1,27.33,26.03,7.2,9.79,10055780,13940.91,Upper-middle income,European region,Eastern Europe
+313,Hungary,2006,73.1,176.4,3.8,3.1,27.22,25.96,7.78,10.66,10071370,11489.56,Upper-middle income,European region,Eastern Europe
+314,Hungary,2005,72.65,181.6,4.2,3.5,27.11,25.9,7.98,11.36,10087065,11223.4,Upper-middle income,European region,Eastern Europe
+315,Hungary,2004,72.65,180.1,4.5,3.6,27.0,25.83,7.76,11.09,10107146,10301.7,Upper-middle income,European region,Eastern Europe
+316,Hungary,2003,72.3,184.0,4.8,3.7,26.89,25.77,8.12,11.57,10129552,8419.43,Upper-middle income,European region,Eastern Europe
+317,Hungary,2002,72.35,184.6,5.1,3.9,26.79,25.72,7.12,9.67,10158608,6655.33,Upper-middle income,European region,Eastern Europe
+318,Hungary,2001,72.25,185.4,5.4,4.1,26.69,25.66,6.83,9.66,10187576,5276.03,Upper-middle income,European region,Eastern Europe
+319,Hungary,2000,71.25,196.0,5.8,4.4,26.59,25.62,6.78,9.86,10210971,4624.28,Upper-middle income,European region,Eastern Europe
+320,Iran (Islamic Republic of),2015,75.12,90.75,9.8,6.3,25.34,27.2,7.53,22.6,81790841,4990.94,Upper-middle income,Asian region,Western Asia (Middle East)
+321,Iran (Islamic Republic of),2014,74.78,91.23,10.1,6.5,25.29,27.14,6.35,22.6,79961672,5757.54,Upper-middle income,Asian region,Western Asia (Middle East)
+322,Iran (Islamic Republic of),2013,74.45,92.36,10.4,6.6,25.23,27.07,5.55,16.05,78458928,6280.68,Upper-middle income,Asian region,Western Asia (Middle East)
+323,Iran (Islamic Republic of),2012,74.19,93.7,11.0,6.7,25.18,27.01,6.12,15.96,77324451,8329.0,Upper-middle income,Asian region,Western Asia (Middle East)
+324,Iran (Islamic Republic of),2011,73.68,95.38,11.5,6.9,25.12,26.94,6.1,12.04,76342971,8201.58,Upper-middle income,Asian region,Western Asia (Middle East)
+325,Iran (Islamic Republic of),2010,73.07,97.66,12.0,7.2,25.06,26.88,6.29,12.52,75373855,6458.57,Upper-middle income,Asian region,Western Asia (Middle East)
+326,Iran (Islamic Republic of),2009,72.7,100.1,12.5,7.6,25.0,26.81,6.11,12.38,74322685,5602.56,Upper-middle income,Asian region,Western Asia (Middle East)
+327,Iran (Islamic Republic of),2008,72.62,102.5,13.1,7.9,24.93,26.74,5.04,9.48,73318394,5623.91,Upper-middle income,Asian region,Western Asia (Middle East)
+328,Iran (Islamic Republic of),2007,72.77,104.7,13.9,8.7,24.87,26.67,4.91,11.53,72319418,4838.0,Upper-middle income,Asian region,Western Asia (Middle East)
+329,Iran (Islamic Republic of),2006,72.28,106.8,14.4,9.4,24.81,26.6,5.16,9.61,71275760,3736.18,Upper-middle income,Asian region,Western Asia (Middle East)
+330,Iran (Islamic Republic of),2005,71.84,108.7,15.2,10.3,24.74,26.53,5.3,9.01,70182594,3226.61,Upper-middle income,Asian region,Western Asia (Middle East)
+331,Iran (Islamic Republic of),2004,71.37,110.6,15.9,11.2,24.68,26.45,5.13,10.16,69061674,2751.79,Upper-middle income,Asian region,Western Asia (Middle East)
+332,Iran (Islamic Republic of),2003,69.82,126.0,16.7,12.3,24.6,26.36,4.96,10.21,67954699,2259.52,Upper-middle income,Asian region,Western Asia (Middle East)
+333,Iran (Islamic Republic of),2002,70.44,112.9,17.2,13.4,24.53,26.27,4.65,9.57,67327117,1910.48,Upper-middle income,Asian region,Western Asia (Middle East)
+334,Iran (Islamic Republic of),2001,69.96,114.3,18.0,14.8,24.45,26.18,5.16,11.87,66674851,1902.95,Upper-middle income,Asian region,Western Asia (Middle East)
+335,Iran (Islamic Republic of),2000,69.69,115.7,19.1,15.9,24.37,26.08,4.72,10.95,65544383,1672.02,Upper-middle income,Asian region,Western Asia (Middle East)
+336,Iraq,2015,69.44,174.4,18.3,13.2,27.83,29.81,3.16,1.68,37757813,4416.94,Upper-middle income,Asian region,Western Asia (Middle East)
+337,Iraq,2014,68.91,186.8,18.6,13.5,27.71,29.69,2.79,2.37,36746488,6215.99,Upper-middle income,Asian region,Western Asia (Middle East)
+338,Iraq,2013,68.25,167.8,19.2,13.9,27.58,29.56,2.81,2.38,35481800,6612.9,Upper-middle income,Asian region,Western Asia (Middle East)
+339,Iraq,2012,68.02,158.6,19.8,14.4,27.46,29.43,2.69,2.35,33864447,6437.5,Upper-middle income,Asian region,Western Asia (Middle East)
+340,Iraq,2011,67.66,160.7,20.3,14.7,27.34,29.31,2.8,4.8,32378061,5736.9,Upper-middle income,Asian region,Western Asia (Middle East)
+341,Iraq,2010,67.06,164.7,20.8,15.0,27.22,29.19,3.24,4.8,31264875,4430.43,Upper-middle income,Asian region,Western Asia (Middle East)
+342,Iraq,2009,66.45,170.8,21.4,15.8,27.11,29.07,3.77,4.91,30289040,3686.4,Upper-middle income,Asian region,Western Asia (Middle East)
+343,Iraq,2008,64.94,182.7,21.6,15.7,27.0,28.95,3.07,4.14,29218381,4504.51,Upper-middle income,Asian region,Western Asia (Middle East)
+344,Iraq,2007,63.55,216.9,22.0,16.1,26.89,28.84,3.21,4.42,28660887,3099.59,Upper-middle income,Asian region,Western Asia (Middle East)
+345,Iraq,2006,63.59,220.8,22.4,16.4,26.79,28.74,2.49,3.05,28905607,2253.79,Upper-middle income,Asian region,Western Asia (Middle East)
+346,Iraq,2005,64.84,203.3,22.8,17.0,26.69,28.63,3.02,3.2,28698684,1744.51,Upper-middle income,Asian region,Western Asia (Middle East)
+347,Iraq,2004,65.03,194.7,23.2,17.9,26.6,28.53,3.9,2.98,27858948,1314.97,Upper-middle income,Asian region,Western Asia (Middle East)
+348,Iraq,2003,65.64,195.8,23.5,17.8,26.51,28.43,3.0,3.13,27068823,809.85,Upper-middle income,Asian region,Western Asia (Middle East)
+349,Iraq,2002,67.08,174.8,23.7,18.8,26.42,28.33,3.16,2.82,26255343,1254.16,Upper-middle income,Asian region,Western Asia (Middle East)
+350,Iraq,2001,67.03,177.6,24.0,19.2,26.33,28.22,3.16,2.82,25425663,1422.83,Upper-middle income,Asian region,Western Asia (Middle East)
+351,Iraq,2000,66.82,182.0,24.4,19.7,26.24,28.12,3.16,2.82,24628858,1963.72,Upper-middle income,Asian region,Western Asia (Middle East)
+352,Jamaica,2015,72.39,146.8,11.4,4.6,25.85,29.7,5.62,12.82,2794445,5077.55,Upper-middle income,American region,Caribbean
+353,Jamaica,2014,72.98,119.5,11.9,5.0,25.73,29.54,5.17,11.25,2784543,4991.56,Upper-middle income,American region,Caribbean
+354,Jamaica,2013,73.41,109.1,12.1,4.9,25.6,29.38,4.95,10.77,2773129,5143.72,Upper-middle income,American region,Caribbean
+355,Jamaica,2012,73.43,110.5,12.5,5.1,25.47,29.22,4.89,9.16,2759817,5365.24,Upper-middle income,American region,Caribbean
+356,Jamaica,2011,73.09,136.1,12.9,5.2,25.35,29.05,5.24,9.53,2746169,5259.93,Upper-middle income,American region,Caribbean
+357,Jamaica,2010,72.62,113.7,13.5,5.3,25.22,28.89,5.3,9.03,2733896,4835.79,Upper-middle income,American region,Caribbean
+358,Jamaica,2009,72.12,149.0,13.6,5.4,25.09,28.73,5.15,7.45,2722401,4452.12,Upper-middle income,American region,Caribbean
+359,Jamaica,2008,71.61,179.8,13.8,5.5,24.97,28.57,5.61,8.36,2711373,5056.26,Upper-middle income,American region,Caribbean
+360,Jamaica,2007,71.42,198.3,14.2,5.6,24.84,28.41,5.32,8.23,2701221,4738.45,Upper-middle income,American region,Caribbean
+361,Jamaica,2006,71.2,114.0,14.5,5.6,24.71,28.25,4.21,6.26,2689660,4435.57,Upper-middle income,American region,Caribbean
+362,Jamaica,2005,71.04,162.1,14.8,5.8,24.59,28.08,4.55,7.43,2676863,4200.39,Upper-middle income,American region,Caribbean
+363,Jamaica,2004,70.86,118.8,15.3,5.4,24.46,27.92,4.8,7.65,2664024,3819.28,Upper-middle income,American region,Caribbean
+364,Jamaica,2003,70.81,126.0,15.7,5.2,24.33,27.75,4.22,6.14,2651027,3557.2,Upper-middle income,American region,Caribbean
+365,Jamaica,2002,70.89,133.9,16.2,5.2,24.21,27.59,4.75,8.67,2638244,3683.89,Upper-middle income,American region,Caribbean
+366,Jamaica,2001,70.76,145.8,16.8,5.3,24.08,27.42,5.16,8.2,2625405,3502.21,Upper-middle income,American region,Caribbean
+367,Jamaica,2000,70.94,144.0,17.1,5.4,23.96,27.25,5.64,11.84,2612205,3447.3,Upper-middle income,American region,Caribbean
+368,Kazakhstan,2015,71.97,177.6,5.5,6.4,26.39,26.63,3.04,8.39,17542806,10510.77,Upper-middle income,Asian region,Central Asia
+369,Kazakhstan,2014,71.44,185.0,6.4,6.9,26.3,26.6,2.97,10.03,17288285,12807.26,Upper-middle income,Asian region,Central Asia
+370,Kazakhstan,2013,70.62,197.8,7.3,7.1,26.21,26.56,2.66,9.32,17035551,13890.63,Upper-middle income,Asian region,Central Asia
+371,Kazakhstan,2012,69.52,212.1,8.6,7.6,26.12,26.53,3.04,9.45,16792090,12386.7,Upper-middle income,Asian region,Central Asia
+372,Kazakhstan,2011,68.69,219.5,9.9,8.0,26.03,26.5,2.6,8.68,16557202,11634.0,Upper-middle income,Asian region,Central Asia
+373,Kazakhstan,2010,68.45,230.5,10.8,9.1,25.95,26.47,2.74,8.21,16321872,9070.49,Upper-middle income,Asian region,Central Asia
+374,Kazakhstan,2009,68.39,228.4,11.4,10.4,25.86,26.44,3.5,11.32,16092822,7165.22,Upper-middle income,Asian region,Central Asia
+375,Kazakhstan,2008,67.11,251.9,12.1,11.7,25.78,26.42,3.05,8.37,15776938,8458.02,Upper-middle income,Asian region,Central Asia
+376,Kazakhstan,2007,66.34,280.4,12.8,12.9,25.7,26.39,2.7,7.56,15484192,6771.42,Upper-middle income,Asian region,Central Asia
+377,Kazakhstan,2006,66.15,287.4,14.2,13.7,25.62,26.37,3.4,11.69,15308085,5291.57,Upper-middle income,Asian region,Central Asia
+378,Kazakhstan,2005,65.86,289.2,15.3,14.6,25.54,26.35,3.9,11.51,15147029,3771.28,Upper-middle income,Asian region,Central Asia
+379,Kazakhstan,2004,66.06,285.5,16.6,15.6,25.47,26.32,3.98,10.91,15012984,2874.29,Upper-middle income,Asian region,Central Asia
+380,Kazakhstan,2003,65.74,284.3,18.0,16.6,25.4,26.3,3.72,9.56,14909019,2068.12,Upper-middle income,Asian region,Central Asia
+381,Kazakhstan,2002,65.95,277.6,18.9,18.5,25.34,26.28,3.61,9.42,14858948,1658.03,Upper-middle income,Asian region,Central Asia
+382,Kazakhstan,2001,65.76,280.9,20.0,20.3,25.27,26.25,3.47,8.41,14858335,1490.93,Upper-middle income,Asian region,Central Asia
+383,Kazakhstan,2000,65.45,280.7,20.9,22.5,25.21,26.22,4.16,9.25,14883626,1229.0,Upper-middle income,Asian region,Central Asia
+384,Lao People's Democratic Republic,2015,72.95,193.5,29.6,38.0,22.67,23.09,4.72,14.2,10405832,6838.94,Upper-middle income,Asian region,Southeast Asia
+385,Lao People's Democratic Republic,2014,72.87,197.3,30.1,39.9,22.54,22.97,4.8,14.48,10282115,6533.67,Upper-middle income,Asian region,Southeast Asia
+386,Lao People's Democratic Republic,2013,72.71,202.5,30.7,41.2,22.42,22.85,4.92,15.7,10157051,6171.3,Upper-middle income,Asian region,Southeast Asia
+387,Lao People's Democratic Republic,2012,72.51,206.7,31.4,42.9,22.29,22.73,5.05,13.74,10030882,6049.47,Upper-middle income,Asian region,Southeast Asia
+388,Lao People's Democratic Republic,2011,72.22,211.6,32.1,45.8,22.17,22.6,5.04,17.09,9903737,5859.38,Upper-middle income,Asian region,Southeast Asia
+389,Lao People's Democratic Republic,2010,72.09,218.6,32.8,47.0,22.05,22.48,4.92,15.93,9775755,5509.57,Upper-middle income,Asian region,Southeast Asia
+390,Lao People's Democratic Republic,2009,71.87,225.4,33.5,48.5,21.93,22.36,4.76,14.34,9648061,5002.15,Upper-middle income,Asian region,Southeast Asia
+391,Lao People's Democratic Republic,2008,71.66,231.6,34.2,50.1,21.81,22.24,4.56,11.6,9522948,5053.33,Upper-middle income,Asian region,Southeast Asia
+392,Lao People's Democratic Republic,2007,71.37,237.4,35.1,61.9,21.69,22.12,4.09,10.35,9402206,4676.08,Upper-middle income,Asian region,Southeast Asia
+393,Lao People's Democratic Republic,2006,71.17,244.4,35.8,59.6,21.58,22.0,3.99,8.67,9284168,4080.05,Upper-middle income,Asian region,Southeast Asia
+394,Lao People's Democratic Republic,2005,70.88,250.0,36.5,64.4,21.46,21.88,4.35,9.2,9164768,3903.82,Upper-middle income,Asian region,Southeast Asia
+395,Lao People's Democratic Republic,2004,70.33,256.4,37.3,70.9,21.35,21.77,4.29,6.72,9043127,2468.44,Upper-middle income,Asian region,Southeast Asia
+396,Lao People's Democratic Republic,2003,70.26,263.2,38.0,71.7,21.25,21.65,4.39,6.1,8919852,2399.5,Upper-middle income,Asian region,Southeast Asia
+397,Lao People's Democratic Republic,2002,69.92,270.3,38.8,68.5,21.14,21.54,4.99,10.6,8795101,3085.52,Upper-middle income,Asian region,Southeast Asia
+398,Lao People's Democratic Republic,2001,69.64,280.1,39.4,69.0,21.04,21.42,4.88,10.83,8669040,2953.25,Upper-middle income,Asian region,Southeast Asia
+399,Lao People's Democratic Republic,2000,69.42,286.5,40.0,72.6,20.94,21.31,4.88,11.77,8540791,2845.85,Upper-middle income,Asian region,Southeast Asia
+400,Lebanon,2015,79.23,79.56,4.7,3.2,28.01,27.58,7.42,12.66,6398940,7802.75,Upper-middle income,Asian region,Western Asia (Middle East)
+401,Lebanon,2014,78.97,82.31,5.0,3.2,27.9,27.51,7.52,12.39,6274342,7665.38,Upper-middle income,Asian region,Western Asia (Middle East)
+402,Lebanon,2013,78.76,82.01,5.2,3.5,27.79,27.45,7.07,10.79,5678851,8255.21,Upper-middle income,Asian region,Western Asia (Middle East)
+403,Lebanon,2012,78.63,81.17,5.5,3.3,27.68,27.38,7.0,10.08,5178337,8500.18,Upper-middle income,Asian region,Western Asia (Middle East)
+404,Lebanon,2011,78.4,81.0,5.8,3.7,27.57,27.31,8.18,12.4,5045056,7914.11,Upper-middle income,Asian region,Western Asia (Middle East)
+405,Lebanon,2010,78.16,81.2,6.0,3.7,27.46,27.25,7.44,10.29,4995800,7695.25,Upper-middle income,Asian region,Western Asia (Middle East)
+406,Lebanon,2009,77.89,81.99,6.3,4.2,27.35,27.19,7.01,8.34,4951135,7149.79,Upper-middle income,Asian region,Western Asia (Middle East)
+407,Lebanon,2008,77.58,84.31,6.6,4.6,27.24,27.12,7.82,8.96,4887613,5957.7,Upper-middle income,Asian region,Western Asia (Middle East)
+408,Lebanon,2007,77.08,83.39,7.0,5.1,27.14,27.06,8.56,9.98,4809608,5162.03,Upper-middle income,Asian region,Western Asia (Middle East)
+409,Lebanon,2006,76.08,93.05,7.7,5.8,27.04,27.01,8.66,9.83,4719864,4665.96,Upper-middle income,Asian region,Western Asia (Middle East)
+410,Lebanon,2005,76.27,85.04,8.4,6.4,26.94,26.95,7.55,9.23,4643044,4630.01,Upper-middle income,Asian region,Western Asia (Middle East)
+411,Lebanon,2004,75.98,84.71,9.0,6.7,26.84,26.89,8.0,8.92,4574797,4625.3,Upper-middle income,Asian region,Western Asia (Middle East)
+412,Lebanon,2003,75.59,86.98,9.7,7.1,26.74,26.83,8.67,8.07,4504807,4458.11,Upper-middle income,Asian region,Western Asia (Middle East)
+413,Lebanon,2002,75.06,88.47,10.4,7.4,26.64,26.77,9.28,8.29,4446666,4307.1,Upper-middle income,Asian region,Western Asia (Middle East)
+414,Lebanon,2001,74.36,92.12,11.0,7.9,26.55,26.7,10.56,8.87,4389200,4021.18,Upper-middle income,Asian region,Western Asia (Middle East)
+415,Lebanon,2000,73.93,97.04,11.9,8.3,26.45,26.63,10.83,7.54,4320642,3994.86,Upper-middle income,Asian region,Western Asia (Middle East)
+416,Libya,2015,71.7,163.5,7.1,6.4,26.98,29.49,2.71,5.7,6192235,7867.51,Upper-middle income,African region,Northern Africa
+417,Libya,2014,71.51,161.5,7.2,6.6,26.9,29.41,2.77,5.44,6097764,9408.75,Upper-middle income,African region,Northern Africa
+418,Libya,2013,72.34,132.9,7.7,6.7,26.83,29.33,2.84,5.23,5985221,12589.53,Upper-middle income,African region,Northern Africa
+419,Libya,2012,72.25,136.2,7.9,7.0,26.75,29.26,2.9,5.07,5869870,15765.42,Upper-middle income,African region,Northern Africa
+420,Libya,2011,70.07,168.1,8.4,8.9,26.68,29.18,4.02,6.42,6188132,7784.14,Upper-middle income,African region,Northern Africa
+421,Libya,2010,72.37,129.4,8.8,7.5,26.61,29.11,3.28,4.33,6491988,11611.36,Upper-middle income,African region,Northern Africa
+422,Libya,2009,72.36,130.0,9.3,8.2,26.54,29.04,3.58,4.09,6360191,9560.81,Upper-middle income,African region,Northern Africa
+423,Libya,2008,72.27,131.5,9.9,8.7,26.47,28.97,2.24,3.7,6228370,13921.9,Upper-middle income,African region,Northern Africa
+424,Libya,2007,71.86,132.7,10.7,9.2,26.4,28.9,2.42,4.81,6097177,11158.11,Upper-middle income,African region,Northern Africa
+425,Libya,2006,71.72,130.8,11.4,9.9,26.34,28.83,2.3,5.28,5973369,10060.36,Upper-middle income,African region,Northern Africa
+426,Libya,2005,71.59,131.5,12.3,10.5,26.28,28.77,2.52,5.78,5837986,8108.05,Upper-middle income,African region,Northern Africa
+427,Libya,2004,71.49,131.7,12.9,11.1,26.23,28.7,3.38,5.42,5687563,5823.64,Upper-middle income,African region,Northern Africa
+428,Libya,2003,71.13,131.6,13.4,11.9,26.17,28.63,3.97,6.31,5542641,4738.83,Upper-middle income,African region,Northern Africa
+429,Libya,2002,71.0,131.0,13.9,12.3,26.1,28.56,4.74,7.76,5405326,3789.21,Upper-middle income,African region,Northern Africa
+430,Libya,2001,70.86,130.3,14.3,12.7,26.04,28.49,3.93,5.78,5275916,6465.62,Upper-middle income,African region,Northern Africa
+431,Libya,2000,70.68,129.9,14.7,13.1,25.98,28.41,3.32,6.04,5154790,7424.35,Upper-middle income,African region,Northern Africa
+432,Malaysia,2015,75.09,140.0,4.0,3.6,25.29,26.18,3.82,8.23,31068833,9699.6,Upper-middle income,Asian region,Southeast Asia
+433,Malaysia,2014,75.15,133.1,3.7,3.5,25.19,26.06,3.71,7.82,30606459,11045.58,Upper-middle income,Asian region,Southeast Asia
+434,Malaysia,2013,75.04,131.5,3.7,3.5,25.08,25.93,3.51,6.82,30134807,10727.67,Upper-middle income,Asian region,Southeast Asia
+435,Malaysia,2012,74.94,130.3,3.7,3.5,24.97,25.81,3.46,6.54,29660212,10601.51,Upper-middle income,Asian region,Southeast Asia
+436,Malaysia,2011,74.75,132.8,3.8,3.6,24.87,25.68,3.31,6.52,29184133,10209.37,Upper-middle income,Asian region,Southeast Asia
+437,Malaysia,2010,74.44,134.1,3.9,3.6,24.76,25.55,3.16,6.31,28717731,8880.15,Upper-middle income,Asian region,Southeast Asia
+438,Malaysia,2009,74.23,134.0,3.9,3.7,24.65,25.43,3.26,5.87,28217204,7167.88,Upper-middle income,Asian region,Southeast Asia
+439,Malaysia,2008,74.25,131.2,4.0,3.7,24.55,25.31,3.01,5.93,27664296,8343.3,Upper-middle income,Asian region,Southeast Asia
+440,Malaysia,2007,74.21,127.9,4.2,3.7,24.44,25.18,3.07,6.28,27092604,7144.0,Upper-middle income,Asian region,Southeast Asia
+441,Malaysia,2006,74.16,129.3,4.2,3.8,24.33,25.06,3.11,6.55,26509413,6137.15,Upper-middle income,Asian region,Southeast Asia
+442,Malaysia,2005,74.1,130.8,4.2,3.8,24.21,24.94,2.79,5.55,25923536,5536.84,Upper-middle income,Asian region,Southeast Asia
+443,Malaysia,2004,73.9,132.4,4.4,4.0,24.1,24.81,2.86,5.63,25333247,4924.34,Upper-middle income,Asian region,Southeast Asia
+444,Malaysia,2003,73.8,134.2,4.6,4.2,23.98,24.69,2.92,5.41,24739411,4454.53,Upper-middle income,Asian region,Southeast Asia
+445,Malaysia,2002,73.56,132.3,4.6,4.3,23.86,24.56,2.67,5.04,24142445,4177.1,Upper-middle income,Asian region,Southeast Asia
+446,Malaysia,2001,73.34,136.3,4.8,4.7,23.74,24.42,2.68,4.79,23542517,3941.12,Upper-middle income,Asian region,Southeast Asia
+447,Malaysia,2000,72.78,142.4,5.2,5.0,23.61,24.29,2.51,4.58,22945150,4087.56,Upper-middle income,Asian region,Southeast Asia
+448,Maldives,2015,79.69,73.52,5.1,3.7,24.68,26.41,8.73,18.45,435582,9480.43,Upper-middle income,Asian region,South Asia
+449,Maldives,2014,79.42,75.77,5.3,4.0,24.52,26.27,7.91,16.86,416738,8872.13,Upper-middle income,Asian region,South Asia
+450,Maldives,2013,79.06,79.01,5.5,4.1,24.37,26.12,8.16,15.93,400728,8222.56,Upper-middle income,Asian region,South Asia
+451,Maldives,2012,78.68,82.32,6.0,4.5,24.21,25.97,8.67,14.14,387539,7447.42,Upper-middle income,Asian region,South Asia
+452,Maldives,2011,78.12,85.4,6.8,5.0,24.05,25.82,7.92,11.76,374440,7409.33,Upper-middle income,Asian region,South Asia
+453,Maldives,2010,77.66,87.11,7.2,5.3,23.89,25.67,8.49,13.54,361575,7158.06,Upper-middle income,Asian region,South Asia
+454,Maldives,2009,77.07,89.41,8.2,5.8,23.73,25.51,10.09,15.74,349037,6719.33,Upper-middle income,Asian region,South Asia
+455,Maldives,2008,76.54,91.5,9.3,6.3,23.58,25.36,11.47,17.99,336883,6743.13,Upper-middle income,Asian region,South Asia
+456,Maldives,2007,75.69,95.32,10.3,6.8,23.43,25.22,8.31,11.25,325126,5746.64,Upper-middle income,Asian region,South Asia
+457,Maldives,2006,75.13,99.2,11.8,7.6,23.28,25.07,8.05,8.45,314401,5010.16,Upper-middle income,Asian region,South Asia
+458,Maldives,2005,74.75,106.9,13.3,9.2,23.13,24.93,8.83,7.65,307018,3789.23,Upper-middle income,Asian region,South Asia
+459,Maldives,2004,73.54,122.7,15.6,12.9,22.99,24.79,7.48,9.6,302135,4060.53,Upper-middle income,Asian region,South Asia
+460,Maldives,2003,74.06,126.7,17.7,12.0,22.85,24.65,6.78,8.14,297226,3539.8,Upper-middle income,Asian region,South Asia
+461,Maldives,2002,73.29,134.9,20.4,16.9,22.72,24.52,8.78,8.62,292284,3069.04,Upper-middle income,Asian region,South Asia
+462,Maldives,2001,72.18,143.7,23.1,16.2,22.6,24.39,8.21,9.03,287324,3028.05,Upper-middle income,Asian region,South Asia
+463,Maldives,2000,70.88,149.2,25.3,19.6,22.48,24.26,7.74,8.83,282507,2209.99,Upper-middle income,Asian region,South Asia
+464,Mauritius,2015,74.35,147.4,8.8,5.5,24.64,26.01,5.55,9.46,1262879,9507.87,Upper-middle income,African region,East Africa
+465,Mauritius,2014,74.19,147.4,9.3,5.5,24.6,25.95,5.38,10.53,1261208,10366.36,Upper-middle income,African region,East Africa
+466,Mauritius,2013,74.02,148.9,9.2,5.8,24.57,25.89,4.62,8.01,1258927,9764.64,Upper-middle income,African region,East Africa
+467,Mauritius,2012,73.86,150.4,9.3,5.9,24.53,25.84,4.22,8.32,1255882,9291.24,Upper-middle income,African region,East Africa
+468,Mauritius,2011,73.27,152.9,9.2,6.2,24.5,25.78,4.25,7.36,1252404,9197.04,Upper-middle income,African region,East Africa
+469,Mauritius,2010,72.97,155.4,9.1,6.4,24.47,25.73,4.52,8.3,1250400,8000.38,Upper-middle income,African region,East Africa
+470,Mauritius,2009,72.88,157.6,9.4,6.5,24.44,25.68,4.17,6.28,1247429,7318.13,Upper-middle income,African region,East Africa
+471,Mauritius,2008,72.57,159.2,9.6,6.8,24.4,25.63,3.94,6.12,1244121,8030.05,Upper-middle income,African region,East Africa
+472,Mauritius,2007,72.57,160.7,9.8,6.6,24.36,25.57,3.52,6.84,1239630,6574.66,Upper-middle income,African region,East Africa
+473,Mauritius,2006,72.43,162.0,10.0,6.2,24.32,25.52,3.61,7.3,1233996,5695.98,Upper-middle income,African region,East Africa
+474,Mauritius,2005,72.43,164.0,10.0,6.0,24.28,25.47,3.52,7.36,1228254,5354.03,Upper-middle income,African region,East Africa
+475,Mauritius,2004,72.27,166.3,9.9,5.9,24.23,25.42,3.32,7.99,1221003,5460.61,Upper-middle income,African region,East Africa
+476,Mauritius,2003,72.12,168.7,9.9,6.1,24.18,25.36,3.18,7.12,1213370,4858.27,Upper-middle income,African region,East Africa
+477,Mauritius,2002,71.97,171.1,10.3,6.1,24.13,25.3,3.19,7.25,1204621,4073.06,Upper-middle income,African region,East Africa
+478,Mauritius,2001,71.77,173.3,11.2,6.2,24.07,25.24,2.92,7.02,1196287,3908.56,Upper-middle income,African region,East Africa
+479,Mauritius,2000,71.66,176.4,12.3,6.6,24.01,25.17,2.86,6.88,1186873,3981.98,Upper-middle income,African region,East Africa
+480,Mexico,2015,74.68,127.9,7.5,7.2,27.57,28.51,5.72,10.86,120149897,10098.17,Upper-middle income,American region,North America
+481,Mexico,2014,74.8,128.7,7.7,7.9,27.5,28.44,5.55,10.35,118755887,11490.02,Upper-middle income,American region,North America
+482,Mexico,2013,74.74,127.5,7.6,8.0,27.43,28.36,5.81,11.24,117290686,11317.49,Upper-middle income,American region,North America
+483,Mexico,2012,74.57,131.4,7.8,8.4,27.36,28.28,5.67,10.66,115755909,10842.73,Upper-middle income,American region,North America
+484,Mexico,2011,74.36,132.8,8.0,8.7,27.3,28.2,5.52,10.51,114150481,10766.61,Upper-middle income,American region,North America
+485,Mexico,2010,74.19,135.3,8.2,9.3,27.23,28.12,5.74,10.41,112532401,9823.16,Upper-middle income,American region,North America
+486,Mexico,2009,74.12,137.0,8.3,9.4,27.16,28.04,6.13,10.29,111049428,8495.65,Upper-middle income,American region,North America
+487,Mexico,2008,74.15,133.7,8.2,10.0,27.09,27.96,5.7,9.43,109684489,10589.95,Upper-middle income,American region,North America
+488,Mexico,2007,74.24,128.6,8.3,10.7,27.02,27.89,5.77,10.71,108302973,10178.44,Upper-middle income,American region,North America
+489,Mexico,2006,74.33,130.2,8.4,11.3,26.95,27.81,5.66,10.73,106886790,9545.29,Upper-middle income,American region,North America
+490,Mexico,2005,74.38,132.4,8.8,11.7,26.88,27.73,5.84,11.14,105442402,8702.11,Upper-middle income,American region,North America
+491,Mexico,2004,74.37,131.2,9.5,12.3,26.8,27.64,5.95,12.07,103945813,7883.52,Upper-middle income,American region,North America
+492,Mexico,2003,74.27,135.3,10.2,12.6,26.72,27.55,5.81,10.69,102429341,7473.93,Upper-middle income,American region,North America
+493,Mexico,2002,74.11,135.9,11.2,12.8,26.64,27.45,5.07,10.43,100917081,8032.99,Upper-middle income,American region,North America
+494,Mexico,2001,73.87,136.2,12.2,13.2,26.56,27.34,4.82,10.26,99394288,8009.16,Upper-middle income,American region,North America
+495,Mexico,2000,73.57,139.8,13.1,13.7,26.47,27.23,4.45,9.9,97873442,7581.85,Upper-middle income,American region,North America
+496,Montenegro,2015,76.45,100.3,2.7,1.5,27.08,26.24,9.02,11.63,622159,6517.19,Upper-middle income,European region,Southern Europe
+497,Montenegro,2014,76.44,102.5,3.0,1.5,26.98,26.18,8.0,10.98,621810,7387.87,Upper-middle income,European region,Southern Europe
+498,Montenegro,2013,76.49,105.2,3.3,1.9,26.88,26.12,8.47,10.69,621207,7188.86,Upper-middle income,European region,Southern Europe
+499,Montenegro,2012,76.2,107.7,3.6,1.9,26.79,26.06,8.3,11.61,620601,6586.4,Upper-middle income,European region,Southern Europe
+500,Montenegro,2011,75.98,110.3,4.0,2.2,26.7,26.0,7.97,10.73,620079,7328.79,Upper-middle income,European region,Southern Europe
+501,Montenegro,2010,75.99,113.5,4.4,2.3,26.61,25.94,7.23,10.81,619428,6688.4,Upper-middle income,European region,Southern Europe
+502,Montenegro,2009,75.14,116.8,4.9,2.7,26.51,25.88,7.23,10.81,618294,6727.11,Upper-middle income,European region,Southern Europe
+503,Montenegro,2008,75.14,120.2,5.4,3.0,26.42,25.82,7.23,10.81,616969,7367.75,Upper-middle income,European region,Southern Europe
+504,Montenegro,2007,74.34,123.6,5.9,3.1,26.32,25.75,7.23,10.81,615875,5976.39,Upper-middle income,European region,Southern Europe
+505,Montenegro,2006,73.84,127.4,6.3,3.2,26.22,25.68,7.23,10.81,615025,4425.68,Upper-middle income,European region,Southern Europe
+506,Montenegro,2005,73.98,130.6,6.9,3.8,26.12,25.61,7.23,10.81,614261,3674.62,Upper-middle income,European region,Southern Europe
+507,Montenegro,2004,74.56,133.2,7.4,4.0,26.01,25.53,7.23,10.81,613353,3380.17,Upper-middle income,European region,Southern Europe
+508,Montenegro,2003,73.93,134.3,7.8,4.3,25.91,25.45,7.23,10.81,612267,2789.16,Upper-middle income,European region,Southern Europe
+509,Montenegro,2002,73.91,135.8,8.1,4.7,25.8,25.38,7.23,10.81,609828,2106.64,Upper-middle income,European region,Southern Europe
+510,Montenegro,2001,74.07,136.7,8.7,4.9,25.7,25.3,7.23,10.81,607389,1909.6,Upper-middle income,European region,Southern Europe
+511,Montenegro,2000,73.82,138.0,9.0,5.5,25.59,25.22,7.23,10.81,604950,1627.07,Upper-middle income,European region,Southern Europe
+512,Namibia,2015,60.7,336.9,18.0,28.1,22.98,25.48,9.98,9.65,2282704,4965.67,Upper-middle income,African region,Southern Africa
+513,Namibia,2014,59.82,333.3,18.2,29.3,22.9,25.41,8.41,9.29,2243001,5544.1,Upper-middle income,African region,Southern Africa
+514,Namibia,2013,58.69,329.6,18.7,30.5,22.83,25.34,9.06,10.91,2204510,5463.03,Upper-middle income,African region,Southern Africa
+515,Namibia,2012,57.64,334.9,18.8,32.4,22.75,25.27,9.27,11.05,2167470,6017.18,Upper-middle income,African region,Southern Africa
+516,Namibia,2011,56.55,351.2,19.0,32.3,22.67,25.19,9.83,10.64,2132340,5873.06,Upper-middle income,African region,Southern Africa
+517,Namibia,2010,56.02,369.0,19.1,33.2,22.59,25.12,9.73,11.91,2099271,5445.42,Upper-middle income,African region,Southern Africa
+518,Namibia,2009,55.5,379.8,19.2,35.6,22.51,25.04,9.05,10.82,2067919,4322.63,Upper-middle income,African region,Southern Africa
+519,Namibia,2008,54.65,397.7,19.3,36.5,22.43,24.96,9.92,14.55,2038552,4222.33,Upper-middle income,African region,Southern Africa
+520,Namibia,2007,53.68,437.6,19.6,40.0,22.34,24.87,10.72,17.98,2011492,4394.52,Upper-middle income,African region,Southern Africa
+521,Namibia,2006,52.66,489.2,20.0,45.0,22.25,24.78,10.57,15.75,1986558,4027.96,Upper-middle income,African region,Southern Africa
+522,Namibia,2005,51.79,532.1,20.4,49.3,22.16,24.69,10.08,16.27,1962865,3692.75,Upper-middle income,African region,Southern Africa
+523,Namibia,2004,51.25,558.3,21.1,52.8,22.08,24.59,10.13,17.39,1939406,3407.85,Upper-middle income,African region,Southern Africa
+524,Namibia,2003,51.08,563.5,21.6,54.2,21.99,24.5,9.91,16.82,1915425,2571.98,Upper-middle income,African region,Southern Africa
+525,Namibia,2002,51.25,552.0,21.9,54.4,21.9,24.4,9.68,17.18,1888525,1773.43,Upper-middle income,African region,Southern Africa
+526,Namibia,2001,51.26,531.9,22.3,53.1,21.82,24.29,9.64,15.98,1856402,1916.26,Upper-middle income,African region,Southern Africa
+527,Namibia,2000,51.99,511.0,22.7,52.2,21.74,24.19,9.24,15.98,1819141,2156.09,Upper-middle income,African region,Southern Africa
+528,Paraguay,2015,73.19,125.2,11.9,10.3,26.59,27.0,6.69,15.43,6177950,5861.4,Upper-middle income,American region,South America
+529,Paraguay,2014,72.88,124.3,12.2,10.8,26.48,26.88,6.63,17.6,6090721,6629.42,Upper-middle income,American region,South America
+530,Paraguay,2013,72.76,126.2,12.6,11.1,26.36,26.75,6.06,15.02,6005652,6410.81,Upper-middle income,American region,South America
+531,Paraguay,2012,72.45,124.8,12.9,11.5,26.25,26.62,6.53,16.23,5923322,5617.1,Upper-middle income,American region,South America
+532,Paraguay,2011,72.13,126.5,13.4,11.9,26.14,26.5,5.82,15.53,5843939,5776.28,Upper-middle income,American region,South America
+533,Paraguay,2010,71.89,129.5,13.7,12.2,26.02,26.37,5.47,14.43,5768613,4725.73,Upper-middle income,American region,South America
+534,Paraguay,2009,71.64,130.6,14.2,12.6,25.91,26.25,5.52,13.95,5702574,3920.19,Upper-middle income,American region,South America
+535,Paraguay,2008,71.38,127.3,14.7,13.0,25.8,26.13,5.04,12.64,5645148,4360.43,Upper-middle income,American region,South America
+536,Paraguay,2007,71.11,127.0,15.2,13.3,25.69,26.01,5.02,12.31,5590145,3194.26,Upper-middle income,American region,South America
+537,Paraguay,2006,70.78,129.9,15.6,13.6,25.58,25.89,5.02,11.57,5534675,2426.42,Upper-middle income,American region,South America
+538,Paraguay,2005,70.53,128.6,15.9,14.1,25.47,25.77,4.83,10.69,5476878,1960.51,Upper-middle income,American region,South America
+539,Paraguay,2004,70.48,133.1,16.5,14.6,25.36,25.65,4.93,10.14,5416324,1776.93,Upper-middle income,American region,South America
+540,Paraguay,2003,70.3,126.5,16.9,15.0,25.26,25.54,4.91,10.07,5353254,1436.76,Upper-middle income,American region,South America
+541,Paraguay,2002,70.03,123.4,17.2,15.3,25.15,25.42,4.76,8.15,5286512,1361.25,Upper-middle income,American region,South America
+542,Paraguay,2001,69.9,122.5,17.6,15.6,25.05,25.3,5.61,10.09,5211541,1630.19,Upper-middle income,American region,South America
+543,Paraguay,2000,69.75,124.8,17.9,16.0,24.95,25.18,6.02,11.69,5123819,1728.34,Upper-middle income,American region,South America
+544,Peru,2015,75.62,81.77,7.9,8.2,26.24,27.18,4.96,13.53,30711863,6180.12,Upper-middle income,American region,South America
+545,Peru,2014,75.33,84.72,8.3,8.5,26.11,27.07,4.96,13.11,30353951,6614.83,Upper-middle income,American region,South America
+546,Peru,2013,74.97,88.03,8.5,8.9,25.98,26.97,4.75,12.33,30038809,6697.19,Upper-middle income,American region,South America
+547,Peru,2012,74.54,92.25,8.9,9.5,25.85,26.87,4.73,12.25,29749589,6475.72,Upper-middle income,American region,South America
+548,Peru,2011,74.13,95.52,9.5,9.9,25.73,26.76,4.54,11.7,29477721,5826.83,Upper-middle income,American region,South America
+549,Peru,2010,73.71,99.6,9.7,10.4,25.6,26.66,4.72,11.68,29229572,5047.2,Upper-middle income,American region,South America
+550,Peru,2009,73.47,100.5,10.1,11.2,25.47,26.57,4.97,11.71,29009326,4164.97,Upper-middle income,American region,South America
+551,Peru,2008,73.38,91.59,10.3,11.8,25.35,26.47,4.53,10.99,28806185,4184.89,Upper-middle income,American region,South America
+552,Peru,2007,73.22,91.05,10.9,12.7,25.23,26.38,4.43,11.59,28600387,3572.36,Upper-middle income,American region,South America
+553,Peru,2006,73.17,95.64,11.6,13.6,25.11,26.29,4.41,11.57,28381078,3123.32,Upper-middle income,American region,South America
+554,Peru,2005,72.99,99.75,11.9,14.7,25.0,26.21,4.67,12.59,28147267,2702.24,Upper-middle income,American region,South America
+555,Peru,2004,72.67,102.7,12.7,15.9,24.89,26.13,4.43,11.78,27893911,2393.67,Upper-middle income,American region,South America
+556,Peru,2003,72.22,107.9,13.3,17.4,24.78,26.06,4.59,11.61,27623341,2126.14,Upper-middle income,American region,South America
+557,Peru,2002,71.66,108.4,14.2,19.0,24.68,25.98,4.94,12.84,27334503,2003.97,Upper-middle income,American region,South America
+558,Peru,2001,71.04,108.8,15.3,20.4,24.58,25.9,4.72,11.83,27014909,1925.98,Upper-middle income,American region,South America
+559,Peru,2000,70.42,116.5,16.3,22.4,24.48,25.83,4.41,10.77,26654439,1941.32,Upper-middle income,American region,South America
+560,Poland,2015,77.45,116.2,2.9,1.9,27.49,26.09,6.4,10.64,37986412,12560.05,Upper-middle income,European region,Eastern Europe
+561,Poland,2014,77.6,116.0,2.9,2.1,27.35,26.03,6.43,10.48,38011735,14181.95,Upper-middle income,European region,Eastern Europe
+562,Poland,2013,77.0,122.0,3.1,2.1,27.21,25.98,6.48,10.49,38040196,13558.34,Upper-middle income,European region,Eastern Europe
+563,Poland,2012,76.75,126.9,3.2,2.2,27.08,25.92,6.27,10.07,38063164,13010.76,Upper-middle income,European region,Eastern Europe
+564,Poland,2011,76.7,128.9,3.4,2.2,26.95,25.87,6.29,10.05,38063255,13776.39,Upper-middle income,European region,Eastern Europe
+565,Poland,2010,76.25,130.9,3.5,2.3,26.82,25.82,6.47,9.98,38042794,12504.25,Upper-middle income,European region,Eastern Europe
+566,Poland,2009,75.7,137.1,3.7,2.5,26.7,25.76,6.59,10.5,38151603,11525.9,Upper-middle income,European region,Eastern Europe
+567,Poland,2008,75.54,141.9,4.0,2.6,26.58,25.71,6.38,10.28,38125759,13995.78,Upper-middle income,European region,Eastern Europe
+568,Poland,2007,75.24,145.0,4.2,2.8,26.47,25.66,5.87,9.54,38120560,11254.31,Upper-middle income,European region,Eastern Europe
+569,Poland,2006,75.14,144.9,4.3,2.9,26.35,25.61,5.8,9.0,38141267,9035.53,Upper-middle income,European region,Eastern Europe
+570,Poland,2005,75.0,144.2,4.7,2.9,26.24,25.55,5.81,9.0,38165445,8021.55,Upper-middle income,European region,Eastern Europe
+571,Poland,2004,74.85,143.9,4.9,3.1,26.13,25.51,5.87,9.11,38182222,6681.31,Upper-middle income,European region,Eastern Europe
+572,Poland,2003,74.6,142.4,5.1,3.1,26.03,25.46,5.95,8.95,38204570,5701.64,Upper-middle income,European region,Eastern Europe
+573,Poland,2002,74.5,144.7,5.3,3.4,25.94,25.42,6.07,9.39,38230364,5207.13,Upper-middle income,European region,Eastern Europe
+574,Poland,2001,74.2,149.0,5.4,3.5,25.85,25.39,5.67,8.89,38248076,4991.24,Upper-middle income,European region,Eastern Europe
+575,Poland,2000,73.75,153.1,5.8,3.7,25.77,25.36,5.29,8.38,38258629,4501.48,Upper-middle income,European region,Eastern Europe
+576,Romania,2015,74.91,135.5,4.3,5.0,27.14,26.9,4.94,10.7,19815616,8976.95,Upper-middle income,European region,Eastern Europe
+577,Romania,2014,74.91,138.3,4.8,5.4,26.96,26.78,5.03,11.19,19908979,10031.34,Upper-middle income,European region,Eastern Europe
+578,Romania,2013,75.06,133.5,4.9,5.8,26.78,26.66,5.22,11.47,19983693,9497.21,Upper-middle income,European region,Eastern Europe
+579,Romania,2012,74.41,141.4,5.2,6.0,26.61,26.54,4.51,9.58,20058035,8930.73,Upper-middle income,European region,Eastern Europe
+580,Romania,2011,74.41,137.1,5.3,6.2,26.44,26.42,4.48,8.81,20147528,9560.16,Upper-middle income,European region,Eastern Europe
+581,Romania,2010,73.46,150.2,5.4,6.2,26.27,26.3,5.64,11.41,20246871,8397.81,Upper-middle income,European region,Eastern Europe
+582,Romania,2009,73.31,155.0,5.6,6.4,26.11,26.19,5.28,10.4,20367487,8548.05,Upper-middle income,European region,Eastern Europe
+583,Romania,2008,72.57,155.2,6.3,7.0,25.95,26.07,5.02,10.79,20537875,10435.22,Upper-middle income,European region,Eastern Europe
+584,Romania,2007,72.57,153.0,6.8,7.5,25.8,25.96,5.02,10.9,20882982,8360.34,Upper-middle income,European region,Eastern Europe
+585,Romania,2006,72.16,156.2,7.7,8.4,25.65,25.85,5.07,11.28,21193760,5757.53,Upper-middle income,European region,Eastern Europe
+586,Romania,2005,71.91,161.0,8.5,9.3,25.5,25.74,5.53,13.16,21319685,4618.0,Upper-middle income,European region,Eastern Europe
+587,Romania,2004,71.56,165.6,9.2,9.9,25.35,25.64,5.48,11.96,21451748,3494.99,Upper-middle income,European region,Eastern Europe
+588,Romania,2003,71.31,173.5,9.5,10.5,25.22,25.54,5.37,13.0,21574326,2679.41,Upper-middle income,European region,Eastern Europe
+589,Romania,2002,71.01,177.1,9.8,10.8,25.09,25.45,4.58,10.55,21730496,2119.86,Upper-middle income,European region,Eastern Europe
+590,Romania,2001,71.16,174.0,10.0,11.1,24.96,25.37,4.38,9.61,22131970,1825.19,Upper-middle income,European region,Eastern Europe
+591,Romania,2000,71.16,171.3,10.5,11.5,24.85,25.28,4.21,8.66,22442971,1659.93,Upper-middle income,European region,Eastern Europe
+592,Russian Federation,2015,71.18,214.2,3.7,4.8,25.94,26.71,5.3,8.82,144640716,9277.71,Upper-middle income,European region,Eastern Europe
+593,Russian Federation,2014,70.74,221.3,4.0,4.9,25.89,26.72,5.18,9.16,144237223,14055.47,Upper-middle income,European region,Eastern Europe
+594,Russian Federation,2013,70.58,221.8,4.1,5.2,25.84,26.74,5.08,9.15,143805638,15941.45,Upper-middle income,European region,Eastern Europe
+595,Russian Federation,2012,70.07,228.8,4.2,5.2,25.79,26.75,4.94,9.24,143378447,15401.85,Upper-middle income,European region,Eastern Europe
+596,Russian Federation,2011,69.68,238.7,4.3,5.4,25.74,26.77,4.79,9.03,143018195,14305.33,Upper-middle income,European region,Eastern Europe
+597,Russian Federation,2010,68.84,252.3,4.4,5.7,25.69,26.78,4.97,8.59,142849468,10674.99,Upper-middle income,European region,Eastern Europe
+598,Russian Federation,2009,68.68,256.7,4.4,5.9,25.64,26.78,5.64,9.08,142785348,8562.82,Upper-middle income,European region,Eastern Europe
+599,Russian Federation,2008,67.95,273.5,4.9,6.2,25.58,26.78,4.9,9.59,142742366,11635.28,Upper-middle income,European region,Eastern Europe
+600,Russian Federation,2007,67.59,277.8,5.4,6.2,25.52,26.78,4.75,9.22,142805114,9101.24,Upper-middle income,European region,Eastern Europe
+601,Russian Federation,2006,66.73,297.3,5.9,6.5,25.45,26.77,4.77,10.13,143049637,6920.2,Upper-middle income,European region,Eastern Europe
+602,Russian Federation,2005,65.53,326.2,6.5,7.1,25.39,26.76,4.77,9.9,143518814,5323.46,Upper-middle income,European region,Eastern Europe
+603,Russian Federation,2004,65.47,324.9,7.1,7.4,25.32,26.74,4.76,9.44,144067316,4102.36,Upper-middle income,European region,Eastern Europe
+604,Russian Federation,2003,65.03,329.9,7.8,8.0,25.25,26.71,5.16,9.2,144648618,2975.12,Upper-middle income,European region,Eastern Europe
+605,Russian Federation,2002,65.13,323.5,8.4,8.6,25.18,26.68,5.52,9.52,145306497,2377.53,Upper-middle income,European region,Eastern Europe
+606,Russian Federation,2001,65.38,316.0,9.0,9.2,25.12,26.65,5.24,9.67,145976482,2100.35,Upper-middle income,European region,Eastern Europe
+607,Russian Federation,2000,65.48,310.9,9.4,9.9,25.06,26.62,5.02,9.72,146596869,1771.59,Upper-middle income,European region,Eastern Europe
+608,Saint Lucia,2015,73.14,129.5,12.9,4.7,29.57,30.4,4.51,8.4,175623,10292.73,Upper-middle income,American region,Caribbean
+609,Saint Lucia,2014,72.86,131.1,13.1,4.6,29.33,30.2,4.62,8.12,174804,10006.55,Upper-middle income,American region,Caribbean
+610,Saint Lucia,2013,72.74,132.1,13.2,4.5,29.1,30.0,5.05,8.16,173978,9542.71,Upper-middle income,American region,Caribbean
+611,Saint Lucia,2012,72.88,132.2,13.7,4.5,28.86,29.81,4.92,7.28,173124,9231.58,Upper-middle income,American region,Caribbean
+612,Saint Lucia,2011,72.94,132.7,13.6,5.0,28.63,29.62,5.08,6.73,172145,9110.75,Upper-middle income,American region,Caribbean
+613,Saint Lucia,2010,72.72,135.2,13.8,5.0,28.4,29.44,5.05,6.98,170935,8672.22,Upper-middle income,American region,Caribbean
+614,Saint Lucia,2009,72.72,134.4,13.7,4.9,28.18,29.26,5.24,7.4,169688,8259.32,Upper-middle income,American region,Caribbean
+615,Saint Lucia,2008,72.7,135.2,13.5,5.2,27.96,29.09,5.09,7.22,168576,8528.68,Upper-middle income,American region,Caribbean
+616,Saint Lucia,2007,72.6,137.1,13.5,5.2,27.75,28.92,5.54,6.9,167518,7975.79,Upper-middle income,American region,Caribbean
+617,Saint Lucia,2006,72.46,138.4,13.2,5.5,27.53,28.75,5.13,6.31,166470,7618.91,Upper-middle income,American region,Caribbean
+618,Saint Lucia,2005,72.24,140.5,13.1,5.9,27.32,28.58,4.86,6.16,165386,6866.09,Upper-middle income,American region,Caribbean
+619,Saint Lucia,2004,72.03,142.4,12.7,6.1,27.1,28.41,4.77,6.86,164239,6494.6,Upper-middle income,American region,Caribbean
+620,Saint Lucia,2003,71.77,145.7,12.2,6.3,26.89,28.24,5.24,7.16,163047,6055.97,Upper-middle income,American region,Caribbean
+621,Saint Lucia,2002,71.47,149.1,12.1,6.5,26.68,28.07,5.39,7.77,161799,5562.46,Upper-middle income,American region,Caribbean
+622,Saint Lucia,2001,71.14,151.9,11.6,7.2,26.48,27.9,5.12,8.09,160594,5558.07,Upper-middle income,American region,Caribbean
+623,Saint Lucia,2000,70.77,155.8,11.3,7.6,26.27,27.72,4.87,8.09,159500,5846.98,Upper-middle income,American region,Caribbean
+624,Saint Vincent and the Grenadines,2015,74.41,183.7,10.5,6.8,26.34,28.3,4.11,9.15,106482,7386.75,Upper-middle income,American region,Caribbean
+625,Saint Vincent and the Grenadines,2014,74.47,183.7,10.8,7.2,26.24,28.19,4.18,8.33,106912,7210.6,Upper-middle income,American region,Caribbean
+626,Saint Vincent and the Grenadines,2013,73.8,182.8,11.2,7.9,26.14,28.07,4.24,9.07,107450,7117.55,Upper-middle income,American region,Caribbean
+627,Saint Vincent and the Grenadines,2012,74.15,174.3,11.6,8.3,26.04,27.95,4.45,10.48,108083,6754.37,Upper-middle income,American region,Caribbean
+628,Saint Vincent and the Grenadines,2011,74.6,168.1,11.8,8.2,25.93,27.82,4.23,8.16,108703,6566.48,Upper-middle income,American region,Caribbean
+629,Saint Vincent and the Grenadines,2010,74.72,161.5,12.4,8.6,25.83,27.7,4.3,8.21,109308,6590.99,Upper-middle income,American region,Caribbean
+630,Saint Vincent and the Grenadines,2009,75.08,158.9,12.7,8.4,25.72,27.59,4.09,8.07,109840,6503.1,Upper-middle income,American region,Caribbean
+631,Saint Vincent and the Grenadines,2008,75.05,158.2,13.1,8.8,25.62,27.47,3.88,8.15,110316,6641.5,Upper-middle income,American region,Caribbean
+632,Saint Vincent and the Grenadines,2007,74.7,161.8,13.0,9.3,25.51,27.35,3.82,7.86,110824,6439.01,Upper-middle income,American region,Caribbean
+633,Saint Vincent and the Grenadines,2006,74.02,165.5,13.5,8.8,25.41,27.23,3.65,8.33,111427,5775.09,Upper-middle income,American region,Caribbean
+634,Saint Vincent and the Grenadines,2005,73.52,170.0,13.3,9.3,25.3,27.1,3.83,9.01,112043,5176.13,Upper-middle income,American region,Caribbean
+635,Saint Vincent and the Grenadines,2004,73.04,171.2,13.7,9.1,25.2,26.98,3.87,9.93,112608,4883.31,Upper-middle income,American region,Caribbean
+636,Saint Vincent and the Grenadines,2003,72.35,173.0,13.4,9.4,25.09,26.86,3.96,10.12,113108,4500.93,Upper-middle income,American region,Caribbean
+637,Saint Vincent and the Grenadines,2002,72.17,176.2,13.7,9.4,24.99,26.73,4.08,10.87,113450,4299.37,Upper-middle income,American region,Caribbean
+638,Saint Vincent and the Grenadines,2001,71.94,177.0,13.4,9.6,24.88,26.6,4.0,11.24,113641,4066.07,Upper-middle income,American region,Caribbean
+639,Saint Vincent and the Grenadines,2000,71.38,177.0,13.5,9.3,24.78,26.47,3.98,11.68,113813,3760.08,Upper-middle income,American region,Caribbean
+640,Serbia,2015,75.29,117.1,4.1,2.3,26.72,25.7,8.81,11.92,7095383,5588.98,Upper-middle income,European region,Southern Europe
+641,Serbia,2014,75.34,116.8,4.2,2.3,26.65,25.66,9.25,12.02,7130576,6600.06,Upper-middle income,European region,Southern Europe
+642,Serbia,2013,75.19,117.6,4.4,2.5,26.58,25.62,9.31,13.17,7164132,6755.07,Upper-middle income,European region,Southern Europe
+643,Serbia,2012,74.84,121.8,4.6,2.7,26.52,25.57,9.33,12.84,7199077,6015.95,Upper-middle income,European region,Southern Europe
+644,Serbia,2011,74.54,124.2,4.6,2.7,26.45,25.53,9.11,13.38,7234099,6809.16,Upper-middle income,European region,Southern Europe
+645,Serbia,2010,74.34,129.2,4.8,2.8,26.39,25.49,9.53,13.56,7291436,5735.42,Upper-middle income,European region,Southern Europe
+646,Serbia,2009,73.99,133.4,4.8,2.9,26.33,25.45,9.35,13.47,7320807,6169.11,Upper-middle income,European region,Southern Europe
+647,Serbia,2008,73.89,136.3,4.9,3.0,26.26,25.41,9.48,13.73,7350222,7101.04,Upper-middle income,European region,Southern Europe
+648,Serbia,2007,73.63,137.2,5.1,3.1,26.2,25.37,9.38,13.56,7381579,5848.48,Upper-middle income,European region,Southern Europe
+649,Serbia,2006,73.39,139.4,5.1,3.3,26.13,25.33,8.49,12.53,7411569,4382.62,Upper-middle income,European region,Southern Europe
+650,Serbia,2005,72.83,143.9,5.5,3.5,26.06,25.28,8.28,13.62,7440769,3720.48,Upper-middle income,European region,Southern Europe
+651,Serbia,2004,72.68,146.1,6.0,3.7,25.99,25.24,7.84,13.71,7463157,3502.8,Upper-middle income,European region,Southern Europe
+652,Serbia,2003,72.44,148.2,6.5,4.3,25.92,25.2,7.67,13.56,7480591,3005.43,Upper-middle income,European region,Southern Europe
+653,Serbia,2002,72.29,148.5,7.1,4.6,25.85,25.17,7.59,13.57,7496522,2283.85,Upper-middle income,European region,Southern Europe
+654,Serbia,2001,72.23,151.8,7.5,4.9,25.78,25.13,6.5,13.57,7503433,1727.28,Upper-middle income,European region,Southern Europe
+655,Serbia,2000,71.58,159.2,7.8,5.1,25.72,25.1,6.18,13.57,7516346,914.79,Upper-middle income,European region,Southern Europe
+656,South Africa,2015,63.95,337.2,11.2,28.8,25.07,29.51,8.05,15.24,55876504,6204.93,Upper-middle income,African region,Southern Africa
+657,South Africa,2014,63.38,347.1,11.5,29.3,25.03,29.43,7.87,14.92,54729551,6965.14,Upper-middle income,African region,Southern Africa
+658,South Africa,2013,62.53,361.4,11.7,31.9,25.0,29.35,8.1,14.34,53873616,7441.23,Upper-middle income,African region,Southern Africa
+659,South Africa,2012,61.85,387.0,12.1,35.0,24.96,29.27,8.0,14.47,53145033,8173.87,Upper-middle income,African region,Southern Africa
+660,South Africa,2011,60.65,420.5,12.6,38.9,24.92,29.18,7.94,14.68,52443325,8737.04,Upper-middle income,African region,Southern Africa
+661,South Africa,2010,58.9,459.0,13.1,46.8,24.88,29.1,7.79,14.14,51784921,8059.56,Upper-middle income,African region,Southern Africa
+662,South Africa,2009,57.45,491.3,13.6,48.1,24.84,29.01,7.65,13.37,51170779,6444.19,Upper-middle income,African region,Southern Africa
+663,South Africa,2008,56.02,513.3,14.3,53.9,24.79,28.92,7.15,13.01,50565812,6251.88,Upper-middle income,African region,Southern Africa
+664,South Africa,2007,54.99,528.2,14.7,59.6,24.73,28.83,6.91,13.51,49996094,6662.06,Upper-middle income,African region,Southern Africa
+665,South Africa,2006,54.28,541.0,15.1,64.9,24.66,28.73,6.88,13.1,49491756,6139.58,Upper-middle income,African region,Southern Africa
+666,South Africa,2005,53.98,541.8,15.6,66.9,24.58,28.63,6.86,10.92,49017147,5893.19,Upper-middle income,African region,Southern Africa
+667,South Africa,2004,54.04,536.7,16.3,67.5,24.51,28.53,6.94,12.03,48556071,5268.28,Upper-middle income,African region,Southern Africa
+668,South Africa,2003,54.33,519.5,16.5,66.8,24.43,28.44,7.04,12.34,48104048,4095.68,Upper-middle income,African region,Southern Africa
+669,South Africa,2002,55.67,487.2,17.0,65.0,24.35,28.34,6.68,10.38,47661514,2708.42,Upper-middle income,African region,Southern Africa
+670,South Africa,2001,57.26,453.7,17.3,62.4,24.28,28.24,7.12,10.62,47229714,2867.47,Upper-middle income,African region,Southern Africa
+671,South Africa,2000,58.47,428.0,17.9,59.6,24.21,28.15,7.34,11.86,46813266,3241.66,Upper-middle income,African region,Southern Africa
+672,Suriname,2015,70.8,170.6,11.0,9.8,25.44,27.84,5.81,10.86,575475,8907.84,Upper-middle income,American region,South America
+673,Suriname,2014,69.78,166.5,11.3,10.2,25.38,27.76,4.52,6.9,569682,9199.18,Upper-middle income,American region,South America
+674,Suriname,2013,69.68,163.9,11.7,10.4,25.32,27.68,4.49,7.03,563947,9124.54,Upper-middle income,American region,South America
+675,Suriname,2012,69.76,163.9,12.0,10.9,25.26,27.6,4.28,6.59,558111,8922.96,Upper-middle income,American region,South America
+676,Suriname,2011,69.91,166.3,12.5,11.2,25.2,27.52,4.41,8.51,552146,8009.25,Upper-middle income,American region,South America
+677,Suriname,2010,69.89,169.9,12.9,11.9,25.14,27.44,4.7,9.47,546080,7999.51,Upper-middle income,American region,South America
+678,Suriname,2009,69.5,170.0,13.3,12.1,25.08,27.36,4.98,9.52,539987,7176.86,Upper-middle income,American region,South America
+679,Suriname,2008,68.82,175.6,13.8,12.5,25.02,27.29,4.75,10.23,533938,6616.82,Upper-middle income,American region,South America
+680,Suriname,2007,68.2,176.3,14.2,13.0,24.95,27.21,5.22,11.44,527946,5562.33,Upper-middle income,American region,South America
+681,Suriname,2006,67.57,178.2,14.7,13.2,24.89,27.13,5.86,12.23,522023,5031.16,Upper-middle income,American region,South America
+682,Suriname,2005,67.0,182.2,15.3,13.9,24.82,27.06,5.24,10.64,516220,3474.12,Upper-middle income,American region,South America
+683,Suriname,2004,66.42,188.4,15.8,14.4,24.75,26.98,5.46,11.68,510572,2906.73,Upper-middle income,American region,South America
+684,Suriname,2003,65.6,192.6,16.3,14.7,24.68,26.89,4.89,11.15,503780,2529.26,Upper-middle income,American region,South America
+685,Suriname,2002,65.53,194.1,16.9,15.3,24.61,26.81,5.33,11.07,495666,2206.27,Upper-middle income,American region,South America
+686,Suriname,2001,65.48,193.8,17.6,15.7,24.54,26.73,3.82,8.52,487394,1711.71,Upper-middle income,American region,South America
+687,Suriname,2000,65.51,192.4,18.3,16.4,24.46,26.64,5.87,11.65,478998,1978.45,Upper-middle income,American region,South America
+688,Thailand,2015,77.72,141.4,5.8,4.8,23.89,25.01,3.85,12.53,70294397,5708.79,Upper-middle income,Asian region,Southeast Asia
+689,Thailand,2014,77.42,142.3,6.1,4.9,23.77,24.91,3.68,12.66,69960943,5822.38,Upper-middle income,Asian region,Southeast Asia
+690,Thailand,2013,77.08,142.7,6.3,5.2,23.66,24.81,3.45,12.16,69578602,6041.13,Upper-middle income,Asian region,Southeast Asia
+691,Thailand,2012,76.77,144.6,6.7,5.5,23.54,24.71,3.52,12.64,69157023,5748.63,Upper-middle income,Asian region,Southeast Asia
+692,Thailand,2011,76.42,146.7,7.0,5.7,23.43,24.6,3.57,12.84,68712846,5396.64,Upper-middle income,Asian region,Southeast Asia
+693,Thailand,2010,76.13,149.1,7.4,5.8,23.32,24.5,3.39,11.56,68270489,4996.37,Upper-middle income,Asian region,Southeast Asia
+694,Thailand,2009,75.84,150.8,7.8,6.2,23.21,24.39,3.62,12.46,67813654,4154.19,Upper-middle income,Asian region,Southeast Asia
+695,Thailand,2008,75.49,157.4,8.1,6.6,23.1,24.29,3.46,13.5,67328239,4327.8,Upper-middle income,Asian region,Southeast Asia
+696,Thailand,2007,75.19,163.8,8.5,6.9,22.99,24.19,3.19,12.38,66826754,3934.69,Upper-middle income,Asian region,Southeast Asia
+697,Thailand,2006,74.94,170.2,9.0,7.5,22.89,24.09,3.1,12.12,66319525,3343.79,Upper-middle income,Asian region,Southeast Asia
+698,Thailand,2005,73.82,177.8,9.5,7.9,22.79,24.0,3.16,10.5,65821360,2876.25,Upper-middle income,Asian region,Southeast Asia
+699,Thailand,2004,73.08,188.8,9.8,8.4,22.69,23.91,3.14,10.71,65311166,2647.26,Upper-middle income,Asian region,Southeast Asia
+700,Thailand,2003,73.16,191.3,10.3,8.7,22.6,23.82,3.24,11.46,64776956,2350.85,Upper-middle income,Asian region,Southeast Asia
+701,Thailand,2002,72.93,195.9,10.8,9.0,22.5,23.73,3.33,8.72,64222580,2091.18,Upper-middle income,Asian region,Southeast Asia
+702,Thailand,2001,72.61,195.3,11.5,9.7,22.42,23.65,3.03,8.38,63649892,1889.97,Upper-middle income,Asian region,Southeast Asia
+703,Thailand,2000,72.32,203.9,12.0,10.3,22.33,23.57,3.1,9.25,63066603,2004.11,Upper-middle income,Asian region,Southeast Asia
+704,The former Yugoslav republic of Macedonia,2015,75.4,96.12,9.1,3.0,27.37,26.34,6.34,12.78,1912430,5262.69,Upper-middle income,European region,Southern Europe
+705,The former Yugoslav republic of Macedonia,2014,75.45,97.57,8.2,3.1,27.27,26.28,6.29,12.67,1917557,5925.39,Upper-middle income,European region,Southern Europe
+706,The former Yugoslav republic of Macedonia,2013,75.4,98.06,7.5,3.3,27.17,26.21,6.72,13.93,1922716,5626.26,Upper-middle income,European region,Southern Europe
+707,The former Yugoslav republic of Macedonia,2012,74.9,101.9,7.0,3.3,27.07,26.15,6.61,12.43,1929821,5049.83,Upper-middle income,European region,Southern Europe
+708,The former Yugoslav republic of Macedonia,2011,75.1,101.7,6.9,3.4,26.98,26.09,6.52,12.74,1937398,5416.87,Upper-middle income,European region,Southern Europe
+709,The former Yugoslav republic of Macedonia,2010,75.0,106.0,6.9,3.5,26.89,26.04,6.71,12.51,1946298,4833.37,Upper-middle income,European region,Southern Europe
+710,The former Yugoslav republic of Macedonia,2009,74.45,108.7,7.2,3.7,26.8,25.98,6.53,12.19,1958782,4799.79,Upper-middle income,European region,Southern Europe
+711,The former Yugoslav republic of Macedonia,2008,74.4,108.3,7.6,3.8,26.71,25.92,6.55,12.54,1971493,5026.42,Upper-middle income,European region,Southern Europe
+712,The former Yugoslav republic of Macedonia,2007,73.8,116.2,8.3,4.1,26.62,25.87,6.57,12.85,1982933,4204.11,Upper-middle income,European region,Southern Europe
+713,The former Yugoslav republic of Macedonia,2006,73.9,117.4,8.7,4.6,26.53,25.81,7.38,13.4,1994287,3440.44,Upper-middle income,European region,Southern Europe
+714,The former Yugoslav republic of Macedonia,2005,73.7,115.5,8.9,5.1,26.45,25.76,7.68,13.47,2005330,3120.98,Upper-middle income,European region,Southern Europe
+715,The former Yugoslav republic of Macedonia,2004,73.6,116.4,8.9,5.3,26.36,25.72,8.47,13.83,2016186,2818.58,Upper-middle income,European region,Southern Europe
+716,The former Yugoslav republic of Macedonia,2003,73.24,123.1,8.5,6.0,26.28,25.67,9.01,13.76,2022725,2445.36,Upper-middle income,European region,Southern Europe
+717,The former Yugoslav republic of Macedonia,2002,73.04,125.9,8.4,6.3,26.2,25.63,8.98,12.39,2020157,1989.14,Upper-middle income,European region,Southern Europe
+718,The former Yugoslav republic of Macedonia,2001,73.44,125.6,8.7,6.7,26.12,25.59,8.38,12.2,2034882,1823.02,Upper-middle income,European region,Southern Europe
+719,The former Yugoslav republic of Macedonia,2000,72.95,121.9,9.2,7.1,26.04,25.55,8.87,14.71,2026350,1861.9,Upper-middle income,European region,Southern Europe
+720,Turkey,2015,76.65,87.5,7.2,6.4,27.19,28.88,4.12,9.69,78218479,11050.0,Upper-middle income,Asian region,Western Asia (Middle East)
+721,Turkey,2014,76.56,88.52,7.5,6.9,27.11,28.81,4.33,10.15,77181884,12165.22,Upper-middle income,Asian region,Western Asia (Middle East)
+722,Turkey,2013,76.3,88.32,7.6,7.8,27.03,28.75,4.37,10.09,76147624,12578.19,Upper-middle income,Asian region,Western Asia (Middle East)
+723,Turkey,2012,75.68,88.43,7.8,8.7,26.95,28.68,4.44,10.3,75175827,11713.28,Upper-middle income,Asian region,Western Asia (Middle East)
+724,Turkey,2011,74.94,88.8,8.5,9.4,26.87,28.61,4.65,11.12,74223629,11300.79,Upper-middle income,Asian region,Western Asia (Middle East)
+725,Turkey,2010,75.07,89.49,9.2,9.9,26.79,28.55,5.02,10.92,73142150,10622.7,Upper-middle income,Asian region,Western Asia (Middle East)
+726,Turkey,2009,74.76,89.9,10.2,10.4,26.71,28.48,5.49,11.67,72039206,9013.0,Upper-middle income,Asian region,Western Asia (Middle East)
+727,Turkey,2008,74.45,87.94,11.0,11.2,26.63,28.41,5.22,11.09,71051678,10843.5,Upper-middle income,Asian region,Western Asia (Middle East)
+728,Turkey,2007,74.19,89.01,11.8,11.9,26.56,28.34,5.24,10.77,70158112,9711.22,Upper-middle income,Asian region,Western Asia (Middle East)
+729,Turkey,2006,73.84,90.88,12.8,12.8,26.48,28.27,5.15,10.41,69601333,8003.81,Upper-middle income,Asian region,Western Asia (Middle East)
+730,Turkey,2005,73.53,93.02,13.7,13.8,26.4,28.21,4.89,10.32,68704715,7369.43,Upper-middle income,Asian region,Western Asia (Middle East)
+731,Turkey,2004,73.24,95.37,14.7,14.9,26.32,28.14,4.91,10.19,67785075,6031.79,Upper-middle income,Asian region,Western Asia (Middle East)
+732,Turkey,2003,72.89,99.27,15.6,16.0,26.23,28.07,5.01,9.29,66867327,4704.77,Upper-middle income,Asian region,Western Asia (Middle East)
+733,Turkey,2002,72.58,102.1,16.7,17.4,26.13,27.99,5.06,8.64,65988663,3640.76,Upper-middle income,Asian region,Western Asia (Middle East)
+734,Turkey,2001,72.23,107.6,18.0,18.8,26.04,27.91,4.89,7.46,65072018,3100.46,Upper-middle income,Asian region,Western Asia (Middle East)
+735,Turkey,2000,71.86,113.9,19.0,20.2,25.94,27.82,4.6,7.19,64113547,4278.26,Upper-middle income,Asian region,Western Asia (Middle East)
+736,Turkmenistan,2015,68.78,195.0,22.0,27.6,26.56,26.67,5.12,8.71,5766431,6208.3,Upper-middle income,Asian region,Central Asia
+737,Turkmenistan,2014,68.61,195.4,22.7,28.4,26.44,26.53,4.31,8.71,5663152,7685.51,Upper-middle income,Asian region,Central Asia
+738,Turkmenistan,2013,68.74,192.7,23.1,29.4,26.32,26.4,3.94,8.71,5560095,7049.8,Upper-middle income,Asian region,Central Asia
+739,Turkmenistan,2012,68.72,188.2,23.5,30.1,26.21,26.26,3.37,8.71,5458682,6441.89,Upper-middle income,Asian region,Central Asia
+740,Turkmenistan,2011,68.57,188.6,23.8,31.1,26.09,26.13,3.25,8.7,5360811,5453.16,Upper-middle income,Asian region,Central Asia
+741,Turkmenistan,2010,68.29,189.3,24.5,32.4,25.97,26.0,3.24,8.71,5267970,4286.88,Upper-middle income,Asian region,Central Asia
+742,Turkmenistan,2009,67.96,197.9,25.0,33.8,25.85,25.87,2.85,8.71,5180957,3901.67,Upper-middle income,Asian region,Central Asia
+743,Turkmenistan,2008,67.41,219.0,25.3,35.7,25.74,25.74,3.49,8.71,5100083,3778.67,Upper-middle income,Asian region,Central Asia
+744,Turkmenistan,2007,66.9,229.0,25.8,37.7,25.63,25.61,3.13,10.32,5024894,2520.29,Upper-middle income,Asian region,Central Asia
+745,Turkmenistan,2006,66.5,235.1,26.6,39.5,25.52,25.49,4.98,10.34,4954029,2074.41,Upper-middle income,Asian region,Central Asia
+746,Turkmenistan,2005,66.07,239.8,27.2,41.4,25.42,25.36,5.65,10.27,4885775,1658.67,Upper-middle income,Asian region,Central Asia
+747,Turkmenistan,2004,66.08,229.7,27.8,43.3,25.32,25.24,6.26,12.82,4819792,1418.81,Upper-middle income,Asian region,Central Asia
+748,Turkmenistan,2003,65.75,220.4,28.4,44.8,25.22,25.12,5.04,14.0,4758988,1256.03,Upper-middle income,Asian region,Central Asia
+749,Turkmenistan,2002,65.39,216.3,28.6,46.8,25.13,25.0,4.16,13.47,4698968,949.58,Upper-middle income,Asian region,Central Asia
+750,Turkmenistan,2001,65.16,210.8,29.3,48.9,25.04,24.89,4.82,13.36,4635094,762.61,Upper-middle income,Asian region,Central Asia
+751,Turkmenistan,2000,65.03,213.5,29.9,51.2,24.96,24.77,4.08,13.34,4569132,635.71,Upper-middle income,Asian region,Central Asia

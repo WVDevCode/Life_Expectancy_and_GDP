@@ -1,6 +1,6 @@
 # Life Expectancy and Economic Indicators Analysis
 ## Project Overview
-This project explores global life expectancy trends in relation to economic factors such as GDP per capita, health expenditure, and employment rates. Using cleaned datasets covering 176 countries from 2000 to 2015, this analysis aims to identify patterns, regional disparities, and potential influences of healthcare investment on life expectancy.
+This project explores global life expectancy trends in relation to economic factors such as GDP per capita, health expenditure, and employment rates. Using cleaned datasets covering 175 countries from 2000 to 2015, this analysis aims to identify patterns, regional disparities, and potential influences of healthcare investment on life expectancy.
 
 ## Project Structure
 The repository is organized into the following directories:

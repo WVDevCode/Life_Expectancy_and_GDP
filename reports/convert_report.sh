@@ -8,8 +8,11 @@ echo "Checking if notebook exists..."
 ls -l "$NOTEBOOK"
 
 
-echo "Converting $NOTEBOOK to pdf..."
-jupyter nbconvert --to pdf "$NOTEBOOK"
+echo "Converting $NOTEBOOK to PDF with hidden tagged inputs..."
+jupyter nbconvert "$NOTEBOOK" \
+    --to pdf \
+    --TagRemovePreprocessor.enabled=True \
+    --TagRemovePreprocessor.remove_input_tags='["hide_input"]'
 
 if [ $? -eq 0 ]; then
     echo "Conversion successful! Opening the PDF..."

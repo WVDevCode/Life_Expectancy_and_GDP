@@ -1,17 +1,17 @@
-,year,mean,max,max_countries,min,min_countries,std,25%,75%,iqr
-0,2000,52.3,70.76,Syrian Arab Republic,44.52,Malawi,6.13,48.13,54.88,6.75
-1,2001,52.92,71.64,Syrian Arab Republic,45.39,Central African Republic,6.11,49.02,55.1,6.08
-2,2002,53.53,71.94,Syrian Arab Republic,45.41,Central African Republic,5.96,50.39,55.6,5.2
-3,2003,54.2,72.41,Syrian Arab Republic,45.76,Central African Republic,5.94,50.87,56.06,5.2
-4,2004,54.99,72.47,Syrian Arab Republic,46.04,Central African Republic,5.82,51.9,56.49,4.6
-5,2005,55.65,72.77,Syrian Arab Republic,46.43,Central African Republic,5.78,52.8,57.58,4.78
-6,2006,56.36,73.35,Syrian Arab Republic,46.85,Central African Republic,5.73,53.65,58.69,5.04
-7,2007,57.0,73.71,Syrian Arab Republic,47.43,Central African Republic,5.67,54.32,59.18,4.85
-8,2008,57.6,73.55,Syrian Arab Republic,48.02,Central African Republic,5.52,55.13,59.91,4.78
-9,2009,58.2,73.85,Syrian Arab Republic,48.65,Central African Republic,5.44,55.76,60.38,4.61
-10,2010,58.72,73.88,Syrian Arab Republic,49.26,Central African Republic,5.28,56.38,60.75,4.37
-11,2011,59.32,73.31,Syrian Arab Republic,49.95,Central African Republic,5.11,57.01,61.45,4.44
-12,2012,59.57,67.47,Nepal,50.54,Chad,4.35,57.37,62.05,4.68
-13,2013,59.94,67.96,Nepal,50.78,Chad,4.16,57.78,62.56,4.77
-14,2014,60.24,68.08,Nepal,50.57,Central African Republic,4.15,58.2,62.96,4.76
-15,2015,60.69,67.46,Nepal,51.59,Chad,3.82,58.46,63.82,5.36
+,year,mean,max,max_countries,min,min_countries,median,std,25%,75%,iqr
+0,2000,52.3,70.76,Syrian Arab Republic,44.52,Malawi,50.7,6.13,48.13,54.88,6.75
+1,2001,52.92,71.64,Syrian Arab Republic,45.39,Central African Republic,51.18,6.11,49.02,55.1,6.08
+2,2002,53.53,71.94,Syrian Arab Republic,45.41,Central African Republic,51.87,5.96,50.39,55.6,5.2
+3,2003,54.2,72.41,Syrian Arab Republic,45.76,Central African Republic,52.86,5.94,50.87,56.06,5.2
+4,2004,54.99,72.47,Syrian Arab Republic,46.04,Central African Republic,53.48,5.82,51.9,56.49,4.6
+5,2005,55.65,72.77,Syrian Arab Republic,46.43,Central African Republic,54.0,5.78,52.8,57.58,4.78
+6,2006,56.36,73.35,Syrian Arab Republic,46.85,Central African Republic,54.86,5.73,53.65,58.69,5.04
+7,2007,57.0,73.71,Syrian Arab Republic,47.43,Central African Republic,55.55,5.67,54.32,59.18,4.85
+8,2008,57.6,73.55,Syrian Arab Republic,48.02,Central African Republic,56.28,5.52,55.13,59.91,4.78
+9,2009,58.2,73.85,Syrian Arab Republic,48.65,Central African Republic,56.75,5.44,55.76,60.38,4.61
+10,2010,58.72,73.88,Syrian Arab Republic,49.26,Central African Republic,57.19,5.28,56.38,60.75,4.37
+11,2011,59.32,73.31,Syrian Arab Republic,49.95,Central African Republic,57.94,5.11,57.01,61.45,4.44
+12,2012,59.57,67.47,Nepal,50.54,Chad,58.75,4.35,57.37,62.05,4.68
+13,2013,59.94,67.96,Nepal,50.78,Chad,59.74,4.16,57.78,62.56,4.77
+14,2014,60.24,68.08,Nepal,50.57,Central African Republic,60.14,4.15,58.2,62.96,4.76
+15,2015,60.69,67.46,Nepal,51.59,Chad,60.65,3.82,58.46,63.82,5.36

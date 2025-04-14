@@ -1,0 +1,12 @@
+{% extends 'webpdf' %}
+
+{% block header %}
+  <div class="title">
+    <h1>{{ resources.metadata.title }}</h1>
+    <p>{{ resources.metadata.authors }}</p>
+  </div>
+{% endblock %}
+
+{% block body %}
+  {{ super() }}
+{% endblock %}

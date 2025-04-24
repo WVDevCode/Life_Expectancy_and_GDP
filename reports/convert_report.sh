@@ -19,7 +19,7 @@ jupyter nbconvert "$NOTEBOOK" \
 
 if [ $? -eq 0 ]; then
     echo "Conversion successful! Opening the PDF..."
-    start "$OUTPUT_PDF"
+#    start "$OUTPUT_PDF"
 else
     echo "Error: Conversion failed."
 

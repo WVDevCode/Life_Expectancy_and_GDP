@@ -15,7 +15,8 @@ jupyter nbconvert "$NOTEBOOK" \
     --TagRemovePreprocessor.remove_input_tags='["hide_input"]' \
     --TagRemovePreprocessor.remove_output_tags='["hide_output"]' \
     --TagRemovePreprocessor.remove_cell_tags='["hide_cell"]' \
-    --no-prompt     
+    --no-prompt \
+    --SphinxTransformer.disable_mathjax=True   
 
 if [ $? -eq 0 ]; then
     echo "Conversion successful! Opening the PDF..."
